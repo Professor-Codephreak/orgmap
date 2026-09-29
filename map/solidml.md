@@ -4,7 +4,7 @@
 
 > solidity and machine learning reference zone
 
-**131** repos · 131 public · 0 private 🔒 · 127 forks · 0 archived
+**131** repos · 131 public · 0 private 🔒 · 127 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -140,4 +140,4 @@
 | [zodiac-module-reality](https://github.com/solidml/zodiac-module-reality) 🍴 | A Zodiac module that uses Reality.eth as an oracle for triggering execution on a Safe. |  | 0 | [code](https://github.com/solidml/zodiac-module-reality/tree/main) · [issues](https://github.com/solidml/zodiac-module-reality/issues) |
 | [ZoKrates](https://github.com/solidml/ZoKrates) 🍴 | A toolbox for zkSNARKs on Ethereum |  | 0 | [code](https://github.com/solidml/ZoKrates/tree/develop) · [issues](https://github.com/solidml/ZoKrates/issues) · [site](https://zokrates.github.io) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

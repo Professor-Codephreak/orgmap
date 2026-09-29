@@ -4,7 +4,7 @@
 
 > Professor Codephreak extensions for local language models
 
-**112** repos · 111 public · 1 private 🔒 · 109 forks · 0 archived
+**112** repos · 111 public · 1 private 🔒 · 109 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -121,4 +121,4 @@
 | [whisper-gpt3-email-generator](https://github.com/xtends/whisper-gpt3-email-generator) 🍴 | Generate kind and formal email from voice input |  | 0 | [code](https://github.com/xtends/whisper-gpt3-email-generator/tree/main) · [issues](https://github.com/xtends/whisper-gpt3-email-generator/issues) |
 | [whisper-gpt3-streamlit](https://github.com/xtends/whisper-gpt3-streamlit) 🍴 | Whisper in combination with GPT-3 |  | 0 | [code](https://github.com/xtends/whisper-gpt3-streamlit/tree/main) · [issues](https://github.com/xtends/whisper-gpt3-streamlit/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

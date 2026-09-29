@@ -6,7 +6,7 @@
 
 Website: <https://unstoppabledomains.com/d/deltaverse.dao>
 
-**127** repos · 126 public · 1 private 🔒 · 119 forks · 0 archived
+**127** repos · 126 public · 1 private 🔒 · 119 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -138,4 +138,4 @@ Website: <https://unstoppabledomains.com/d/deltaverse.dao>
 | [zilliqa-staking-contract](https://github.com/deltav-deltaverse/zilliqa-staking-contract) 🍴 | This repository is the central portal that collates together the contracts, documentations around them, unit tests, and scripts to deploy and run the contracts on the network. |  | 0 | [code](https://github.com/deltav-deltaverse/zilliqa-staking-contract/tree/main) · [issues](https://github.com/deltav-deltaverse/zilliqa-staking-contract/issues) |
 | [ZRC](https://github.com/deltav-deltaverse/ZRC) 🍴 | Zilliqa Reference Contracts |  | 0 | [code](https://github.com/deltav-deltaverse/ZRC/tree/main) · [issues](https://github.com/deltav-deltaverse/ZRC/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

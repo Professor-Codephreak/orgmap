@@ -6,7 +6,7 @@
 
 Website: <https://ipfs.io/ipfs/QmTPjokgXv7MQXh6qXzgagDrw2Buqsr52YhttKrn3smrHr/>
 
-**58** repos · 58 public · 0 private 🔒 · 55 forks · 0 archived
+**58** repos · 58 public · 0 private 🔒 · 55 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -69,4 +69,4 @@ Website: <https://ipfs.io/ipfs/QmTPjokgXv7MQXh6qXzgagDrw2Buqsr52YhttKrn3smrHr/>
 | [zns-escrow](https://github.com/deltastorage/zns-escrow) 🍴 | Contracts and tools to help trade ZNS domains. |  | 0 | [code](https://github.com/deltastorage/zns-escrow/tree/master) · [issues](https://github.com/deltastorage/zns-escrow/issues) · [site](https://unstoppabledomains.com) |
 | [ZRC](https://github.com/deltastorage/ZRC) 🍴 | Zilliqa Reference Contracts |  | 0 | [code](https://github.com/deltastorage/ZRC/tree/main) · [issues](https://github.com/deltastorage/ZRC/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -6,7 +6,7 @@
 
 Website: <https://deltavthrust.com>
 
-**38** repos · 38 public · 0 private 🔒 · 36 forks · 0 archived
+**38** repos · 38 public · 0 private 🔒 · 36 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -49,4 +49,4 @@ Website: <https://deltavthrust.com>
 | [tx-manager](https://github.com/thrustdrop/tx-manager) 🍴 | Solidity contract to make multiple calls in one Ethereum transaction. Used by Maker keepers. |  | 0 | [code](https://github.com/thrustdrop/tx-manager/tree/master) · [issues](https://github.com/thrustdrop/tx-manager/issues) |
 | [zora-drops-contracts](https://github.com/thrustdrop/zora-drops-contracts) 🍴 | Zora drops contracts (powers create.zora.co) |  | 0 | [code](https://github.com/thrustdrop/zora-drops-contracts/tree/main) · [issues](https://github.com/thrustdrop/zora-drops-contracts/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

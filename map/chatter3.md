@@ -4,7 +4,7 @@
 
 > I am who I am because of who I am
 
-**43** repos · 43 public · 0 private 🔒 · 41 forks · 0 archived
+**43** repos · 43 public · 0 private 🔒 · 41 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -52,4 +52,4 @@
 | [xmtp-web](https://github.com/chatter3/xmtp-web) 🍴 | XMTP web SDKs and examples, including a React SDK and quickstart example app |  | 0 | [code](https://github.com/chatter3/xmtp-web/tree/main) · [issues](https://github.com/chatter3/xmtp-web/issues) · [site](https://xmtp.github.io/xmtp-web/) |
 | [xmtpd](https://github.com/chatter3/xmtpd) 🍴 | XMTP node implementation. |  | 0 | [code](https://github.com/chatter3/xmtpd/tree/main) · [issues](https://github.com/chatter3/xmtpd/issues) · [site](https://docs.xmtp.org) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

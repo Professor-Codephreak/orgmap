@@ -4,7 +4,7 @@
 
 > Open Blockchain Development Kit
 
-**8** repos · 7 public · 1 private 🔒 · 3 forks · 0 archived
+**8** repos · 7 public · 1 private 🔒 · 3 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -17,4 +17,4 @@
 | [OpenBDK](https://github.com/openbdk/OpenBDK) 🍴 | layer3 Blockchain Deployment Kit v5 devnet rc1 |  | 0 | [code](https://github.com/openbdk/OpenBDK/tree/main) · [issues](https://github.com/openbdk/OpenBDK/issues) · [site](https://deltav.exchange) |
 | [zilliqa-developer](https://github.com/openbdk/zilliqa-developer) 🍴 | zilliqa developer tools including SDK ceres, devex, neosavant and oil |  | 0 | [code](https://github.com/openbdk/zilliqa-developer/tree/main) · [issues](https://github.com/openbdk/zilliqa-developer/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -6,7 +6,7 @@
 
 Website: <http://deltavthrust.com>
 
-**93** repos · 92 public · 1 private 🔒 · 90 forks · 0 archived
+**93** repos · 92 public · 1 private 🔒 · 90 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -104,4 +104,4 @@ Website: <http://deltavthrust.com>
 | [webglearth2](https://github.com/DeltaLabratory/webglearth2) 🍴 | deltaverse web3D - the source code of the project |  | 0 | [code](https://github.com/DeltaLabratory/webglearth2/tree/master) · [issues](https://github.com/DeltaLabratory/webglearth2/issues) · [site](https://ipfs://deltaverse.dao) |
 | [zilliqa-multisig-wallet](https://github.com/DeltaLabratory/zilliqa-multisig-wallet) 🍴 | zilliqa multisig wallet |  | 0 | [code](https://github.com/DeltaLabratory/zilliqa-multisig-wallet/tree/master) · [issues](https://github.com/DeltaLabratory/zilliqa-multisig-wallet/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

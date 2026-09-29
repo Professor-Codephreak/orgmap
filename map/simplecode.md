@@ -2,7 +2,7 @@
 
 [← all organizations](../README.md) · [profile](https://github.com/simplecode) · [repositories](https://github.com/simplecode?tab=repositories)
 
-**5** repos · 5 public · 0 private 🔒 · 2 forks · 0 archived
+**5** repos · 5 public · 0 private 🔒 · 2 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -12,4 +12,4 @@
 | [git-basics](https://github.com/simplecode/git-basics) 🍴 | Repository for Git course. |  | 0 | [code](https://github.com/simplecode/git-basics/tree/main) · [issues](https://github.com/simplecode/git-basics/issues) |
 | [git-fork-case](https://github.com/simplecode/git-fork-case) 🍴 | Repository for git fork case. |  | 0 | [code](https://github.com/simplecode/git-fork-case/tree/main) · [issues](https://github.com/simplecode/git-fork-case/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

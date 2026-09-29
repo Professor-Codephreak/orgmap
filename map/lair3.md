@@ -6,7 +6,7 @@
 
 Website: <https://deltav.exchange>
 
-**107** repos · 106 public · 1 private 🔒 · 99 forks · 0 archived
+**107** repos · 106 public · 1 private 🔒 · 99 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -118,4 +118,4 @@ Website: <https://deltav.exchange>
 | [zkevm-bridge-service](https://github.com/LAIR3/zkevm-bridge-service) 🍴 |  |  | 0 | [code](https://github.com/LAIR3/zkevm-bridge-service/tree/develop) · [issues](https://github.com/LAIR3/zkevm-bridge-service/issues) · [site](https://deltav.exchange) |
 | [zkevm-contracts](https://github.com/LAIR3/zkevm-contracts) 🍴 | Polygon zkEVM Smart Contracts |  | 0 | [code](https://github.com/LAIR3/zkevm-contracts/tree/main) · [issues](https://github.com/LAIR3/zkevm-contracts/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

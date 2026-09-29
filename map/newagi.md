@@ -6,11 +6,11 @@
 
 Website: <https://rage.pythai.net>
 
-**2** repos · 2 public · 0 private 🔒 · 0 forks · 0 archived
+**2** repos · 2 public · 0 private 🔒 · 0 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/newagi/.github) | newagi organization profile |  | 0 | [code](https://github.com/newagi/.github/tree/main) · [issues](https://github.com/newagi/.github/issues) |
 | [README.md](https://github.com/newagi/README.md) | neural enhance wisdom augmented generative intelligence |  | 0 | [code](https://github.com/newagi/README.md/tree/main) · [issues](https://github.com/newagi/README.md/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

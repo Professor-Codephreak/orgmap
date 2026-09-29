@@ -6,7 +6,7 @@
 
 Website: <https://pythai.net>
 
-**56** repos · 23 public · 33 private 🔒 · 10 forks · 0 archived
+**56** repos · 23 public · 33 private 🔒 · 10 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -67,4 +67,4 @@ Website: <https://pythai.net>
 | [web3-ethereum-defi](https://github.com/cryptoAGI/web3-ethereum-defi) 🍴 | A Python library for trading automation on DeFi, data research and integration. Supporting Uniswap, Aave, Chainlink, USDC and other protocols. |  | 0 | [code](https://github.com/cryptoAGI/web3-ethereum-defi/tree/master) · [issues](https://github.com/cryptoAGI/web3-ethereum-defi/issues) · [site](https://tradingstrategy.ai) |
 | [xterm-benchmark](https://github.com/cryptoAGI/xterm-benchmark) 🍴 | A benchmark tool for measuring performance of xterm.js |  | 0 | [code](https://github.com/cryptoAGI/xterm-benchmark/tree/master) · [issues](https://github.com/cryptoAGI/xterm-benchmark/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

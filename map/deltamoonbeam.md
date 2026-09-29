@@ -6,7 +6,7 @@
 
 Website: <https://deltav.exchange>
 
-**8** repos · 8 public · 0 private 🔒 · 7 forks · 0 archived
+**8** repos · 8 public · 0 private 🔒 · 7 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -19,4 +19,4 @@ Website: <https://deltav.exchange>
 | [v2-core](https://github.com/deltamoonbeam/v2-core) 🍴 | 🎛 Core smart contracts of Uniswap V2 |  | 0 | [code](https://github.com/deltamoonbeam/v2-core/tree/master) · [issues](https://github.com/deltamoonbeam/v2-core/issues) · [site](https://uniswap.org/docs) |
 | [yield-server](https://github.com/deltamoonbeam/yield-server) 🍴 | defi llama yield server |  | 0 | [code](https://github.com/deltamoonbeam/yield-server/tree/master) · [issues](https://github.com/deltamoonbeam/yield-server/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

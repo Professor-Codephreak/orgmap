@@ -6,7 +6,7 @@
 
 Website: <https://pythai.net>
 
-**36** repos · 36 public · 0 private 🔒 · 34 forks · 0 archived
+**36** repos · 36 public · 0 private 🔒 · 34 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -47,4 +47,4 @@ Website: <https://pythai.net>
 | [xterm.js](https://github.com/aiterm/xterm.js) 🍴 | A terminal for the web |  | 0 | [code](https://github.com/aiterm/xterm.js/tree/master) · [issues](https://github.com/aiterm/xterm.js/issues) · [site](https://xtermjs.org/) |
 | [zchat](https://github.com/aiterm/zchat) 🍴 | Elevate your Terminal's efficiency: harness the unbeatable auto-complete power through seamless ChatGPT integration! |  | 0 | [code](https://github.com/aiterm/zchat/tree/main) · [issues](https://github.com/aiterm/zchat/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

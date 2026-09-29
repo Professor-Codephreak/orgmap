@@ -6,7 +6,7 @@
 
 Website: <https://pythai.net>
 
-**44** repos · 44 public · 0 private 🔒 · 41 forks · 0 archived
+**44** repos · 44 public · 0 private 🔒 · 41 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -55,4 +55,4 @@ Website: <https://pythai.net>
 | [starcoder.cpp](https://github.com/pythaiml/starcoder.cpp) 🍴 | C++ implementation for 💫StarCoder |  | 0 | [code](https://github.com/pythaiml/starcoder.cpp/tree/main) · [issues](https://github.com/pythaiml/starcoder.cpp/issues) |
 | [WizardLM](https://github.com/pythaiml/WizardLM) 🍴 | WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions |  | 0 | [code](https://github.com/pythaiml/WizardLM/tree/main) · [issues](https://github.com/pythaiml/WizardLM/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

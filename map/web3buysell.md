@@ -6,7 +6,7 @@
 
 Website: <https://github.com/DAONOW>
 
-**31** repos · 31 public · 0 private 🔒 · 30 forks · 0 archived
+**31** repos · 31 public · 0 private 🔒 · 30 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -42,4 +42,4 @@ Website: <https://github.com/DAONOW>
 | [webrelay](https://github.com/web3buysell/webrelay) 🍴 | Relay node to bridge the browser and desktop networks |  | 0 | [code](https://github.com/web3buysell/webrelay/tree/master) · [issues](https://github.com/web3buysell/webrelay/issues) |
 | [zcashd-wallet](https://github.com/web3buysell/zcashd-wallet) 🍴 | OpenBazaar plugin for a zcashd based wallet |  | 0 | [code](https://github.com/web3buysell/zcashd-wallet/tree/master) · [issues](https://github.com/web3buysell/zcashd-wallet/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -4,7 +4,7 @@
 
 Website: <https://pythai.net/>
 
-**107** repos · 105 public · 2 private 🔒 · 103 forks · 0 archived
+**107** repos · 105 public · 2 private 🔒 · 103 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -116,4 +116,4 @@ Website: <https://pythai.net/>
 | [wormhole-demo](https://github.com/ailgo/wormhole-demo) 🍴 | Wormhole is a multisig bridge with 19 "guardian" validators that watch blocks on the chains they're connected to. |  | 0 | [code](https://github.com/ailgo/wormhole-demo/tree/main) · [issues](https://github.com/ailgo/wormhole-demo/issues) |
 | [x402-demo](https://github.com/ailgo/x402-demo) 🍴 | x402 on Algorand |  | 0 | [code](https://github.com/ailgo/x402-demo/tree/main) · [issues](https://github.com/ailgo/x402-demo/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

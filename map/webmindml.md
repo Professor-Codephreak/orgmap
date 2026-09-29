@@ -4,7 +4,7 @@
 
 > distributed l client side local language model development zone
 
-**49** repos · 49 public · 0 private 🔒 · 43 forks · 0 archived
+**49** repos · 49 public · 0 private 🔒 · 43 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -58,4 +58,4 @@
 | [webgpu-samples](https://github.com/webmindml/webgpu-samples) 🍴 | WebGPU Samples |  | 0 | [code](https://github.com/webmindml/webgpu-samples/tree/main) · [issues](https://github.com/webmindml/webgpu-samples/issues) · [site](https://webgpu.github.io/webgpu-samples/) |
 | [WebGPU_DDDbarchart](https://github.com/webmindml/WebGPU_DDDbarchart) 🍴 | WebGPU to three.js for 3D bar chart representation |  | 0 | [code](https://github.com/webmindml/WebGPU_DDDbarchart/tree/main) · [issues](https://github.com/webmindml/WebGPU_DDDbarchart/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -4,7 +4,7 @@
 
 > Autonomous General Learning Machine
 
-**49** repos · 48 public · 1 private 🔒 · 44 forks · 0 archived
+**49** repos · 48 public · 1 private 🔒 · 44 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -58,4 +58,4 @@
 | [RAGLM](https://github.com/autoGLM/RAGLM) 🍴 | Microsoft Node Engine as a Python service to execute computational flow designed for rapid prototyping of machine learning services and applications |  | 0 | [code](https://github.com/autoGLM/RAGLM/tree/main) · [issues](https://github.com/autoGLM/RAGLM/issues) |
 | [unsloth](https://github.com/autoGLM/unsloth) 🍴 | 2-5X faster 80% less memory LLM finetuning |  | 0 | [code](https://github.com/autoGLM/unsloth/tree/main) · [issues](https://github.com/autoGLM/unsloth/issues) · [site](https://unsloth.ai) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -6,7 +6,7 @@
 
 Website: <https://deltaverse.pythai.net>
 
-**271** repos · 271 public · 0 private 🔒 · 267 forks · 0 archived
+**271** repos · 271 public · 0 private 🔒 · 267 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -282,4 +282,4 @@ Website: <https://deltaverse.pythai.net>
 | [zenml](https://github.com/DeltaVML/zenml) 🍴 | ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io. |  | 0 | [code](https://github.com/DeltaVML/zenml/tree/main) · [issues](https://github.com/DeltaVML/zenml/issues) |
 | [zenml-projects](https://github.com/DeltaVML/zenml-projects) 🍴 | A repository for all ZenML projects that are specific production use-cases. |  | 0 | [code](https://github.com/DeltaVML/zenml-projects/tree/main) · [issues](https://github.com/DeltaVML/zenml-projects/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

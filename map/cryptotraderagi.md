@@ -4,7 +4,7 @@
 
 > research into trading platforms and machine learning
 
-**23** repos · 23 public · 0 private 🔒 · 22 forks · 0 archived
+**23** repos · 23 public · 0 private 🔒 · 22 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -32,4 +32,4 @@
 | [TradingView-Screener](https://github.com/cryptotraderagi/TradingView-Screener) 🍴 | A package that lets you create TradingView screeners in Python |  | 0 | [code](https://github.com/cryptotraderagi/TradingView-Screener/tree/master) · [issues](https://github.com/cryptotraderagi/TradingView-Screener/issues) · [site](https://shner-elmo.github.io/TradingView-Screener/2.5.0/tradingview_screener.html) |
 | [VectorBT-Streamlit](https://github.com/cryptotraderagi/VectorBT-Streamlit) 🍴 | Simple VectorBT Streamlit Backtesting App |  | 0 | [code](https://github.com/cryptotraderagi/VectorBT-Streamlit/tree/main) · [issues](https://github.com/cryptotraderagi/VectorBT-Streamlit/issues) · [site](https://www.marketcalls.in) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

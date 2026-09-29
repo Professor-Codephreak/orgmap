@@ -4,7 +4,7 @@
 
 > client to data storage facilitation
 
-**92** repos · 92 public · 0 private 🔒 · 90 forks · 0 archived
+**92** repos · 92 public · 0 private 🔒 · 90 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -101,4 +101,4 @@
 | [Zenroom](https://github.com/bankonvault/Zenroom) 🍴 | Embedded no-code VM executing human-like language to manipulate data and process cryptographic operations. |  | 0 | [code](https://github.com/bankonvault/Zenroom/tree/master) · [issues](https://github.com/bankonvault/Zenroom/issues) · [site](https://dev.zenroom.org) |
 | [ZoKrates](https://github.com/bankonvault/ZoKrates) 🍴 | A toolbox for zkSNARKs on Ethereum |  | 0 | [code](https://github.com/bankonvault/ZoKrates/tree/develop) · [issues](https://github.com/bankonvault/ZoKrates/issues) · [site](https://zokrates.github.io) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

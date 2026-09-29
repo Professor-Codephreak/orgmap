@@ -6,7 +6,7 @@
 
 Website: <https://agenticplace.pythai.net>
 
-**16** repos · 14 public · 2 private 🔒 · 13 forks · 0 archived
+**16** repos · 14 public · 2 private 🔒 · 13 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -27,4 +27,4 @@ Website: <https://agenticplace.pythai.net>
 | [Overture](https://github.com/cyberpunk2051/Overture) 🍴 | Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code. |  | 0 | [code](https://github.com/cyberpunk2051/Overture/tree/main) · [issues](https://github.com/cyberpunk2051/Overture/issues) |
 | [polygon-agent-cli](https://github.com/cyberpunk2051/polygon-agent-cli) 🍴 | Infrastructure for building agents on Polygon |  | 0 | [code](https://github.com/cyberpunk2051/polygon-agent-cli/tree/main) · [issues](https://github.com/cyberpunk2051/polygon-agent-cli/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

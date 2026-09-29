@@ -6,7 +6,7 @@
 
 Website: <https://rage.pythai.net>
 
-**75** repos · 70 public · 5 private 🔒 · 60 forks · 0 archived
+**75** repos · 70 public · 5 private 🔒 · 60 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -86,4 +86,4 @@ Website: <https://rage.pythai.net>
 | [weaviate_recipes](https://github.com/GATERAGE/weaviate_recipes) 🍴 | This repository shares end-to-end notebooks on how to use various features and integrations with Weaviate at the core! |  | 0 | [code](https://github.com/GATERAGE/weaviate_recipes/tree/main) · [issues](https://github.com/GATERAGE/weaviate_recipes/issues) |
 | [webui-autonomics](https://github.com/GATERAGE/webui-autonomics) 🍴 | Dynamic parameter modulation for oobabooga's text-generation-webui that adjusts generation parameters to better mirror user affect. |  | 0 | [code](https://github.com/GATERAGE/webui-autonomics/tree/main) · [issues](https://github.com/GATERAGE/webui-autonomics/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

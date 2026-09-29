@@ -4,7 +4,7 @@
 
 > NFT Marketplace Royalties
 
-**41** repos · 40 public · 1 private 🔒 · 39 forks · 0 archived
+**41** repos · 40 public · 1 private 🔒 · 39 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -50,4 +50,4 @@
 | [web3-nft-dapp-tutorial](https://github.com/NFTmr/web3-nft-dapp-tutorial) 🍴 | A simple web3 app for minting NFTs |  | 0 | [code](https://github.com/NFTmr/web3-nft-dapp-tutorial/tree/main) · [issues](https://github.com/NFTmr/web3-nft-dapp-tutorial/issues) |
 | [yacht-lit-sdk](https://github.com/NFTmr/yacht-lit-sdk) 🍴 | Lit communication with yacht sdk |  | 0 | [code](https://github.com/NFTmr/yacht-lit-sdk/tree/master) · [issues](https://github.com/NFTmr/yacht-lit-sdk/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

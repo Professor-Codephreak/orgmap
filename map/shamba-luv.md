@@ -6,7 +6,7 @@
 
 Website: <https://luv.pythai.net>
 
-**19** repos · 13 public · 6 private 🔒 · 2 forks · 0 archived
+**19** repos · 13 public · 6 private 🔒 · 2 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -30,4 +30,4 @@ Website: <https://luv.pythai.net>
 | [modular-contracts](https://github.com/SHAMBA-LUV/modular-contracts) 🍴 | A framework for writing highly composable smart contracts for which you can add, remove, upgrade or switch out the exact parts you want. |  | 0 | [code](https://github.com/SHAMBA-LUV/modular-contracts/tree/dev) · [issues](https://github.com/SHAMBA-LUV/modular-contracts/issues) · [site](https://thirdweb.com) |
 | [web3.js](https://github.com/SHAMBA-LUV/web3.js) 🍴 | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions. |  | 0 | [code](https://github.com/SHAMBA-LUV/web3.js/tree/4.x) · [issues](https://github.com/SHAMBA-LUV/web3.js/issues) · [site](https://web3js.org/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

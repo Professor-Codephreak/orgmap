@@ -4,7 +4,7 @@
 
 > A general reference to programmable DAI
 
-**23** repos · 22 public · 1 private 🔒 · 21 forks · 0 archived
+**23** repos · 22 public · 1 private 🔒 · 21 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -32,4 +32,4 @@
 | [wrapped-assets](https://github.com/dairef/wrapped-assets) 🍴 | Smart Contract for Wrapped AVAX based on WETH |  | 0 | [code](https://github.com/dairef/wrapped-assets/tree/main) · [issues](https://github.com/dairef/wrapped-assets/issues) |
 | [xERC20](https://github.com/dairef/xERC20) 🍴 | crosschain erc-20 |  | 0 | [code](https://github.com/dairef/xERC20/tree/main) · [issues](https://github.com/dairef/xERC20/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

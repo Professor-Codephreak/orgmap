@@ -6,7 +6,7 @@
 
 Website: <https://ipfs.io/ipfs/QmciuzxFqFMoSg4WbyujXFmjE3b1zis9g15sd8YfeV4UQA/>
 
-**72** repos · 72 public · 0 private 🔒 · 70 forks · 0 archived
+**72** repos · 72 public · 0 private 🔒 · 70 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -83,4 +83,4 @@ Website: <https://ipfs.io/ipfs/QmciuzxFqFMoSg4WbyujXFmjE3b1zis9g15sd8YfeV4UQA/>
 | [youtube-tutorials](https://github.com/DeltaVerseDAO/youtube-tutorials) 🍴 | DAO tutorial from moralis |  | 0 | [code](https://github.com/DeltaVerseDAO/youtube-tutorials/tree/main) · [issues](https://github.com/DeltaVerseDAO/youtube-tutorials/issues) |
 | [zodiac](https://github.com/DeltaVerseDAO/zodiac) 🍴 | A library for composable DAO tooling built on top of programmable accounts with gnosis-safe |  | 0 | [code](https://github.com/DeltaVerseDAO/zodiac/tree/master) · [issues](https://github.com/DeltaVerseDAO/zodiac/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

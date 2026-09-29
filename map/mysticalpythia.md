@@ -4,7 +4,7 @@
 
 > predictions algorithm
 
-**4** repos · 1 public · 3 private 🔒 · 0 forks · 0 archived
+**4** repos · 1 public · 3 private 🔒 · 0 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -13,4 +13,4 @@
 | [CandleStore](https://github.com/MYSTICALPYTHIA/CandleStore) 🔒 | dai and usdc payment contract | | | `github.com/MYSTICALPYTHIA/CandleStore` |
 | [mystical1](https://github.com/MYSTICALPYTHIA/mystical1) 🔒 | pythia mystic oracle of delphi vertex-ai streamlit development version 1 | | | `github.com/MYSTICALPYTHIA/mystical1` |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

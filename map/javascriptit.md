@@ -6,7 +6,7 @@
 
 Website: <http://www.w3schools.com/jsref/default.asp>
 
-**346** repos · 346 public · 0 private 🔒 · 346 forks · 0 archived
+**346** repos · 346 public · 0 private 🔒 · 346 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -357,4 +357,4 @@ Website: <http://www.w3schools.com/jsref/default.asp>
 | [www.freedomsponsors.org](https://github.com/javascriptit/www.freedomsponsors.org) 🍴 | Crowdfunding Free Software, one issue at a time. | [JavaScript](https://github.com/orgs/javascriptit/repositories?language=javascript) | 0 | [code](https://github.com/javascriptit/www.freedomsponsors.org/tree/master) · [issues](https://github.com/javascriptit/www.freedomsponsors.org/issues) · [site](https://freedomsponsors.org) |
 | [Zilliqa-JavaScript-Library](https://github.com/javascriptit/Zilliqa-JavaScript-Library) 🍴 | JavaScript library for Zilliqa blockchain |  | 0 | [code](https://github.com/javascriptit/Zilliqa-JavaScript-Library/tree/dev) · [issues](https://github.com/javascriptit/Zilliqa-JavaScript-Library/issues) · [site](https://www.zilliqa.com) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

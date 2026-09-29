@@ -6,7 +6,7 @@
 
 Website: <https://pythai.net/>
 
-**24** repos · 21 public · 3 private 🔒 · 17 forks · 0 archived
+**24** repos · 21 public · 3 private 🔒 · 17 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -35,4 +35,4 @@ Website: <https://pythai.net/>
 | [rag-from-scratch](https://github.com/mastermindML/rag-from-scratch) 🍴 | An entirely local RAG system from scratch | [Jupyter Notebook](https://github.com/orgs/mastermindML/repositories?language=jupyter+notebook) | 0 | [code](https://github.com/mastermindML/rag-from-scratch/tree/main) · [issues](https://github.com/mastermindML/rag-from-scratch/issues) |
 | [simpleaichat](https://github.com/mastermindML/simpleaichat) 🍴 | Python package for easily interfacing with chat apps, with robust features and minimal code complexity. |  | 0 | [code](https://github.com/mastermindML/simpleaichat/tree/main) · [issues](https://github.com/mastermindML/simpleaichat/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

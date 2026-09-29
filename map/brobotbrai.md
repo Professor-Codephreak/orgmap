@@ -6,7 +6,7 @@
 
 Website: <https://brobot.dmg.finance>
 
-**3** repos · 3 public · 0 private 🔒 · 2 forks · 0 archived
+**3** repos · 3 public · 0 private 🔒 · 2 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -14,4 +14,4 @@ Website: <https://brobot.dmg.finance>
 | [anchor](https://github.com/BROBOTBRAI/anchor) 🍴 | ⚓ Solana Sealevel Framework |  | 0 | [code](https://github.com/BROBOTBRAI/anchor/tree/master) · [issues](https://github.com/BROBOTBRAI/anchor/issues) · [site](https://anchor-lang.com) |
 | [neon-evm](https://github.com/BROBOTBRAI/neon-evm) 🍴 | Interact with Solana using Solidity with neon-evm |  | 0 | [code](https://github.com/BROBOTBRAI/neon-evm/tree/develop) · [issues](https://github.com/BROBOTBRAI/neon-evm/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

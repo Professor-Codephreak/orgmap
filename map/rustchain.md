@@ -6,7 +6,7 @@
 
 Website: <https://dmg.finance>
 
-**22** repos · 22 public · 0 private 🔒 · 21 forks · 0 archived
+**22** repos · 22 public · 0 private 🔒 · 21 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -33,4 +33,4 @@ Website: <https://dmg.finance>
 | [sns-deploy](https://github.com/rustchain/sns-deploy) 🍴 | Upload static website to IPFS pinning services and update your Solana Name Service Records. |  | 4 | [code](https://github.com/rustchain/sns-deploy/tree/master) · [issues](https://github.com/rustchain/sns-deploy/issues) |
 | [tch-rs](https://github.com/rustchain/tch-rs) 🍴 | Rust bindings for the C++ api of PyTorch. |  | 4 | [code](https://github.com/rustchain/tch-rs/tree/main) · [issues](https://github.com/rustchain/tch-rs/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

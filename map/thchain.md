@@ -2,7 +2,7 @@
 
 [← all organizations](../README.md) · [profile](https://github.com/THCHAIN) · [repositories](https://github.com/orgs/THCHAIN/repositories) · [people](https://github.com/orgs/THCHAIN/people)
 
-**59** repos · 59 public · 0 private 🔒 · 58 forks · 0 archived
+**59** repos · 59 public · 0 private 🔒 · 58 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -66,4 +66,4 @@
 | [wasmer-python](https://github.com/THCHAIN/wasmer-python) 🍴 | 🐍🕸 WebAssembly runtime for Python |  | 0 | [code](https://github.com/THCHAIN/wasmer-python/tree/master) · [issues](https://github.com/THCHAIN/wasmer-python/issues) · [site](https://wasmer.io) |
 | [web](https://github.com/THCHAIN/web) 🍴 | Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules |  | 0 | [code](https://github.com/THCHAIN/web/tree/develop) · [issues](https://github.com/THCHAIN/web/issues) · [site](https://ignite.com/cli) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

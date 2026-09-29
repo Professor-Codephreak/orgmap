@@ -4,7 +4,7 @@
 
 > BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN
 
-**49** repos · 45 public · 4 private 🔒 · 42 forks · 0 archived
+**49** repos · 45 public · 4 private 🔒 · 42 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -58,4 +58,4 @@
 | [supeWallet](https://github.com/BRAINCHN/supeWallet) 🍴 | talk to your transactions |  | 0 | [code](https://github.com/BRAINCHN/supeWallet/tree/main) · [issues](https://github.com/BRAINCHN/supeWallet/issues) |
 | [tauri](https://github.com/BRAINCHN/tauri) 🍴 | Build smaller, faster, and more secure desktop applications with a web3 frontend |  | 0 | [code](https://github.com/BRAINCHN/tauri/tree/dev) · [issues](https://github.com/BRAINCHN/tauri/issues) · [site](https://tauri.app) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -4,7 +4,7 @@
 
 > AION Model Context Protocol summary and links
 
-**29** repos · 28 public · 1 private 🔒 · 27 forks · 0 archived
+**29** repos · 28 public · 1 private 🔒 · 27 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -38,4 +38,4 @@
 | [typescript-sdk](https://github.com/AIONMCP/typescript-sdk) 🍴 | The official Typescript SDK for Model Context Protocol servers and clients |  | 0 | [code](https://github.com/AIONMCP/typescript-sdk/tree/main) · [issues](https://github.com/AIONMCP/typescript-sdk/issues) · [site](https://modelcontextprotocol.io) |
 | [vllm](https://github.com/AIONMCP/vllm) 🍴 | A high-throughput and memory-efficient inference and serving engine for LLMs |  | 0 | [code](https://github.com/AIONMCP/vllm/tree/main) · [issues](https://github.com/AIONMCP/vllm/issues) · [site](https://vllm.ai) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

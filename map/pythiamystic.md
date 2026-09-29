@@ -6,7 +6,7 @@
 
 Website: <https://delphi.pythai.net>
 
-**20** repos · 19 public · 1 private 🔒 · 12 forks · 0 archived
+**20** repos · 19 public · 1 private 🔒 · 12 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -31,4 +31,4 @@ Website: <https://delphi.pythai.net>
 | [web3auth-pnp-serverside-examples](https://github.com/PYTHIAMYSTIC/web3auth-pnp-serverside-examples) 🍴 | web3auth server side example no modal |  | 0 | [code](https://github.com/PYTHIAMYSTIC/web3auth-pnp-serverside-examples/tree/main) · [issues](https://github.com/PYTHIAMYSTIC/web3auth-pnp-serverside-examples/issues) · [site](https://web3auth.io/docs/examples/) |
 | [wordproof-timestamp](https://github.com/PYTHIAMYSTIC/wordproof-timestamp) 🍴 | WordProof Timestamp Plugin for WordPress |  | 0 | [code](https://github.com/PYTHIAMYSTIC/wordproof-timestamp/tree/master) · [issues](https://github.com/PYTHIAMYSTIC/wordproof-timestamp/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

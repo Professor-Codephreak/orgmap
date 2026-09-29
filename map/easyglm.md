@@ -6,7 +6,7 @@
 
 Website: <https://rage.pythai.net>
 
-**8** repos · 8 public · 0 private 🔒 · 6 forks · 0 archived
+**8** repos · 8 public · 0 private 🔒 · 6 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -19,4 +19,4 @@ Website: <https://rage.pythai.net>
 | [llama_index](https://github.com/easyGLM/llama_index) 🍴 | LlamaIndex is a data framework for your LLM applications |  | 0 | [code](https://github.com/easyGLM/llama_index/tree/main) · [issues](https://github.com/easyGLM/llama_index/issues) · [site](https://docs.llamaindex.ai) |
 | [ollama](https://github.com/easyGLM/ollama) 🍴 | Get up and running with Llama 3, Mistral, Gemma, and other large language models. |  | 0 | [code](https://github.com/easyGLM/ollama/tree/main) · [issues](https://github.com/easyGLM/ollama/issues) · [site](https://ollama.com) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

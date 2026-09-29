@@ -6,7 +6,7 @@
 
 Website: <http://bankon.me>
 
-**31** repos · 31 public · 0 private 🔒 · 30 forks · 0 archived
+**31** repos · 31 public · 0 private 🔒 · 30 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -42,4 +42,4 @@ Website: <http://bankon.me>
 | [webusb](https://github.com/bankonmecoin/webusb) 🍴 | Connecting hardware to the web. | [Shell](https://github.com/orgs/bankonmecoin/repositories?language=shell) | 0 | [code](https://github.com/bankonmecoin/webusb/tree/master) · [issues](https://github.com/bankonmecoin/webusb/issues) · [site](https://wicg.github.io/webusb/) |
 | [zcash](https://github.com/bankonmecoin/zcash) 🍴 | zcash | [C++](https://github.com/orgs/bankonmecoin/repositories?language=c++) | 0 | [code](https://github.com/bankonmecoin/zcash/tree/zc.v0.11.2.latest) · [issues](https://github.com/bankonmecoin/zcash/issues) · [site](https://z.cash/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

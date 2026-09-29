@@ -4,7 +4,7 @@
 
 > utterance as expression of will
 
-**11** repos · 8 public · 3 private 🔒 · 7 forks · 0 archived
+**11** repos · 8 public · 3 private 🔒 · 7 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -20,4 +20,4 @@
 | [paybot-ai](https://github.com/abaracadabra/paybot-ai) 🔒 | arc paybot 1 second finality across the cryptosystem | | | `github.com/abaracadabra/paybot-ai` |
 | [smolvlm-realtime-webcam](https://github.com/abaracadabra/smolvlm-realtime-webcam) 🍴 | Real-time webcam demo with SmolVLM and llama.cpp server |  | 0 | [code](https://github.com/abaracadabra/smolvlm-realtime-webcam/tree/main) · [issues](https://github.com/abaracadabra/smolvlm-realtime-webcam/issues) · [site](https://github.ngxson.com/smolvlm-realtime-webcam/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -2,7 +2,7 @@
 
 [← all organizations](../README.md) · [profile](https://github.com/sAGI) · [repositories](https://github.com/sAGI?tab=repositories)
 
-**103** repos · 103 public · 0 private 🔒 · 82 forks · 0 archived
+**103** repos · 103 public · 0 private 🔒 · 82 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -110,4 +110,4 @@
 | [yats.vim](https://github.com/sagi/yats.vim) 🍴 | Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim | [Vim script](https://github.com/sAGI?language=vim+script) | 0 | [code](https://github.com/sagi/yats.vim/tree/master) · [issues](https://github.com/sagi/yats.vim/issues) |
 | [ZeroLink](https://github.com/sagi/ZeroLink) 🍴 | The Bitcoin Fungibility Framework |  | 0 | [code](https://github.com/sagi/ZeroLink/tree/master) · [issues](https://github.com/sagi/ZeroLink/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

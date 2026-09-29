@@ -4,7 +4,7 @@
 
 > fixed-supply Qubic quantum price oracle
 
-**23** repos · 20 public · 3 private 🔒 · 15 forks · 0 archived
+**23** repos · 20 public · 3 private 🔒 · 15 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -32,4 +32,4 @@
 | [stacks-pyth-bridge](https://github.com/BANKONPYTHAI/stacks-pyth-bridge) 🍴 | Retrieve trading pairs (BTC-USD, STX-USD, etc) from Clarity smart contracts. |  | 0 | [code](https://github.com/BANKONPYTHAI/stacks-pyth-bridge/tree/clarity-v3) · [issues](https://github.com/BANKONPYTHAI/stacks-pyth-bridge/issues) |
 | [ts-library-qubic](https://github.com/BANKONPYTHAI/ts-library-qubic) 🍴 | TypeScript Qubic Library |  | 0 | [code](https://github.com/BANKONPYTHAI/ts-library-qubic/tree/main) · [issues](https://github.com/BANKONPYTHAI/ts-library-qubic/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -6,7 +6,7 @@
 
 Website: <https://ethglobal.com/showcase/pknft-532fy>
 
-**12** repos · 8 public · 4 private 🔒 · 1 forks · 0 archived
+**12** repos · 8 public · 4 private 🔒 · 1 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -23,4 +23,4 @@ Website: <https://ethglobal.com/showcase/pknft-532fy>
 | [vanity](https://github.com/pkNFTapi/vanity) 🔒 | vanity.py is a script designed to generate Ethereum vanity addresses. A vanity address is an… | | | `github.com/pkNFTapi/vanity` |
 | [view-based-royalty](https://github.com/pkNFTapi/view-based-royalty) 🍴 | view based royalnft |  | 0 | [code](https://github.com/pkNFTapi/view-based-royalty/tree/master) · [issues](https://github.com/pkNFTapi/view-based-royalty/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

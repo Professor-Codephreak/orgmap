@@ -6,7 +6,7 @@
 
 Website: <https://tnt.exchange>
 
-**21** repos · 20 public · 1 private 🔒 · 19 forks · 0 archived
+**21** repos · 20 public · 1 private 🔒 · 19 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -32,4 +32,4 @@ Website: <https://tnt.exchange>
 | [teleporter](https://github.com/THRUSTCHAIN/teleporter) 🍴 | EVM cross-chain messaging protocol built on top of Avalanche Warp Messaging |  | 0 | [code](https://github.com/THRUSTCHAIN/teleporter/tree/main) · [issues](https://github.com/THRUSTCHAIN/teleporter/issues) |
 | [TNT-faucet](https://github.com/THRUSTCHAIN/TNT-faucet) 🍴 | TNT faucet for TNT subnet |  | 0 | [code](https://github.com/THRUSTCHAIN/TNT-faucet/tree/main) · [issues](https://github.com/THRUSTCHAIN/TNT-faucet/issues) · [site](https://faucet.avax.network/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

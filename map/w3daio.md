@@ -6,7 +6,7 @@
 
 Website: <https://chatgpt.com/g/g-OO5zCdfSA-daonow>
 
-**5** repos · 2 public · 3 private 🔒 · 1 forks · 0 archived
+**5** repos · 2 public · 3 private 🔒 · 1 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -16,4 +16,4 @@ Website: <https://chatgpt.com/g/g-OO5zCdfSA-daonow>
 | [solidity](https://github.com/w3DAIO/solidity) 🔒 | DAIO solidity files | | | `github.com/w3DAIO/solidity` |
 | [scaffold-eth-2](https://github.com/w3DAIO/scaffold-eth-2) 🍴 | Open source forkable EVM dev stack |  | 0 | [code](https://github.com/w3DAIO/scaffold-eth-2/tree/main) · [issues](https://github.com/w3DAIO/scaffold-eth-2/issues) · [site](https://scaffoldeth.io) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

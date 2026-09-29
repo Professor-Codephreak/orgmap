@@ -6,7 +6,7 @@
 
 Website: <http://bankon.me>
 
-**452** repos · 452 public · 0 private 🔒 · 429 forks · 0 archived
+**452** repos · 452 public · 0 private 🔒 · 429 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -463,4 +463,4 @@ Website: <http://bankon.me>
 | [zksync](https://github.com/bankonme/zksync) 🍴 | zkSync: trustless scaling and privacy engine for Ethereum |  | 0 | [code](https://github.com/bankonme/zksync/tree/master) · [issues](https://github.com/bankonme/zksync/issues) · [site](https://zksync.io) |
 | [zuluCrypt](https://github.com/bankonme/zuluCrypt) 🍴 | zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices | [C](https://github.com/orgs/bankonme/repositories?language=c) | 0 | [code](https://github.com/bankonme/zuluCrypt/tree/master) · [issues](https://github.com/bankonme/zuluCrypt/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

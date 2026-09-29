@@ -4,7 +4,7 @@
 
 > NFT data royalties
 
-**3** repos · 3 public · 0 private 🔒 · 2 forks · 0 archived
+**3** repos · 3 public · 0 private 🔒 · 2 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -12,4 +12,4 @@
 | [payment-processor](https://github.com/NFTdr/payment-processor) 🍴 | ERC721-C compatible payment processing layer for NFT marketplace integrations |  | 0 | [code](https://github.com/NFTdr/payment-processor/tree/main) · [issues](https://github.com/NFTdr/payment-processor/issues) |
 | [xmtpd](https://github.com/NFTdr/xmtpd) 🍴 | XMTP node implementation |  | 0 | [code](https://github.com/NFTdr/xmtpd/tree/main) · [issues](https://github.com/NFTdr/xmtpd/issues) · [site](https://docs.xmtp.org) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

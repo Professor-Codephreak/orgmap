@@ -2,7 +2,7 @@
 
 [← all organizations](../README.md) · [profile](https://github.com/chattchain) · [repositories](https://github.com/orgs/chattchain/repositories) · [people](https://github.com/orgs/chattchain/people)
 
-**20** repos · 20 public · 0 private 🔒 · 19 forks · 0 archived
+**20** repos · 20 public · 0 private 🔒 · 19 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -27,4 +27,4 @@
 | [xmtp-quickstart-request-inbox](https://github.com/chattchain/xmtp-quickstart-request-inbox) 🍴 | xmtp-quickstart-request-inbox |  | 0 | [code](https://github.com/chattchain/xmtp-quickstart-request-inbox/tree/main) · [issues](https://github.com/chattchain/xmtp-quickstart-request-inbox/issues) · [site](https://xmtp-quickstart-request-inbox.vercel.app) |
 | [xmtpd](https://github.com/chattchain/xmtpd) 🍴 | XMTP node implementation. |  | 0 | [code](https://github.com/chattchain/xmtpd/tree/main) · [issues](https://github.com/chattchain/xmtpd/issues) · [site](https://docs.xmtp.org) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

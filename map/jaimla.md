@@ -4,7 +4,7 @@
 
 > I am the machine learning agent
 
-**23** repos · 23 public · 0 private 🔒 · 22 forks · 0 archived
+**23** repos · 23 public · 0 private 🔒 · 22 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -32,4 +32,4 @@
 | [zenml](https://github.com/Jaimla/zenml) 🍴 | ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io. |  | 0 | [code](https://github.com/Jaimla/zenml/tree/main) · [issues](https://github.com/Jaimla/zenml/issues) |
 | [zenml-projects](https://github.com/Jaimla/zenml-projects) 🍴 | A repository for all ZenML projects that are specific production use-cases. |  | 0 | [code](https://github.com/Jaimla/zenml-projects/tree/main) · [issues](https://github.com/Jaimla/zenml-projects/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -6,7 +6,7 @@
 
 Website: <https://pythai.net/>
 
-**19** repos · 19 public · 0 private 🔒 · 18 forks · 0 archived
+**19** repos · 19 public · 0 private 🔒 · 18 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -30,4 +30,4 @@ Website: <https://pythai.net/>
 | [unisat-web3-demo](https://github.com/satoshigen/unisat-web3-demo) 🍴 | unisat web3 ordinal example demo |  | 0 | [code](https://github.com/satoshigen/unisat-web3-demo/tree/master) · [issues](https://github.com/satoshigen/unisat-web3-demo/issues) |
 | [wallet-utils](https://github.com/satoshigen/wallet-utils) 🍴 | unisat ordinal wallet utilities |  | 0 | [code](https://github.com/satoshigen/wallet-utils/tree/master) · [issues](https://github.com/satoshigen/wallet-utils/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

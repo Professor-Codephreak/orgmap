@@ -4,7 +4,7 @@
 
 > aion-net
 
-**20** repos · 18 public · 2 private 🔒 · 13 forks · 0 archived
+**20** repos · 18 public · 2 private 🔒 · 13 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -29,4 +29,4 @@
 | [opencode](https://github.com/AION-NET/opencode) 🍴 | The open source coding agent for augmented machine learning |  | 0 | [code](https://github.com/AION-NET/opencode/tree/dev) · [issues](https://github.com/AION-NET/opencode/issues) · [site](https://opencode.ai) |
 | [SEAL](https://github.com/AION-NET/SEAL) 🍴 | Self-Adapting Language Models |  | 0 | [code](https://github.com/AION-NET/SEAL/tree/main) · [issues](https://github.com/AION-NET/SEAL/issues) · [site](https://arxiv.org/abs/2506.10943) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

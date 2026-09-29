@@ -6,7 +6,7 @@
 
 Website: <https://0x10f7Ee226B16bea7f365Dc1eDEF159Fc1957D169>
 
-**61** repos · 61 public · 0 private 🔒 · 59 forks · 0 archived
+**61** repos · 61 public · 0 private 🔒 · 59 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -72,4 +72,4 @@ Website: <https://0x10f7Ee226B16bea7f365Dc1eDEF159Fc1957D169>
 | [xmtp-inbox-web](https://github.com/web3comm/xmtp-inbox-web) 🍴 | XMTP Inbox web chat app |  | 0 | [code](https://github.com/web3comm/xmtp-inbox-web/tree/dev) · [issues](https://github.com/web3comm/xmtp-inbox-web/issues) · [site](https://dev.xmtp.chat) |
 | [xmtp-js](https://github.com/web3comm/xmtp-js) 🍴 | XMTP client SDK for JavaScript applications. |  | 0 | [code](https://github.com/web3comm/xmtp-js/tree/main) · [issues](https://github.com/web3comm/xmtp-js/issues) · [site](https://xmtp.org/docs) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

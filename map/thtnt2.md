@@ -6,7 +6,7 @@
 
 Website: <https://ethglobal.com/events/hackfs2024>
 
-**51** repos · 51 public · 0 private 🔒 · 48 forks · 0 archived
+**51** repos · 51 public · 0 private 🔒 · 48 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -62,4 +62,4 @@ Website: <https://ethglobal.com/events/hackfs2024>
 | [zksync-wallet-vue](https://github.com/thTNT2/zksync-wallet-vue) 🍴 | zkSync web wallet |  | 0 | [code](https://github.com/thTNT2/zksync-wallet-vue/tree/master) · [issues](https://github.com/thTNT2/zksync-wallet-vue/issues) · [site](https://wallet.zksync.io) |
 | [zksync-web-era-docs](https://github.com/thTNT2/zksync-web-era-docs) 🍴 | zkSync Era Documentation |  | 0 | [code](https://github.com/thTNT2/zksync-web-era-docs/tree/main) · [issues](https://github.com/thTNT2/zksync-web-era-docs/issues) · [site](https://docs.zksync.io/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

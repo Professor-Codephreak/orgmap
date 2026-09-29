@@ -4,7 +4,7 @@
 
 > AIML Automated Intelligent Machine Learning AIMLx
 
-**28** repos · 28 public · 0 private 🔒 · 23 forks · 0 archived
+**28** repos · 28 public · 0 private 🔒 · 23 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -37,4 +37,4 @@
 | [php-gpt-funcs](https://github.com/AUTOMINDx/php-gpt-funcs) 🍴 | GPT-4 Function Calling Example in PHP |  | 0 | [code](https://github.com/AUTOMINDx/php-gpt-funcs/tree/master) · [issues](https://github.com/AUTOMINDx/php-gpt-funcs/issues) |
 | [puppeteer-gpt](https://github.com/AUTOMINDx/puppeteer-gpt) 🍴 | Control the browser with ChatGPT API |  | 0 | [code](https://github.com/AUTOMINDx/puppeteer-gpt/tree/master) · [issues](https://github.com/AUTOMINDx/puppeteer-gpt/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

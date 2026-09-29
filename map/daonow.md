@@ -6,7 +6,7 @@
 
 Website: <https://deltavthrust.com>
 
-**151** repos · 151 public · 0 private 🔒 · 143 forks · 0 archived
+**151** repos · 151 public · 0 private 🔒 · 143 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -162,4 +162,4 @@ Website: <https://deltavthrust.com>
 | [Zilliqa-ERC20-Token](https://github.com/DAONOW/Zilliqa-ERC20-Token) 🍴 | Zilliqa Token Generation |  | 0 | [code](https://github.com/DAONOW/Zilliqa-ERC20-Token/tree/master) · [issues](https://github.com/DAONOW/Zilliqa-ERC20-Token/issues) |
 | [zora.gallery](https://github.com/DAONOW/zora.gallery) 🍴 | Open protocols demand open access. Community-operated  interface to the Zora Protocol. |  | 0 | [code](https://github.com/DAONOW/zora.gallery/tree/master) · [issues](https://github.com/DAONOW/zora.gallery/issues) · [site](https://zora.gallery) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

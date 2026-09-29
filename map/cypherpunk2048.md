@@ -4,7 +4,7 @@
 
 > standard
 
-**9** repos · 6 public · 3 private 🔒 · 1 forks · 0 archived
+**9** repos · 6 public · 3 private 🔒 · 1 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -18,4 +18,4 @@
 | [x402](https://github.com/cypherpunk2048/x402) 🔒 |  | | | `github.com/cypherpunk2048/x402` |
 | [stacks](https://github.com/cypherpunk2048/stacks) 🍴 | Overview of Bitcoin's Stacks layer |  | 1 | [code](https://github.com/cypherpunk2048/stacks/tree/master) · [issues](https://github.com/cypherpunk2048/stacks/issues) · [site](https://www.stacks.co/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

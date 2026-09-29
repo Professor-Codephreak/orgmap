@@ -6,7 +6,7 @@
 
 Website: <https://awesome.ipfs.io/>
 
-**75** repos · 75 public · 0 private 🔒 · 73 forks · 0 archived
+**75** repos · 75 public · 0 private 🔒 · 73 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -86,4 +86,4 @@ Website: <https://awesome.ipfs.io/>
 | [web3.js](https://github.com/interplanetaryfilesystem/web3.js) 🍴 | Ethereum JavaScript API |  | 0 | [code](https://github.com/interplanetaryfilesystem/web3.js/tree/1.x) · [issues](https://github.com/interplanetaryfilesystem/web3.js/issues) |
 | [web3.storage](https://github.com/interplanetaryfilesystem/web3.storage) 🍴 | ⁂ The simple file storage service for IPFS & Filecoin |  | 0 | [code](https://github.com/interplanetaryfilesystem/web3.storage/tree/main) · [issues](https://github.com/interplanetaryfilesystem/web3.storage/issues) · [site](https://web3.storage) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

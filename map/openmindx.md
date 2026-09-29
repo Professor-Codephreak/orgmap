@@ -6,7 +6,7 @@
 
 Website: <https://pythai.net>
 
-**54** repos · 51 public · 3 private 🔒 · 46 forks · 0 archived
+**54** repos · 51 public · 3 private 🔒 · 46 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -65,4 +65,4 @@ Website: <https://pythai.net>
 | [voicey](https://github.com/openmindx/voicey) 🍴 | Voice response interaction UIUX for a local language model goals include context, memory and local file interactions |  | 0 | [code](https://github.com/openmindx/voicey/tree/main) · [issues](https://github.com/openmindx/voicey/issues) · [site](https://codephreak.dmg.finance) |
 | [weaviate](https://github.com/openmindx/weaviate) 🍴 | Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. |  | 0 | [code](https://github.com/openmindx/weaviate/tree/master) · [issues](https://github.com/openmindx/weaviate/issues) · [site](https://weaviate.io/developers/weaviate/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

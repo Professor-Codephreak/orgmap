@@ -4,7 +4,7 @@
 
 > min ai ml   language models in miniature
 
-**80** repos · 79 public · 1 private 🔒 · 78 forks · 0 archived
+**80** repos · 79 public · 1 private 🔒 · 78 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -89,4 +89,4 @@
 | [whisper.cpp](https://github.com/minaiml/whisper.cpp) 🍴 | Port of OpenAI's Whisper model in C/C++ | [C++](https://github.com/orgs/minaiml/repositories?language=c++) | 0 | [code](https://github.com/minaiml/whisper.cpp/tree/master) · [issues](https://github.com/minaiml/whisper.cpp/issues) |
 | [wllama](https://github.com/minaiml/wllama) 🍴 | WebAssembly binding for llama.cpp - Enabling on-browser LLM inference | [TypeScript](https://github.com/orgs/minaiml/repositories?language=typescript) | 0 | [code](https://github.com/minaiml/wllama/tree/master) · [issues](https://github.com/minaiml/wllama/issues) · [site](https://huggingface.co/spaces/ngxson/wllama) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

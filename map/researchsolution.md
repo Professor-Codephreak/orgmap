@@ -6,7 +6,7 @@
 
 Website: <https://github.com/DAONOW>
 
-**118** repos · 109 public · 9 private 🔒 · 108 forks · 0 archived
+**118** repos · 109 public · 9 private 🔒 · 108 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -129,4 +129,4 @@ Website: <https://github.com/DAONOW>
 | [web3-provider-proxy](https://github.com/researchsolution/web3-provider-proxy) 🍴 | 🌍 Proxying and caching web3 requests with Cloudflare workers |  | 0 | [code](https://github.com/researchsolution/web3-provider-proxy/tree/master) · [issues](https://github.com/researchsolution/web3-provider-proxy/issues) |
 | [WizardLM](https://github.com/researchsolution/WizardLM) 🍴 | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder |  | 0 | [code](https://github.com/researchsolution/WizardLM/tree/main) · [issues](https://github.com/researchsolution/WizardLM/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

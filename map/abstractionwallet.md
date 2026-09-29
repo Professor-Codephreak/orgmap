@@ -4,7 +4,7 @@
 
 > research into wallet abstraction alchemy resources general reference guide
 
-**39** repos · 37 public · 2 private 🔒 · 35 forks · 0 archived
+**39** repos · 37 public · 2 private 🔒 · 35 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -48,4 +48,4 @@
 | [web3-starter-projects](https://github.com/abstractionwallet/web3-starter-projects) 🍴 | Fork a blockchain repo and build your dapp. Fast. |  | 0 | [code](https://github.com/abstractionwallet/web3-starter-projects/tree/main) · [issues](https://github.com/abstractionwallet/web3-starter-projects/issues) |
 | [zksync-paymaster-example](https://github.com/abstractionwallet/zksync-paymaster-example) 🍴 | alchemy zksync paymaster example |  | 0 | [code](https://github.com/abstractionwallet/zksync-paymaster-example/tree/main) · [issues](https://github.com/abstractionwallet/zksync-paymaster-example/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

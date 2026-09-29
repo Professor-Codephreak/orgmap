@@ -6,7 +6,7 @@
 
 Website: <https://deltav.exchange>
 
-**16** repos · 16 public · 0 private 🔒 · 15 forks · 0 archived
+**16** repos · 16 public · 0 private 🔒 · 15 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -27,4 +27,4 @@ Website: <https://deltav.exchange>
 | [twap-quickswap-ui-alpha](https://github.com/limitorder/twap-quickswap-ui-alpha) 🍴 | TWAP: Quickswap UI Fork |  | 0 | [code](https://github.com/limitorder/twap-quickswap-ui-alpha/tree/master) · [issues](https://github.com/limitorder/twap-quickswap-ui-alpha/issues) · [site](https://orbs-network.github.io/twap-quickswap-ui-alpha/#/swap) |
 | [UniswapX](https://github.com/limitorder/UniswapX) 🍴 | 🦄 Gasless ERC20 swap settlement protocol 🦄 |  | 0 | [code](https://github.com/limitorder/UniswapX/tree/main) · [issues](https://github.com/limitorder/UniswapX/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

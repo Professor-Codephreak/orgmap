@@ -6,7 +6,7 @@
 
 Website: <https://decenterland.crypto>
 
-**108** repos · 108 public · 0 private 🔒 · 108 forks · 0 archived
+**108** repos · 108 public · 0 private 🔒 · 108 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -119,4 +119,4 @@ Website: <https://decenterland.crypto>
 | [Zilliqa-JavaScript-Library](https://github.com/smartmetamask/Zilliqa-JavaScript-Library) 🍴 | JavaScript library for Zilliqa blockchain |  | 0 | [code](https://github.com/smartmetamask/Zilliqa-JavaScript-Library/tree/dev) · [issues](https://github.com/smartmetamask/Zilliqa-JavaScript-Library/issues) · [site](https://www.zilliqa.com) |
 | [zilliqa-relayer](https://github.com/smartmetamask/zilliqa-relayer) 🍴 |  |  | 0 | [code](https://github.com/smartmetamask/zilliqa-relayer/tree/main) · [issues](https://github.com/smartmetamask/zilliqa-relayer/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

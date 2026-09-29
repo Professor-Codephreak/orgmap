@@ -6,7 +6,7 @@
 
 Website: <https://github.com/Faicey>
 
-**18** repos · 18 public · 0 private 🔒 · 17 forks · 0 archived
+**18** repos · 18 public · 0 private 🔒 · 17 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -29,4 +29,4 @@ Website: <https://github.com/Faicey>
 | [text-generation-webui](https://github.com/Faicey/text-generation-webui) 🍴 | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |  | 0 | [code](https://github.com/Faicey/text-generation-webui/tree/main) · [issues](https://github.com/Faicey/text-generation-webui/issues) |
 | [whisper-gpt3-email-generator](https://github.com/Faicey/whisper-gpt3-email-generator) 🍴 | Generate kind and formal email from voice input |  | 0 | [code](https://github.com/Faicey/whisper-gpt3-email-generator/tree/main) · [issues](https://github.com/Faicey/whisper-gpt3-email-generator/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -4,7 +4,7 @@
 
 > interplanetary NFT file system utility development
 
-**22** repos · 22 public · 0 private 🔒 · 21 forks · 0 archived
+**22** repos · 22 public · 0 private 🔒 · 21 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -31,4 +31,4 @@
 | [sns-deploy](https://github.com/ipNFTfs/sns-deploy) 🍴 | Upload static website to IPFS pinning services and update your Solana Name Service Records. |  | 0 | [code](https://github.com/ipNFTfs/sns-deploy/tree/master) · [issues](https://github.com/ipNFTfs/sns-deploy/issues) |
 | [web3.storage](https://github.com/ipNFTfs/web3.storage) 🍴 | ⁂ The simple file storage service for IPFS & Filecoin |  | 0 | [code](https://github.com/ipNFTfs/web3.storage/tree/main) · [issues](https://github.com/ipNFTfs/web3.storage/issues) · [site](https://web3.storage) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

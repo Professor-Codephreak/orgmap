@@ -6,7 +6,7 @@
 
 Website: <https://ipfs.io/ipfs/QmbrtbkZyPT8ZtTYDQhtfDTEHuoTiayFZ8vXoXEPepuYS9/>
 
-**171** repos · 171 public · 0 private 🔒 · 162 forks · 0 archived
+**171** repos · 171 public · 0 private 🔒 · 162 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -182,4 +182,4 @@ Website: <https://ipfs.io/ipfs/QmbrtbkZyPT8ZtTYDQhtfDTEHuoTiayFZ8vXoXEPepuYS9/>
 | [youtube-tutorials](https://github.com/DeltaVThrust-NFT/youtube-tutorials) 🍴 | youtube tutorials for web3 progression |  | 0 | [code](https://github.com/DeltaVThrust-NFT/youtube-tutorials/tree/main) · [issues](https://github.com/DeltaVThrust-NFT/youtube-tutorials/issues) |
 | [zora-drops-contracts](https://github.com/DeltaVThrust-NFT/zora-drops-contracts) 🍴 | Zora drops contracts (powers create.zora.co) |  | 0 | [code](https://github.com/DeltaVThrust-NFT/zora-drops-contracts/tree/main) · [issues](https://github.com/DeltaVThrust-NFT/zora-drops-contracts/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

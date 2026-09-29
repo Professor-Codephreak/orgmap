@@ -6,7 +6,7 @@
 
 Website: <https://github.com/Faicey>
 
-**34** repos · 34 public · 0 private 🔒 · 32 forks · 0 archived
+**34** repos · 34 public · 0 private 🔒 · 32 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -45,4 +45,4 @@ Website: <https://github.com/Faicey>
 | [vue-quasar-company-profile-website](https://github.com/UIUXt/vue-quasar-company-profile-website) 🍴 | Kudos - Company profile website made using Vue.js and Quasar Framework |  | 0 | [code](https://github.com/UIUXt/vue-quasar-company-profile-website/tree/master) · [issues](https://github.com/UIUXt/vue-quasar-company-profile-website/issues) · [site](https://quasar-company-profile-template.netlify.app/) |
 | [webui-autonomics](https://github.com/UIUXt/webui-autonomics) 🍴 | Dynamic parameter modulation for oobabooga's text-generation-webui that adjusts generation parameters to better mirror user affect. |  | 0 | [code](https://github.com/UIUXt/webui-autonomics/tree/main) · [issues](https://github.com/UIUXt/webui-autonomics/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

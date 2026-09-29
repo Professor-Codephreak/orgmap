@@ -6,7 +6,7 @@
 
 Website: <https://deltav.exchange>
 
-**148** repos · 148 public · 0 private 🔒 · 145 forks · 0 archived
+**148** repos · 148 public · 0 private 🔒 · 145 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -159,4 +159,4 @@ Website: <https://deltav.exchange>
 | [zkBridge-lightClient](https://github.com/deltabridge/zkBridge-lightClient) 🍴 | An on-chain light client that complies with the Ethereum light client protocol witch is defined in ethereum consensus specs. |  | 0 | [code](https://github.com/deltabridge/zkBridge-lightClient/tree/main) · [issues](https://github.com/deltabridge/zkBridge-lightClient/issues) · [site](https://bridgetest.tusima.network/) |
 | [zodiac-module-bridge](https://github.com/deltabridge/zodiac-module-bridge) 🍴 | zodiac bridge for Dictator DAO |  | 0 | [code](https://github.com/deltabridge/zodiac-module-bridge/tree/main) · [issues](https://github.com/deltabridge/zodiac-module-bridge/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -6,7 +6,7 @@
 
 Website: <http://deltav.world>
 
-**48** repos · 48 public · 0 private 🔒 · 47 forks · 0 archived
+**48** repos · 48 public · 0 private 🔒 · 47 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -59,4 +59,4 @@ Website: <http://deltav.world>
 | [wiki-arcxmoney](https://github.com/deltaloans/wiki-arcxmoney) 🍴 | The ARCx wiki hosted on wiki.arcx.money |  | 0 | [code](https://github.com/deltaloans/wiki-arcxmoney/tree/master) · [issues](https://github.com/deltaloans/wiki-arcxmoney/issues) |
 | [yield-utils-v2](https://github.com/deltaloans/yield-utils-v2) 🍴 | Utility contracts for Yield v2 |  | 0 | [code](https://github.com/deltaloans/yield-utils-v2/tree/main) · [issues](https://github.com/deltaloans/yield-utils-v2/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

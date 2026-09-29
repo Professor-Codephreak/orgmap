@@ -6,7 +6,7 @@
 
 Website: <https://bankon.pythai.net>
 
-**61** repos · 59 public · 2 private 🔒 · 56 forks · 0 archived
+**61** repos · 59 public · 2 private 🔒 · 56 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -72,4 +72,4 @@ Website: <https://bankon.pythai.net>
 | [xchainjs-lib-1](https://github.com/parsec-wallet/xchainjs-lib-1) 🍴 | Lightweight typescript library for cross-chain wallets. Connect with multiple blockchains via a common interface, with support for the minimum features necessary. |  | 0 | [code](https://github.com/parsec-wallet/xchainjs-lib-1/tree/master) · [issues](https://github.com/parsec-wallet/xchainjs-lib-1/issues) |
 | [zksnarks_example](https://github.com/parsec-wallet/zksnarks_example) 🍴 | zkSNARKS tutorial |  | 0 | [code](https://github.com/parsec-wallet/zksnarks_example/tree/master) · [issues](https://github.com/parsec-wallet/zksnarks_example/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

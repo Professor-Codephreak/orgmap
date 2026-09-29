@@ -4,7 +4,7 @@
 
 > layer three agentic blockchain
 
-**4** repos · 4 public · 0 private 🔒 · 2 forks · 0 archived
+**4** repos · 4 public · 0 private 🔒 · 2 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -13,4 +13,4 @@
 | [explorer](https://github.com/daisychn/explorer) 🍴 | Explorer for Solana clusters |  | 0 | [code](https://github.com/daisychn/explorer/tree/master) · [issues](https://github.com/daisychn/explorer/issues) · [site](https://explorer.solana.com) |
 | [synthetix](https://github.com/daisychn/synthetix) 🍴 | Synthetix Solidity smart contracts |  | 0 | [code](https://github.com/daisychn/synthetix/tree/develop) · [issues](https://github.com/daisychn/synthetix/issues) · [site](https://synthetix.io/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

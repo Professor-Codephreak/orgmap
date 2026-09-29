@@ -2,7 +2,7 @@
 
 [← all organizations](../README.md) · [profile](https://github.com/web3Dai) · [repositories](https://github.com/orgs/web3Dai/repositories) · [people](https://github.com/orgs/web3Dai/people)
 
-**55** repos · 55 public · 0 private 🔒 · 54 forks · 0 archived
+**55** repos · 55 public · 0 private 🔒 · 54 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -62,4 +62,4 @@
 | [w3link](https://github.com/web3Dai/w3link) 🍴 | 🪐 The IPFS gateway for web3.storage is not "another gateway", but a caching layer that sits on top of existing IPFS public gateways. |  | 0 | [code](https://github.com/web3Dai/w3link/tree/main) · [issues](https://github.com/web3Dai/w3link/issues) |
 | [web3.py](https://github.com/web3Dai/web3.py) 🍴 | A python interface for interacting with the Ethereum blockchain and ecosystem. |  | 0 | [code](https://github.com/web3Dai/web3.py/tree/master) · [issues](https://github.com/web3Dai/web3.py/issues) · [site](http://web3py.readthedocs.io) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

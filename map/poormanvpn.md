@@ -6,7 +6,7 @@
 
 Website: <https://bankon.pythai.net>
 
-**6** repos · 6 public · 0 private 🔒 · 4 forks · 0 archived
+**6** repos · 6 public · 0 private 🔒 · 4 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -17,4 +17,4 @@ Website: <https://bankon.pythai.net>
 | [signatures](https://github.com/poormanvpn/signatures) 🍴 | Cryptographic signature algorithms: DSA, ECDSA, Ed25519 |  | 0 | [code](https://github.com/poormanvpn/signatures/tree/master) · [issues](https://github.com/poormanvpn/signatures/issues) |
 | [ssh2](https://github.com/poormanvpn/ssh2) 🍴 | SSH2 client and server modules written in pure JavaScript for node.js |  | 0 | [code](https://github.com/poormanvpn/ssh2/tree/master) · [issues](https://github.com/poormanvpn/ssh2/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

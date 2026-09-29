@@ -4,7 +4,7 @@
 
 > automatic operating system
 
-**31** repos · 31 public · 0 private 🔒 · 30 forks · 0 archived
+**31** repos · 31 public · 0 private 🔒 · 30 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -40,4 +40,4 @@
 | [weaviate](https://github.com/autonomos-agent/weaviate) 🍴 | Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. |  | 0 | [code](https://github.com/autonomos-agent/weaviate/tree/master) · [issues](https://github.com/autonomos-agent/weaviate/issues) · [site](https://weaviate.io/developers/weaviate/) |
 | [zenml](https://github.com/autonomos-agent/zenml) 🍴 | ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io. |  | 0 | [code](https://github.com/autonomos-agent/zenml/tree/main) · [issues](https://github.com/autonomos-agent/zenml/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

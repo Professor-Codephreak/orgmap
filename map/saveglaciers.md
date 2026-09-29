@@ -4,7 +4,7 @@
 
 > Water is Life
 
-**16** repos · 16 public · 0 private 🔒 · 15 forks · 0 archived
+**16** repos · 16 public · 0 private 🔒 · 15 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -25,4 +25,4 @@
 | [wxm-data-index](https://github.com/SaveGlaciers/wxm-data-index) 🍴 | Repository of WXM data on web3 storage. |  | 0 | [code](https://github.com/SaveGlaciers/wxm-data-index/tree/main) · [issues](https://github.com/SaveGlaciers/wxm-data-index/issues) |
 | [zk-energy-crowdfund](https://github.com/SaveGlaciers/zk-energy-crowdfund) 🍴 | Energy crowdfunding using ZK |  | 0 | [code](https://github.com/SaveGlaciers/zk-energy-crowdfund/tree/main) · [issues](https://github.com/SaveGlaciers/zk-energy-crowdfund/issues) · [site](https://zk-energy-crowdfund.vercel.app) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

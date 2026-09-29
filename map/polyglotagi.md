@@ -6,7 +6,7 @@
 
 Website: <https://pythai.net>
 
-**3** repos · 3 public · 0 private 🔒 · 0 forks · 0 archived
+**3** repos · 3 public · 0 private 🔒 · 0 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -14,4 +14,4 @@ Website: <https://pythai.net>
 | [poly](https://github.com/polyglotAGI/poly) | version one | [Python](https://github.com/orgs/polyglotAGI/repositories?language=python) | 0 | [code](https://github.com/polyglotAGI/poly/tree/main) · [issues](https://github.com/polyglotAGI/poly/issues) |
 | [prompt.md](https://github.com/polyglotAGI/prompt.md) | polyglotAI augmented generative intelliegence |  | 0 | [code](https://github.com/polyglotAGI/prompt.md/tree/main) · [issues](https://github.com/polyglotAGI/prompt.md/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

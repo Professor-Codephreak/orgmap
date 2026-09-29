@@ -6,7 +6,7 @@
 
 Website: <https://spintrade.crypto>
 
-**228** repos · 228 public · 0 private 🔒 · 225 forks · 0 archived
+**228** repos · 228 public · 0 private 🔒 · 225 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -239,4 +239,4 @@ Website: <https://spintrade.crypto>
 | [zilswap-webapp](https://github.com/spintrade/zilswap-webapp) 🍴 | Zilswap Web UI. The AMM-protocol for ZIlliqa. |  | 0 | [code](https://github.com/spintrade/zilswap-webapp/tree/master) · [issues](https://github.com/spintrade/zilswap-webapp/issues) · [site](https://zilswap.io) |
 | [zwap-token](https://github.com/spintrade/zwap-token) 🍴 | $ZWAP token - the valueless governance token for Zilswap |  | 0 | [code](https://github.com/spintrade/zwap-token/tree/master) · [issues](https://github.com/spintrade/zwap-token/issues) · [site](https://zilswap.exchange) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

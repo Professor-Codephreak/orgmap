@@ -4,7 +4,7 @@
 
 > local language machine learning models
 
-**50** repos · 50 public · 0 private 🔒 · 50 forks · 0 archived
+**50** repos · 50 public · 0 private 🔒 · 50 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -59,4 +59,4 @@
 | [WizardLM](https://github.com/mlodels/WizardLM) 🍴 | WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions |  | 0 | [code](https://github.com/mlodels/WizardLM/tree/main) · [issues](https://github.com/mlodels/WizardLM/issues) |
 | [WizardVicunaLM](https://github.com/mlodels/WizardVicunaLM) 🍴 | LLM that combines the principles of wizardLM and vicunaLM |  | 0 | [code](https://github.com/mlodels/WizardVicunaLM/tree/main) · [issues](https://github.com/mlodels/WizardVicunaLM/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

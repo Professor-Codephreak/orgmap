@@ -6,7 +6,7 @@
 
 Website: <https://github.com/Faicey>
 
-**17** repos · 17 public · 0 private 🔒 · 15 forks · 0 archived
+**17** repos · 17 public · 0 private 🔒 · 15 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -28,4 +28,4 @@ Website: <https://github.com/Faicey>
 | [tornado](https://github.com/mlodular/tornado) 🍴 | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. |  | 0 | [code](https://github.com/mlodular/tornado/tree/master) · [issues](https://github.com/mlodular/tornado/issues) · [site](http://www.tornadoweb.org/) |
 | [turf](https://github.com/mlodular/turf) 🍴 | A modular geospatial engine written in JavaScript |  | 0 | [code](https://github.com/mlodular/turf/tree/master) · [issues](https://github.com/mlodular/turf/issues) · [site](http://turfjs.org/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

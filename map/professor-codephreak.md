@@ -2,7 +2,7 @@
 
 [← all organizations](../README.md) · [profile](https://github.com/Professor-Codephreak) · [repositories](https://github.com/Professor-Codephreak?tab=repositories)
 
-**134** repos · 107 public · 27 private 🔒 · 74 forks · 3 archived
+**134** repos · 107 public · 27 private 🔒 · 74 research forks · 3 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -141,4 +141,4 @@
 | [mindX-obsidian](https://github.com/Professor-Codephreak/mindX-obsidian) 📦 | Moved to openmindx/mindX-obsidian — mindX for Obsidian | [TypeScript](https://github.com/Professor-Codephreak?language=typescript) | 0 | [code](https://github.com/Professor-Codephreak/mindX-obsidian/tree/main) · [issues](https://github.com/Professor-Codephreak/mindX-obsidian/issues) · [site](https://github.com/openmindx/mindX-obsidian) |
 | [mindXtrain](https://github.com/Professor-Codephreak/mindXtrain) 📦 | Production training framework for AMD MI300X with 60-second AOT autotune. AMD x lablab.ai hackathon, May 4-10 2026 tested on CPU for coach and imprint from training in classroom | [Python](https://github.com/Professor-Codephreak?language=python) | 0 | [code](https://github.com/Professor-Codephreak/mindXtrain/tree/main) · [issues](https://github.com/Professor-Codephreak/mindXtrain/issues) · [site](https://mindx.pythai.net) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

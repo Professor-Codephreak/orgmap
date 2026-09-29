@@ -6,7 +6,7 @@
 
 Website: <https://deltavthrust.com>
 
-**12** repos · 12 public · 0 private 🔒 · 11 forks · 0 archived
+**12** repos · 12 public · 0 private 🔒 · 11 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -23,4 +23,4 @@ Website: <https://deltavthrust.com>
 | [tezos-metamask-snap](https://github.com/metasnaps/tezos-metamask-snap) 🍴 | tezos metamask snap |  | 0 | [code](https://github.com/metasnaps/tezos-metamask-snap/tree/main) · [issues](https://github.com/metasnaps/tezos-metamask-snap/issues) |
 | [Web3MQ-Snap](https://github.com/metasnaps/Web3MQ-Snap) 🍴 | Web3-native decentralized communication protocol. Encrypted, efficient and borderless. |  | 0 | [code](https://github.com/metasnaps/Web3MQ-Snap/tree/main) · [issues](https://github.com/metasnaps/Web3MQ-Snap/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

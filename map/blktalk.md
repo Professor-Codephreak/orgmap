@@ -4,7 +4,7 @@
 
 > blockchain communication system
 
-**49** repos · 49 public · 0 private 🔒 · 48 forks · 0 archived
+**49** repos · 49 public · 0 private 🔒 · 48 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -58,4 +58,4 @@
 | [zkey-manager](https://github.com/blktalk/zkey-manager) 🍴 | simplifies the process of zkey file management for circuits written in circom |  | 0 | [code](https://github.com/blktalk/zkey-manager/tree/master) · [issues](https://github.com/blktalk/zkey-manager/issues) |
 | [zkp-app-boilerplate](https://github.com/blktalk/zkp-app-boilerplate) 🍴 | Build your zkp app with typescript, hardhat, circom, and snarkjs! |  | 0 | [code](https://github.com/blktalk/zkp-app-boilerplate/tree/main) · [issues](https://github.com/blktalk/zkp-app-boilerplate/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

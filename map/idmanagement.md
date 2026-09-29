@@ -6,7 +6,7 @@
 
 Website: <https://github.com/DeltaVerseDAO>
 
-**215** repos · 215 public · 0 private 🔒 · 210 forks · 0 archived
+**215** repos · 215 public · 0 private 🔒 · 210 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -226,4 +226,4 @@ Website: <https://github.com/DeltaVerseDAO>
 | [xmtp-thirdweb-js](https://github.com/idmanagement/xmtp-thirdweb-js) 🍴 | xmtp-thirdweb-js |  | 0 | [code](https://github.com/idmanagement/xmtp-thirdweb-js/tree/main) · [issues](https://github.com/idmanagement/xmtp-thirdweb-js/issues) |
 | [zapier-nft](https://github.com/idmanagement/zapier-nft) 🍴 | Zapier integration for Non-Fungible Tokens |  | 0 | [code](https://github.com/idmanagement/zapier-nft/tree/master) · [issues](https://github.com/idmanagement/zapier-nft/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

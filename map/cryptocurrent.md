@@ -6,7 +6,7 @@
 
 Website: <http://bankon.me>
 
-**191** repos · 191 public · 0 private 🔒 · 186 forks · 0 archived
+**191** repos · 191 public · 0 private 🔒 · 186 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -202,4 +202,4 @@ Website: <http://bankon.me>
 | [zfs](https://github.com/cryptocurrent/zfs) 🍴 | ZFS on Linux - the official OpenZFS implementation for Linux. | [C](https://github.com/orgs/cryptocurrent/repositories?language=c) | 0 | [code](https://github.com/cryptocurrent/zfs/tree/master) · [issues](https://github.com/cryptocurrent/zfs/issues) · [site](https://zfsonlinux.org/) |
 | [zuper](https://github.com/cryptocurrent/zuper) 🍴 | Zsh Ultimate Programmer's Extensions Refurbished | [Shell](https://github.com/orgs/cryptocurrent/repositories?language=shell) | 0 | [code](https://github.com/cryptocurrent/zuper/tree/master) · [issues](https://github.com/cryptocurrent/zuper/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

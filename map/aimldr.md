@@ -6,7 +6,7 @@
 
 Website: <https://draiml.pythai.net>
 
-**14** repos · 11 public · 3 private 🔒 · 3 forks · 0 archived
+**14** repos · 11 public · 3 private 🔒 · 3 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -25,4 +25,4 @@ Website: <https://draiml.pythai.net>
 | [md-embed](https://github.com/AIMLdr/md-embed) 🍴 |  | [Python](https://github.com/orgs/AIMLdr/repositories?language=python) | 0 | [code](https://github.com/AIMLdr/md-embed/tree/main) · [issues](https://github.com/AIMLdr/md-embed/issues) |
 | [template](https://github.com/AIMLdr/template) 🍴 | MDxAPP | [Python](https://github.com/orgs/AIMLdr/repositories?language=python) | 0 | [code](https://github.com/AIMLdr/template/tree/master) · [issues](https://github.com/AIMLdr/template/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

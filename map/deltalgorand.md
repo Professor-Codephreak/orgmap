@@ -6,7 +6,7 @@
 
 Website: <https://ipfs.io/ipfs/QmTPjokgXv7MQXh6qXzgagDrw2Buqsr52YhttKrn3smrHr/>
 
-**45** repos · 45 public · 0 private 🔒 · 42 forks · 0 archived
+**45** repos · 45 public · 0 private 🔒 · 42 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -56,4 +56,4 @@ Website: <https://ipfs.io/ipfs/QmTPjokgXv7MQXh6qXzgagDrw2Buqsr52YhttKrn3smrHr/>
 | [wen-wallet](https://github.com/deltalgorand/wen-wallet) 🍴 | Make it easier to interact with the assets (or NFTs) of Algorand. |  | 0 | [code](https://github.com/deltalgorand/wen-wallet/tree/main) · [issues](https://github.com/deltalgorand/wen-wallet/issues) · [site](https://wallet.wen.tools/) |
 | [zexe](https://github.com/deltalgorand/zexe) 🍴 | Rust library for decentralized private computation possible GOLEM GLM bridge code |  | 0 | [code](https://github.com/deltalgorand/zexe/tree/master) · [issues](https://github.com/deltalgorand/zexe/issues) · [site](https://eprint.iacr.org/2018/962) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

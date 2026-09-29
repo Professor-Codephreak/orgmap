@@ -6,7 +6,7 @@
 
 Website: <https://deltavthrust.com>
 
-**73** repos · 73 public · 0 private 🔒 · 72 forks · 0 archived
+**73** repos · 73 public · 0 private 🔒 · 72 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -84,4 +84,4 @@ Website: <https://deltavthrust.com>
 | [web3j](https://github.com/webthreejs/web3j) 🍴 | Lightweight Java and Android library for integration with Ethereum clients |  | 0 | [code](https://github.com/webthreejs/web3j/tree/master) · [issues](https://github.com/webthreejs/web3j/issues) · [site](https://www.web3labs.com/web3j-sdk) |
 | [webaudio-oscilloscope](https://github.com/webthreejs/webaudio-oscilloscope) 🍴 | A highly customizable oscilloscope for Web Audio 🔈 🎤 |  | 0 | [code](https://github.com/webthreejs/webaudio-oscilloscope/tree/master) · [issues](https://github.com/webthreejs/webaudio-oscilloscope/issues) · [site](https://npm.im/webaudio-oscilloscope) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

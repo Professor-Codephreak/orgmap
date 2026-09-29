@@ -4,7 +4,7 @@
 
 > Ethereum Virtual Machine Python tools
 
-**83** repos · 83 public · 0 private 🔒 · 81 forks · 0 archived
+**83** repos · 83 public · 0 private 🔒 · 81 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -92,4 +92,4 @@
 | [wen-tools](https://github.com/pyeth/wen-tools) 🍴 | Make it easy to perform bulk functions on Algorand |  | 0 | [code](https://github.com/pyeth/wen-tools/tree/main) · [issues](https://github.com/pyeth/wen-tools/issues) · [site](https://www.wen.tools/) |
 | [zeth](https://github.com/pyeth/zeth) 🍴 | A "Type 0" zkEVM. Prove validity of Ethereum blocks using RISC Zero's zkVM |  | 0 | [code](https://github.com/pyeth/zeth/tree/main) · [issues](https://github.com/pyeth/zeth/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

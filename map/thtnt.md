@@ -6,7 +6,7 @@
 
 Website: <https://tnt.exchange>
 
-**69** repos · 63 public · 6 private 🔒 · 60 forks · 0 archived
+**69** repos · 63 public · 6 private 🔒 · 60 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -80,4 +80,4 @@ Website: <https://tnt.exchange>
 | [zksync-scripting-templates](https://github.com/thTNT/zksync-scripting-templates) 🍴 | Scripting Templates for zkSync: node.js, viem, ethers |  | 0 | [code](https://github.com/thTNT/zksync-scripting-templates/tree/main) · [issues](https://github.com/thTNT/zksync-scripting-templates/issues) |
 | [zksync-web-era-docs](https://github.com/thTNT/zksync-web-era-docs) 🍴 | zkSync Era Documentation |  | 0 | [code](https://github.com/thTNT/zksync-web-era-docs/tree/main) · [issues](https://github.com/thTNT/zksync-web-era-docs/issues) · [site](https://docs.zksync.io/) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

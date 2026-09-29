@@ -6,7 +6,7 @@
 
 Website: <https://deltavthrust.com>
 
-**36** repos · 36 public · 0 private 🔒 · 35 forks · 0 archived
+**36** repos · 36 public · 0 private 🔒 · 35 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -47,4 +47,4 @@ Website: <https://deltavthrust.com>
 | [vue-components](https://github.com/TNTbkc/vue-components) 🍴 | A collection of Vue based components used across application frontends |  | 0 | [code](https://github.com/TNTbkc/vue-components/tree/master) · [issues](https://github.com/TNTbkc/vue-components/issues) |
 | [wrapped-assets](https://github.com/TNTbkc/wrapped-assets) 🍴 | Smart Contract for Wrapped AVAX from Wrapped ETH |  | 0 | [code](https://github.com/TNTbkc/wrapped-assets/tree/main) · [issues](https://github.com/TNTbkc/wrapped-assets/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

@@ -4,7 +4,7 @@
 
 > decentralized front end DAPP development exploration
 
-**130** repos · 128 public · 2 private 🔒 · 121 forks · 0 archived
+**130** repos · 128 public · 2 private 🔒 · 121 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -139,4 +139,4 @@
 | [xmtp-chat-app-nextjs](https://github.com/IPFSdapps/xmtp-chat-app-nextjs) 🍴 | Real-time encrypted chat, built with XMTP and Next.js |  | 0 | [code](https://github.com/IPFSdapps/xmtp-chat-app-nextjs/tree/main) · [issues](https://github.com/IPFSdapps/xmtp-chat-app-nextjs/issues) |
 | [ZILMiner](https://github.com/IPFSdapps/ZILMiner) 🍴 | Mining software for Zilliqa |  | 0 | [code](https://github.com/IPFSdapps/ZILMiner/tree/master) · [issues](https://github.com/IPFSdapps/ZILMiner/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

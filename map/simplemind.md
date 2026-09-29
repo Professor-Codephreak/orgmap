@@ -2,7 +2,7 @@
 
 [← all organizations](../README.md) · [profile](https://github.com/simplemind) · [repositories](https://github.com/simplemind?tab=repositories)
 
-**5** repos · 5 public · 0 private 🔒 · 1 forks · 0 archived
+**5** repos · 5 public · 0 private 🔒 · 1 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -12,4 +12,4 @@
 | [training](https://github.com/simplemind/training) |  |  | 0 | [code](https://github.com/simplemind/training/tree/main) · [issues](https://github.com/simplemind/training/issues) |
 | [express-hello-world](https://github.com/simplemind/express-hello-world) 🍴 | Express Hello World Example on Render https://render.com |  | 0 | [code](https://github.com/simplemind/express-hello-world/tree/master) · [issues](https://github.com/simplemind/express-hello-world/issues) · [site](https://express.app.render.com) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

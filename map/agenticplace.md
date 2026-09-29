@@ -6,7 +6,7 @@
 
 Website: <https://agenticplace.pythai.net>
 
-**80** repos · 30 public · 50 private 🔒 · 17 forks · 0 archived
+**80** repos · 30 public · 50 private 🔒 · 17 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -91,4 +91,4 @@ Website: <https://agenticplace.pythai.net>
 | [ROMA](https://github.com/AgenticPlace/ROMA) 🍴 | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |  | 0 | [code](https://github.com/AgenticPlace/ROMA/tree/main) · [issues](https://github.com/AgenticPlace/ROMA/issues) |
 | [SimpleMem](https://github.com/AgenticPlace/SimpleMem) 🍴 | SimpleMem: Efficient Lifelong Memory for LLM Agents |  | 0 | [code](https://github.com/AgenticPlace/SimpleMem/tree/main) · [issues](https://github.com/AgenticPlace/SimpleMem/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived

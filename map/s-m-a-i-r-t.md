@@ -6,7 +6,7 @@
 
 Website: <https://chatgpt.com/g/g-u4IfR8OVL-s-m-a-i-r-t>
 
-**27** repos · 24 public · 3 private 🔒 · 24 forks · 0 archived
+**27** repos · 24 public · 3 private 🔒 · 24 research forks · 0 archived
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
@@ -38,4 +38,4 @@ Website: <https://chatgpt.com/g/g-u4IfR8OVL-s-m-a-i-r-t>
 | [verdictvault](https://github.com/S-M-A-I-R-T/verdictvault) 🍴 | Verdict Vault ensures that agreements between clients and freelancers are securely enforced, transparent, and resistant to manipulation. |  | 0 | [code](https://github.com/S-M-A-I-R-T/verdictvault/tree/main) · [issues](https://github.com/S-M-A-I-R-T/verdictvault/issues) |
 | [zkevm-contracts](https://github.com/S-M-A-I-R-T/zkevm-contracts) 🍴 | Polygon zkEVM Smart Contracts |  | 0 | [code](https://github.com/S-M-A-I-R-T/zkevm-contracts/tree/main) · [issues](https://github.com/S-M-A-I-R-T/zkevm-contracts/issues) |
 
-🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
