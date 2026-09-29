@@ -226,4 +226,4 @@ Website: <https://github.com/DeltaVerseDAO>
 | [xmtp-thirdweb-js](https://github.com/idmanagement/xmtp-thirdweb-js) 🍴 | xmtp-thirdweb-js |  | 0 | [code](https://github.com/idmanagement/xmtp-thirdweb-js/tree/main) · [issues](https://github.com/idmanagement/xmtp-thirdweb-js/issues) |
 | [zapier-nft](https://github.com/idmanagement/zapier-nft) 🍴 | Zapier integration for Non-Fungible Tokens |  | 0 | [code](https://github.com/idmanagement/zapier-nft/tree/master) · [issues](https://github.com/idmanagement/zapier-nft/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

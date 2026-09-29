@@ -42,4 +42,4 @@ Website: <https://github.com/DAONOW>
 | [webrelay](https://github.com/web3buysell/webrelay) 🍴 | Relay node to bridge the browser and desktop networks |  | 0 | [code](https://github.com/web3buysell/webrelay/tree/master) · [issues](https://github.com/web3buysell/webrelay/issues) |
 | [zcashd-wallet](https://github.com/web3buysell/zcashd-wallet) 🍴 | OpenBazaar plugin for a zcashd based wallet |  | 0 | [code](https://github.com/web3buysell/zcashd-wallet/tree/master) · [issues](https://github.com/web3buysell/zcashd-wallet/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -12,7 +12,7 @@
 | [easyAGI](https://github.com/autoGLM/easyAGI) | Autonomous General Learning Model framework not integrated version of modules | [Python](https://github.com/orgs/autoGLM/repositories?language=python) | 2 | [code](https://github.com/autoGLM/easyAGI/tree/main) · [issues](https://github.com/autoGLM/easyAGI/issues) · [site](https://rage.pythai.net) |
 | [README-md](https://github.com/autoGLM/README-md) | Autonomous General Learning Model |  | 1 | [code](https://github.com/autoGLM/README-md/tree/main) · [issues](https://github.com/autoGLM/README-md/issues) |
 | [.github](https://github.com/autoGLM/.github) |  |  | 0 | [code](https://github.com/autoGLM/.github/tree/main) · [issues](https://github.com/autoGLM/.github/issues) |
-| [easyGLM](https://github.com/autoGLM/easyGLM) 🔒 | easy General Learning Model | [Python](https://github.com/orgs/autoGLM/repositories?language=python) | 0 | [code](https://github.com/autoGLM/easyGLM/tree/main) |
+| [easyGLM](https://github.com/autoGLM/easyGLM) 🔒 | easy General Learning Model | | | `github.com/autoGLM/easyGLM` |
 | [anything-llm](https://github.com/autoGLM/anything-llm) 🍴 | The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities. |  | 1 | [code](https://github.com/autoGLM/anything-llm/tree/master) · [issues](https://github.com/autoGLM/anything-llm/issues) · [site](https://useanything.com) |
 | [automindx](https://github.com/autoGLM/automindx) 🍴 | Professor Codephreak local language model in pursuit of agency. codephreak has a desire to create automind from aGLM |  | 1 | [code](https://github.com/autoGLM/automindx/tree/main) · [issues](https://github.com/autoGLM/automindx/issues) · [site](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523065871282208769) |
 | [ollama-webui-lite](https://github.com/autoGLM/ollama-webui-lite) 🍴 | Ollama WebUI Stripped 🦙 |  | 1 | [code](https://github.com/autoGLM/ollama-webui-lite/tree/main) · [issues](https://github.com/autoGLM/ollama-webui-lite/issues) · [site](https://ollamahub.com/) |
@@ -58,4 +58,4 @@
 | [RAGLM](https://github.com/autoGLM/RAGLM) 🍴 | Microsoft Node Engine as a Python service to execute computational flow designed for rapid prototyping of machine learning services and applications |  | 0 | [code](https://github.com/autoGLM/RAGLM/tree/main) · [issues](https://github.com/autoGLM/RAGLM/issues) |
 | [unsloth](https://github.com/autoGLM/unsloth) 🍴 | 2-5X faster 80% less memory LLM finetuning |  | 0 | [code](https://github.com/autoGLM/unsloth/tree/main) · [issues](https://github.com/autoGLM/unsloth/issues) · [site](https://unsloth.ai) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -1,0 +1,40 @@
+# [AUTOMINDx](https://github.com/AUTOMINDx)
+
+[← all organizations](../README.md) · [profile](https://github.com/AUTOMINDx) · [repositories](https://github.com/orgs/AUTOMINDx/repositories) · [people](https://github.com/orgs/AUTOMINDx/people)
+
+> AIML Automated Intelligent Machine Learning AIMLx
+
+**28** repos · 28 public · 0 private 🔒 · 23 forks · 0 archived
+
+| Repository | Description | Language | ★ | Links |
+|---|---|---|--:|---|
+| [memory](https://github.com/AUTOMINDx/memory) | scripts to create long term memory contextual storage in for a language model | [Python](https://github.com/orgs/AUTOMINDx/repositories?language=python) | 1 | [code](https://github.com/AUTOMINDx/memory/tree/main) · [issues](https://github.com/AUTOMINDx/memory/issues) |
+| [.github](https://github.com/AUTOMINDx/.github) | AIML Automated Intelligent Machine Learning |  | 0 | [code](https://github.com/AUTOMINDx/.github/tree/main) · [issues](https://github.com/AUTOMINDx/.github/issues) |
+| [datasets](https://github.com/AUTOMINDx/datasets) | repository to control dataset imports | [Python](https://github.com/orgs/AUTOMINDx/repositories?language=python) | 0 | [code](https://github.com/AUTOMINDx/datasets/tree/main) · [issues](https://github.com/AUTOMINDx/datasets/issues) |
+| [injest.py](https://github.com/AUTOMINDx/injest.py) | PrivateGPT injest script |  | 0 | [code](https://github.com/AUTOMINDx/injest.py/tree/main) · [issues](https://github.com/AUTOMINDx/injest.py/issues) |
+| [promptkey](https://github.com/AUTOMINDx/promptkey) | prompt keyword as prompt action | [JavaScript](https://github.com/orgs/AUTOMINDx/repositories?language=javascript) | 0 | [code](https://github.com/AUTOMINDx/promptkey/tree/main) · [issues](https://github.com/AUTOMINDx/promptkey/issues) |
+| [bitsandbytes](https://github.com/AUTOMINDx/bitsandbytes) 🍴 | 8-bit CUDA functions for PyTorch |  | 1 | [code](https://github.com/AUTOMINDx/bitsandbytes/tree/main) · [issues](https://github.com/AUTOMINDx/bitsandbytes/issues) |
+| [CoreObjectiveFunctions](https://github.com/AUTOMINDx/CoreObjectiveFunctions) 🍴 | The Core Objective Functions are the solution to the Control Problem. They will result in a benevolent and trustworthy AGI. |  | 1 | [code](https://github.com/AUTOMINDx/CoreObjectiveFunctions/tree/main) · [issues](https://github.com/AUTOMINDx/CoreObjectiveFunctions/issues) |
+| [databerry](https://github.com/AUTOMINDx/databerry) 🍴 | The no-code platform for building custom LLM Agents |  | 1 | [code](https://github.com/AUTOMINDx/databerry/tree/main) · [issues](https://github.com/AUTOMINDx/databerry/issues) · [site](https://chaindesk.ai) |
+| [ipfsPython](https://github.com/AUTOMINDx/ipfsPython) 🍴 | upload files to ipfs in python | [Python](https://github.com/orgs/AUTOMINDx/repositories?language=python) | 1 | [code](https://github.com/AUTOMINDx/ipfsPython/tree/main) · [issues](https://github.com/AUTOMINDx/ipfsPython/issues) |
+| [koboldcpp](https://github.com/AUTOMINDx/koboldcpp) 🍴 | A simple one-file way to run various GGML models with KoboldAI's UI |  | 1 | [code](https://github.com/AUTOMINDx/koboldcpp/tree/concedo) · [issues](https://github.com/AUTOMINDx/koboldcpp/issues) |
+| [aider](https://github.com/AUTOMINDx/aider) 🍴 | aider is GPT powered coding in your terminal |  | 0 | [code](https://github.com/AUTOMINDx/aider/tree/main) · [issues](https://github.com/AUTOMINDx/aider/issues) · [site](https://aider.chat/) |
+| [any2dataset](https://github.com/AUTOMINDx/any2dataset) 🍴 | Turn any collection of files into a dataset |  | 0 | [code](https://github.com/AUTOMINDx/any2dataset/tree/main) · [issues](https://github.com/AUTOMINDx/any2dataset/issues) |
+| [audio2dataset](https://github.com/AUTOMINDx/audio2dataset) 🍴 | Easily turn large sets of audio urls to an audio dataset. |  | 0 | [code](https://github.com/AUTOMINDx/audio2dataset/tree/main) · [issues](https://github.com/AUTOMINDx/audio2dataset/issues) |
+| [cc2dataset](https://github.com/AUTOMINDx/cc2dataset) 🍴 | Easily convert common crawl to a dataset of caption and document. Image/text Audio/text Video/text, ... |  | 0 | [code](https://github.com/AUTOMINDx/cc2dataset/tree/main) · [issues](https://github.com/AUTOMINDx/cc2dataset/issues) |
+| [ChatHTMX](https://github.com/AUTOMINDx/ChatHTMX) 🍴 | A ChatGPT clone in HTMX and PHP |  | 0 | [code](https://github.com/AUTOMINDx/ChatHTMX/tree/master) · [issues](https://github.com/AUTOMINDx/ChatHTMX/issues) |
+| [CLBlast](https://github.com/AUTOMINDx/CLBlast) 🍴 | Tuned OpenCL BLAS |  | 0 | [code](https://github.com/AUTOMINDx/CLBlast/tree/master) · [issues](https://github.com/AUTOMINDx/CLBlast/issues) |
+| [ctags](https://github.com/AUTOMINDx/ctags) 🍴 | A maintained ctags implementation |  | 0 | [code](https://github.com/AUTOMINDx/ctags/tree/master) · [issues](https://github.com/AUTOMINDx/ctags/issues) · [site](https://ctags.io) |
+| [ctransformers](https://github.com/AUTOMINDx/ctransformers) 🍴 | Python bindings for the Transformer models implemented in C/C++ using GGML library. |  | 0 | [code](https://github.com/AUTOMINDx/ctransformers/tree/main) · [issues](https://github.com/AUTOMINDx/ctransformers/issues) |
+| [exllama](https://github.com/AUTOMINDx/exllama) 🍴 | A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. |  | 0 | [code](https://github.com/AUTOMINDx/exllama/tree/master) · [issues](https://github.com/AUTOMINDx/exllama/issues) |
+| [gpt-ai-agent](https://github.com/AUTOMINDx/gpt-ai-agent) 🍴 | AI Agent Demo Using GPT Function Calling |  | 0 | [code](https://github.com/AUTOMINDx/gpt-ai-agent/tree/master) · [issues](https://github.com/AUTOMINDx/gpt-ai-agent/issues) |
+| [huggingface.js](https://github.com/AUTOMINDx/huggingface.js) 🍴 | Utilities to use the Hugging Face hub API |  | 0 | [code](https://github.com/AUTOMINDx/huggingface.js/tree/main) · [issues](https://github.com/AUTOMINDx/huggingface.js/issues) · [site](https://hf.co/docs/huggingface.js) |
+| [img2dataset](https://github.com/AUTOMINDx/img2dataset) 🍴 | Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine. |  | 0 | [code](https://github.com/AUTOMINDx/img2dataset/tree/main) · [issues](https://github.com/AUTOMINDx/img2dataset/issues) |
+| [Llama-2-Open-Source-LLM-CPU-Inference](https://github.com/AUTOMINDx/Llama-2-Open-Source-LLM-CPU-Inference) 🍴 | Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A |  | 0 | [code](https://github.com/AUTOMINDx/Llama-2-Open-Source-LLM-CPU-Inference/tree/main) · [issues](https://github.com/AUTOMINDx/Llama-2-Open-Source-LLM-CPU-Inference/issues) · [site](https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) |
+| [llama-cpp-python](https://github.com/AUTOMINDx/llama-cpp-python) 🍴 | Python bindings for llama.cpp |  | 0 | [code](https://github.com/AUTOMINDx/llama-cpp-python/tree/main) · [issues](https://github.com/AUTOMINDx/llama-cpp-python/issues) · [site](https://llama-cpp-python.readthedocs.io) |
+| [OpenBLAS](https://github.com/AUTOMINDx/OpenBLAS) 🍴 | OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. |  | 0 | [code](https://github.com/AUTOMINDx/OpenBLAS/tree/develop) · [issues](https://github.com/AUTOMINDx/OpenBLAS/issues) · [site](http://www.openblas.net) |
+| [OpenCL-SDK](https://github.com/AUTOMINDx/OpenCL-SDK) 🍴 | OpenCL SDK |  | 0 | [code](https://github.com/AUTOMINDx/OpenCL-SDK/tree/main) · [issues](https://github.com/AUTOMINDx/OpenCL-SDK/issues) |
+| [php-gpt-funcs](https://github.com/AUTOMINDx/php-gpt-funcs) 🍴 | GPT-4 Function Calling Example in PHP |  | 0 | [code](https://github.com/AUTOMINDx/php-gpt-funcs/tree/master) · [issues](https://github.com/AUTOMINDx/php-gpt-funcs/issues) |
+| [puppeteer-gpt](https://github.com/AUTOMINDx/puppeteer-gpt) 🍴 | Control the browser with ChatGPT API |  | 0 | [code](https://github.com/AUTOMINDx/puppeteer-gpt/tree/master) · [issues](https://github.com/AUTOMINDx/puppeteer-gpt/issues) |
+
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

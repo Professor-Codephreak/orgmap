@@ -12,4 +12,4 @@
 | [git-basics](https://github.com/simplecode/git-basics) 🍴 | Repository for Git course. |  | 0 | [code](https://github.com/simplecode/git-basics/tree/main) · [issues](https://github.com/simplecode/git-basics/issues) |
 | [git-fork-case](https://github.com/simplecode/git-fork-case) 🍴 | Repository for git fork case. |  | 0 | [code](https://github.com/simplecode/git-fork-case/tree/main) · [issues](https://github.com/simplecode/git-fork-case/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

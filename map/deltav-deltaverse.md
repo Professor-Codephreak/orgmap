@@ -15,7 +15,7 @@ Website: <https://unstoppabledomains.com/d/deltaverse.dao>
 | [.github](https://github.com/deltav-deltaverse/.github) | DELTAVERSE |  | 0 | [code](https://github.com/deltav-deltaverse/.github/tree/main) · [issues](https://github.com/deltav-deltaverse/.github/issues) |
 | [metadao](https://github.com/deltav-deltaverse/metadao) | Inspired by metadao |  | 0 | [code](https://github.com/deltav-deltaverse/metadao/tree/main) · [issues](https://github.com/deltav-deltaverse/metadao/issues) |
 | [NeuralNode](https://github.com/deltav-deltaverse/NeuralNode) | DeltaVerse Engine with NeuralNode BubbleRooms v1 expression | [TypeScript](https://github.com/orgs/deltav-deltaverse/repositories?language=typescript) | 0 | [code](https://github.com/deltav-deltaverse/NeuralNode/tree/main) · [issues](https://github.com/deltav-deltaverse/NeuralNode/issues) |
-| [p2p](https://github.com/deltav-deltaverse/p2p) 🔒 | Tux and Doze make world | [TypeScript](https://github.com/orgs/deltav-deltaverse/repositories?language=typescript) | 0 | [code](https://github.com/deltav-deltaverse/p2p/tree/main) · [site](https://deltaverse.pythai.net) |
+| [p2p](https://github.com/deltav-deltaverse/p2p) 🔒 | Tux and Doze make world | | | `github.com/deltav-deltaverse/p2p` |
 | [react-input-autosize](https://github.com/deltav-deltaverse/react-input-autosize) | input autosize for react |  | 0 | [code](https://github.com/deltav-deltaverse/react-input-autosize/tree/main) · [issues](https://github.com/deltav-deltaverse/react-input-autosize/issues) |
 | [sfuel-station](https://github.com/deltav-deltaverse/sfuel-station) | SFuel Faucet UI for the SKALEVERSE |  | 0 | [code](https://github.com/deltav-deltaverse/sfuel-station/tree/development) · [issues](https://github.com/deltav-deltaverse/sfuel-station/issues) |
 | [ArweaveWebWallet](https://github.com/deltav-deltaverse/ArweaveWebWallet) 🍴 | The arweave.app source files |  | 1 | [code](https://github.com/deltav-deltaverse/ArweaveWebWallet/tree/master) · [issues](https://github.com/deltav-deltaverse/ArweaveWebWallet/issues) · [site](https://arweave.app) |
@@ -138,4 +138,4 @@ Website: <https://unstoppabledomains.com/d/deltaverse.dao>
 | [zilliqa-staking-contract](https://github.com/deltav-deltaverse/zilliqa-staking-contract) 🍴 | This repository is the central portal that collates together the contracts, documentations around them, unit tests, and scripts to deploy and run the contracts on the network. |  | 0 | [code](https://github.com/deltav-deltaverse/zilliqa-staking-contract/tree/main) · [issues](https://github.com/deltav-deltaverse/zilliqa-staking-contract/issues) |
 | [ZRC](https://github.com/deltav-deltaverse/ZRC) 🍴 | Zilliqa Reference Contracts |  | 0 | [code](https://github.com/deltav-deltaverse/ZRC/tree/main) · [issues](https://github.com/deltav-deltaverse/ZRC/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

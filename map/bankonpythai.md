@@ -10,12 +10,12 @@
 |---|---|---|--:|---|
 | [testnet-contracts](https://github.com/BANKONPYTHAI/testnet-contracts) | protocol contracts for the qubic testnet. use at own risk | [C++](https://github.com/orgs/BANKONPYTHAI/repositories?language=c++) | 1 | [code](https://github.com/BANKONPYTHAI/testnet-contracts/tree/main) · [issues](https://github.com/BANKONPYTHAI/testnet-contracts/issues) |
 | [.github](https://github.com/BANKONPYTHAI/.github) | BANKONPYTHAI organization profile |  | 0 | [code](https://github.com/BANKONPYTHAI/.github/tree/main) · [issues](https://github.com/BANKONPYTHAI/.github/issues) |
-| [contract](https://github.com/BANKONPYTHAI/contract) 🔒 | contract development folder from version one as BP to deployment version as BANKONPYTHAI |  | 0 | [code](https://github.com/BANKONPYTHAI/contract/tree/main) |
+| [contract](https://github.com/BANKONPYTHAI/contract) 🔒 | contract development folder from version one as BP to deployment version as BANKONPYTHAI | | | `github.com/BANKONPYTHAI/contract` |
 | [docs](https://github.com/BANKONPYTHAI/docs) | project development stage 1 |  | 0 | [code](https://github.com/BANKONPYTHAI/docs/tree/main) · [issues](https://github.com/BANKONPYTHAI/docs/issues) |
-| [qOracle](https://github.com/BANKONPYTHAI/qOracle) 🔒 |  | [C++](https://github.com/orgs/BANKONPYTHAI/repositories?language=c++) | 0 | [code](https://github.com/BANKONPYTHAI/qOracle/tree/main) |
+| [qOracle](https://github.com/BANKONPYTHAI/qOracle) 🔒 |  | | | `github.com/BANKONPYTHAI/qOracle` |
 | [qOracleAlpha](https://github.com/BANKONPYTHAI/qOracleAlpha) | devnet deployment rc1 for testnet iteration version 1 alpha | [C++](https://github.com/orgs/BANKONPYTHAI/repositories?language=c++) | 0 | [code](https://github.com/BANKONPYTHAI/qOracleAlpha/tree/main) · [issues](https://github.com/BANKONPYTHAI/qOracleAlpha/issues) |
 | [qpi](https://github.com/BANKONPYTHAI/qpi) | iteration version 2 testnet ready alpha | [C++](https://github.com/orgs/BANKONPYTHAI/repositories?language=c++) | 0 | [code](https://github.com/BANKONPYTHAI/qpi/tree/main) · [issues](https://github.com/BANKONPYTHAI/qpi/issues) |
-| [qpibeta](https://github.com/BANKONPYTHAI/qpibeta) 🔒 |  | [C++](https://github.com/orgs/BANKONPYTHAI/repositories?language=c++) | 0 | [code](https://github.com/BANKONPYTHAI/qpibeta/tree/main) |
+| [qpibeta](https://github.com/BANKONPYTHAI/qpibeta) 🔒 |  | | | `github.com/BANKONPYTHAI/qpibeta` |
 | [clarinet](https://github.com/BANKONPYTHAI/clarinet) 🍴 | Write, test and deploy high-quality smart contracts to the Stacks blockchain and Bitcoin. | [Rust](https://github.com/orgs/BANKONPYTHAI/repositories?language=rust) | 1 | [code](https://github.com/BANKONPYTHAI/clarinet/tree/main) · [issues](https://github.com/BANKONPYTHAI/clarinet/issues) · [site](https://hiro.so/clarinet) |
 | [Qubic-Integration](https://github.com/BANKONPYTHAI/Qubic-Integration) 🍴 | Documentation detailing how to interact with Qubic blockchain |  | 1 | [code](https://github.com/BANKONPYTHAI/Qubic-Integration/tree/main) · [issues](https://github.com/BANKONPYTHAI/Qubic-Integration/issues) · [site](https://qubic.github.io/integration/) |
 | [qwallet-dapp](https://github.com/BANKONPYTHAI/qwallet-dapp) 🍴 | qubic wallet app to qwallet dapp |  | 1 | [code](https://github.com/BANKONPYTHAI/qwallet-dapp/tree/main) · [issues](https://github.com/BANKONPYTHAI/qwallet-dapp/issues) |
@@ -32,4 +32,4 @@
 | [stacks-pyth-bridge](https://github.com/BANKONPYTHAI/stacks-pyth-bridge) 🍴 | Retrieve trading pairs (BTC-USD, STX-USD, etc) from Clarity smart contracts. |  | 0 | [code](https://github.com/BANKONPYTHAI/stacks-pyth-bridge/tree/clarity-v3) · [issues](https://github.com/BANKONPYTHAI/stacks-pyth-bridge/issues) |
 | [ts-library-qubic](https://github.com/BANKONPYTHAI/ts-library-qubic) 🍴 | TypeScript Qubic Library |  | 0 | [code](https://github.com/BANKONPYTHAI/ts-library-qubic/tree/main) · [issues](https://github.com/BANKONPYTHAI/ts-library-qubic/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

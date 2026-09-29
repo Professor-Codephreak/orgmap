@@ -14,6 +14,12 @@ for u in ['simplemind','simplecode','sAGI']:
     try:
         r=gh(f'users/{u}/repos?per_page=100&type=owner'); out['users'][u]={'meta':{},'repos':r}; print(u,len(r))
     except subprocess.CalledProcessError as e: print(u,'ERR',e.stderr[:100])
+RELATED=['automindx','bankonme','bankonmecoin','cryptocurrent','faicey','jaimla','mlodels','mlodular','spintrade']  # estate orgs held outside this account
+out['related']={}
+for o in RELATED:
+    meta=json.loads(subprocess.run(['gh','api',f'orgs/{o}'],capture_output=True,text=True).stdout)
+    out['related'][meta['login']]={'meta':{k:meta.get(k) for k in ('name','description','blog','html_url','login')},'repos':gh(f'orgs/{o}/repos?per_page=100&type=public')}
+    print(meta['login'],len(out['related'][meta['login']]['repos']))
 KEEP=('name','full_name','html_url','description','private','fork','archived','homepage','language','stargazers_count','pushed_at','default_branch','parent')
 for grp in out.values():
     for v in grp.values():

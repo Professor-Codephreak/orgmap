@@ -13,4 +13,4 @@
 | [explorer](https://github.com/daisychn/explorer) 🍴 | Explorer for Solana clusters |  | 0 | [code](https://github.com/daisychn/explorer/tree/master) · [issues](https://github.com/daisychn/explorer/issues) · [site](https://explorer.solana.com) |
 | [synthetix](https://github.com/daisychn/synthetix) 🍴 | Synthetix Solidity smart contracts |  | 0 | [code](https://github.com/daisychn/synthetix/tree/develop) · [issues](https://github.com/daisychn/synthetix/issues) · [site](https://synthetix.io/) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

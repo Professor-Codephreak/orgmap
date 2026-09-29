@@ -20,4 +20,4 @@
 | [valan](https://github.com/trainair/valan) 🍴 | Vision and Language Agent Navigation |  | 0 | [code](https://github.com/trainair/valan/tree/master) · [issues](https://github.com/trainair/valan/issues) |
 | [visu3d](https://github.com/trainair/visu3d) 🍴 | 3d without friction (Torch, TF, Jax, Numpy) |  | 0 | [code](https://github.com/trainair/visu3d/tree/main) · [issues](https://github.com/trainair/visu3d/issues) · [site](https://visu3d.readthedocs.io/) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

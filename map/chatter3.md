@@ -52,4 +52,4 @@
 | [xmtp-web](https://github.com/chatter3/xmtp-web) 🍴 | XMTP web SDKs and examples, including a React SDK and quickstart example app |  | 0 | [code](https://github.com/chatter3/xmtp-web/tree/main) · [issues](https://github.com/chatter3/xmtp-web/issues) · [site](https://xmtp.github.io/xmtp-web/) |
 | [xmtpd](https://github.com/chatter3/xmtpd) 🍴 | XMTP node implementation. |  | 0 | [code](https://github.com/chatter3/xmtpd/tree/main) · [issues](https://github.com/chatter3/xmtpd/issues) · [site](https://docs.xmtp.org) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

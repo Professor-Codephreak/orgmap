@@ -11,7 +11,7 @@ Website: <http://deltavthrust.com>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/DeltaLabratory/.github) | DeltaLab place to make a mess and hold random source code as necessary when editing |  | 0 | [code](https://github.com/DeltaLabratory/.github/tree/main) · [issues](https://github.com/DeltaLabratory/.github/issues) |
-| [hardhat1](https://github.com/DeltaLabratory/hardhat1) 🔒 | test grounds for hardhat | [JavaScript](https://github.com/orgs/DeltaLabratory/repositories?language=javascript) | 0 | [code](https://github.com/DeltaLabratory/hardhat1/tree/master) |
+| [hardhat1](https://github.com/DeltaLabratory/hardhat1) 🔒 | test grounds for hardhat | | | `github.com/DeltaLabratory/hardhat1` |
 | [interface1](https://github.com/DeltaLabratory/interface1) | hardhat interface point of departure experiment 1 | [JavaScript](https://github.com/orgs/DeltaLabratory/repositories?language=javascript) | 0 | [code](https://github.com/DeltaLabratory/interface1/tree/master) · [issues](https://github.com/DeltaLabratory/interface1/issues) |
 | [GETHDocker](https://github.com/DeltaLabratory/GETHDocker) 🍴 | Running GETH from Docker Container |  | 1 | [code](https://github.com/DeltaLabratory/GETHDocker/tree/master) · [issues](https://github.com/DeltaLabratory/GETHDocker/issues) |
 | [ipfs-linux-service](https://github.com/DeltaLabratory/ipfs-linux-service) 🍴 | Run the IPFS daemon as a Linux system init daemon |  | 1 | [code](https://github.com/DeltaLabratory/ipfs-linux-service/tree/master) · [issues](https://github.com/DeltaLabratory/ipfs-linux-service/issues) |
@@ -104,4 +104,4 @@ Website: <http://deltavthrust.com>
 | [webglearth2](https://github.com/DeltaLabratory/webglearth2) 🍴 | deltaverse web3D - the source code of the project |  | 0 | [code](https://github.com/DeltaLabratory/webglearth2/tree/master) · [issues](https://github.com/DeltaLabratory/webglearth2/issues) · [site](https://ipfs://deltaverse.dao) |
 | [zilliqa-multisig-wallet](https://github.com/DeltaLabratory/zilliqa-multisig-wallet) 🍴 | zilliqa multisig wallet |  | 0 | [code](https://github.com/DeltaLabratory/zilliqa-multisig-wallet/tree/master) · [issues](https://github.com/DeltaLabratory/zilliqa-multisig-wallet/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

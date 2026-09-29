@@ -69,4 +69,4 @@ Website: <https://ipfs.io/ipfs/QmTPjokgXv7MQXh6qXzgagDrw2Buqsr52YhttKrn3smrHr/>
 | [zns-escrow](https://github.com/deltastorage/zns-escrow) 🍴 | Contracts and tools to help trade ZNS domains. |  | 0 | [code](https://github.com/deltastorage/zns-escrow/tree/master) · [issues](https://github.com/deltastorage/zns-escrow/issues) · [site](https://unstoppabledomains.com) |
 | [ZRC](https://github.com/deltastorage/ZRC) 🍴 | Zilliqa Reference Contracts |  | 0 | [code](https://github.com/deltastorage/ZRC/tree/main) · [issues](https://github.com/deltastorage/ZRC/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

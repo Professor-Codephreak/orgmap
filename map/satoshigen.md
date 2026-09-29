@@ -30,4 +30,4 @@ Website: <https://pythai.net/>
 | [unisat-web3-demo](https://github.com/satoshigen/unisat-web3-demo) 🍴 | unisat web3 ordinal example demo |  | 0 | [code](https://github.com/satoshigen/unisat-web3-demo/tree/master) · [issues](https://github.com/satoshigen/unisat-web3-demo/issues) |
 | [wallet-utils](https://github.com/satoshigen/wallet-utils) 🍴 | unisat ordinal wallet utilities |  | 0 | [code](https://github.com/satoshigen/wallet-utils/tree/master) · [issues](https://github.com/satoshigen/wallet-utils/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -84,4 +84,4 @@ Website: <https://chat.openai.com/g/g-NO8ax8aMU-mastermind>
 | [Video-Pre-Training](https://github.com/gpt4plugins/Video-Pre-Training) 🍴 | Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos |  | 0 | [code](https://github.com/gpt4plugins/Video-Pre-Training/tree/main) · [issues](https://github.com/gpt4plugins/Video-Pre-Training/issues) |
 | [whisper](https://github.com/gpt4plugins/whisper) 🍴 | Robust Speech Recognition via Large-Scale Weak Supervision |  | 0 | [code](https://github.com/gpt4plugins/whisper/tree/main) · [issues](https://github.com/gpt4plugins/whisper/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

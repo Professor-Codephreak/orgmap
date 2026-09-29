@@ -47,4 +47,4 @@ Website: <https://deltavthrust.com>
 | [vue-components](https://github.com/TNTbkc/vue-components) 🍴 | A collection of Vue based components used across application frontends |  | 0 | [code](https://github.com/TNTbkc/vue-components/tree/master) · [issues](https://github.com/TNTbkc/vue-components/issues) |
 | [wrapped-assets](https://github.com/TNTbkc/wrapped-assets) 🍴 | Smart Contract for Wrapped AVAX from Wrapped ETH |  | 0 | [code](https://github.com/TNTbkc/wrapped-assets/tree/main) · [issues](https://github.com/TNTbkc/wrapped-assets/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -27,4 +27,4 @@ Website: <https://bankon.pythai.net>
 | [wei](https://github.com/cypherpunk4096/wei) | THE WEI OF LUV — the arithmetic paper: born at ten wei, the price at full 18-decimal precision, the uint112 seed, the atomic ladder of on-chain money. cypherpunk4096 standard. |  | 0 | [code](https://github.com/cypherpunk4096/wei/tree/main) · [issues](https://github.com/cypherpunk4096/wei/issues) |
 | [bitcoin](https://github.com/cypherpunk4096/bitcoin) 🍴 | Bitcoin Core — pinned at v31.0 (the immutable upstream v31.0 tag in this fork), the exact node version shipped with BANKON BTC WaaS v0.0.2 |  | 0 | [code](https://github.com/cypherpunk4096/bitcoin/tree/master) · [issues](https://github.com/cypherpunk4096/bitcoin/issues) · [site](https://github.com/cypherpunk4096/BANKONBTCWaaS) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

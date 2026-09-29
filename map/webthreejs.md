@@ -84,4 +84,4 @@ Website: <https://deltavthrust.com>
 | [web3j](https://github.com/webthreejs/web3j) 🍴 | Lightweight Java and Android library for integration with Ethereum clients |  | 0 | [code](https://github.com/webthreejs/web3j/tree/master) · [issues](https://github.com/webthreejs/web3j/issues) · [site](https://www.web3labs.com/web3j-sdk) |
 | [webaudio-oscilloscope](https://github.com/webthreejs/webaudio-oscilloscope) 🍴 | A highly customizable oscilloscope for Web Audio 🔈 🎤 |  | 0 | [code](https://github.com/webthreejs/webaudio-oscilloscope/tree/master) · [issues](https://github.com/webthreejs/webaudio-oscilloscope/issues) · [site](https://npm.im/webaudio-oscilloscope) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

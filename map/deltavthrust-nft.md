@@ -182,4 +182,4 @@ Website: <https://ipfs.io/ipfs/QmbrtbkZyPT8ZtTYDQhtfDTEHuoTiayFZ8vXoXEPepuYS9/>
 | [youtube-tutorials](https://github.com/DeltaVThrust-NFT/youtube-tutorials) 🍴 | youtube tutorials for web3 progression |  | 0 | [code](https://github.com/DeltaVThrust-NFT/youtube-tutorials/tree/main) · [issues](https://github.com/DeltaVThrust-NFT/youtube-tutorials/issues) |
 | [zora-drops-contracts](https://github.com/DeltaVThrust-NFT/zora-drops-contracts) 🍴 | Zora drops contracts (powers create.zora.co) |  | 0 | [code](https://github.com/DeltaVThrust-NFT/zora-drops-contracts/tree/main) · [issues](https://github.com/DeltaVThrust-NFT/zora-drops-contracts/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

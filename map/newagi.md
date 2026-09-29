@@ -13,4 +13,4 @@ Website: <https://rage.pythai.net>
 | [.github](https://github.com/newagi/.github) | newagi organization profile |  | 0 | [code](https://github.com/newagi/.github/tree/main) · [issues](https://github.com/newagi/.github/issues) |
 | [README.md](https://github.com/newagi/README.md) | neural enhance wisdom augmented generative intelligence |  | 0 | [code](https://github.com/newagi/README.md/tree/main) · [issues](https://github.com/newagi/README.md/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

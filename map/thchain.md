@@ -66,4 +66,4 @@
 | [wasmer-python](https://github.com/THCHAIN/wasmer-python) 🍴 | 🐍🕸 WebAssembly runtime for Python |  | 0 | [code](https://github.com/THCHAIN/wasmer-python/tree/master) · [issues](https://github.com/THCHAIN/wasmer-python/issues) · [site](https://wasmer.io) |
 | [web](https://github.com/THCHAIN/web) 🍴 | Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules |  | 0 | [code](https://github.com/THCHAIN/web/tree/develop) · [issues](https://github.com/THCHAIN/web/issues) · [site](https://ignite.com/cli) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

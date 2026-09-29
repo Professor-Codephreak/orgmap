@@ -11,15 +11,15 @@ Website: <https://github.com/DAONOW>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/researchsolution/.github) | researchsolution organization profile |  | 0 | [code](https://github.com/researchsolution/.github/tree/main) · [issues](https://github.com/researchsolution/.github/issues) |
-| [commerce](https://github.com/researchsolution/commerce) 🔒 |  | [TypeScript](https://github.com/orgs/researchsolution/repositories?language=typescript) | 0 | [code](https://github.com/researchsolution/commerce/tree/main) · [site](https://commerce-thrusters.vercel.app) |
-| [nextjs](https://github.com/researchsolution/nextjs) 🔒 |  |  | 0 | [code](https://github.com/researchsolution/nextjs/tree/main) |
-| [nextjs-boilerplate](https://github.com/researchsolution/nextjs-boilerplate) 🔒 |  |  | 0 | [code](https://github.com/researchsolution/nextjs-boilerplate/tree/main) |
-| [nextjsserverlessapi](https://github.com/researchsolution/nextjsserverlessapi) 🔒 |  | [CSS](https://github.com/orgs/researchsolution/repositories?language=css) | 0 | [code](https://github.com/researchsolution/nextjsserverlessapi/tree/main) · [site](https://nextjsserverlessapi.vercel.app) |
-| [nextjsvercel](https://github.com/researchsolution/nextjsvercel) 🔒 |  |  | 0 | [code](https://github.com/researchsolution/nextjsvercel/tree/main) |
-| [solutions-subdomain-auth](https://github.com/researchsolution/solutions-subdomain-auth) 🔒 |  |  | 0 | [code](https://github.com/researchsolution/solutions-subdomain-auth/tree/main) |
-| [spintradeUI](https://github.com/researchsolution/spintradeUI) 🔒 |  | [TypeScript](https://github.com/orgs/researchsolution/repositories?language=typescript) | 0 | [code](https://github.com/researchsolution/spintradeUI/tree/main) · [site](https://virtual-event-starter-kit-livid-ten.vercel.app) |
-| [spinvue](https://github.com/researchsolution/spinvue) 🔒 |  | [Vue](https://github.com/orgs/researchsolution/repositories?language=vue) | 0 | [code](https://github.com/researchsolution/spinvue/tree/main) · [site](https://spinvue.vercel.app) |
-| [xperi](https://github.com/researchsolution/xperi) 🔒 |  |  | 0 | [code](https://github.com/researchsolution/xperi/tree/main) |
+| [commerce](https://github.com/researchsolution/commerce) 🔒 |  | | | `github.com/researchsolution/commerce` |
+| [nextjs](https://github.com/researchsolution/nextjs) 🔒 |  | | | `github.com/researchsolution/nextjs` |
+| [nextjs-boilerplate](https://github.com/researchsolution/nextjs-boilerplate) 🔒 |  | | | `github.com/researchsolution/nextjs-boilerplate` |
+| [nextjsserverlessapi](https://github.com/researchsolution/nextjsserverlessapi) 🔒 |  | | | `github.com/researchsolution/nextjsserverlessapi` |
+| [nextjsvercel](https://github.com/researchsolution/nextjsvercel) 🔒 |  | | | `github.com/researchsolution/nextjsvercel` |
+| [solutions-subdomain-auth](https://github.com/researchsolution/solutions-subdomain-auth) 🔒 |  | | | `github.com/researchsolution/solutions-subdomain-auth` |
+| [spintradeUI](https://github.com/researchsolution/spintradeUI) 🔒 |  | | | `github.com/researchsolution/spintradeUI` |
+| [spinvue](https://github.com/researchsolution/spinvue) 🔒 |  | | | `github.com/researchsolution/spinvue` |
+| [xperi](https://github.com/researchsolution/xperi) 🔒 |  | | | `github.com/researchsolution/xperi` |
 | [contract](https://github.com/researchsolution/contract) 🍴 | Community contract for SmartWeave. |  | 1 | [code](https://github.com/researchsolution/contract/tree/master) · [issues](https://github.com/researchsolution/contract/issues) · [site](https://community.xyz) |
 | [contracts](https://github.com/researchsolution/contracts) 🍴 | This repository holds the FINO DAO smart contract |  | 1 | [code](https://github.com/researchsolution/contracts/tree/main) · [issues](https://github.com/researchsolution/contracts/issues) |
 | [matic-contracts](https://github.com/researchsolution/matic-contracts) 🍴 | Smart contracts comprising the business logic of the Matic Network |  | 1 | [code](https://github.com/researchsolution/matic-contracts/tree/main) · [issues](https://github.com/researchsolution/matic-contracts/issues) · [site](https://matic.network) |
@@ -129,4 +129,4 @@ Website: <https://github.com/DAONOW>
 | [web3-provider-proxy](https://github.com/researchsolution/web3-provider-proxy) 🍴 | 🌍 Proxying and caching web3 requests with Cloudflare workers |  | 0 | [code](https://github.com/researchsolution/web3-provider-proxy/tree/master) · [issues](https://github.com/researchsolution/web3-provider-proxy/issues) |
 | [WizardLM](https://github.com/researchsolution/WizardLM) 🍴 | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder |  | 0 | [code](https://github.com/researchsolution/WizardLM/tree/main) · [issues](https://github.com/researchsolution/WizardLM/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

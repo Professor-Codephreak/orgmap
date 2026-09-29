@@ -101,4 +101,4 @@
 | [Zenroom](https://github.com/bankonvault/Zenroom) 🍴 | Embedded no-code VM executing human-like language to manipulate data and process cryptographic operations. |  | 0 | [code](https://github.com/bankonvault/Zenroom/tree/master) · [issues](https://github.com/bankonvault/Zenroom/issues) · [site](https://dev.zenroom.org) |
 | [ZoKrates](https://github.com/bankonvault/ZoKrates) 🍴 | A toolbox for zkSNARKs on Ethereum |  | 0 | [code](https://github.com/bankonvault/ZoKrates/tree/develop) · [issues](https://github.com/bankonvault/ZoKrates/issues) · [site](https://zokrates.github.io) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

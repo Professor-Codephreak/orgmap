@@ -159,4 +159,4 @@ Website: <https://deltav.exchange>
 | [zkBridge-lightClient](https://github.com/deltabridge/zkBridge-lightClient) 🍴 | An on-chain light client that complies with the Ethereum light client protocol witch is defined in ethereum consensus specs. |  | 0 | [code](https://github.com/deltabridge/zkBridge-lightClient/tree/main) · [issues](https://github.com/deltabridge/zkBridge-lightClient/issues) · [site](https://bridgetest.tusima.network/) |
 | [zodiac-module-bridge](https://github.com/deltabridge/zodiac-module-bridge) 🍴 | zodiac bridge for Dictator DAO |  | 0 | [code](https://github.com/deltabridge/zodiac-module-bridge/tree/main) · [issues](https://github.com/deltabridge/zodiac-module-bridge/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

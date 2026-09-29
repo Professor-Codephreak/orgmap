@@ -62,4 +62,4 @@ Website: <https://ethglobal.com/events/hackfs2024>
 | [zksync-wallet-vue](https://github.com/thTNT2/zksync-wallet-vue) 🍴 | zkSync web wallet |  | 0 | [code](https://github.com/thTNT2/zksync-wallet-vue/tree/master) · [issues](https://github.com/thTNT2/zksync-wallet-vue/issues) · [site](https://wallet.zksync.io) |
 | [zksync-web-era-docs](https://github.com/thTNT2/zksync-web-era-docs) 🍴 | zkSync Era Documentation |  | 0 | [code](https://github.com/thTNT2/zksync-web-era-docs/tree/main) · [issues](https://github.com/thTNT2/zksync-web-era-docs/issues) · [site](https://docs.zksync.io/) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -86,4 +86,4 @@ Website: <https://awesome.ipfs.io/>
 | [web3.js](https://github.com/interplanetaryfilesystem/web3.js) 🍴 | Ethereum JavaScript API |  | 0 | [code](https://github.com/interplanetaryfilesystem/web3.js/tree/1.x) · [issues](https://github.com/interplanetaryfilesystem/web3.js/issues) |
 | [web3.storage](https://github.com/interplanetaryfilesystem/web3.storage) 🍴 | ⁂ The simple file storage service for IPFS & Filecoin |  | 0 | [code](https://github.com/interplanetaryfilesystem/web3.storage/tree/main) · [issues](https://github.com/interplanetaryfilesystem/web3.storage/issues) · [site](https://web3.storage) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

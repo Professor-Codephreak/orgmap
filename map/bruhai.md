@@ -15,4 +15,4 @@ Website: <https://deltavthrust.com>
 | [neon-evm](https://github.com/BRUHAI/neon-evm) 🍴 | Interact with Solana using Solidity with neon-evm |  | 0 | [code](https://github.com/BRUHAI/neon-evm/tree/develop) · [issues](https://github.com/BRUHAI/neon-evm/issues) |
 | [Solana-Token-Creator](https://github.com/BRUHAI/Solana-Token-Creator) 🍴 | Web interface for token creation on solana blockchain step-by-step |  | 0 | [code](https://github.com/BRUHAI/Solana-Token-Creator/tree/master) · [issues](https://github.com/BRUHAI/Solana-Token-Creator/issues) · [site](https://solana-token-creator.vercel.app) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -9,7 +9,7 @@
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/dairef/.github) | dairef organization profile |  | 0 | [code](https://github.com/dairef/.github/tree/main) · [issues](https://github.com/dairef/.github/issues) |
-| [PAI](https://github.com/dairef/PAI) 🔒 | payment gateway for agentic economy at scale |  | 0 | [code](https://github.com/dairef/PAI/tree/main) |
+| [PAI](https://github.com/dairef/PAI) 🔒 | payment gateway for agentic economy at scale | | | `github.com/dairef/PAI` |
 | [delta0mnichain](https://github.com/dairef/delta0mnichain) 🍴 | goerli to fuji bridge example |  | 1 | [code](https://github.com/dairef/delta0mnichain/tree/main) · [issues](https://github.com/dairef/delta0mnichain/issues) |
 | [awesome-bonding](https://github.com/dairef/awesome-bonding) 🍴 | A curated list of token bonding curve code and resources. |  | 0 | [code](https://github.com/dairef/awesome-bonding/tree/master) · [issues](https://github.com/dairef/awesome-bonding/issues) |
 | [cache-contract](https://github.com/dairef/cache-contract) 🍴 | Smart Contracts for the CACHE Gold Token |  | 0 | [code](https://github.com/dairef/cache-contract/tree/master) · [issues](https://github.com/dairef/cache-contract/issues) · [site](https://cache.gold) |
@@ -32,4 +32,4 @@
 | [wrapped-assets](https://github.com/dairef/wrapped-assets) 🍴 | Smart Contract for Wrapped AVAX based on WETH |  | 0 | [code](https://github.com/dairef/wrapped-assets/tree/main) · [issues](https://github.com/dairef/wrapped-assets/issues) |
 | [xERC20](https://github.com/dairef/xERC20) 🍴 | crosschain erc-20 |  | 0 | [code](https://github.com/dairef/xERC20/tree/main) · [issues](https://github.com/dairef/xERC20/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

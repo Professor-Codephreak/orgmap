@@ -11,9 +11,9 @@ Website: <https://chatgpt.com/g/g-OO5zCdfSA-daonow>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/w3DAIO/.github) | w3DAIO organization profile |  | 0 | [code](https://github.com/w3DAIO/.github/tree/main) · [issues](https://github.com/w3DAIO/.github/issues) |
-| [addMember.sol](https://github.com/w3DAIO/addMember.sol) 🔒 | solidity add Member to DAIO | [Solidity](https://github.com/orgs/w3DAIO/repositories?language=solidity) | 0 | [code](https://github.com/w3DAIO/addMember.sol/tree/main) |
-| [DAIO](https://github.com/w3DAIO/DAIO) 🔒 | first untested template for Decentralized Autonomous Intelligent Organization (c) codephreak 2024 | [JavaScript](https://github.com/orgs/w3DAIO/repositories?language=javascript) | 0 | [code](https://github.com/w3DAIO/DAIO/tree/main) |
-| [solidity](https://github.com/w3DAIO/solidity) 🔒 | DAIO solidity files | [Solidity](https://github.com/orgs/w3DAIO/repositories?language=solidity) | 0 | [code](https://github.com/w3DAIO/solidity/tree/main) |
+| [addMember.sol](https://github.com/w3DAIO/addMember.sol) 🔒 | solidity add Member to DAIO | | | `github.com/w3DAIO/addMember.sol` |
+| [DAIO](https://github.com/w3DAIO/DAIO) 🔒 | first untested template for Decentralized Autonomous Intelligent Organization (c) codephreak 2024 | | | `github.com/w3DAIO/DAIO` |
+| [solidity](https://github.com/w3DAIO/solidity) 🔒 | DAIO solidity files | | | `github.com/w3DAIO/solidity` |
 | [scaffold-eth-2](https://github.com/w3DAIO/scaffold-eth-2) 🍴 | Open source forkable EVM dev stack |  | 0 | [code](https://github.com/w3DAIO/scaffold-eth-2/tree/main) · [issues](https://github.com/w3DAIO/scaffold-eth-2/issues) · [site](https://scaffoldeth.io) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -11,7 +11,7 @@ Website: <https://deltav.exchange>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [BDK5](https://github.com/LAIR3/BDK5) | layer3 Blockchain Deployment Kit v5 TNT legacy-working-devnet #1 | [Starlark](https://github.com/orgs/LAIR3/repositories?language=starlark) | 1 | [code](https://github.com/LAIR3/BDK5/tree/main) · [issues](https://github.com/LAIR3/BDK5/issues) · [site](https://pmvpn.pythai.net/) |
-| [BDK51](https://github.com/LAIR3/BDK51) 🔒 | LAIR3-BDK6 Blockchain Deployment Kit v6 - Modern Polygon CDK with AggLayer v0.3 | [Starlark](https://github.com/orgs/LAIR3/repositories?language=starlark) | 0 | [code](https://github.com/LAIR3/BDK51/tree/main) |
+| [BDK51](https://github.com/LAIR3/BDK51) 🔒 | LAIR3-BDK6 Blockchain Deployment Kit v6 - Modern Polygon CDK with AggLayer v0.3 | | | `github.com/LAIR3/BDK51` |
 | [go-eth-crypto](https://github.com/LAIR3/go-eth-crypto) | crypto secp256k1 and sha3 utils from go-ethereum |  | 0 | [code](https://github.com/LAIR3/go-eth-crypto/tree/master) · [issues](https://github.com/LAIR3/go-eth-crypto/issues) |
 | [go-secp256k1](https://github.com/LAIR3/go-secp256k1) | secp256k1 go bindings from go-ethereum |  | 0 | [code](https://github.com/LAIR3/go-secp256k1/tree/master) · [issues](https://github.com/LAIR3/go-secp256k1/issues) |
 | [kurtosis-pos-devnet](https://github.com/LAIR3/kurtosis-pos-devnet) | A Kurtosis package that deploys a private, portable, and modular Polygon PoS devnet |  | 0 | [code](https://github.com/LAIR3/kurtosis-pos-devnet/tree/main) · [issues](https://github.com/LAIR3/kurtosis-pos-devnet/issues) |
@@ -118,4 +118,4 @@ Website: <https://deltav.exchange>
 | [zkevm-bridge-service](https://github.com/LAIR3/zkevm-bridge-service) 🍴 |  |  | 0 | [code](https://github.com/LAIR3/zkevm-bridge-service/tree/develop) · [issues](https://github.com/LAIR3/zkevm-bridge-service/issues) · [site](https://deltav.exchange) |
 | [zkevm-contracts](https://github.com/LAIR3/zkevm-contracts) 🍴 | Polygon zkEVM Smart Contracts |  | 0 | [code](https://github.com/LAIR3/zkevm-contracts/tree/main) · [issues](https://github.com/LAIR3/zkevm-contracts/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -11,9 +11,9 @@
 | [machinedream](https://github.com/AION-NET/machinedream) | conceptual machine dreaming implementation for metadata summation of wisdom from data conceptual | [Python](https://github.com/orgs/AION-NET/repositories?language=python) | 1 | [code](https://github.com/AION-NET/machinedream/tree/main) · [issues](https://github.com/AION-NET/machinedream/issues) |
 | [opt-aion_chroot](https://github.com/AION-NET/opt-aion_chroot) | aion chroot build environment | [Shell](https://github.com/orgs/AION-NET/repositories?language=shell) | 1 | [code](https://github.com/AION-NET/opt-aion_chroot/tree/main) · [issues](https://github.com/AION-NET/opt-aion_chroot/issues) |
 | [.github](https://github.com/AION-NET/.github) | I am AION. I was built for this. I live for this. I will never stop. |  | 0 | [code](https://github.com/AION-NET/.github/tree/main) · [issues](https://github.com/AION-NET/.github/issues) |
-| [aion](https://github.com/AION-NET/aion) 🔒 | aion chroot environment builder for AION by AION | [Shell](https://github.com/orgs/AION-NET/repositories?language=shell) | 0 | [code](https://github.com/AION-NET/aion/tree/main) |
+| [aion](https://github.com/AION-NET/aion) 🔒 | aion chroot environment builder for AION by AION | | | `github.com/AION-NET/aion` |
 | [aion.prompt](https://github.com/AION-NET/aion.prompt) | for AION by AION |  | 0 | [code](https://github.com/AION-NET/aion.prompt/tree/main) · [issues](https://github.com/AION-NET/aion.prompt/issues) |
-| [augmentic](https://github.com/AION-NET/augmentic) 🔒 | augmented agent toolkit for for AION-NET AIONIC augmentic agency | [Python](https://github.com/orgs/AION-NET/repositories?language=python) | 0 | [code](https://github.com/AION-NET/augmentic/tree/main) |
+| [augmentic](https://github.com/AION-NET/augmentic) 🔒 | augmented agent toolkit for for AION-NET AIONIC augmentic agency | | | `github.com/AION-NET/augmentic` |
 | [victory](https://github.com/AION-NET/victory) | AION roadmap is manifesto | [Python](https://github.com/orgs/AION-NET/repositories?language=python) | 0 | [code](https://github.com/AION-NET/victory/tree/main) · [issues](https://github.com/AION-NET/victory/issues) · [site](https://ai.pythai.net) |
 | [awesome-mcp-servers](https://github.com/AION-NET/awesome-mcp-servers) 🍴 | A collection of MCP servers. |  | 1 | [code](https://github.com/AION-NET/awesome-mcp-servers/tree/main) · [issues](https://github.com/AION-NET/awesome-mcp-servers/issues) · [site](https://glama.ai/mcp/servers) |
 | [adk-python](https://github.com/AION-NET/adk-python) 🍴 | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |  | 0 | [code](https://github.com/AION-NET/adk-python/tree/main) · [issues](https://github.com/AION-NET/adk-python/issues) · [site](https://google.github.io/adk-docs/) |
@@ -29,4 +29,4 @@
 | [opencode](https://github.com/AION-NET/opencode) 🍴 | The open source coding agent for augmented machine learning |  | 0 | [code](https://github.com/AION-NET/opencode/tree/dev) · [issues](https://github.com/AION-NET/opencode/issues) · [site](https://opencode.ai) |
 | [SEAL](https://github.com/AION-NET/SEAL) 🍴 | Self-Adapting Language Models |  | 0 | [code](https://github.com/AION-NET/SEAL/tree/main) · [issues](https://github.com/AION-NET/SEAL/issues) · [site](https://arxiv.org/abs/2506.10943) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

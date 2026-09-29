@@ -8,9 +8,9 @@
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
-| [mystical2](https://github.com/MYSTICALPYTHIA/mystical2) 🔒 |  | [Python](https://github.com/orgs/MYSTICALPYTHIA/repositories?language=python) | 1 | [code](https://github.com/MYSTICALPYTHIA/mystical2/tree/main) |
+| [mystical2](https://github.com/MYSTICALPYTHIA/mystical2) 🔒 |  | | | `github.com/MYSTICALPYTHIA/mystical2` |
 | [.github](https://github.com/MYSTICALPYTHIA/.github) | MYSTICALPYTHIA organization profile |  | 0 | [code](https://github.com/MYSTICALPYTHIA/.github/tree/main) · [issues](https://github.com/MYSTICALPYTHIA/.github/issues) |
-| [CandleStore](https://github.com/MYSTICALPYTHIA/CandleStore) 🔒 | dai and usdc payment contract | [JavaScript](https://github.com/orgs/MYSTICALPYTHIA/repositories?language=javascript) | 0 | [code](https://github.com/MYSTICALPYTHIA/CandleStore/tree/main) |
-| [mystical1](https://github.com/MYSTICALPYTHIA/mystical1) 🔒 | pythia mystic oracle of delphi vertex-ai streamlit development version 1 | [Python](https://github.com/orgs/MYSTICALPYTHIA/repositories?language=python) | 0 | [code](https://github.com/MYSTICALPYTHIA/mystical1/tree/main) |
+| [CandleStore](https://github.com/MYSTICALPYTHIA/CandleStore) 🔒 | dai and usdc payment contract | | | `github.com/MYSTICALPYTHIA/CandleStore` |
+| [mystical1](https://github.com/MYSTICALPYTHIA/mystical1) 🔒 | pythia mystic oracle of delphi vertex-ai streamlit development version 1 | | | `github.com/MYSTICALPYTHIA/mystical1` |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

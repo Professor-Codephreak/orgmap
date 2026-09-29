@@ -8,9 +8,9 @@
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
-| [bankon_nodejs](https://github.com/abstractionwallet/bankon_nodejs) 🔒 | pure nodejs nft minter backend | [JavaScript](https://github.com/orgs/abstractionwallet/repositories?language=javascript) | 1 | [code](https://github.com/abstractionwallet/bankon_nodejs/tree/main) |
+| [bankon_nodejs](https://github.com/abstractionwallet/bankon_nodejs) 🔒 | pure nodejs nft minter backend | | | `github.com/abstractionwallet/bankon_nodejs` |
 | [.github](https://github.com/abstractionwallet/.github) | alchemy account abstraction quick links reference |  | 0 | [code](https://github.com/abstractionwallet/.github/tree/main) · [issues](https://github.com/abstractionwallet/.github/issues) |
-| [bankonlogin](https://github.com/abstractionwallet/bankonlogin) 🔒 | bankon.wallet alpha quickstart dependency solutions to alchemy kit | [TypeScript](https://github.com/orgs/abstractionwallet/repositories?language=typescript) | 0 | [code](https://github.com/abstractionwallet/bankonlogin/tree/main) |
+| [bankonlogin](https://github.com/abstractionwallet/bankonlogin) 🔒 | bankon.wallet alpha quickstart dependency solutions to alchemy kit | | | `github.com/abstractionwallet/bankonlogin` |
 | [signer-demo](https://github.com/abstractionwallet/signer-demo) | signer demo |  | 0 | [code](https://github.com/abstractionwallet/signer-demo/tree/main) · [issues](https://github.com/abstractionwallet/signer-demo/issues) |
 | [abstractionwallet](https://github.com/abstractionwallet/abstractionwallet) 🍴 | eip 4096 web wallet |  | 1 | [code](https://github.com/abstractionwallet/abstractionwallet/tree/main) · [issues](https://github.com/abstractionwallet/abstractionwallet/issues) |
 | [aa-sdk](https://github.com/abstractionwallet/aa-sdk) 🍴 | alchemy account abstraction sdk |  | 0 | [code](https://github.com/abstractionwallet/aa-sdk/tree/main) · [issues](https://github.com/abstractionwallet/aa-sdk/issues) · [site](https://www.alchemy.com/account-abstraction) |
@@ -48,4 +48,4 @@
 | [web3-starter-projects](https://github.com/abstractionwallet/web3-starter-projects) 🍴 | Fork a blockchain repo and build your dapp. Fast. |  | 0 | [code](https://github.com/abstractionwallet/web3-starter-projects/tree/main) · [issues](https://github.com/abstractionwallet/web3-starter-projects/issues) |
 | [zksync-paymaster-example](https://github.com/abstractionwallet/zksync-paymaster-example) 🍴 | alchemy zksync paymaster example |  | 0 | [code](https://github.com/abstractionwallet/zksync-paymaster-example/tree/main) · [issues](https://github.com/abstractionwallet/zksync-paymaster-example/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

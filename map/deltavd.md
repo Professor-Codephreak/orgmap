@@ -93,4 +93,4 @@ Website: <https://deltaverse.dao>
 | [webglstudio.js](https://github.com/DeltaVD/webglstudio.js) 🍴 | A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. |  | 0 | [code](https://github.com/DeltaVD/webglstudio.js/tree/master) · [issues](https://github.com/DeltaVD/webglstudio.js/issues) |
 | [webstorm-plugin](https://github.com/DeltaVD/webstorm-plugin) 🍴 | webstorm |  | 0 | [code](https://github.com/DeltaVD/webstorm-plugin/tree/master) · [issues](https://github.com/DeltaVD/webstorm-plugin/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

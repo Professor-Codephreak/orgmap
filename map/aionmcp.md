@@ -9,7 +9,7 @@
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/AIONMCP/.github) |  |  | 0 | [code](https://github.com/AIONMCP/.github/tree/main) · [issues](https://github.com/AIONMCP/.github/issues) |
-| [mcp.agent](https://github.com/AIONMCP/mcp.agent) 🔒 | mcp.agent to reduce the pain of interaction and creation of mcp servers and clients | [Python](https://github.com/orgs/AIONMCP/repositories?language=python) | 0 | [code](https://github.com/AIONMCP/mcp.agent/tree/main) |
+| [mcp.agent](https://github.com/AIONMCP/mcp.agent) 🔒 | mcp.agent to reduce the pain of interaction and creation of mcp servers and clients | | | `github.com/AIONMCP/mcp.agent` |
 | [opencode](https://github.com/AIONMCP/opencode) 🍴 | The open source coding agent. |  | 1 | [code](https://github.com/AIONMCP/opencode/tree/dev) · [issues](https://github.com/AIONMCP/opencode/issues) · [site](https://opencode.ai) |
 | [A2A](https://github.com/AIONMCP/A2A) 🍴 | An open protocol enabling communication and interoperability between opaque agentic applications. |  | 0 | [code](https://github.com/AIONMCP/A2A/tree/main) · [issues](https://github.com/AIONMCP/A2A/issues) · [site](https://google-a2a.github.io/A2A/) |
 | [ACD](https://github.com/AIONMCP/ACD) 🍴 | Automated Capability Discovery via Foundation Model Self-Exploration |  | 0 | [code](https://github.com/AIONMCP/ACD/tree/main) · [issues](https://github.com/AIONMCP/ACD/issues) |
@@ -38,4 +38,4 @@
 | [typescript-sdk](https://github.com/AIONMCP/typescript-sdk) 🍴 | The official Typescript SDK for Model Context Protocol servers and clients |  | 0 | [code](https://github.com/AIONMCP/typescript-sdk/tree/main) · [issues](https://github.com/AIONMCP/typescript-sdk/issues) · [site](https://modelcontextprotocol.io) |
 | [vllm](https://github.com/AIONMCP/vllm) 🍴 | A high-throughput and memory-efficient inference and serving engine for LLMs |  | 0 | [code](https://github.com/AIONMCP/vllm/tree/main) · [issues](https://github.com/AIONMCP/vllm/issues) · [site](https://vllm.ai) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

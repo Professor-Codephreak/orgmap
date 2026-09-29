@@ -77,4 +77,4 @@ Website: <https://deltav.exchange>
 | [web3dart](https://github.com/deltavchain/web3dart) 🍴 | Ethereum library, written in Dart. |  | 0 | [code](https://github.com/deltavchain/web3dart/tree/main) · [issues](https://github.com/deltavchain/web3dart/issues) |
 | [wrapped_token_ethereum](https://github.com/deltavchain/wrapped_token_ethereum) 🍴 | An open source standard for assets on the Ethereum network from Wrapped.com, written in Solidity |  | 0 | [code](https://github.com/deltavchain/wrapped_token_ethereum/tree/master) · [issues](https://github.com/deltavchain/wrapped_token_ethereum/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

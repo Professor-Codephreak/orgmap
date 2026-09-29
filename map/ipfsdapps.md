@@ -8,10 +8,10 @@
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
-| [snapai](https://github.com/IPFSdapps/snapai) 🔒 | metamask snap integration with AI alpha | [TypeScript](https://github.com/orgs/IPFSdapps/repositories?language=typescript) | 1 | [code](https://github.com/IPFSdapps/snapai/tree/main) |
+| [snapai](https://github.com/IPFSdapps/snapai) 🔒 | metamask snap integration with AI alpha | | | `github.com/IPFSdapps/snapai` |
 | [.github](https://github.com/IPFSdapps/.github) | IPFSdapps organization profile |  | 0 | [code](https://github.com/IPFSdapps/.github/tree/main) · [issues](https://github.com/IPFSdapps/.github/issues) |
 | [crypto-wordpress](https://github.com/IPFSdapps/crypto-wordpress) | Wordpress Pluigin - wallet login, price display, content restriction, marketplace |  | 0 | [code](https://github.com/IPFSdapps/crypto-wordpress/tree/master) · [issues](https://github.com/IPFSdapps/crypto-wordpress/issues) |
-| [IPFSmetasnap](https://github.com/IPFSdapps/IPFSmetasnap) 🔒 | metamask snap to IPFS | [TypeScript](https://github.com/orgs/IPFSdapps/repositories?language=typescript) | 0 | [code](https://github.com/IPFSdapps/IPFSmetasnap/tree/main) |
+| [IPFSmetasnap](https://github.com/IPFSdapps/IPFSmetasnap) 🔒 | metamask snap to IPFS | | | `github.com/IPFSdapps/IPFSmetasnap` |
 | [MateriWeb3ReactVercel](https://github.com/IPFSdapps/MateriWeb3ReactVercel) | 🎓 Praktikum Pemrograman Web 3 |  | 0 | [code](https://github.com/IPFSdapps/MateriWeb3ReactVercel/tree/master) · [issues](https://github.com/IPFSdapps/MateriWeb3ReactVercel/issues) · [site](https://materi-web3-react-chakra-self.vercel.app) |
 | [nextjs-moralis-nft-marketplace-fcc](https://github.com/IPFSdapps/nextjs-moralis-nft-marketplace-fcc) | Chapter 15 - NextJS Smart Contract Lottery - Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course |  | 0 | [code](https://github.com/IPFSdapps/nextjs-moralis-nft-marketplace-fcc/tree/main) · [issues](https://github.com/IPFSdapps/nextjs-moralis-nft-marketplace-fcc/issues) · [site](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) |
 | [scaffold1](https://github.com/IPFSdapps/scaffold1) | test zone for scaffold eth version 1 | [CSS](https://github.com/orgs/IPFSdapps/repositories?language=css) | 0 | [code](https://github.com/IPFSdapps/scaffold1/tree/master) · [issues](https://github.com/IPFSdapps/scaffold1/issues) |
@@ -139,4 +139,4 @@
 | [xmtp-chat-app-nextjs](https://github.com/IPFSdapps/xmtp-chat-app-nextjs) 🍴 | Real-time encrypted chat, built with XMTP and Next.js |  | 0 | [code](https://github.com/IPFSdapps/xmtp-chat-app-nextjs/tree/main) · [issues](https://github.com/IPFSdapps/xmtp-chat-app-nextjs/issues) |
 | [ZILMiner](https://github.com/IPFSdapps/ZILMiner) 🍴 | Mining software for Zilliqa |  | 0 | [code](https://github.com/IPFSdapps/ZILMiner/tree/master) · [issues](https://github.com/IPFSdapps/ZILMiner/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -10,9 +10,9 @@ Website: <https://chatgpt.com/g/g-u4IfR8OVL-s-m-a-i-r-t>
 
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
-| [.github](https://github.com/S-M-A-I-R-T/.github) 🔒 | S.M.A.I.R.T Solidity Machine Augmented Intelligent Response Technology |  | 0 | [code](https://github.com/S-M-A-I-R-T/.github/tree/main) |
-| [S.M.A.I.R.T](https://github.com/S-M-A-I-R-T/S.M.A.I.R.T) 🔒 | SMAIRT | [Solidity](https://github.com/orgs/S-M-A-I-R-T/repositories?language=solidity) | 0 | [code](https://github.com/S-M-A-I-R-T/S.M.A.I.R.T/tree/main) |
-| [uniswapv4hhook](https://github.com/S-M-A-I-R-T/uniswapv4hhook) 🔒 | template | [Solidity](https://github.com/orgs/S-M-A-I-R-T/repositories?language=solidity) | 0 | [code](https://github.com/S-M-A-I-R-T/uniswapv4hhook/tree/main) |
+| [.github](https://github.com/S-M-A-I-R-T/.github) 🔒 | S.M.A.I.R.T Solidity Machine Augmented Intelligent Response Technology | | | `github.com/S-M-A-I-R-T/.github` |
+| [S.M.A.I.R.T](https://github.com/S-M-A-I-R-T/S.M.A.I.R.T) 🔒 | SMAIRT | | | `github.com/S-M-A-I-R-T/S.M.A.I.R.T` |
+| [uniswapv4hhook](https://github.com/S-M-A-I-R-T/uniswapv4hhook) 🔒 | template | | | `github.com/S-M-A-I-R-T/uniswapv4hhook` |
 | [monaco-editor](https://github.com/S-M-A-I-R-T/monaco-editor) 🍴 | A browser based code editor |  | 1 | [code](https://github.com/S-M-A-I-R-T/monaco-editor/tree/main) · [issues](https://github.com/S-M-A-I-R-T/monaco-editor/issues) · [site](https://microsoft.github.io/monaco-editor/) |
 | [TabNine](https://github.com/S-M-A-I-R-T/TabNine) 🍴 | AI Code Completions vscode extension |  | 1 | [code](https://github.com/S-M-A-I-R-T/TabNine/tree/master) · [issues](https://github.com/S-M-A-I-R-T/TabNine/issues) · [site](https://tabnine.com) |
 | [aa-sdk](https://github.com/S-M-A-I-R-T/aa-sdk) 🍴 | alchemy acount abstraction |  | 0 | [code](https://github.com/S-M-A-I-R-T/aa-sdk/tree/main) · [issues](https://github.com/S-M-A-I-R-T/aa-sdk/issues) · [site](https://www.alchemy.com/account-abstraction) |
@@ -38,4 +38,4 @@ Website: <https://chatgpt.com/g/g-u4IfR8OVL-s-m-a-i-r-t>
 | [verdictvault](https://github.com/S-M-A-I-R-T/verdictvault) 🍴 | Verdict Vault ensures that agreements between clients and freelancers are securely enforced, transparent, and resistant to manipulation. |  | 0 | [code](https://github.com/S-M-A-I-R-T/verdictvault/tree/main) · [issues](https://github.com/S-M-A-I-R-T/verdictvault/issues) |
 | [zkevm-contracts](https://github.com/S-M-A-I-R-T/zkevm-contracts) 🍴 | Polygon zkEVM Smart Contracts |  | 0 | [code](https://github.com/S-M-A-I-R-T/zkevm-contracts/tree/main) · [issues](https://github.com/S-M-A-I-R-T/zkevm-contracts/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

@@ -282,4 +282,4 @@ Website: <https://deltaverse.pythai.net>
 | [zenml](https://github.com/DeltaVML/zenml) 🍴 | ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io. |  | 0 | [code](https://github.com/DeltaVML/zenml/tree/main) · [issues](https://github.com/DeltaVML/zenml/issues) |
 | [zenml-projects](https://github.com/DeltaVML/zenml-projects) 🍴 | A repository for all ZenML projects that are specific production use-cases. |  | 0 | [code](https://github.com/DeltaVML/zenml-projects/tree/main) · [issues](https://github.com/DeltaVML/zenml-projects/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

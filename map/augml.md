@@ -147,4 +147,4 @@
 | [whisper-flow](https://github.com/augml/whisper-flow) 🍴 | Real-Time Transcription Using OpenAI Whisper |  | 0 | [code](https://github.com/augml/whisper-flow/tree/main) · [issues](https://github.com/augml/whisper-flow/issues) |
 | [whisper-gpt3-email-generator](https://github.com/augml/whisper-gpt3-email-generator) 🍴 | Generate kind and formal email from voice input |  | 0 | [code](https://github.com/augml/whisper-gpt3-email-generator/tree/main) · [issues](https://github.com/augml/whisper-gpt3-email-generator/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

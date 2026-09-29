@@ -24,4 +24,4 @@ Website: <https://deltaverse.pythai.net/playdocs?url=https%3A%2F%2Fraw.githubuse
 | [wagmi](https://github.com/gnugui/wagmi) 🍴 | Reactive primitives for EVM dapps |  | 0 | [code](https://github.com/gnugui/wagmi/tree/main) · [issues](https://github.com/gnugui/wagmi/issues) · [site](https://wagmi.sh) |
 | [web3.js](https://github.com/gnugui/web3.js) 🍴 | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions. |  | 0 | [code](https://github.com/gnugui/web3.js/tree/4.x) · [issues](https://github.com/gnugui/web3.js/issues) · [site](https://web3js.org/) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

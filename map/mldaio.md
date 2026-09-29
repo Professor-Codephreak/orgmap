@@ -11,6 +11,6 @@ Website: <https://github.com/daonow>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/mldaio/.github) | mldaio organization profile |  | 0 | [code](https://github.com/mldaio/.github/tree/main) · [issues](https://github.com/mldaio/.github/issues) |
-| [README.md](https://github.com/mldaio/README.md) 🔒 | machine learning decentralised autonomous intelligent organisation |  | 0 | [code](https://github.com/mldaio/README.md/tree/main) |
+| [README.md](https://github.com/mldaio/README.md) 🔒 | machine learning decentralised autonomous intelligent organisation | | | `github.com/mldaio/README.md` |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

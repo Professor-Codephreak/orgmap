@@ -11,7 +11,7 @@ Website: <https://tnt.exchange>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/THRUSTCHAIN/.github) | THRUSTCHAIN organization profile |  | 0 | [code](https://github.com/THRUSTCHAIN/.github/tree/main) · [issues](https://github.com/THRUSTCHAIN/.github/issues) |
-| [demo-repository](https://github.com/THRUSTCHAIN/demo-repository) 🔒 | A code repository designed to show the best GitHub has to offer. | [HTML](https://github.com/orgs/THRUSTCHAIN/repositories?language=html) | 0 | [code](https://github.com/THRUSTCHAIN/demo-repository/tree/main) |
+| [demo-repository](https://github.com/THRUSTCHAIN/demo-repository) 🔒 | A code repository designed to show the best GitHub has to offer. | | | `github.com/THRUSTCHAIN/demo-repository` |
 | [bitnodes](https://github.com/THRUSTCHAIN/bitnodes) 🍴 | Bitnodes estimates the relative size of the Bitcoin peer-to-peer network by finding all of its reachable nodes. |  | 0 | [code](https://github.com/THRUSTCHAIN/bitnodes/tree/master) · [issues](https://github.com/THRUSTCHAIN/bitnodes/issues) · [site](https://bitnodes.io) |
 | [blast](https://github.com/THRUSTCHAIN/blast) 🍴 | Blast is an L2 Ethereum solution |  | 0 | [code](https://github.com/THRUSTCHAIN/blast/tree/master) · [issues](https://github.com/THRUSTCHAIN/blast/issues) |
 | [blast-tutorial](https://github.com/THRUSTCHAIN/blast-tutorial) 🍴 | Get started with your initial application on Blast! |  | 0 | [code](https://github.com/THRUSTCHAIN/blast-tutorial/tree/main) · [issues](https://github.com/THRUSTCHAIN/blast-tutorial/issues) |
@@ -32,4 +32,4 @@ Website: <https://tnt.exchange>
 | [teleporter](https://github.com/THRUSTCHAIN/teleporter) 🍴 | EVM cross-chain messaging protocol built on top of Avalanche Warp Messaging |  | 0 | [code](https://github.com/THRUSTCHAIN/teleporter/tree/main) · [issues](https://github.com/THRUSTCHAIN/teleporter/issues) |
 | [TNT-faucet](https://github.com/THRUSTCHAIN/TNT-faucet) 🍴 | TNT faucet for TNT subnet |  | 0 | [code](https://github.com/THRUSTCHAIN/TNT-faucet/tree/main) · [issues](https://github.com/THRUSTCHAIN/TNT-faucet/issues) · [site](https://faucet.avax.network/) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

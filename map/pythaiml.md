@@ -55,4 +55,4 @@ Website: <https://pythai.net>
 | [starcoder.cpp](https://github.com/pythaiml/starcoder.cpp) 🍴 | C++ implementation for 💫StarCoder |  | 0 | [code](https://github.com/pythaiml/starcoder.cpp/tree/main) · [issues](https://github.com/pythaiml/starcoder.cpp/issues) |
 | [WizardLM](https://github.com/pythaiml/WizardLM) 🍴 | WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions |  | 0 | [code](https://github.com/pythaiml/WizardLM/tree/main) · [issues](https://github.com/pythaiml/WizardLM/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

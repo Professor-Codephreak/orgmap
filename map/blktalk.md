@@ -58,4 +58,4 @@
 | [zkey-manager](https://github.com/blktalk/zkey-manager) 🍴 | simplifies the process of zkey file management for circuits written in circom |  | 0 | [code](https://github.com/blktalk/zkey-manager/tree/master) · [issues](https://github.com/blktalk/zkey-manager/issues) |
 | [zkp-app-boilerplate](https://github.com/blktalk/zkp-app-boilerplate) 🍴 | Build your zkp app with typescript, hardhat, circom, and snarkjs! |  | 0 | [code](https://github.com/blktalk/zkp-app-boilerplate/tree/main) · [issues](https://github.com/blktalk/zkp-app-boilerplate/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

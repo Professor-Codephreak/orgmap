@@ -11,8 +11,8 @@ Website: <https://agenticplace.pythai.net>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/cyberpunk2051/.github) | CyberPunk 2051 |  | 0 | [code](https://github.com/cyberpunk2051/.github/tree/main) · [issues](https://github.com/cyberpunk2051/.github/issues) |
-| [cyberpunk-node](https://github.com/cyberpunk2051/cyberpunk-node) 🔒 |  | [TypeScript](https://github.com/orgs/cyberpunk2051/repositories?language=typescript) | 0 | [code](https://github.com/cyberpunk2051/cyberpunk-node/tree/master) |
-| [cyberpunk2051](https://github.com/cyberpunk2051/cyberpunk2051) 🔒 |  |  | 0 | [code](https://github.com/cyberpunk2051/cyberpunk2051/tree/main) |
+| [cyberpunk-node](https://github.com/cyberpunk2051/cyberpunk-node) 🔒 |  | | | `github.com/cyberpunk2051/cyberpunk-node` |
+| [cyberpunk2051](https://github.com/cyberpunk2051/cyberpunk2051) 🔒 |  | | | `github.com/cyberpunk2051/cyberpunk2051` |
 | [fastmcp-proxy-example](https://github.com/cyberpunk2051/fastmcp-proxy-example) 🍴 | This example showcases how to proxy a Kapa hosted MCP server from fastmcp |  | 1 | [code](https://github.com/cyberpunk2051/fastmcp-proxy-example/tree/main) · [issues](https://github.com/cyberpunk2051/fastmcp-proxy-example/issues) |
 | [KittenTTS](https://github.com/cyberpunk2051/KittenTTS) 🍴 | State-of-the-art TTS model under 25MB 😻 |  | 1 | [code](https://github.com/cyberpunk2051/KittenTTS/tree/main) · [issues](https://github.com/cyberpunk2051/KittenTTS/issues) |
 | [vibekit](https://github.com/cyberpunk2051/vibekit) 🍴 | VibeKit gives your AI the skills and tools to build on Algorand with one command. |  | 1 | [code](https://github.com/cyberpunk2051/vibekit/tree/main) · [issues](https://github.com/cyberpunk2051/vibekit/issues) · [site](https://getvibekit.ai) |
@@ -27,4 +27,4 @@ Website: <https://agenticplace.pythai.net>
 | [Overture](https://github.com/cyberpunk2051/Overture) 🍴 | Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code. |  | 0 | [code](https://github.com/cyberpunk2051/Overture/tree/main) · [issues](https://github.com/cyberpunk2051/Overture/issues) |
 | [polygon-agent-cli](https://github.com/cyberpunk2051/polygon-agent-cli) 🍴 | Infrastructure for building agents on Polygon |  | 0 | [code](https://github.com/cyberpunk2051/polygon-agent-cli/tree/main) · [issues](https://github.com/cyberpunk2051/polygon-agent-cli/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

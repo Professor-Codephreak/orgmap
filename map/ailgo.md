@@ -10,8 +10,8 @@ Website: <https://pythai.net/>
 |---|---|---|--:|---|
 | [.github](https://github.com/ailgo/.github) | build a bull algorand hackathon collection of resources for hacking on Algorand |  | 0 | [code](https://github.com/ailgo/.github/tree/main) · [issues](https://github.com/ailgo/.github/issues) |
 | [decipher-drop](https://github.com/ailgo/decipher-drop) | This repository demonstrates the use of a Smart Signature acting as an escrow to hold an NFT and ed25519 signature validation allow the holder of a secret key to claim the NFT. |  | 0 | [code](https://github.com/ailgo/decipher-drop/tree/main) · [issues](https://github.com/ailgo/decipher-drop/issues) |
-| [live](https://github.com/ailgo/live) 🔒 | agenticORacle — On-chain oracle registry for blockchains and agents. Algorand smart contracts, NFT minter, wallet gate, AgenticPlace frontend. | [TypeScript](https://github.com/orgs/ailgo/repositories?language=typescript) | 0 | [code](https://github.com/ailgo/live/tree/main) |
-| [manifest](https://github.com/ailgo/manifest) 🔒 | manifest | [TypeScript](https://github.com/orgs/ailgo/repositories?language=typescript) | 0 | [code](https://github.com/ailgo/manifest/tree/master) |
+| [live](https://github.com/ailgo/live) 🔒 | agenticORacle — On-chain oracle registry for blockchains and agents. Algorand smart contracts, NFT… | | | `github.com/ailgo/live` |
+| [manifest](https://github.com/ailgo/manifest) 🔒 | manifest | | | `github.com/ailgo/manifest` |
 | [algorun](https://github.com/ailgo/algorun) 🍴 | run an algorand node |  | 1 | [code](https://github.com/ailgo/algorun/tree/main) · [issues](https://github.com/ailgo/algorun/issues) |
 | [coin-flipper-random-oracle](https://github.com/ailgo/coin-flipper-random-oracle) 🍴 | application that verifies and stores randomness treated as an oracle. Applications may call randomness to get the random value for a given round |  | 1 | [code](https://github.com/ailgo/coin-flipper-random-oracle/tree/master) · [issues](https://github.com/ailgo/coin-flipper-random-oracle/issues) |
 | [fractional-realestate-py](https://github.com/ailgo/fractional-realestate-py) 🍴 | Algorand fractional real estate python |  | 1 | [code](https://github.com/ailgo/fractional-realestate-py/tree/main) · [issues](https://github.com/ailgo/fractional-realestate-py/issues) |
@@ -116,4 +116,4 @@ Website: <https://pythai.net/>
 | [wormhole-demo](https://github.com/ailgo/wormhole-demo) 🍴 | Wormhole is a multisig bridge with 19 "guardian" validators that watch blocks on the chains they're connected to. |  | 0 | [code](https://github.com/ailgo/wormhole-demo/tree/main) · [issues](https://github.com/ailgo/wormhole-demo/issues) |
 | [x402-demo](https://github.com/ailgo/x402-demo) 🍴 | x402 on Algorand |  | 0 | [code](https://github.com/ailgo/x402-demo/tree/main) · [issues](https://github.com/ailgo/x402-demo/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

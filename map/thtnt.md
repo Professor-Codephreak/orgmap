@@ -11,14 +11,14 @@ Website: <https://tnt.exchange>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/thTNT/.github) | thTNT organization profile |  | 0 | [code](https://github.com/thTNT/.github/tree/main) · [issues](https://github.com/thTNT/.github/issues) |
-| [AIAPINFT](https://github.com/thTNT/AIAPINFT) 🔒 | NFT to hold multiple AI API for interactive multi-model wallet based interaction | [Solidity](https://github.com/orgs/thTNT/repositories?language=solidity) | 0 | [code](https://github.com/thTNT/AIAPINFT/tree/main) |
-| [APINFT](https://github.com/thTNT/APINFT) 🔒 | NFT that includes API as ownership | [Solidity](https://github.com/orgs/thTNT/repositories?language=solidity) | 0 | [code](https://github.com/thTNT/APINFT/tree/main) |
-| [oracle](https://github.com/thTNT/oracle) 🔒 | proof of price | [Solidity](https://github.com/orgs/thTNT/repositories?language=solidity) | 0 | [code](https://github.com/thTNT/oracle/tree/main) |
-| [payment](https://github.com/thTNT/payment) 🔒 | solidity source code to create an autostake rewards structure for validium | [Solidity](https://github.com/orgs/thTNT/repositories?language=solidity) | 0 | [code](https://github.com/thTNT/payment/tree/main) |
-| [PKNFT](https://github.com/thTNT/PKNFT) 🔒 | Prompt Knowledge NFT | [Solidity](https://github.com/orgs/thTNT/repositories?language=solidity) | 0 | [code](https://github.com/thTNT/PKNFT/tree/main) |
+| [AIAPINFT](https://github.com/thTNT/AIAPINFT) 🔒 | NFT to hold multiple AI API for interactive multi-model wallet based interaction | | | `github.com/thTNT/AIAPINFT` |
+| [APINFT](https://github.com/thTNT/APINFT) 🔒 | NFT that includes API as ownership | | | `github.com/thTNT/APINFT` |
+| [oracle](https://github.com/thTNT/oracle) 🔒 | proof of price | | | `github.com/thTNT/oracle` |
+| [payment](https://github.com/thTNT/payment) 🔒 | solidity source code to create an autostake rewards structure for validium | | | `github.com/thTNT/payment` |
+| [PKNFT](https://github.com/thTNT/PKNFT) 🔒 | Prompt Knowledge NFT | | | `github.com/thTNT/PKNFT` |
 | [README.md](https://github.com/thTNT/README.md) | THRUST NETWORK TECHNOLOGY blockchain solutions research and development |  | 0 | [code](https://github.com/thTNT/README.md/tree/main) · [issues](https://github.com/thTNT/README.md/issues) |
 | [TNT.sol](https://github.com/thTNT/TNT.sol) | TNT L2 boilerplate solution for TNTconvert and TNTEscrow as a layer 2 solution by sepyke.eth | [Solidity](https://github.com/orgs/thTNT/repositories?language=solidity) | 0 | [code](https://github.com/thTNT/TNT.sol/tree/main) · [issues](https://github.com/thTNT/TNT.sol/issues) |
-| [tntbridge](https://github.com/thTNT/tntbridge) 🔒 | zkEVM bridge extraplolated from PolygonZkEVMBridge.sol  // SPDX-License-Identifier: AGPL-3.0 | [Solidity](https://github.com/orgs/thTNT/repositories?language=solidity) | 0 | [code](https://github.com/thTNT/tntbridge/tree/main) |
+| [tntbridge](https://github.com/thTNT/tntbridge) 🔒 | zkEVM bridge extraplolated from PolygonZkEVMBridge.sol  // SPDX-License-Identifier: AGPL-3.0 | | | `github.com/thTNT/tntbridge` |
 | [agglayer](https://github.com/thTNT/agglayer) 🍴 | Agglayer is a web service that receives ZKPs from different CDK chains and checks the soundness of them before sending the ZKP to L1 for verification |  | 0 | [code](https://github.com/thTNT/agglayer/tree/main) · [issues](https://github.com/thTNT/agglayer/issues) |
 | [auto-claim-service](https://github.com/thTNT/auto-claim-service) 🍴 | Autoclaim Script is a cron job service which is used to process the claim transactions for the bridge transactions initiated on the lxly bridge. |  | 0 | [code](https://github.com/thTNT/auto-claim-service/tree/main) · [issues](https://github.com/thTNT/auto-claim-service/issues) |
 | [awesome-zero-knowledge-proofs](https://github.com/thTNT/awesome-zero-knowledge-proofs) 🍴 | A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP). |  | 0 | [code](https://github.com/thTNT/awesome-zero-knowledge-proofs/tree/master) · [issues](https://github.com/thTNT/awesome-zero-knowledge-proofs/issues) |
@@ -80,4 +80,4 @@ Website: <https://tnt.exchange>
 | [zksync-scripting-templates](https://github.com/thTNT/zksync-scripting-templates) 🍴 | Scripting Templates for zkSync: node.js, viem, ethers |  | 0 | [code](https://github.com/thTNT/zksync-scripting-templates/tree/main) · [issues](https://github.com/thTNT/zksync-scripting-templates/issues) |
 | [zksync-web-era-docs](https://github.com/thTNT/zksync-web-era-docs) 🍴 | zkSync Era Documentation |  | 0 | [code](https://github.com/thTNT/zksync-web-era-docs/tree/main) · [issues](https://github.com/thTNT/zksync-web-era-docs/issues) · [site](https://docs.zksync.io/) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

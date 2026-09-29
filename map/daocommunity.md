@@ -70,4 +70,4 @@
 | [zodiac-modifier-roles](https://github.com/DAOcommunity/zodiac-modifier-roles) 🍴 |  |  | 0 | [code](https://github.com/DAOcommunity/zodiac-modifier-roles/tree/main) · [issues](https://github.com/DAOcommunity/zodiac-modifier-roles/issues) |
 | [zodiac-module-bridge](https://github.com/DAOcommunity/zodiac-module-bridge) 🍴 | zodiac bridge for Dictator DAO |  | 0 | [code](https://github.com/DAOcommunity/zodiac-module-bridge/tree/main) · [issues](https://github.com/DAOcommunity/zodiac-module-bridge/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

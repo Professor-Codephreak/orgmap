@@ -9,7 +9,7 @@
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/NFTmr/.github) | NFTmr organization profile |  | 0 | [code](https://github.com/NFTmr/.github/tree/main) · [issues](https://github.com/NFTmr/.github/issues) |
-| [bankonwallet](https://github.com/NFTmr/bankonwallet) 🔒 | bankon.wallet identity minter | [JavaScript](https://github.com/orgs/NFTmr/repositories?language=javascript) | 0 | [code](https://github.com/NFTmr/bankonwallet/tree/main) · [site](https://bankon.pythai.net) |
+| [bankonwallet](https://github.com/NFTmr/bankonwallet) 🔒 | bankon.wallet identity minter | | | `github.com/NFTmr/bankonwallet` |
 | [bricks](https://github.com/NFTmr/bricks) 🍴 | Fractional NFTs |  | 0 | [code](https://github.com/NFTmr/bricks/tree/main) · [issues](https://github.com/NFTmr/bricks/issues) |
 | [burn1155-mint721](https://github.com/NFTmr/burn1155-mint721) 🍴 | Similar to the MAYC collection, allow users who hold an NFT from your original NFT Collection to burn an ERC-1155 NFT collection to claim an NFT from your new NFT Collection! |  | 0 | [code](https://github.com/NFTmr/burn1155-mint721/tree/main) · [issues](https://github.com/NFTmr/burn1155-mint721/issues) |
 | [deltaplace](https://github.com/NFTmr/deltaplace) 🍴 | An NFT Marketplace where you can list NFTs for direct sale or for auction. Users can come and bid on your listings or buy your NFTs, similar to OpenSea. |  | 0 | [code](https://github.com/NFTmr/deltaplace/tree/main) · [issues](https://github.com/NFTmr/deltaplace/issues) · [site](https://marketplace.thirdweb-example.com) |
@@ -50,4 +50,4 @@
 | [web3-nft-dapp-tutorial](https://github.com/NFTmr/web3-nft-dapp-tutorial) 🍴 | A simple web3 app for minting NFTs |  | 0 | [code](https://github.com/NFTmr/web3-nft-dapp-tutorial/tree/main) · [issues](https://github.com/NFTmr/web3-nft-dapp-tutorial/issues) |
 | [yacht-lit-sdk](https://github.com/NFTmr/yacht-lit-sdk) 🍴 | Lit communication with yacht sdk |  | 0 | [code](https://github.com/NFTmr/yacht-lit-sdk/tree/master) · [issues](https://github.com/NFTmr/yacht-lit-sdk/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

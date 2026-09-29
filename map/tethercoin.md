@@ -69,4 +69,4 @@ Website: <https://deltavthrust.com>
 | [USM](https://github.com/tethercoin/USM) 🍴 | Minimalist USD - A minimalist, collateralized stablecoin built on Ethereum. |  | 0 | [code](https://github.com/tethercoin/USM/tree/master) · [issues](https://github.com/tethercoin/USM/issues) |
 | [wusd-contracts](https://github.com/tethercoin/wusd-contracts) 🍴 | Wrapped USD (Decentralized, trustless stablecoin basket consisting of 25% DAI, 25% USDC, 25% TUSD, 25% PAX) |  | 0 | [code](https://github.com/tethercoin/wusd-contracts/tree/master) · [issues](https://github.com/tethercoin/wusd-contracts/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

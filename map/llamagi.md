@@ -26,4 +26,4 @@ Website: <https://rage.pythai.net>
 | [ollama-ui](https://github.com/llamagi/ollama-ui) 🍴 | Simple HTML UI for Ollama |  | 0 | [code](https://github.com/llamagi/ollama-ui/tree/main) · [issues](https://github.com/llamagi/ollama-ui/issues) · [site](https://ollama-ui.github.io/ollama-ui/) |
 | [pgvectorscale](https://github.com/llamagi/pgvectorscale) 🍴 | A complement to pgvector for high performance, cost efficient vector search on large workloads. |  | 0 | [code](https://github.com/llamagi/pgvectorscale/tree/main) · [issues](https://github.com/llamagi/pgvectorscale/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

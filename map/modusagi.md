@@ -11,8 +11,8 @@ Website: <https://rage.pythai.net>
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/modusAGI/.github) | modusAGI organization profile |  | 0 | [code](https://github.com/modusAGI/.github/tree/main) · [issues](https://github.com/modusAGI/.github/issues) |
-| [modus](https://github.com/modusAGI/modus) 🔒 |  |  | 0 | [code](https://github.com/modusAGI/modus/tree/main) |
-| [ponenAGI](https://github.com/modusAGI/ponenAGI) 🔒 | experiment in a single polyglotAGI file for advanced reasoning | [Python](https://github.com/orgs/modusAGI/repositories?language=python) | 0 | [code](https://github.com/modusAGI/ponenAGI/tree/main) · [site](https://pythai.net) |
+| [modus](https://github.com/modusAGI/modus) 🔒 |  | | | `github.com/modusAGI/modus` |
+| [ponenAGI](https://github.com/modusAGI/ponenAGI) 🔒 | experiment in a single polyglotAGI file for advanced reasoning | | | `github.com/modusAGI/ponenAGI` |
 | [tkAGI](https://github.com/modusAGI/tkAGI) | using tkinter for expression of UI as experiments | [Python](https://github.com/orgs/modusAGI/repositories?language=python) | 0 | [code](https://github.com/modusAGI/tkAGI/tree/main) · [issues](https://github.com/modusAGI/tkAGI/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

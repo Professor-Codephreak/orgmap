@@ -16,4 +16,4 @@ Website: <https://deltaverse.pythai.net>
 | [cyborgd](https://github.com/dddcyborgd/cyborgd) | cyborgd — the three-d cyborg daemon: rooms · faucet · headless run-space for the DeltaVerse | [TypeScript](https://github.com/orgs/dddcyborgd/repositories?language=typescript) | 0 | [code](https://github.com/dddcyborgd/cyborgd/tree/main) · [issues](https://github.com/dddcyborgd/cyborgd/issues) |
 | [dvengine](https://github.com/dddcyborgd/dvengine) | dvengine — the DeltaVerse 3D participant engine (three.js), refined from oncyberio awe (MIT) | [TypeScript](https://github.com/orgs/dddcyborgd/repositories?language=typescript) | 0 | [code](https://github.com/dddcyborgd/dvengine/tree/main) · [issues](https://github.com/dddcyborgd/dvengine/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

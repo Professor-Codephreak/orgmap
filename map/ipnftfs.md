@@ -31,4 +31,4 @@
 | [sns-deploy](https://github.com/ipNFTfs/sns-deploy) 🍴 | Upload static website to IPFS pinning services and update your Solana Name Service Records. |  | 0 | [code](https://github.com/ipNFTfs/sns-deploy/tree/master) · [issues](https://github.com/ipNFTfs/sns-deploy/issues) |
 | [web3.storage](https://github.com/ipNFTfs/web3.storage) 🍴 | ⁂ The simple file storage service for IPFS & Filecoin |  | 0 | [code](https://github.com/ipNFTfs/web3.storage/tree/main) · [issues](https://github.com/ipNFTfs/web3.storage/issues) · [site](https://web3.storage) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

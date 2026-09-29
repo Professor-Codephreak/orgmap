@@ -2,7 +2,7 @@
 
 The organizations and repositories of [Professor Codephreak](https://github.com/Professor-Codephreak), the Software Engineer and Platform Architect behind them.
 
-**99 organizations** · **4 accounts** · **4988 repositories** (4789 public, 199 private 🔒) · generated 2026-09-29 from the GitHub API
+**99 organizations** · **4 accounts** · **4988 repositories** (4789 public, 199 private 🔒) · plus **9 related organizations** (1038 public repos) · generated 2026-09-29 from the GitHub API
 
 ## Sites
 
@@ -130,6 +130,22 @@ The organizations and repositories of [Professor Codephreak](https://github.com/
 | [webmindml](https://github.com/webmindml) | distributed l client side local language model development zone |  | [49](https://github.com/orgs/webmindml/repositories) | 0 | [map](map/webmindml.md) |
 | [webthreejs](https://github.com/webthreejs) | web3js | [deltavthrust.com](https://deltavthrust.com) | [73](https://github.com/orgs/webthreejs/repositories) | 0 | [map](map/webthreejs.md) |
 | [xtends](https://github.com/xtends) | Professor Codephreak extensions for local language models |  | [112](https://github.com/orgs/xtends/repositories) | 1 | [map](map/xtends.md) |
+
+## Related organizations
+
+Estate organizations held outside the Professor-Codephreak account. Public repos only.
+
+| Organization | Description | Website | Repos | Map |
+|---|---|---|--:|---|
+| [AUTOMINDx](https://github.com/AUTOMINDx) | AIML Automated Intelligent Machine Learning AIMLx |  | [28](https://github.com/orgs/AUTOMINDx/repositories) | [map](map/automindx.md) |
+| [bankonme](https://github.com/bankonme) | bankon.me privacy, integrity and security for your personal banking information | [bankon.me](http://bankon.me) | [452](https://github.com/orgs/bankonme/repositories) | [map](map/bankonme.md) |
+| [bankonmecoin](https://github.com/bankonmecoin) | An exercise in cryptonote technology | [bankon.me](http://bankon.me) | [31](https://github.com/orgs/bankonmecoin/repositories) | [map](map/bankonmecoin.md) |
+| [cryptocurrent](https://github.com/cryptocurrent) | A repository to store some of the code to build the bankonmeOS Desktop as a bash shell script. | [bankon.me](http://bankon.me) | [191](https://github.com/orgs/cryptocurrent/repositories) | [map](map/cryptocurrent.md) |
+| [Faicey](https://github.com/Faicey) | UIUX AIML modular response systems interface design parameters | [github.com/Faicey](https://github.com/Faicey) | [18](https://github.com/orgs/Faicey/repositories) | [map](map/faicey.md) |
+| [Jaimla](https://github.com/Jaimla) | I am the machine learning agent |  | [23](https://github.com/orgs/Jaimla/repositories) | [map](map/jaimla.md) |
+| [mlodels](https://github.com/mlodels) | local language machine learning models |  | [50](https://github.com/orgs/mlodels/repositories) | [map](map/mlodels.md) |
+| [mlodular](https://github.com/mlodular) | collection of modular javascript snippets including drag drop 3D design and data sorting | [github.com/Faicey](https://github.com/Faicey) | [17](https://github.com/orgs/mlodular/repositories) | [map](map/mlodular.md) |
+| [spintrade](https://github.com/spintrade) | DEX | [spintrade.crypto](https://spintrade.crypto) | [228](https://github.com/orgs/spintrade/repositories) | [map](map/spintrade.md) |
 
 ## Regenerate
 

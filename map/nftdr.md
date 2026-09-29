@@ -12,4 +12,4 @@
 | [payment-processor](https://github.com/NFTdr/payment-processor) 🍴 | ERC721-C compatible payment processing layer for NFT marketplace integrations |  | 0 | [code](https://github.com/NFTdr/payment-processor/tree/main) · [issues](https://github.com/NFTdr/payment-processor/issues) |
 | [xmtpd](https://github.com/NFTdr/xmtpd) 🍴 | XMTP node implementation |  | 0 | [code](https://github.com/NFTdr/xmtpd/tree/main) · [issues](https://github.com/NFTdr/xmtpd/issues) · [site](https://docs.xmtp.org) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

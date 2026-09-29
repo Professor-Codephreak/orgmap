@@ -17,4 +17,4 @@ Website: <https://bankon.pythai.net>
 | [signatures](https://github.com/poormanvpn/signatures) 🍴 | Cryptographic signature algorithms: DSA, ECDSA, Ed25519 |  | 0 | [code](https://github.com/poormanvpn/signatures/tree/master) · [issues](https://github.com/poormanvpn/signatures/issues) |
 | [ssh2](https://github.com/poormanvpn/ssh2) 🍴 | SSH2 client and server modules written in pure JavaScript for node.js |  | 0 | [code](https://github.com/poormanvpn/ssh2/tree/master) · [issues](https://github.com/poormanvpn/ssh2/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

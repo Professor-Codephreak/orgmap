@@ -23,4 +23,4 @@ Website: <https://deltavthrust.com>
 | [tezos-metamask-snap](https://github.com/metasnaps/tezos-metamask-snap) 🍴 | tezos metamask snap |  | 0 | [code](https://github.com/metasnaps/tezos-metamask-snap/tree/main) · [issues](https://github.com/metasnaps/tezos-metamask-snap/issues) |
 | [Web3MQ-Snap](https://github.com/metasnaps/Web3MQ-Snap) 🍴 | Web3-native decentralized communication protocol. Encrypted, efficient and borderless. |  | 0 | [code](https://github.com/metasnaps/Web3MQ-Snap/tree/main) · [issues](https://github.com/metasnaps/Web3MQ-Snap/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

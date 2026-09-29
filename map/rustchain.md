@@ -33,4 +33,4 @@ Website: <https://dmg.finance>
 | [sns-deploy](https://github.com/rustchain/sns-deploy) 🍴 | Upload static website to IPFS pinning services and update your Solana Name Service Records. |  | 4 | [code](https://github.com/rustchain/sns-deploy/tree/master) · [issues](https://github.com/rustchain/sns-deploy/issues) |
 | [tch-rs](https://github.com/rustchain/tch-rs) 🍴 | Rust bindings for the C++ api of PyTorch. |  | 4 | [code](https://github.com/rustchain/tch-rs/tree/main) · [issues](https://github.com/rustchain/tch-rs/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

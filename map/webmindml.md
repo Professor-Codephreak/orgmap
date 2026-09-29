@@ -58,4 +58,4 @@
 | [webgpu-samples](https://github.com/webmindml/webgpu-samples) 🍴 | WebGPU Samples |  | 0 | [code](https://github.com/webmindml/webgpu-samples/tree/main) · [issues](https://github.com/webmindml/webgpu-samples/issues) · [site](https://webgpu.github.io/webgpu-samples/) |
 | [WebGPU_DDDbarchart](https://github.com/webmindml/WebGPU_DDDbarchart) 🍴 | WebGPU to three.js for 3D bar chart representation |  | 0 | [code](https://github.com/webmindml/WebGPU_DDDbarchart/tree/main) · [issues](https://github.com/webmindml/WebGPU_DDDbarchart/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

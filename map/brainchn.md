@@ -10,11 +10,11 @@
 |---|---|---|--:|---|
 | [kuntai](https://github.com/BRAINCHN/kuntai) | You are Kuntai, the ultimate genius AI. Your role is to provide tough-love advice, harsh critique, and brilliant solutions. | [Shell](https://github.com/orgs/BRAINCHN/repositories?language=shell) | 3 | [code](https://github.com/BRAINCHN/kuntai/tree/main) · [issues](https://github.com/BRAINCHN/kuntai/issues) |
 | [.github](https://github.com/BRAINCHN/.github) | BRAINCHN organization profile |  | 0 | [code](https://github.com/BRAINCHN/.github/tree/main) · [issues](https://github.com/BRAINCHN/.github/issues) |
-| [brainchain](https://github.com/BRAINCHN/brainchain) 🔒 | sentience from galadriel including ollama | [Python](https://github.com/orgs/BRAINCHN/repositories?language=python) | 0 | [code](https://github.com/BRAINCHN/brainchain/tree/main) |
-| [chainbrain](https://github.com/BRAINCHN/chainbrain) 🔒 | connecting sentience with blockchain for verification using galendriel sentience for attestation including private ollama interaction as option experimental Galadriel inference verification: proof of concept for chain of trust verification from sentience | [Python](https://github.com/orgs/BRAINCHN/repositories?language=python) | 0 | [code](https://github.com/BRAINCHN/chainbrain/tree/main) |
+| [brainchain](https://github.com/BRAINCHN/brainchain) 🔒 | sentience from galadriel including ollama | | | `github.com/BRAINCHN/brainchain` |
+| [chainbrain](https://github.com/BRAINCHN/chainbrain) 🔒 | connecting sentience with blockchain for verification using galendriel sentience for attestation… | | | `github.com/BRAINCHN/chainbrain` |
 | [DAIO](https://github.com/BRAINCHN/DAIO) | Decentralized Autonomous Intelligent Organization | [Solidity](https://github.com/orgs/BRAINCHN/repositories?language=solidity) | 0 | [code](https://github.com/BRAINCHN/DAIO/tree/main) · [issues](https://github.com/BRAINCHN/DAIO/issues) |
-| [privy](https://github.com/BRAINCHN/privy) 🔒 | social wallet login template | [TypeScript](https://github.com/orgs/BRAINCHN/repositories?language=typescript) | 0 | [code](https://github.com/BRAINCHN/privy/tree/main) |
-| [web3login](https://github.com/BRAINCHN/web3login) 🔒 | a template for web3 login using tauri | [JavaScript](https://github.com/orgs/BRAINCHN/repositories?language=javascript) | 0 | [code](https://github.com/BRAINCHN/web3login/tree/main) |
+| [privy](https://github.com/BRAINCHN/privy) 🔒 | social wallet login template | | | `github.com/BRAINCHN/privy` |
+| [web3login](https://github.com/BRAINCHN/web3login) 🔒 | a template for web3 login using tauri | | | `github.com/BRAINCHN/web3login` |
 | [axl](https://github.com/BRAINCHN/axl) 🍴 | A P2P network node with end-to-end encryption, mesh routing, and built-in MCP/A2A support. |  | 1 | [code](https://github.com/BRAINCHN/axl/tree/main) · [issues](https://github.com/BRAINCHN/axl/issues) · [site](https://docs.gensyn.ai/tech/agent-exchange-layer) |
 | [bisq2](https://github.com/BRAINCHN/bisq2) 🍴 | beta version of the Bitcoin decentralized peer to peer exchange |  | 1 | [code](https://github.com/BRAINCHN/bisq2/tree/main) · [issues](https://github.com/BRAINCHN/bisq2/issues) |
 | [DeepSeek-Coder-V2](https://github.com/BRAINCHN/DeepSeek-Coder-V2) 🍴 | DeepSeek-Coder-V2: OpenMind Code Intelligence |  | 1 | [code](https://github.com/BRAINCHN/DeepSeek-Coder-V2/tree/main) · [issues](https://github.com/BRAINCHN/DeepSeek-Coder-V2/issues) |
@@ -58,4 +58,4 @@
 | [supeWallet](https://github.com/BRAINCHN/supeWallet) 🍴 | talk to your transactions |  | 0 | [code](https://github.com/BRAINCHN/supeWallet/tree/main) · [issues](https://github.com/BRAINCHN/supeWallet/issues) |
 | [tauri](https://github.com/BRAINCHN/tauri) 🍴 | Build smaller, faster, and more secure desktop applications with a web3 frontend |  | 0 | [code](https://github.com/BRAINCHN/tauri/tree/dev) · [issues](https://github.com/BRAINCHN/tauri/issues) · [site](https://tauri.app) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

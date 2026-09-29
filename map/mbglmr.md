@@ -10,4 +10,4 @@ Website: <https://glmr.pythai.net>
 
 _No repositories._
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

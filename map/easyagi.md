@@ -21,4 +21,4 @@ Website: <https://rage.pythai.net>
 | [lmagi](https://github.com/easyAGI/lmagi) 🍴 | local model augmented generative intelligence |  | 0 | [code](https://github.com/easyAGI/lmagi/tree/main) · [issues](https://github.com/easyAGI/lmagi/issues) · [site](https://rage.pythai.net/) |
 | [mastermind](https://github.com/easyAGI/mastermind) 🍴 | MASTERMIND agent creation for controlled agency using aGLM BDI and RAGE |  | 0 | [code](https://github.com/easyAGI/mastermind/tree/main) · [issues](https://github.com/easyAGI/mastermind/issues) · [site](https://pythai.net) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

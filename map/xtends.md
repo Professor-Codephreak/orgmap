@@ -10,7 +10,7 @@
 |---|---|---|--:|---|
 | [.github](https://github.com/xtends/.github) |  |  | 0 | [code](https://github.com/xtends/.github/tree/main) · [issues](https://github.com/xtends/.github/issues) |
 | [faice](https://github.com/xtends/faice) | Framework for Autonomous and Intelligent Computer Expressions |  | 0 | [code](https://github.com/xtends/faice/tree/main) · [issues](https://github.com/xtends/faice/issues) · [site](https://github.com/pythaiml/automindx) |
-| [gptchat](https://github.com/xtends/gptchat) 🔒 | quick gptchat interaction that requires the user to manually add an API then salts it and opens iApp hello world chatGPT chat iApp v1 | [Python](https://github.com/orgs/xtends/repositories?language=python) | 0 | [code](https://github.com/xtends/gptchat/tree/main) |
+| [gptchat](https://github.com/xtends/gptchat) 🔒 | quick gptchat interaction that requires the user to manually add an API then salts it and opens… | | | `github.com/xtends/gptchat` |
 | [textual](https://github.com/xtends/textual) 🍴 | The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. |  | 2 | [code](https://github.com/xtends/textual/tree/main) · [issues](https://github.com/xtends/textual/issues) · [site](https://textual.textualize.io/) |
 | [compiz-plugins-extra](https://github.com/xtends/compiz-plugins-extra) 🍴 | Mirrored from https://gitlab.com/compiz/compiz-plugins-extra.git |  | 1 | [code](https://github.com/xtends/compiz-plugins-extra/tree/master) · [issues](https://github.com/xtends/compiz-plugins-extra/issues) |
 | [gpt-autopilot](https://github.com/xtends/gpt-autopilot) 🍴 | A GPT-4 powered AI agent that can create full projects with iterative prompting |  | 1 | [code](https://github.com/xtends/gpt-autopilot/tree/master) · [issues](https://github.com/xtends/gpt-autopilot/issues) |
@@ -121,4 +121,4 @@
 | [whisper-gpt3-email-generator](https://github.com/xtends/whisper-gpt3-email-generator) 🍴 | Generate kind and formal email from voice input |  | 0 | [code](https://github.com/xtends/whisper-gpt3-email-generator/tree/main) · [issues](https://github.com/xtends/whisper-gpt3-email-generator/issues) |
 | [whisper-gpt3-streamlit](https://github.com/xtends/whisper-gpt3-streamlit) 🍴 | Whisper in combination with GPT-3 |  | 0 | [code](https://github.com/xtends/whisper-gpt3-streamlit/tree/main) · [issues](https://github.com/xtends/whisper-gpt3-streamlit/issues) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived

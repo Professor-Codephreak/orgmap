@@ -9,7 +9,7 @@
 | Repository | Description | Language | ★ | Links |
 |---|---|---|--:|---|
 | [.github](https://github.com/minaiml/.github) | minaiml (pronounced minimal) min ai ml local language models |  | 0 | [code](https://github.com/minaiml/.github/tree/main) · [issues](https://github.com/minaiml/.github/issues) |
-| [brobot-private](https://github.com/minaiml/brobot-private) 🔒 | BROBOT — private working tree. Unreleased; portions may be published to minaiml/brobot when ready. Built on PocketPal AI (MIT). |  | 0 | [code](https://github.com/minaiml/brobot-private/tree/main) |
+| [brobot-private](https://github.com/minaiml/brobot-private) 🔒 | BROBOT — private working tree. Unreleased; portions may be published to minaiml/brobot when ready.… | | | `github.com/minaiml/brobot-private` |
 | [emscripten](https://github.com/minaiml/emscripten) 🍴 | Emscripten: An LLVM-to-WebAssembly Compiler | [C++](https://github.com/orgs/minaiml/repositories?language=c++) | 1 | [code](https://github.com/minaiml/emscripten/tree/main) · [issues](https://github.com/minaiml/emscripten/issues) |
 | [exo](https://github.com/minaiml/exo) 🍴 | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ | [Python](https://github.com/orgs/minaiml/repositories?language=python) | 1 | [code](https://github.com/minaiml/exo/tree/main) · [issues](https://github.com/minaiml/exo/issues) |
 | [flash-moe](https://github.com/minaiml/flash-moe) 🍴 | Running a big model on a small laptop | [Objective-C](https://github.com/orgs/minaiml/repositories?language=objective-c) | 1 | [code](https://github.com/minaiml/flash-moe/tree/main) · [issues](https://github.com/minaiml/flash-moe/issues) |
@@ -89,4 +89,4 @@
 | [whisper.cpp](https://github.com/minaiml/whisper.cpp) 🍴 | Port of OpenAI's Whisper model in C/C++ | [C++](https://github.com/orgs/minaiml/repositories?language=c++) | 0 | [code](https://github.com/minaiml/whisper.cpp/tree/master) · [issues](https://github.com/minaiml/whisper.cpp/issues) |
 | [wllama](https://github.com/minaiml/wllama) 🍴 | WebAssembly binding for llama.cpp - Enabling on-browser LLM inference | [TypeScript](https://github.com/orgs/minaiml/repositories?language=typescript) | 0 | [code](https://github.com/minaiml/wllama/tree/master) · [issues](https://github.com/minaiml/wllama/issues) · [site](https://huggingface.co/spaces/ngxson/wllama) |
 
-🔒 private · 🍴 fork · 📦 archived
+🔒 private, listed by name, description and address only until release · 🍴 fork · 📦 archived
