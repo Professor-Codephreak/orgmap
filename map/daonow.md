@@ -38,7 +38,7 @@ Each fork is research into the work of its upstream project. Sorted by the upstr
 |---|---|---|--:|---|
 | [1inch-token](https://github.com/DAONOW/1inch-token) | [1inch/1inch-token](https://github.com/1inch/1inch-token) 📦 | — | 172 | Solidity |
 | [arc](https://github.com/DAONOW/arc) | [1inch/arc](https://github.com/1inch/arc) 📦 | Arc is an operating system for DAOs. | 3 | JavaScript |
-| [governance-contracts](https://github.com/DAONOW/governance-contracts) | [1inch/governance-contracts](https://github.com/1inch/governance-contracts) 📦 | — | 6 | JavaScript |
+| [governance-contracts](https://github.com/DAONOW/governance-contracts) | [1inch/governance-contracts](https://github.com/1inch/governance-contracts) 📦 | Governance Mothership | 6 | JavaScript |
 | [react-mosaic](https://github.com/DAONOW/react-mosaic) | [ABSRDML/react-mosaic](https://github.com/ABSRDML/react-mosaic) | A React tiling window manager | 0 | TypeScript |
 | [contract](https://github.com/DAONOW/contract) | [aidanok/DAOGarden-Conracts](https://github.com/aidanok/DAOGarden-Conracts) | SmartWeave for DAOGarden | 0 | TypeScript |
 | [robonomics_contracts](https://github.com/DAONOW/robonomics_contracts) | [airalab/robonomics_contracts](https://github.com/airalab/robonomics_contracts) | Robonomics contracts for Ethereum; Launched on the mainnet in 2019 | 81 | Solidity |
@@ -160,7 +160,7 @@ Each fork is research into the work of its upstream project. Sorted by the upstr
 | [snowswap-periphery](https://github.com/DAONOW/snowswap-periphery) | [SnowbankDAO/snowswap-periphery](https://github.com/SnowbankDAO/snowswap-periphery) | This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem. | 1 | Solidity |
 | [dapp-scaffold](https://github.com/DAONOW/dapp-scaffold) | [solana-labs/dapp-scaffold](https://github.com/solana-labs/dapp-scaffold) 📦 | Scaffolding for a dapp built on Solana | 1,817 | TypeScript |
 | [contracts](https://github.com/DAONOW/contracts) | [SomeJavaGuy/contracts-3](https://github.com/SomeJavaGuy/contracts-3) | — | 0 | Solidity |
-| [spartacus-contracts](https://github.com/DAONOW/spartacus-contracts) | [spartacus-finance/spartacus-contracts](https://github.com/spartacus-finance/spartacus-contracts) | — | 13 | Solidity |
+| [spartacus-contracts](https://github.com/DAONOW/spartacus-contracts) | [spartacus-finance/spartacus-contracts](https://github.com/spartacus-finance/spartacus-contracts) | Spartacus Smart Contracts | 13 | Solidity |
 | [Spartacus-Landing](https://github.com/DAONOW/Spartacus-Landing) | [spartacus-finance/Spartacus-Landing](https://github.com/spartacus-finance/Spartacus-Landing) | This project was bootstrapped with Create React App. | 6 | TypeScript |
 | [hMOCHI-contracts](https://github.com/DAONOW/hMOCHI-contracts) | [spintrade/hMOCHI-contracts](https://github.com/spintrade/hMOCHI-contracts) | hMOCHI token and farm contracts | 0 | Solidity |
 | [stardao](https://github.com/DAONOW/stardao) | [stardogventures/stardao](https://github.com/stardogventures/stardao) | Simple base DAO classes for MongoDB and DynamoDB | 11 | Java |

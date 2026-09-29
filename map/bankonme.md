@@ -373,7 +373,7 @@ Each fork is research into the work of its upstream project. Sorted by the upstr
 | [rippled-peers-webapp](https://github.com/bankonme/rippled-peers-webapp) | [ripple/rippled-peers-webapp](https://github.com/ripple/rippled-peers-webapp) 📦 | Web dashboard for rippled peer network data | 1 | JavaScript |
 | [validator-registry-webapp](https://github.com/bankonme/validator-registry-webapp) | [ripple/validator-registry-webapp](https://github.com/ripple/validator-registry-webapp) 📦 | Human User Interface for Rippled Validator Registry - Angular.js | 3 | JavaScript |
 | [MUE-Src](https://github.com/bankonme/MUE-Src) | [Roverok/MUE-Src](https://github.com/Roverok/MUE-Src) | MonetaryUnit Core | 0 | C++ |
-| [shapeshift-lens](https://github.com/bankonme/shapeshift-lens) | [Roverok/shapeshift-lens](https://github.com/Roverok/shapeshift-lens) | — | 0 | JavaScript |
+| [shapeshift-lens](https://github.com/bankonme/shapeshift-lens) | [Roverok/shapeshift-lens](https://github.com/Roverok/shapeshift-lens) | shapeshift-lens =============== | 0 | JavaScript |
 | [OpenExchange](https://github.com/bankonme/OpenExchange) | [sb-/OpenExchange](https://github.com/sb-/OpenExchange) | Open source cryptocurrency exchange | 134 | Python |
 | [coinwidget.com](https://github.com/bankonme/coinwidget.com) | [scottycc/coinwidget.com](https://github.com/scottycc/coinwidget.com) | The Bitcoin and Litecoin Donation Button | 151 | PHP |
 | [meshbox](https://github.com/bankonme/meshbox) | [SeattleMeshnet/meshbox](https://github.com/SeattleMeshnet/meshbox) | The Hyperboria peering device | 139 | Python |

@@ -17,6 +17,7 @@
 ## Original works (3)
 
 - **[.github](https://github.com/xtends/.github)** · MIT · [code](https://github.com/xtends/.github/tree/main)
+  create streamlit component
 - **[faice](https://github.com/xtends/faice)** · [site](https://github.com/pythaiml/automindx) · [code](https://github.com/xtends/faice/tree/main)
   Framework for Autonomous and Intelligent Computer Expressions
   `automindx`
