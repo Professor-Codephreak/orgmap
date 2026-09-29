@@ -130,7 +130,7 @@ R = ['# orgmap', '',
      '| `README.md` | this index: every account and organization with counts and links |',
      '| `map/<name>.md` | one page per account or organization, every repository in a table |',
      '| `orgmap.json` | the same data as JSON, for scripts and agents |',
-     '| `llm.txt` | a short, link-first guide for language models |',
+     '| `llms.txt`, `llm.txt` | a short, link-first guide for language models (same text under both names) |',
      '| `fetch.py`, `generate.py` | rebuild everything from the GitHub API |', '',
      'On each `map/` page, repositories are sorted with original work first, then by stars. Each public repository links to its **code** on the default branch, its **issues**, its **site** where it has one, and a filter for its **language**.', '',
      ''
@@ -170,11 +170,11 @@ for r in recent:
     R.append(f"| [{r['full_name']}]({r['html_url']}) | {brief(r['description'], 90) or '—'} | {r['language'] or '—'} | {(r['pushed_at'] or '')[:10]} |")
 
 R += ['', '## For agents', '',
-      f'- Start with [`llm.txt`](llm.txt) ([raw]({RAW}/llm.txt)).',
+      f'- Start with [`llms.txt`](llms.txt) ([raw]({RAW}/llms.txt)). `llm.txt` is the same file.',
       f'- Load [`orgmap.json`](orgmap.json) ([raw]({RAW}/orgmap.json)) rather than parsing these tables.',
       f'- Every page is at `{RAW}/map/<name>.md`, where `<name>` is the lowercase login.',
       '- Private repositories carry only `name`, `description` and `url`. Do not infer more about them.', '',
-      '## Regenerate', '', '```sh', 'python3 fetch.py      # writes data.json; needs an authenticated gh', 'python3 generate.py   # writes README.md, map/, orgmap.json, llm.txt', '```', '']
+      '## Regenerate', '', '```sh', 'python3 fetch.py      # writes data.json; needs an authenticated gh', 'python3 generate.py   # writes README.md, map/, orgmap.json, llms.txt, llm.txt', '```', '']
 open('README.md', 'w').write('\n'.join(R))
 
 # orgmap.json: private repos reduced to name, description and url
@@ -217,5 +217,6 @@ T += [f"- [{l}]({RAW}/map/{slug(l)}.md): {esc(groups['org'][l]['meta'].get('desc
 T += ['', '## Optional', '', '### Related organizations', '']
 T += [f"- [{l}]({RAW}/map/{slug(l)}.md): {esc(groups['related'][l]['meta'].get('description')) or 'no description'} ({S['related'][l]['repos']} public repos)" for l in sorted(groups['related'], key=str.lower)]
 T.append('')
-open('llm.txt', 'w').write('\n'.join(T))
+for name in ('llm.txt', 'llms.txt'):  # llms.txt is the conventional name; both carry the same text
+    open(name, 'w').write('\n'.join(T))
 print('orgs', len(groups['org']), 'users', len(groups['user']), 'repos', total, 'private', priv, 'related', len(groups['related']))

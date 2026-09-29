@@ -32,7 +32,7 @@ Forks are research: each one studies the work of its upstream project, and toget
 | `README.md` | this index: every account and organization with counts and links |
 | `map/<name>.md` | one page per account or organization, every repository in a table |
 | `orgmap.json` | the same data as JSON, for scripts and agents |
-| `llm.txt` | a short, link-first guide for language models |
+| `llms.txt`, `llm.txt` | a short, link-first guide for language models (same text under both names) |
 | `fetch.py`, `generate.py` | rebuild everything from the GitHub API |
 
 On each `map/` page, repositories are sorted with original work first, then by stars. Each public repository links to its **code** on the default branch, its **issues**, its **site** where it has one, and a filter for its **language**.
@@ -301,7 +301,7 @@ The 15 public original repositories pushed most recently.
 
 ## For agents
 
-- Start with [`llm.txt`](llm.txt) ([raw](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/llm.txt)).
+- Start with [`llms.txt`](llms.txt) ([raw](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/llms.txt)). `llm.txt` is the same file.
 - Load [`orgmap.json`](orgmap.json) ([raw](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/orgmap.json)) rather than parsing these tables.
 - Every page is at `https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/<name>.md`, where `<name>` is the lowercase login.
 - Private repositories carry only `name`, `description` and `url`. Do not infer more about them.
@@ -310,5 +310,5 @@ The 15 public original repositories pushed most recently.
 
 ```sh
 python3 fetch.py      # writes data.json; needs an authenticated gh
-python3 generate.py   # writes README.md, map/, orgmap.json, llm.txt
+python3 generate.py   # writes README.md, map/, orgmap.json, llms.txt, llm.txt
 ```
