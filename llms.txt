@@ -1,6 +1,6 @@
 # orgmap
 
-> Map of the 99 GitHub organizations, 4 accounts and 4,988 repositories (573 original, 4,415 research forks, 199 private) of Professor Codephreak, plus 11 related organizations held by other accounts. Generated 2026-09-29 from the GitHub API.
+> Map of the 99 GitHub organizations, 4 accounts and 4,988 repositories (573 original, 4,415 research forks, 199 private) of Professor Codephreak, plus 11 related organizations held by other accounts. Generated 2026-09-29 from the GitHub API. This is the master archivist's file mapping: each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
 Rules for reading it:
 - Private repositories are listed by name, brief description and address only, until release. Do not infer more about them.
@@ -9,8 +9,11 @@ Rules for reading it:
 
 ## Data
 
-- [orgmap.json](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/orgmap.json): everything, as JSON. Keys: totals, sites, accounts, organizations, related_organizations; each entry has a repositories list
+- [orgmap.json](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/orgmap.json): everything, as JSON. Keys: totals, sites, domains, accounts, organizations, related_organizations. Each organization has a domain and a repositories list; public repos carry about (a description) and, for research forks, studies (the upstream)
 - [README.md](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/README.md): the human index
+- [ARCHIVE.md](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/ARCHIVE.md): the concept archive, domain by domain
+- [domains.json](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/domains.json): which domain each organization is filed under
+- Each map page lists its original works with descriptions, and every research fork with the upstream it studies
 
 ## Sites
 
@@ -31,120 +34,176 @@ Rules for reading it:
 - [simplecode](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/simplecode.md): 5 repos, 3 original
 - [sAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/sagi.md): 103 repos, 21 original
 
-## Organizations
+## Machine learning and local language models
 
-- [abaracadabra](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/abaracadabra.md): utterance as expression of will (11 repos, 4 original)
-- [abstractionwallet](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/abstractionwallet.md): research into wallet abstraction alchemy resources general reference guide (39 repos, 4 original)
-- [AgenticPlace](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/agenticplace.md): distributed THOT transference (80 repos, 63 original)
-- [ailgo](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/ailgo.md): no description (107 repos, 4 original)
-- [AIMLdr](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/aimldr.md): machine learning healthcare consultation (14 repos, 11 original)
-- [AION-NET](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/aion-net.md): aion-net (20 repos, 7 original)
-- [AIONMCP](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/aionmcp.md): AION Model Context Protocol summary and links (29 repos, 2 original)
-- [aiterm](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/aiterm.md): augmented intelligence terminal (36 repos, 2 original)
-- [augml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/augml.md): augmentation machine learning (138 repos, 3 original)
-- [autoGLM](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/autoglm.md): Autonomous General Learning Machine (49 repos, 5 original)
-- [autonomos-agent](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/autonomos-agent.md): automatic operating system (31 repos, 1 original)
-- [BANKONPYTHAI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bankonpythai.md): fixed-supply Qubic quantum price oracle (23 repos, 8 original)
-- [bankonvault](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bankonvault.md): client to data storage facilitation (92 repos, 2 original)
-- [blktalk](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/blktalk.md): blockchain communication system (49 repos, 1 original)
-- [BRAINCHN](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/brainchn.md): BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN (49 repos, 7 original)
-- [BROBOTBRAI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/brobotbrai.md): BROBOT BRAI cryptocurrency adoption AI tool (3 repos, 1 original)
-- [BRUHAI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bruhai.md): collection of machine learning augmented intelligence source code for research and development (4 repos, 1 original)
-- [chattchain](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/chattchain.md): no description (20 repos, 1 original)
-- [chatter3](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/chatter3.md): I am who I am because of who I am (43 repos, 2 original)
-- [cryptoAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cryptoagi.md): cryptoAGI (56 repos, 46 original)
-- [cryptotraderagi](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cryptotraderagi.md): research into trading platforms and machine learning (23 repos, 1 original)
-- [cyberpunk2051](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cyberpunk2051.md): collection of ollama software and blockchain software for an abundant future of collective prosperity (16 repos, 3 original)
-- [cypherpunk2048](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cypherpunk2048.md): standard (9 repos, 8 original)
-- [cypherpunk4096](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cypherpunk4096.md): 2^3==8 (16 repos, 15 original)
-- [dairef](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/dairef.md): A general reference to programmable DAI (23 repos, 2 original)
-- [daisychn](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/daisychn.md): layer three agentic blockchain (4 repos, 2 original)
-- [DAOcommunity](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/daocommunity.md): no description (63 repos, 3 original)
-- [DAONOW](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/daonow.md): collection of inception contracts for DAO creation (151 repos, 8 original)
-- [dddcyborgd](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/dddcyborgd.md): three d cyborg daemon for decentralized interactive experience (5 repos, 5 original)
-- [deltabridge](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltabridge.md): deltabridge implementation of the delta algorithm (148 repos, 3 original)
-- [DeltaLabratory](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltalabratory.md): Experimental Zone enter at own risk (93 repos, 3 original)
-- [deltalgorand](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltalgorand.md): DeltaVerse cross-bridge web3D resourcecode for Algorand blockchain integration (45 repos, 3 original)
-- [deltaloans](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltaloans.md): research into flashloans and interface designs to create value from debt (48 repos, 1 original)
-- [deltamoonbeam](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltamoonbeam.md): exploration of DEX on ERC-20 chains (8 repos, 1 original)
-- [deltastorage](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltastorage.md): Zilliqa Scilla language exploration (58 repos, 3 original)
-- [deltav-deltaverse](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltav-deltaverse.md): Decentralised cryptoverse metaDAO (127 repos, 8 original)
-- [deltavchain](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltavchain.md): DeltaV THRUST interoperable EVM blockchain environment (66 repos, 7 original)
-- [DeltaVD](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltavd.md): DeltaVerse web3D resourcecode (82 repos, 1 original)
-- [DeltaVerseDAO](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltaversedao.md): deltaverse.dao (72 repos, 2 original)
-- [DeltaVML](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltavml.md): machine learning (271 repos, 4 original)
-- [DeltaVThrust-NFT](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltavthrust-nft.md): source code to create and manipulate non-fungible-tokens (171 repos, 9 original)
-- [easyAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/easyagi.md): easy Augmented Generative Intelligence (10 repos, 5 original)
-- [easyGLM](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/easyglm.md): easy General Learning Model (8 repos, 2 original)
-- [GATERAGE](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/gaterage.md): Retrieval Augmented Generative Engine (75 repos, 15 original)
-- [gnugui](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/gnugui.md): a GNU GUI for a 3D, expressive web — vault · themes · charts · web3D. GPLv3. take it, own it, use it, share it (13 repos, 3 original)
-- [gpt4plugins](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/gpt4plugins.md): IAM intellegent augmentation machine (73 repos, 1 original)
-- [GrandUnifiedTheoryOfEverything](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/grandunifiedtheoryofeverything.md): Professor Codephreak explores the fourth dimension and posits Smatter (2 repos, 2 original)
-- [idmanagement](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/idmanagement.md): I am who I am because of who I am (215 repos, 5 original)
-- [interplanetaryfilesystem](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/interplanetaryfilesystem.md): IPFS development archive (75 repos, 2 original)
-- [IPFSdapps](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/ipfsdapps.md): decentralized front end DAPP development exploration (130 repos, 9 original)
-- [ipNFTfs](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/ipnftfs.md): interplanetary NFT file system utility development (22 repos, 1 original)
-- [LAIR3](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/lair3.md): layer 3 Blockchain Deployment Kit  Interplanetary Consensus solutions (107 repos, 8 original)
-- [limitorder](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/limitorder.md): collection of limit order code for the creation of a sane stop loss tool (16 repos, 1 original)
-- [llamagi](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/llamagi.md): local language model augmented generative intelligence (15 repos, 2 original)
-- [mastermindML](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mastermindml.md): mastermind agency controller (24 repos, 7 original)
-- [mbGLMR](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mbglmr.md): independent work on the decentralised glimmer network (0 repos, 0 original)
-- [metasnaps](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/metasnaps.md): metamask snap extensions for deltaverse (12 repos, 1 original)
-- [minaiml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/minaiml.md): min ai ml   language models in miniature (80 repos, 2 original)
-- [mldaio](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mldaio.md): machine learning decentralised autonomous organisation (2 repos, 2 original)
-- [MMRAIMRAI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mmraimrai.md): MasterMind Retrieval Augmented Intelligence MemoRAI (3 repos, 2 original)
-- [modusAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/modusagi.md): modular AGI (4 repos, 4 original)
-- [MYSTICALPYTHIA](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mysticalpythia.md): predictions algorithm (4 repos, 4 original)
-- [newagi](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/newagi.md): neural enhanced wisdom augmented generative intelligence (2 repos, 2 original)
-- [NFTdr](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/nftdr.md): NFT data royalties (3 repos, 1 original)
-- [NFTmr](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/nftmr.md): NFT Marketplace Royalties (41 repos, 2 original)
-- [openbdk](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/openbdk.md): Open Blockchain Development Kit (8 repos, 5 original)
-- [openmindx](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/openmindx.md): open source machine learning source code (54 repos, 8 original)
-- [parsec-wallet](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/parsec-wallet.md): PARSEC cryptocurrency wallet (61 repos, 5 original)
-- [pkNFTapi](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/pknftapi.md): programmable private key prompt knowledge (12 repos, 11 original)
-- [polyglotAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/polyglotagi.md): multi-model multi-modal machine generative augmented intelligence (3 repos, 3 original)
-- [poormanvpn](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/poormanvpn.md): poor mans VPN client server code (6 repos, 2 original)
-- [pyeth](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/pyeth.md): Ethereum Virtual Machine Python tools (83 repos, 2 original)
-- [pythaiml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/pythaiml.md): Sovereign intelligence for the open chain — Python Augmented Intelligence Machine Learning · pythai.net (44 repos, 3 original)
-- [PYTHIAMYSTIC](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/pythiamystic.md): mystical guidance from PYTHIA MYSTIC oracle of Delphi (20 repos, 8 original)
-- [ramziosta-code](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/ramziosta-code.md): no description (4 repos, 2 original)
-- [researchsolution](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/researchsolution.md): contract programming Decentralized Autonomous Intelligent Organization (118 repos, 10 original)
-- [rustchain](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/rustchain.md): collection of tools to support rust blockchains including Partisia, Solana, and Cosm Wasm enhanced by SOLmaster GPT agent (22 repos, 1 original)
-- [S-M-A-I-R-T](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/s-m-a-i-r-t.md): Solidity Machine Augmented Intelligence Responsive Technology (27 repos, 3 original)
-- [satoshigen](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/satoshigen.md): Bitcoin ordinal inscription of a Satoshi for immutable friction (19 repos, 1 original)
-- [SaveGlaciers](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/saveglaciers.md): Water is Life (16 repos, 1 original)
-- [SHAMBA-LUV](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/shamba-luv.md): SHAMBA LUV is a digital gesture designed to spread abundance, fun, and community vibe social sharing building an emotional economy (19 repos, 17 original)
-- [solidml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/solidml.md): solidity and machine learning reference zone (131 repos, 4 original)
-- [STORAGESTAR](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/storagestar.md): Storage Star (3 repos, 2 original)
-- [tethercoin](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/tethercoin.md): research and development into pegged cryptocurrency assets (58 repos, 8 original)
-- [THCHAIN](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thchain.md): no description (59 repos, 1 original)
-- [THRUSTCHAIN](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thrustchain.md): THRUST TNT blockchain development (21 repos, 2 original)
-- [thrustdrop](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thrustdrop.md): research and development into improvements of token and airdrop contracts and interfaces (38 repos, 2 original)
-- [thTNT](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thtnt.md): THRUST NETWORK TECHNOLOGY blockchain solutions (69 repos, 9 original)
-- [thTNT2](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thtnt2.md): mess of code for hackFS research (51 repos, 3 original)
-- [TNTbkc](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/tntbkc.md): THRUST TNT contains the tools to deploy THRUST TNT blockchain testnet (36 repos, 1 original)
-- [trainair](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/trainair.md): trainAIr is the model trainer (11 repos, 1 original)
-- [UIUXt](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/uiuxt.md): extensions collection for extension development of UIUX (34 repos, 2 original)
-- [w3DAIO](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/w3daio.md): Decentralized Autonomous Intelligent Organization (5 repos, 4 original)
-- [web3buysell](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3buysell.md): DAO of buy and sel (31 repos, 1 original)
-- [web3comm](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3comm.md): Token Talk Transaction web3 communication environment (61 repos, 2 original)
-- [web3Dai](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3dai.md): no description (55 repos, 1 original)
-- [webmindml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/webmindml.md): distributed l client side local language model development zone (49 repos, 6 original)
-- [webthreejs](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/webthreejs.md): web3js (73 repos, 1 original)
-- [xtends](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/xtends.md): Professor Codephreak extensions for local language models (112 repos, 3 original)
+Models that run where the user is: local and miniature language models, training, and machine-learning reference code.
+
+- [pythaiml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/pythaiml.md): Sovereign intelligence for the open chain — Python Augmented Intelligence Machine Learning · pythai.net (3 original, 41 research)
+- [DeltaVML](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltavml.md): machine learning (4 original, 267 research)
+- [webmindml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/webmindml.md): distributed l client side local language model development zone (6 original, 43 research)
+- [minaiml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/minaiml.md): min ai ml   language models in miniature (2 original, 78 research)
+- [mlodels](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mlodels.md): local language machine learning models (0 original, 50 research) · related, held outside the account
+- [openmindx](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/openmindx.md): open source machine learning source code (8 original, 46 research)
+- [AUTOMINDx](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/automindx.md): AIML Automated Intelligent Machine Learning AIMLx (5 original, 23 research) · related, held outside the account
+- [Jaimla](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/jaimla.md): I am the machine learning agent (1 original, 22 research) · related, held outside the account
+- [trainair](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/trainair.md): trainAIr is the model trainer (1 original, 10 research)
+- [augml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/augml.md): augmentation machine learning (3 original, 135 research)
+- [llamagi](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/llamagi.md): local language model augmented generative intelligence (2 original, 13 research)
+- [AIMLdr](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/aimldr.md): machine learning healthcare consultation (11 original, 3 research)
+- [BRUHAI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bruhai.md): collection of machine learning augmented intelligence source code for research and development (1 original, 3 research)
+- [BROBOTBRAI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/brobotbrai.md): BROBOT BRAI cryptocurrency adoption AI tool (1 original, 2 research)
+
+## Autonomous agents, AGI and retrieval
+
+From aGLM to mindX: autonomous general learning machines, retrieval augmented generation, agent orchestration and the agent marketplace.
+
+- [mastermindML](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mastermindml.md): mastermind agency controller (7 original, 17 research)
+- [GATERAGE](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/gaterage.md): Retrieval Augmented Generative Engine (15 original, 60 research)
+- [MMRAIMRAI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mmraimrai.md): MasterMind Retrieval Augmented Intelligence MemoRAI (2 original, 1 research)
+- [easyGLM](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/easyglm.md): easy General Learning Model (2 original, 6 research)
+- [autoGLM](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/autoglm.md): Autonomous General Learning Machine (5 original, 44 research)
+- [easyAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/easyagi.md): easy Augmented Generative Intelligence (5 original, 5 research)
+- [modusAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/modusagi.md): modular AGI (4 original, 0 research)
+- [newagi](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/newagi.md): neural enhanced wisdom augmented generative intelligence (2 original, 0 research)
+- [polyglotAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/polyglotagi.md): multi-model multi-modal machine generative augmented intelligence (3 original, 0 research)
+- [cryptoAGI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cryptoagi.md): cryptoAGI (46 original, 10 research)
+- [AgenticPlace](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/agenticplace.md): distributed THOT transference (63 original, 17 research)
+- [autonomos-agent](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/autonomos-agent.md): automatic operating system (1 original, 30 research)
+- [abaracadabra](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/abaracadabra.md): utterance as expression of will (4 original, 7 research)
+- [AIONMCP](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/aionmcp.md): AION Model Context Protocol summary and links (2 original, 27 research)
+- [AION-NET](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/aion-net.md): aion-net (7 original, 13 research)
+- [cyberpunk2051](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cyberpunk2051.md): collection of ollama software and blockchain software for an abundant future of collective prosperity (3 original, 13 research)
+- [aiterm](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/aiterm.md): augmented intelligence terminal (2 original, 34 research)
+- [gpt4plugins](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/gpt4plugins.md): IAM intellegent augmentation machine (1 original, 72 research)
+- [xtends](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/xtends.md): Professor Codephreak extensions for local language models (3 original, 109 research)
+
+## Interfaces, web3D and the expressive web
+
+How intelligence and chains are seen and touched: UI/UX extensions, faces, 3D engines and client-side JavaScript.
+
+- [UIUXt](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/uiuxt.md): extensions collection for extension development of UIUX (2 original, 32 research)
+- [Faicey](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/faicey.md): UIUX AIML modular response systems interface design parameters (1 original, 17 research) · related, held outside the account
+- [mlodular](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mlodular.md): collection of modular javascript snippets including drag drop 3D design and data sorting (2 original, 15 research) · related, held outside the account
+- [gnugui](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/gnugui.md): a GNU GUI for a 3D, expressive web — vault · themes · charts · web3D. GPLv3. take it, own it, use it, share it (3 original, 10 research)
+- [DeltaVD](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltavd.md): DeltaVerse web3D resourcecode (1 original, 81 research)
+- [dddcyborgd](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/dddcyborgd.md): three d cyborg daemon for decentralized interactive experience (5 original, 0 research)
+- [webthreejs](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/webthreejs.md): web3js (1 original, 72 research)
+- [web3Dai](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3dai.md): no description (1 original, 54 research)
+- [javascriptit](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/javascriptit.md): JavaScript the client side language of the World Wide Web (0 original, 346 research) · related, held outside the account
+- [ramziosta-code](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/ramziosta-code.md): no description (2 original, 2 research)
+
+## DeltaVerse and DAO governance
+
+The DeltaVerse metaDAO and the Decentralized Autonomous Intelligent Organization: inception contracts, governance patterns and experiments.
+
+- [deltav-deltaverse](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltav-deltaverse.md): Decentralised cryptoverse metaDAO (8 original, 119 research)
+- [DeltaVerseDAO](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltaversedao.md): deltaverse.dao (2 original, 70 research)
+- [DAONOW](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/daonow.md): collection of inception contracts for DAO creation (8 original, 143 research)
+- [DAOcommunity](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/daocommunity.md): no description (3 original, 60 research)
+- [researchsolution](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/researchsolution.md): contract programming Decentralized Autonomous Intelligent Organization (10 original, 108 research)
+- [w3DAIO](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/w3daio.md): Decentralized Autonomous Intelligent Organization (4 original, 1 research)
+- [mldaio](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mldaio.md): machine learning decentralised autonomous organisation (2 original, 0 research)
+- [DeltaLabratory](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltalabratory.md): Experimental Zone enter at own risk (3 original, 90 research)
+- [web3buysell](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3buysell.md): DAO of buy and sel (1 original, 30 research)
+
+## Chains, layers and interoperability
+
+Building and joining blockchains: the THRUST/TNT chains, layer 3 deployment kits, bridges and per-chain exploration.
+
+- [deltavchain](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltavchain.md): DeltaV THRUST interoperable EVM blockchain environment (7 original, 59 research)
+- [THCHAIN](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thchain.md): no description (1 original, 58 research)
+- [THRUSTCHAIN](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thrustchain.md): THRUST TNT blockchain development (2 original, 19 research)
+- [TNTbkc](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/tntbkc.md): THRUST TNT contains the tools to deploy THRUST TNT blockchain testnet (1 original, 35 research)
+- [thTNT](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thtnt.md): THRUST NETWORK TECHNOLOGY blockchain solutions (9 original, 60 research)
+- [thTNT2](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thtnt2.md): mess of code for hackFS research (3 original, 48 research)
+- [LAIR3](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/lair3.md): layer 3 Blockchain Deployment Kit  Interplanetary Consensus solutions (8 original, 99 research)
+- [daisychn](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/daisychn.md): layer three agentic blockchain (2 original, 2 research)
+- [openbdk](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/openbdk.md): Open Blockchain Development Kit (5 original, 3 research)
+- [rustchain](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/rustchain.md): collection of tools to support rust blockchains including Partisia, Solana, and Cosm Wasm enhanced by SOLmaster GPT agent (1 original, 21 research)
+- [deltabridge](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltabridge.md): deltabridge implementation of the delta algorithm (3 original, 145 research)
+- [deltamoonbeam](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltamoonbeam.md): exploration of DEX on ERC-20 chains (1 original, 7 research)
+- [deltalgorand](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltalgorand.md): DeltaVerse cross-bridge web3D resourcecode for Algorand blockchain integration (3 original, 42 research)
+- [ailgo](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/ailgo.md): no description (4 original, 103 research)
+- [deltastorage](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltastorage.md): Zilliqa Scilla language exploration (3 original, 55 research)
+- [mbGLMR](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mbglmr.md): independent work on the decentralised glimmer network (0 original, 0 research)
+
+## Smart contracts and EVM tooling
+
+Contract programming and the tools around the Ethereum Virtual Machine, including machine intelligence applied to Solidity.
+
+- [pyeth](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/pyeth.md): Ethereum Virtual Machine Python tools (2 original, 81 research)
+- [solidml](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/solidml.md): solidity and machine learning reference zone (4 original, 127 research)
+- [S-M-A-I-R-T](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/s-m-a-i-r-t.md): Solidity Machine Augmented Intelligence Responsive Technology (3 original, 24 research)
+
+## DeFi, stable value and trading
+
+Value and its movement: flash loans, pegged assets, DAI, limit orders, DEX middleware, trading research and the LUV and BANKON tokens.
+
+- [deltaloans](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltaloans.md): research into flashloans and interface designs to create value from debt (1 original, 47 research)
+- [tethercoin](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/tethercoin.md): research and development into pegged cryptocurrency assets (8 original, 50 research)
+- [dairef](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/dairef.md): A general reference to programmable DAI (2 original, 21 research)
+- [limitorder](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/limitorder.md): collection of limit order code for the creation of a sane stop loss tool (1 original, 15 research)
+- [spintrade](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/spintrade.md): DEX (3 original, 225 research) · related, held outside the account
+- [cryptotraderagi](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cryptotraderagi.md): research into trading platforms and machine learning (1 original, 22 research)
+- [SHAMBA-LUV](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/shamba-luv.md): SHAMBA LUV is a digital gesture designed to spread abundance, fun, and community vibe social sharing building an emotional economy (17 original, 2 research)
+- [BANKONPYTHAI](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bankonpythai.md): fixed-supply Qubic quantum price oracle (8 original, 15 research)
+- [thrustdrop](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/thrustdrop.md): research and development into improvements of token and airdrop contracts and interfaces (2 original, 36 research)
+
+## NFTs and digital assets
+
+Ownership of digital things: NFT creation, royalties, marketplaces, programmable keys and Bitcoin ordinals.
+
+- [DeltaVThrust-NFT](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/deltavthrust-nft.md): source code to create and manipulate non-fungible-tokens (9 original, 162 research)
+- [NFTdr](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/nftdr.md): NFT data royalties (1 original, 2 research)
+- [NFTmr](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/nftmr.md): NFT Marketplace Royalties (2 original, 39 research)
+- [ipNFTfs](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/ipnftfs.md): interplanetary NFT file system utility development (1 original, 21 research)
+- [pkNFTapi](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/pknftapi.md): programmable private key prompt knowledge (11 original, 1 research)
+- [satoshigen](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/satoshigen.md): Bitcoin ordinal inscription of a Satoshi for immutable friction (1 original, 18 research)
+
+## Wallets, identity and sovereignty
+
+Keys are identity: wallets, account abstraction, identity management, vaults, MetaMask extensions, private networking and the cypherpunk standard.
+
+- [parsec-wallet](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/parsec-wallet.md): PARSEC cryptocurrency wallet (5 original, 56 research)
+- [abstractionwallet](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/abstractionwallet.md): research into wallet abstraction alchemy resources general reference guide (4 original, 35 research)
+- [idmanagement](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/idmanagement.md): I am who I am because of who I am (5 original, 210 research)
+- [bankonvault](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bankonvault.md): client to data storage facilitation (2 original, 90 research)
+- [smartmetamask](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/smartmetamask.md): making metamask smarter (0 original, 108 research) · related, held outside the account
+- [metasnaps](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/metasnaps.md): metamask snap extensions for deltaverse (1 original, 11 research)
+- [bankonme](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bankonme.md): bankon.me privacy, integrity and security for your personal banking information (23 original, 429 research) · related, held outside the account
+- [bankonmecoin](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bankonmecoin.md): An exercise in cryptonote technology (1 original, 30 research) · related, held outside the account
+- [cryptocurrent](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cryptocurrent.md): A repository to store some of the code to build the bankonmeOS Desktop as a bash shell script. (5 original, 186 research) · related, held outside the account
+- [cypherpunk2048](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cypherpunk2048.md): standard (8 original, 1 research)
+- [cypherpunk4096](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cypherpunk4096.md): 2^3==8 (15 original, 1 research)
+- [poormanvpn](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/poormanvpn.md): poor mans VPN client server code (2 original, 4 research)
+
+## Storage and the decentralized web
+
+Permanence and distribution: IPFS, decentralized front ends and storage.
+
+- [interplanetaryfilesystem](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/interplanetaryfilesystem.md): IPFS development archive (2 original, 73 research)
+- [IPFSdapps](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/ipfsdapps.md): decentralized front end DAPP development exploration (9 original, 121 research)
+- [STORAGESTAR](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/storagestar.md): Storage Star (2 original, 1 research)
+
+## Communication
+
+Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems.
+
+- [web3comm](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3comm.md): Token Talk Transaction web3 communication environment (2 original, 59 research)
+- [blktalk](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/blktalk.md): blockchain communication system (1 original, 48 research)
+- [chatter3](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/chatter3.md): I am who I am because of who I am (2 original, 41 research)
+- [chattchain](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/chattchain.md): no description (1 original, 19 research)
+
+## Oracles, theory and the living world
+
+The questions behind the work: the Pythia oracle, prediction, a grand unified theory, the mind as a chain, and water as life.
+
+- [PYTHIAMYSTIC](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/pythiamystic.md): mystical guidance from PYTHIA MYSTIC oracle of Delphi (8 original, 12 research)
+- [MYSTICALPYTHIA](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mysticalpythia.md): predictions algorithm (4 original, 0 research)
+- [GrandUnifiedTheoryOfEverything](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/grandunifiedtheoryofeverything.md): Professor Codephreak explores the fourth dimension and posits Smatter (2 original, 0 research)
+- [BRAINCHN](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/brainchn.md): BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN (7 original, 42 research)
+- [SaveGlaciers](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/saveglaciers.md): Water is Life (1 original, 15 research)
 
 ## Optional
 
-### Related organizations
-
-- [AUTOMINDx](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/automindx.md): AIML Automated Intelligent Machine Learning AIMLx (28 public repos)
-- [bankonme](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bankonme.md): bankon.me privacy, integrity and security for your personal banking information (452 public repos)
-- [bankonmecoin](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/bankonmecoin.md): An exercise in cryptonote technology (31 public repos)
-- [cryptocurrent](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/cryptocurrent.md): A repository to store some of the code to build the bankonmeOS Desktop as a bash shell script. (191 public repos)
-- [Faicey](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/faicey.md): UIUX AIML modular response systems interface design parameters (18 public repos)
-- [Jaimla](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/jaimla.md): I am the machine learning agent (23 public repos)
-- [javascriptit](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/javascriptit.md): JavaScript the client side language of the World Wide Web (346 public repos)
-- [mlodels](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mlodels.md): local language machine learning models (50 public repos)
-- [mlodular](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/mlodular.md): collection of modular javascript snippets including drag drop 3D design and data sorting (17 public repos)
-- [smartmetamask](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/smartmetamask.md): making metamask smarter (108 public repos)
-- [spintrade](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/spintrade.md): DEX (228 public repos)
+- [README.md](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/README.md): also lists the related organizations with their websites

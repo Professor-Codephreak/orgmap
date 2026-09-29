@@ -1,17 +1,30 @@
 # [polyglotAGI](https://github.com/polyglotAGI)
 
-[← all organizations](../README.md) · [profile](https://github.com/polyglotAGI) · [repositories](https://github.com/orgs/polyglotAGI/repositories) · [people](https://github.com/orgs/polyglotAGI/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/polyglotAGI) · [repositories](https://github.com/orgs/polyglotAGI/repositories)
 
 > multi-model multi-modal machine generative augmented intelligence
 
-Website: <https://pythai.net>
+**Domain:** [Autonomous agents, AGI and retrieval](../ARCHIVE.md#agi) · **Website:** <https://pythai.net>
 
-**3** repos · 3 public · 0 private 🔒 · 0 research forks · 0 archived
+**3** repos · **3** original works · **0** research forks · 0 private 🔒
 
-| Repository | Description | Language | ★ | Links |
-|---|---|---|--:|---|
-| [.github](https://github.com/polyglotAGI/.github) | polyglotAGI organization profile |  | 0 | [code](https://github.com/polyglotAGI/.github/tree/main) · [issues](https://github.com/polyglotAGI/.github/issues) |
-| [poly](https://github.com/polyglotAGI/poly) | version one | [Python](https://github.com/orgs/polyglotAGI/repositories?language=python) | 0 | [code](https://github.com/polyglotAGI/poly/tree/main) · [issues](https://github.com/polyglotAGI/poly/issues) |
-| [prompt.md](https://github.com/polyglotAGI/prompt.md) | polyglotAI augmented generative intelliegence |  | 0 | [code](https://github.com/polyglotAGI/prompt.md/tree/main) · [issues](https://github.com/polyglotAGI/prompt.md/issues) |
+## Concept
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+- **Original work is written in:** Python (1)
+
+## Original works (3)
+
+- **[.github](https://github.com/polyglotAGI/.github)** · [code](https://github.com/polyglotAGI/.github/tree/main)
+  polyglotAGI organization profile
+- **[poly](https://github.com/polyglotAGI/poly)** · [Python](https://github.com/orgs/polyglotAGI/repositories?language=python) · [code](https://github.com/polyglotAGI/poly/tree/main)
+  version one
+- **[prompt.md](https://github.com/polyglotAGI/prompt.md)** · BSD-3-Clause · [code](https://github.com/polyglotAGI/prompt.md/tree/main)
+  polyglotAI augmented generative intelliegence
+
+## Research forks (0)
+
+_None._
+
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

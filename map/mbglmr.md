@@ -1,13 +1,22 @@
 # [mbGLMR](https://github.com/mbGLMR)
 
-[← all organizations](../README.md) · [profile](https://github.com/mbGLMR) · [repositories](https://github.com/orgs/mbGLMR/repositories) · [people](https://github.com/orgs/mbGLMR/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/mbGLMR) · [repositories](https://github.com/orgs/mbGLMR/repositories)
 
 > independent work on the decentralised glimmer network
 
-Website: <https://glmr.pythai.net>
+**Domain:** [Chains, layers and interoperability](../ARCHIVE.md#chain) · **Website:** <https://glmr.pythai.net>
 
-**0** repos · 0 public · 0 private 🔒 · 0 research forks · 0 archived
+**0** repos · **0** original works · **0** research forks · 0 private 🔒
 
-_No repositories._
+## Original works (0)
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+_None._
+
+
+## Research forks (0)
+
+_None._
+
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

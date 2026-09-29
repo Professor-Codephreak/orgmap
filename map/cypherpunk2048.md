@@ -1,21 +1,41 @@
 # [cypherpunk2048](https://github.com/cypherpunk2048)
 
-[← all organizations](../README.md) · [profile](https://github.com/cypherpunk2048) · [repositories](https://github.com/orgs/cypherpunk2048/repositories) · [people](https://github.com/orgs/cypherpunk2048/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/cypherpunk2048) · [repositories](https://github.com/orgs/cypherpunk2048/repositories)
 
 > standard
 
-**9** repos · 6 public · 3 private 🔒 · 1 research forks · 0 archived
+**Domain:** [Wallets, identity and sovereignty](../ARCHIVE.md#custody)
 
-| Repository | Description | Language | ★ | Links |
+**9** repos · **8** original works · **1** research forks · 3 private 🔒
+
+## Concept
+
+- **Original work is written in:** JavaScript (1), Python (1)
+- **Research studies the work of:** [stacks-network](https://github.com/stacks-network) (1)
+
+## Original works (8)
+
+- **[.github](https://github.com/cypherpunk2048/.github)** · [code](https://github.com/cypherpunk2048/.github/tree/main)
+- **[chronos](https://github.com/cypherpunk2048/chronos)** · [Python](https://github.com/orgs/cypherpunk2048/repositories?language=python) · [code](https://github.com/cypherpunk2048/chronos/tree/main)
+  chronos.agent — promised time with a MEASURED confidence interval. Transaction anchors, honest consensus degradation, 18dp denomination with declared source resolution, blocktime derivatives (sentiment.shift, return-from-ping). cypherpunk2048 standard.
+- **[chronos.oracle](https://github.com/cypherpunk2048/chronos.oracle)** · [JavaScript](https://github.com/orgs/cypherpunk2048/repositories?language=javascript) · [code](https://github.com/cypherpunk2048/chronos.oracle/tree/main)
+  chronos.oracle — time-truth instruments for block-denominated measurement. Blocktime as the shared clock, measured average blocktime, sentiment.shift, return-from-ping. 18dp where derivation warrants, never beyond source resolution. cypherpunk2048 standard.
+- **[quantum-standard](https://github.com/cypherpunk2048/quantum-standard)** · [code](https://github.com/cypherpunk2048/quantum-standard/tree/master)
+  CP2048-QR — cypherpunk2048 Quantum-Resistance Standard (crypto-agile, hybrid PQC, per-connection client-side keys)
+- **[standards](https://github.com/cypherpunk2048/standards)** · [code](https://github.com/cypherpunk2048/standards/tree/main)
+  Complete project-agnostic EIP + ERC standards reference; EIP-8141 documented as quantum-ready vs CP2048-QR
+- **[bankon-tools](https://github.com/cypherpunk2048/bankon-tools)** 🔒 BANKON BTC WaaS · `github.com/cypherpunk2048/bankon-tools`
+- **[pmVPN](https://github.com/cypherpunk2048/pmVPN)** 🔒 Poor Man's VPN ��� Wallet-Authenticated Remote Access (private testing) · `github.com/cypherpunk2048/pmVPN`
+- **[x402](https://github.com/cypherpunk2048/x402)** 🔒  · `github.com/cypherpunk2048/x402`
+
+## Research forks (1)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [.github](https://github.com/cypherpunk2048/.github) |  |  | 0 | [code](https://github.com/cypherpunk2048/.github/tree/main) · [issues](https://github.com/cypherpunk2048/.github/issues) |
-| [bankon-tools](https://github.com/cypherpunk2048/bankon-tools) 🔒 | BANKON BTC WaaS | | | `github.com/cypherpunk2048/bankon-tools` |
-| [chronos](https://github.com/cypherpunk2048/chronos) | chronos.agent — promised time with a MEASURED confidence interval. Transaction anchors, honest consensus degradation, 18dp denomination with declared source resolution, blocktime derivatives (sentiment.shift, return-from-ping). cypherpunk2048 standard. | [Python](https://github.com/orgs/cypherpunk2048/repositories?language=python) | 0 | [code](https://github.com/cypherpunk2048/chronos/tree/main) · [issues](https://github.com/cypherpunk2048/chronos/issues) |
-| [chronos.oracle](https://github.com/cypherpunk2048/chronos.oracle) | chronos.oracle — time-truth instruments for block-denominated measurement. Blocktime as the shared clock, measured average blocktime, sentiment.shift, return-from-ping. 18dp where derivation warrants, never beyond source resolution. cypherpunk2048 standard. | [JavaScript](https://github.com/orgs/cypherpunk2048/repositories?language=javascript) | 0 | [code](https://github.com/cypherpunk2048/chronos.oracle/tree/main) · [issues](https://github.com/cypherpunk2048/chronos.oracle/issues) |
-| [pmVPN](https://github.com/cypherpunk2048/pmVPN) 🔒 | Poor Man's VPN ��� Wallet-Authenticated Remote Access (private testing) | | | `github.com/cypherpunk2048/pmVPN` |
-| [quantum-standard](https://github.com/cypherpunk2048/quantum-standard) | CP2048-QR — cypherpunk2048 Quantum-Resistance Standard (crypto-agile, hybrid PQC, per-connection client-side keys) |  | 0 | [code](https://github.com/cypherpunk2048/quantum-standard/tree/master) · [issues](https://github.com/cypherpunk2048/quantum-standard/issues) |
-| [standards](https://github.com/cypherpunk2048/standards) | Complete project-agnostic EIP + ERC standards reference; EIP-8141 documented as quantum-ready vs CP2048-QR |  | 0 | [code](https://github.com/cypherpunk2048/standards/tree/main) · [issues](https://github.com/cypherpunk2048/standards/issues) |
-| [x402](https://github.com/cypherpunk2048/x402) 🔒 |  | | | `github.com/cypherpunk2048/x402` |
-| [stacks](https://github.com/cypherpunk2048/stacks) 🍴 | Overview of Bitcoin's Stacks layer |  | 1 | [code](https://github.com/cypherpunk2048/stacks/tree/master) · [issues](https://github.com/cypherpunk2048/stacks/issues) · [site](https://www.stacks.co/) |
+| [stacks](https://github.com/cypherpunk2048/stacks) | [stacks-network/stacks](https://github.com/stacks-network/stacks) | Overview of Bitcoin's Stacks layer. | 2,058 | — |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

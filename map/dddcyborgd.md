@@ -1,19 +1,34 @@
 # [dddcyborgd](https://github.com/dddcyborgd)
 
-[← all organizations](../README.md) · [profile](https://github.com/dddcyborgd) · [repositories](https://github.com/orgs/dddcyborgd/repositories) · [people](https://github.com/orgs/dddcyborgd/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/dddcyborgd) · [repositories](https://github.com/orgs/dddcyborgd/repositories)
 
 > three d cyborg daemon for decentralized interactive experience
 
-Website: <https://deltaverse.pythai.net>
+**Domain:** [Interfaces, web3D and the expressive web](../ARCHIVE.md#ui) · **Website:** <https://deltaverse.pythai.net>
 
-**5** repos · 5 public · 0 private 🔒 · 0 research forks · 0 archived
+**5** repos · **5** original works · **0** research forks · 0 private 🔒
 
-| Repository | Description | Language | ★ | Links |
-|---|---|---|--:|---|
-| [.github](https://github.com/dddcyborgd/.github) | dddcyborgd — organization profile: the three-d cyborg daemon, dvengine and cyborg-contracts |  | 0 | [code](https://github.com/dddcyborgd/.github/tree/main) · [issues](https://github.com/dddcyborgd/.github/issues) |
-| [cyborg-contracts](https://github.com/dddcyborgd/cyborg-contracts) | cyborg — CyborgSpace · CyborgDrop · CyborgFaucet (immutable, create3d, OVERLORD handoff) | [Solidity](https://github.com/orgs/dddcyborgd/repositories?language=solidity) | 0 | [code](https://github.com/dddcyborgd/cyborg-contracts/tree/main) · [issues](https://github.com/dddcyborgd/cyborg-contracts/issues) |
-| [cyborg-shell](https://github.com/dddcyborgd/cyborg-shell) | The Tauri v2 client delivery of the DeltaVerse — one shell, two lanes (app · dapp), every world device. dvengine runs inside it; cyborgd is the anchor. | [Rust](https://github.com/orgs/dddcyborgd/repositories?language=rust) | 0 | [code](https://github.com/dddcyborgd/cyborg-shell/tree/main) · [issues](https://github.com/dddcyborgd/cyborg-shell/issues) |
-| [cyborgd](https://github.com/dddcyborgd/cyborgd) | cyborgd — the three-d cyborg daemon: rooms · faucet · headless run-space for the DeltaVerse | [TypeScript](https://github.com/orgs/dddcyborgd/repositories?language=typescript) | 0 | [code](https://github.com/dddcyborgd/cyborgd/tree/main) · [issues](https://github.com/dddcyborgd/cyborgd/issues) |
-| [dvengine](https://github.com/dddcyborgd/dvengine) | dvengine — the DeltaVerse 3D participant engine (three.js), refined from oncyberio awe (MIT) | [TypeScript](https://github.com/orgs/dddcyborgd/repositories?language=typescript) | 0 | [code](https://github.com/dddcyborgd/dvengine/tree/main) · [issues](https://github.com/dddcyborgd/dvengine/issues) |
+## Concept
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+- **Original work is written in:** TypeScript (2), Rust (1), Solidity (1)
+
+## Original works (5)
+
+- **[.github](https://github.com/dddcyborgd/.github)** · [code](https://github.com/dddcyborgd/.github/tree/main)
+  dddcyborgd — organization profile: the three-d cyborg daemon, dvengine and cyborg-contracts
+- **[cyborg-contracts](https://github.com/dddcyborgd/cyborg-contracts)** · [Solidity](https://github.com/orgs/dddcyborgd/repositories?language=solidity) · MIT · [code](https://github.com/dddcyborgd/cyborg-contracts/tree/main)
+  cyborg — CyborgSpace · CyborgDrop · CyborgFaucet (immutable, create3d, OVERLORD handoff)
+- **[cyborg-shell](https://github.com/dddcyborgd/cyborg-shell)** · [Rust](https://github.com/orgs/dddcyborgd/repositories?language=rust) · MIT · [code](https://github.com/dddcyborgd/cyborg-shell/tree/main)
+  The Tauri v2 client delivery of the DeltaVerse — one shell, two lanes (app · dapp), every world device. dvengine runs inside it; cyborgd is the anchor.
+- **[cyborgd](https://github.com/dddcyborgd/cyborgd)** · [TypeScript](https://github.com/orgs/dddcyborgd/repositories?language=typescript) · MIT · [code](https://github.com/dddcyborgd/cyborgd/tree/main)
+  cyborgd — the three-d cyborg daemon: rooms · faucet · headless run-space for the DeltaVerse
+- **[dvengine](https://github.com/dddcyborgd/dvengine)** · [TypeScript](https://github.com/orgs/dddcyborgd/repositories?language=typescript) · MIT · [code](https://github.com/dddcyborgd/dvengine/tree/main)
+  dvengine — the DeltaVerse 3D participant engine (three.js), refined from oncyberio awe (MIT)
+
+## Research forks (0)
+
+_None._
+
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

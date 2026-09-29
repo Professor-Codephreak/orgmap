@@ -1,17 +1,32 @@
 # [BROBOTBRAI](https://github.com/BROBOTBRAI)
 
-[← all organizations](../README.md) · [profile](https://github.com/BROBOTBRAI) · [repositories](https://github.com/orgs/BROBOTBRAI/repositories) · [people](https://github.com/orgs/BROBOTBRAI/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/BROBOTBRAI) · [repositories](https://github.com/orgs/BROBOTBRAI/repositories)
 
 > BROBOT BRAI cryptocurrency adoption AI tool
 
-Website: <https://brobot.dmg.finance>
+**Domain:** [Machine learning and local language models](../ARCHIVE.md#ml) · **Website:** <https://brobot.dmg.finance>
 
-**3** repos · 3 public · 0 private 🔒 · 2 research forks · 0 archived
+**3** repos · **1** original works · **2** research forks · 0 private 🔒
 
-| Repository | Description | Language | ★ | Links |
+## Concept
+
+- **Original work is written in:** 
+- **Research studies the work of:** [BRUHAI](https://github.com/BRUHAI) (2)
+
+## Original works (1)
+
+- **[.github](https://github.com/BROBOTBRAI/.github)** · [code](https://github.com/BROBOTBRAI/.github/tree/main)
+  BROBOTBRAI organization profile
+
+## Research forks (2)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [.github](https://github.com/BROBOTBRAI/.github) | BROBOTBRAI organization profile |  | 0 | [code](https://github.com/BROBOTBRAI/.github/tree/main) · [issues](https://github.com/BROBOTBRAI/.github/issues) |
-| [anchor](https://github.com/BROBOTBRAI/anchor) 🍴 | ⚓ Solana Sealevel Framework |  | 0 | [code](https://github.com/BROBOTBRAI/anchor/tree/master) · [issues](https://github.com/BROBOTBRAI/anchor/issues) · [site](https://anchor-lang.com) |
-| [neon-evm](https://github.com/BROBOTBRAI/neon-evm) 🍴 | Interact with Solana using Solidity with neon-evm |  | 0 | [code](https://github.com/BROBOTBRAI/neon-evm/tree/develop) · [issues](https://github.com/BROBOTBRAI/neon-evm/issues) |
+| [anchor](https://github.com/BROBOTBRAI/anchor) | [BRUHAI/anchor](https://github.com/BRUHAI/anchor) | ⚓ Solana Sealevel Framework | 0 | Rust |
+| [neon-evm](https://github.com/BROBOTBRAI/neon-evm) | [BRUHAI/neon-evm](https://github.com/BRUHAI/neon-evm) | Interact with Solana using Solidity with neon-evm | 0 | Rust |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

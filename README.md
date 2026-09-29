@@ -1,10 +1,12 @@
 # orgmap
 
-> The organizations and repositories of **[Professor Codephreak](https://github.com/Professor-Codephreak)**, Software Engineer and Platform Architect, mapped from the GitHub API.
+**The master archivist's file mapping.**
+
+> The organizations and repositories of **[Professor Codephreak](https://github.com/Professor-Codephreak)**, Software Engineer and Platform Architect, mapped from the GitHub API. Each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
 **99 organizations** · **4 accounts** · **4,988 repositories** · **11 related organizations** · updated 2026-09-29
 
-**Contents:** [At a glance](#at-a-glance) · [How to read this map](#how-to-read-this-map) · [Sites](#sites) · [Accounts](#accounts) · [Organizations](#organizations) · [Related organizations](#related-organizations) · [Recently active](#recently-active) · [For agents](#for-agents) · [Regenerate](#regenerate)
+**Contents:** [At a glance](#at-a-glance) · [Concept domains](#concept-domains) · [How to read this map](#how-to-read-this-map) · [Sites](#sites) · [Accounts](#accounts) · [Organizations](#organizations) · [Related organizations](#related-organizations) · [Recently active](#recently-active) · [For agents](#for-agents) · [Regenerate](#regenerate)
 
 ## At a glance
 
@@ -25,15 +27,36 @@ Forks are research: each one studies the work of its upstream project, and toget
 
 **Most original work:** [AgenticPlace](map/agenticplace.md) 63 · [cryptoAGI](map/cryptoagi.md) 46 · [SHAMBA-LUV](map/shamba-luv.md) 17 · [GATERAGE](map/gaterage.md) 15 · [cypherpunk4096](map/cypherpunk4096.md) 15 · [pkNFTapi](map/pknftapi.md) 11 · [AIMLdr](map/aimldr.md) 11 · [researchsolution](map/researchsolution.md) 10 · [DeltaVThrust-NFT](map/deltavthrust-nft.md) 9 · [IPFSdapps](map/ipfsdapps.md) 9
 
+## Concept domains
+
+The organizations fall into 12 concept domains. The full [concept archive](ARCHIVE.md) describes each one and every organization in it.
+
+| Domain | Concept | Organizations | Original works | Research forks |
+|---|---|--:|--:|--:|
+| [Machine learning and local language models](ARCHIVE.md#ml) | Models that run where the user is: local and miniature language models, training, and machine-learning reference code. | 14 | 48 | 736 |
+| [Autonomous agents, AGI and retrieval](ARCHIVE.md#agi) | From aGLM to mindX: autonomous general learning machines, retrieval augmented generation, agent orchestration and the agent marketplace. | 19 | 177 | 465 |
+| [Interfaces, web3D and the expressive web](ARCHIVE.md#ui) | How intelligence and chains are seen and touched: UI/UX extensions, faces, 3D engines and client-side JavaScript. | 10 | 18 | 629 |
+| [DeltaVerse and DAO governance](ARCHIVE.md#dao) | The DeltaVerse metaDAO and the Decentralized Autonomous Intelligent Organization: inception contracts, governance patterns and experiments. | 9 | 41 | 621 |
+| [Chains, layers and interoperability](ARCHIVE.md#chain) | Building and joining blockchains: the THRUST/TNT chains, layer 3 deployment kits, bridges and per-chain exploration. | 16 | 53 | 756 |
+| [Smart contracts and EVM tooling](ARCHIVE.md#contracts) | Contract programming and the tools around the Ethereum Virtual Machine, including machine intelligence applied to Solidity. | 3 | 9 | 232 |
+| [DeFi, stable value and trading](ARCHIVE.md#defi) | Value and its movement: flash loans, pegged assets, DAI, limit orders, DEX middleware, trading research and the LUV and BANKON tokens. | 9 | 43 | 433 |
+| [NFTs and digital assets](ARCHIVE.md#nft) | Ownership of digital things: NFT creation, royalties, marketplaces, programmable keys and Bitcoin ordinals. | 6 | 25 | 243 |
+| [Wallets, identity and sovereignty](ARCHIVE.md#custody) | Keys are identity: wallets, account abstraction, identity management, vaults, MetaMask extensions, private networking and the cypherpunk standard. | 12 | 71 | 1161 |
+| [Storage and the decentralized web](ARCHIVE.md#storage) | Permanence and distribution: IPFS, decentralized front ends and storage. | 3 | 13 | 195 |
+| [Communication](ARCHIVE.md#comm) | Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems. | 4 | 6 | 167 |
+| [Oracles, theory and the living world](ARCHIVE.md#theory) | The questions behind the work: the Pythia oracle, prediction, a grand unified theory, the mind as a chain, and water as life. | 5 | 22 | 69 |
+
 ## How to read this map
 
 | Path | What it holds |
 |---|---|
 | `README.md` | this index: every account and organization with counts and links |
-| `map/<name>.md` | one page per account or organization, every repository in a table |
+| `ARCHIVE.md` | the concept archive: the domains, and what each organization holds and studies |
+| `map/<name>.md` | one page per account or organization: its concept, every original work described, every research fork with the upstream it studies |
 | `orgmap.json` | the same data as JSON, for scripts and agents |
 | `llms.txt`, `llm.txt` | a short, link-first guide for language models (same text under both names) |
-| `fetch.py`, `generate.py` | rebuild everything from the GitHub API |
+| `domains.json` | the concept domains; edit it to refile an organization |
+| `fetch*.py`, `generate.py` | rebuild everything from the GitHub API |
 
 On each `map/` page, repositories are sorted with original work first, then by stars. Each public repository links to its **code** on the default branch, its **issues**, its **site** where it has one, and a filter for its **language**.
 
@@ -309,6 +332,8 @@ The 15 public original repositories pushed most recently.
 ## Regenerate
 
 ```sh
-python3 fetch.py      # writes data.json; needs an authenticated gh
+python3 fetch.py          # data.json: orgs and repos; needs an authenticated gh
+python3 fetch_detail.py   # detail.json: upstream of each research fork, topics, licences
+python3 fetch_readme.py   # readme.json: README summaries where a description is missing
 python3 generate.py   # writes README.md, map/, orgmap.json, llms.txt, llm.txt
 ```

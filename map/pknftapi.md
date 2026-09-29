@@ -1,26 +1,49 @@
 # [pkNFTapi](https://github.com/pkNFTapi)
 
-[← all organizations](../README.md) · [profile](https://github.com/pkNFTapi) · [repositories](https://github.com/orgs/pkNFTapi/repositories) · [people](https://github.com/orgs/pkNFTapi/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#nft) · [profile](https://github.com/pkNFTapi) · [repositories](https://github.com/orgs/pkNFTapi/repositories)
 
 > programmable private key prompt knowledge
 
-Website: <https://ethglobal.com/showcase/pknft-532fy>
+**Domain:** [NFTs and digital assets](../ARCHIVE.md#nft) · **Website:** <https://ethglobal.com/showcase/pknft-532fy>
 
-**12** repos · 8 public · 4 private 🔒 · 1 research forks · 0 archived
+**12** repos · **11** original works · **1** research forks · 4 private 🔒
 
-| Repository | Description | Language | ★ | Links |
+## Concept
+
+- **Original work is written in:** Solidity (4), JavaScript (1)
+- **Topics:** `nft`, `pk`, `private-key`, `programmable-logic-controller`
+- **Research studies the work of:** [aaldemir](https://github.com/aaldemir) (1)
+
+## Original works (11)
+
+- **[README.md](https://github.com/pkNFTapi/README.md)** · ★ 1 · MIT · [code](https://github.com/pkNFTapi/README.md/tree/main)
+  programmable knowledge private key
+- **[.github](https://github.com/pkNFTapi/.github)** · [code](https://github.com/pkNFTapi/.github/tree/main)
+  pkNFTapi organization profile
+- **[considerations](https://github.com/pkNFTapi/considerations)** · [Solidity](https://github.com/orgs/pkNFTapi/repositories?language=solidity) · [code](https://github.com/pkNFTapi/considerations/tree/main)
+  documentation and messy thoughts as coding erc-721 token utility with compiled solidity code as alpha
+- **[NFRoyalT](https://github.com/pkNFTapi/NFRoyalT)** · [Solidity](https://github.com/orgs/pkNFTapi/repositories?language=solidity) · [code](https://github.com/pkNFTapi/NFRoyalT/tree/main)
+  immutable creator commision development zone
+- **[NFTapi](https://github.com/pkNFTapi/NFTapi)** · [JavaScript](https://github.com/orgs/pkNFTapi/repositories?language=javascript) · [code](https://github.com/pkNFTapi/NFTapi/tree/main)
+  store credentials as exchangalble asset
+- **[pkNFT](https://github.com/pkNFTapi/pkNFT)** · [Solidity](https://github.com/orgs/pkNFTapi/repositories?language=solidity) · MIT · [code](https://github.com/pkNFTapi/pkNFT/tree/main)
+  private key prompt knowledge NFT agent storage
+  `nft` `pk` `private-key` `programmable-logic-controller`
+- **[ROYALNFT](https://github.com/pkNFTapi/ROYALNFT)** · [Solidity](https://github.com/orgs/pkNFTapi/repositories?language=solidity) · MIT · [code](https://github.com/pkNFTapi/ROYALNFT/tree/main)
+  immutable NFT creator royalty broker with built in marketplace as sale price
+- **[KeyChainNFT](https://github.com/pkNFTapi/KeyChainNFT)** 🔒 signature encryption for data storage as credential · `github.com/pkNFTapi/KeyChainNFT`
+- **[luvai](https://github.com/pkNFTapi/luvai)** 🔒 vercel testing from terminal · `github.com/pkNFTapi/luvai`
+- **[marketAIBL](https://github.com/pkNFTapi/marketAIBL)** 🔒 data exchange · `github.com/pkNFTapi/marketAIBL`
+- **[vanity](https://github.com/pkNFTapi/vanity)** 🔒 vanity.py is a script designed to generate Ethereum vanity addresses. A vanity address is an… · `github.com/pkNFTapi/vanity`
+
+## Research forks (1)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [README.md](https://github.com/pkNFTapi/README.md) | programmable knowledge private key |  | 1 | [code](https://github.com/pkNFTapi/README.md/tree/main) · [issues](https://github.com/pkNFTapi/README.md/issues) |
-| [.github](https://github.com/pkNFTapi/.github) | pkNFTapi organization profile |  | 0 | [code](https://github.com/pkNFTapi/.github/tree/main) · [issues](https://github.com/pkNFTapi/.github/issues) |
-| [considerations](https://github.com/pkNFTapi/considerations) | documentation and messy thoughts as coding erc-721 token utility with compiled solidity code as alpha | [Solidity](https://github.com/orgs/pkNFTapi/repositories?language=solidity) | 0 | [code](https://github.com/pkNFTapi/considerations/tree/main) · [issues](https://github.com/pkNFTapi/considerations/issues) |
-| [KeyChainNFT](https://github.com/pkNFTapi/KeyChainNFT) 🔒 | signature encryption for data storage as credential | | | `github.com/pkNFTapi/KeyChainNFT` |
-| [luvai](https://github.com/pkNFTapi/luvai) 🔒 | vercel testing from terminal | | | `github.com/pkNFTapi/luvai` |
-| [marketAIBL](https://github.com/pkNFTapi/marketAIBL) 🔒 | data exchange | | | `github.com/pkNFTapi/marketAIBL` |
-| [NFRoyalT](https://github.com/pkNFTapi/NFRoyalT) | immutable creator commision development zone | [Solidity](https://github.com/orgs/pkNFTapi/repositories?language=solidity) | 0 | [code](https://github.com/pkNFTapi/NFRoyalT/tree/main) · [issues](https://github.com/pkNFTapi/NFRoyalT/issues) |
-| [NFTapi](https://github.com/pkNFTapi/NFTapi) | store credentials as exchangalble asset | [JavaScript](https://github.com/orgs/pkNFTapi/repositories?language=javascript) | 0 | [code](https://github.com/pkNFTapi/NFTapi/tree/main) · [issues](https://github.com/pkNFTapi/NFTapi/issues) |
-| [pkNFT](https://github.com/pkNFTapi/pkNFT) | private key prompt knowledge NFT agent storage | [Solidity](https://github.com/orgs/pkNFTapi/repositories?language=solidity) | 0 | [code](https://github.com/pkNFTapi/pkNFT/tree/main) · [issues](https://github.com/pkNFTapi/pkNFT/issues) |
-| [ROYALNFT](https://github.com/pkNFTapi/ROYALNFT) | immutable NFT creator royalty broker with built in marketplace as sale price | [Solidity](https://github.com/orgs/pkNFTapi/repositories?language=solidity) | 0 | [code](https://github.com/pkNFTapi/ROYALNFT/tree/main) · [issues](https://github.com/pkNFTapi/ROYALNFT/issues) |
-| [vanity](https://github.com/pkNFTapi/vanity) 🔒 | vanity.py is a script designed to generate Ethereum vanity addresses. A vanity address is an… | | | `github.com/pkNFTapi/vanity` |
-| [view-based-royalty](https://github.com/pkNFTapi/view-based-royalty) 🍴 | view based royalnft |  | 0 | [code](https://github.com/pkNFTapi/view-based-royalty/tree/master) · [issues](https://github.com/pkNFTapi/view-based-royalty/issues) |
+| [view-based-royalty](https://github.com/pkNFTapi/view-based-royalty) | [aaldemir/view-based-royalty](https://github.com/aaldemir/view-based-royalty) | view based royalnft | 0 | JavaScript |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

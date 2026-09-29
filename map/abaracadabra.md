@@ -1,23 +1,43 @@
 # [abaracadabra](https://github.com/abaracadabra)
 
-[← all organizations](../README.md) · [profile](https://github.com/abaracadabra) · [repositories](https://github.com/orgs/abaracadabra/repositories) · [people](https://github.com/orgs/abaracadabra/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/abaracadabra) · [repositories](https://github.com/orgs/abaracadabra/repositories)
 
 > utterance as expression of will
 
-**11** repos · 8 public · 3 private 🔒 · 7 research forks · 0 archived
+**Domain:** [Autonomous agents, AGI and retrieval](../ARCHIVE.md#agi)
 
-| Repository | Description | Language | ★ | Links |
+**11** repos · **4** original works · **7** research forks · 3 private 🔒
+
+## Concept
+
+- **Original work is written in:** Python (1)
+- **Topics:** `augmentic`, `godel-machine`, `mindx`
+- **Research studies the work of:** [Crossmint](https://github.com/Crossmint) (2), [openmindx](https://github.com/openmindx) (2), [Coral-Protocol](https://github.com/Coral-Protocol) (1), [ngxson](https://github.com/ngxson) (1)
+
+## Original works (4)
+
+- **[mindX](https://github.com/abaracadabra/mindX)** · [Python](https://github.com/orgs/abaracadabra/repositories?language=python) · ★ 1 · [code](https://github.com/abaracadabra/mindX/tree/main)
+  mindX augmentic intelligence
+  `augmentic` `godel-machine` `mindx`
+- **[Ataraxia](https://github.com/abaracadabra/Ataraxia)** · [code](https://github.com/abaracadabra/Ataraxia/tree/main)
+  Forging the Sovereign Self
+- **[.github](https://github.com/abaracadabra/.github)** 🔒 mindX · `github.com/abaracadabra/.github`
+- **[minded](https://github.com/abaracadabra/minded)** 🔒 mindX augmentic intelligence · `github.com/abaracadabra/minded`
+
+## Research forks (7)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [mindX](https://github.com/abaracadabra/mindX) | mindX augmentic intelligence | [Python](https://github.com/orgs/abaracadabra/repositories?language=python) | 1 | [code](https://github.com/abaracadabra/mindX/tree/main) · [issues](https://github.com/abaracadabra/mindX/issues) |
-| [.github](https://github.com/abaracadabra/.github) 🔒 | mindX | | | `github.com/abaracadabra/.github` |
-| [Ataraxia](https://github.com/abaracadabra/Ataraxia) | Forging the Sovereign Self |  | 0 | [code](https://github.com/abaracadabra/Ataraxia/tree/main) · [issues](https://github.com/abaracadabra/Ataraxia/issues) |
-| [minded](https://github.com/abaracadabra/minded) 🔒 | mindX augmentic intelligence | | | `github.com/abaracadabra/minded` |
-| [agi](https://github.com/abaracadabra/agi) 🍴 | autonomous generative intelligence |  | 0 | [code](https://github.com/abaracadabra/agi/tree/main) · [issues](https://github.com/abaracadabra/agi/issues) · [site](https://rage.pythai.net/fundamental-agi/) |
-| [bci](https://github.com/abaracadabra/bci) 🍴 | open source Brain-Computer-Interface hardware design |  | 0 | [code](https://github.com/abaracadabra/bci/tree/master) · [issues](https://github.com/abaracadabra/bci/issues) |
-| [coral-server](https://github.com/abaracadabra/coral-server) 🍴 | Open collaboration infrastructure that enables communication, coordination, trust and payments for The Internet of Agents. |  | 0 | [code](https://github.com/abaracadabra/coral-server/tree/master) · [issues](https://github.com/abaracadabra/coral-server/issues) · [site](https://www.coralprotocol.org/) |
-| [crossmint-sdk](https://github.com/abaracadabra/crossmint-sdk) 🍴 | Crossmint SDK for client and server integrations |  | 0 | [code](https://github.com/abaracadabra/crossmint-sdk/tree/main) · [issues](https://github.com/abaracadabra/crossmint-sdk/issues) · [site](https://playground.crossmint.com/) |
-| [fintech-starter-app](https://github.com/abaracadabra/fintech-starter-app) 🍴 | crossmint next.js example app |  | 0 | [code](https://github.com/abaracadabra/fintech-starter-app/tree/main) · [issues](https://github.com/abaracadabra/fintech-starter-app/issues) · [site](https://fintech-starter-app.demos-crossmint.com/) |
-| [paybot-ai](https://github.com/abaracadabra/paybot-ai) 🔒 | arc paybot 1 second finality across the cryptosystem | | | `github.com/abaracadabra/paybot-ai` |
-| [smolvlm-realtime-webcam](https://github.com/abaracadabra/smolvlm-realtime-webcam) 🍴 | Real-time webcam demo with SmolVLM and llama.cpp server |  | 0 | [code](https://github.com/abaracadabra/smolvlm-realtime-webcam/tree/main) · [issues](https://github.com/abaracadabra/smolvlm-realtime-webcam/issues) · [site](https://github.ngxson.com/smolvlm-realtime-webcam/) |
+| [coral-server](https://github.com/abaracadabra/coral-server) | [Coral-Protocol/coral-server](https://github.com/Coral-Protocol/coral-server) | Kubernetes for AI agents: CoralOS is a platform for everything between your agents and production: registry, runtimes, security, and orchestration. | 252 | Kotlin |
+| [crossmint-sdk](https://github.com/abaracadabra/crossmint-sdk) | [Crossmint/crossmint-sdk](https://github.com/Crossmint/crossmint-sdk) | Crossmint SDK for client and server integrations | 52 | TypeScript |
+| [fintech-starter-app](https://github.com/abaracadabra/fintech-starter-app) | [Crossmint/fintech-starter-app](https://github.com/Crossmint/fintech-starter-app) | Our primary all-in-one fintech demo. | 137 | TypeScript |
+| [smolvlm-realtime-webcam](https://github.com/abaracadabra/smolvlm-realtime-webcam) | [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) | Real-time webcam demo with SmolVLM and llama.cpp server | 5,581 | HTML |
+| [agi](https://github.com/abaracadabra/agi) | [openmindx/agi](https://github.com/openmindx/agi) | autonomous generative intelligence | 7 | Python |
+| [bci](https://github.com/abaracadabra/bci) | [openmindx/bci](https://github.com/openmindx/bci) | open source Brain-Computer-Interface hardware design | 1 | Prolog |
+| [paybot-ai](https://github.com/abaracadabra/paybot-ai) 🔒 | | arc paybot 1 second finality across the cryptosystem · `github.com/abaracadabra/paybot-ai` | | |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

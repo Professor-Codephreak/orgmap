@@ -1,72 +1,95 @@
 # [tethercoin](https://github.com/tethercoin)
 
-[← all organizations](../README.md) · [profile](https://github.com/tethercoin) · [repositories](https://github.com/orgs/tethercoin/repositories) · [people](https://github.com/orgs/tethercoin/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/tethercoin) · [repositories](https://github.com/orgs/tethercoin/repositories)
 
 > research and development into pegged cryptocurrency assets
 
-Website: <https://deltavthrust.com>
+**Domain:** [DeFi, stable value and trading](../ARCHIVE.md#defi) · **Website:** <https://deltavthrust.com>
 
-**58** repos · 58 public · 0 private 🔒 · 50 research forks · 0 archived
+**58** repos · **8** original works · **50** research forks · 0 private 🔒
 
-| Repository | Description | Language | ★ | Links |
+## Concept
+
+- **Original work is written in:** Solidity (5)
+- **Topics:** `deltabridge`, `spintrade`, `stablecoin`, `stablecoin-payments`
+- **Research studies the work of:** [sky-ecosystem](https://github.com/sky-ecosystem) (8), [paxosglobal](https://github.com/paxosglobal) (3), [curvefi](https://github.com/curvefi) (2), [gemini](https://github.com/gemini) (2), [AcalaNetwork](https://github.com/AcalaNetwork) (1), [alpaca-finance](https://github.com/alpaca-finance) (1), [bitcoin](https://github.com/bitcoin) (1), [byteball](https://github.com/byteball) (1), [compound-finance](https://github.com/compound-finance) (1), [cowriesys](https://github.com/cowriesys) (1)
+
+## Original works (8)
+
+- **[USDT](https://github.com/tethercoin/USDT)** · [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) · ★ 18 · [code](https://github.com/tethercoin/USDT/tree/main)
+  USDT Tether stablecoin on the Ethereum Blockchain
+- **[USDC](https://github.com/tethercoin/USDC)** · [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) · ★ 3 · [code](https://github.com/tethercoin/USDC/tree/main)
+  USDC stablecoin on the Ethereum Blockchain
+- **[tethertoken.sol](https://github.com/tethercoin/tethertoken.sol)** · [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) · ★ 2 · [code](https://github.com/tethercoin/tethertoken.sol/tree/main)
+  tethertoken solidity code
+- **[.github](https://github.com/tethercoin/.github)** · [code](https://github.com/tethercoin/.github/tree/main)
+  tethercoin organization profile
+- **[BUSD](https://github.com/tethercoin/BUSD)** · [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) · [code](https://github.com/tethercoin/BUSD/tree/main)
+  BUSD stablecoin contract on BSC
+- **[defi-Vault](https://github.com/tethercoin/defi-Vault)** · [code](https://github.com/tethercoin/defi-Vault/tree/main)
+  decentralized exchange/ deposit wrapped Avax /ETH. supply wrappedEth to Compound
+- **[PAXGOLD](https://github.com/tethercoin/PAXGOLD)** · [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) · [code](https://github.com/tethercoin/PAXGOLD/tree/main)
+  paxgold solidity contract on BSC
+- **[wrappedEth](https://github.com/tethercoin/wrappedEth)** · [code](https://github.com/tethercoin/wrappedEth/tree/master)
+  wrapped eth one interation
+
+## Research forks (50)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [USDT](https://github.com/tethercoin/USDT) | USDT Tether stablecoin on the Ethereum Blockchain | [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) | 18 | [code](https://github.com/tethercoin/USDT/tree/main) · [issues](https://github.com/tethercoin/USDT/issues) |
-| [USDC](https://github.com/tethercoin/USDC) | USDC stablecoin on the Ethereum Blockchain | [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) | 3 | [code](https://github.com/tethercoin/USDC/tree/main) · [issues](https://github.com/tethercoin/USDC/issues) |
-| [tethertoken.sol](https://github.com/tethercoin/tethertoken.sol) | tethertoken solidity code | [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) | 2 | [code](https://github.com/tethercoin/tethertoken.sol/tree/main) · [issues](https://github.com/tethercoin/tethertoken.sol/issues) |
-| [.github](https://github.com/tethercoin/.github) | tethercoin organization profile |  | 0 | [code](https://github.com/tethercoin/.github/tree/main) · [issues](https://github.com/tethercoin/.github/issues) |
-| [BUSD](https://github.com/tethercoin/BUSD) | BUSD stablecoin contract on BSC | [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) | 0 | [code](https://github.com/tethercoin/BUSD/tree/main) · [issues](https://github.com/tethercoin/BUSD/issues) |
-| [defi-Vault](https://github.com/tethercoin/defi-Vault) | decentralized exchange/ deposit wrapped Avax /ETH. supply wrappedEth to Compound |  | 0 | [code](https://github.com/tethercoin/defi-Vault/tree/main) · [issues](https://github.com/tethercoin/defi-Vault/issues) |
-| [PAXGOLD](https://github.com/tethercoin/PAXGOLD) | paxgold solidity contract on BSC | [Solidity](https://github.com/orgs/tethercoin/repositories?language=solidity) | 0 | [code](https://github.com/tethercoin/PAXGOLD/tree/main) · [issues](https://github.com/tethercoin/PAXGOLD/issues) |
-| [wrappedEth](https://github.com/tethercoin/wrappedEth) | wrapped eth one interation |  | 0 | [code](https://github.com/tethercoin/wrappedEth/tree/master) · [issues](https://github.com/tethercoin/wrappedEth/issues) |
-| [awesome-stablecoins](https://github.com/tethercoin/awesome-stablecoins) 🍴 | Curated list of stable cryptocurrency resources and projects |  | 1 | [code](https://github.com/tethercoin/awesome-stablecoins/tree/master) · [issues](https://github.com/tethercoin/awesome-stablecoins/issues) |
-| [dss-interfaces](https://github.com/tethercoin/dss-interfaces) 🍴 | Abstract developer interfaces to the Dai Stablecoin System core contracts. |  | 1 | [code](https://github.com/tethercoin/dss-interfaces/tree/master) · [issues](https://github.com/tethercoin/dss-interfaces/issues) |
-| [stablecoin](https://github.com/tethercoin/stablecoin) 🍴 | Tezos stablecoin smart contract |  | 1 | [code](https://github.com/tethercoin/stablecoin/tree/master) · [issues](https://github.com/tethercoin/stablecoin/issues) |
-| [stellarator](https://github.com/tethercoin/stellarator) 🍴 | Cowrie exchange API for converting between fiat currencies and crypto currencies |  | 1 | [code](https://github.com/tethercoin/stellarator/tree/master) · [issues](https://github.com/tethercoin/stellarator/issues) |
-| [Acala](https://github.com/tethercoin/Acala) 🍴 | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. |  | 0 | [code](https://github.com/tethercoin/Acala/tree/master) · [issues](https://github.com/tethercoin/Acala/issues) · [site](https://acala.network) |
-| [alpaca-stablecoin](https://github.com/tethercoin/alpaca-stablecoin) 🍴 | Smart Contracts for Alpaca Stablecoin |  | 0 | [code](https://github.com/tethercoin/alpaca-stablecoin/tree/main) · [issues](https://github.com/tethercoin/alpaca-stablecoin/issues) |
-| [Anti-Gravity-Bridge](https://github.com/tethercoin/Anti-Gravity-Bridge) 🍴 | The official repository of the Gravity Bridge Blockchain |  | 0 | [code](https://github.com/tethercoin/Anti-Gravity-Bridge/tree/main) · [issues](https://github.com/tethercoin/Anti-Gravity-Bridge/issues) |
-| [arkadiko](https://github.com/tethercoin/arkadiko) 🍴 | Arkadiko implements a stablecoin (USDA) and governance token (DIKO) on Stacks |  | 0 | [code](https://github.com/tethercoin/arkadiko/tree/master) · [issues](https://github.com/tethercoin/arkadiko/issues) |
-| [augur_foundry](https://github.com/tethercoin/augur_foundry) 🍴 | Wrappers for shares of augur markets |  | 0 | [code](https://github.com/tethercoin/augur_foundry/tree/master) · [issues](https://github.com/tethercoin/augur_foundry/issues) |
-| [aw](https://github.com/tethercoin/aw) 🍴 | A flexible P2P networking library for upgradable distributed systems. |  | 0 | [code](https://github.com/tethercoin/aw/tree/master) · [issues](https://github.com/tethercoin/aw/issues) |
-| [bitcoin](https://github.com/tethercoin/bitcoin) 🍴 | Bitcoin Core integration/staging tree |  | 0 | [code](https://github.com/tethercoin/bitcoin/tree/master) · [issues](https://github.com/tethercoin/bitcoin/issues) · [site](https://bitcoincore.org/en/download) |
-| [bitcoin-token-smart-contracts](https://github.com/tethercoin/bitcoin-token-smart-contracts) 🍴 | wrapped bitcoin smart contracts |  | 0 | [code](https://github.com/tethercoin/bitcoin-token-smart-contracts/tree/master) · [issues](https://github.com/tethercoin/bitcoin-token-smart-contracts/issues) |
-| [BondingCurveFactory](https://github.com/tethercoin/BondingCurveFactory) 🍴 | A bonding curve factory for simple and easy dynamic bonding curve creation. |  | 0 | [code](https://github.com/tethercoin/BondingCurveFactory/tree/master) · [issues](https://github.com/tethercoin/BondingCurveFactory/issues) |
-| [busd-contract](https://github.com/tethercoin/busd-contract) 🍴 | Solidity smart contracts for the Binance USD |  | 0 | [code](https://github.com/tethercoin/busd-contract/tree/master) · [issues](https://github.com/tethercoin/busd-contract/issues) |
-| [coinflation](https://github.com/tethercoin/coinflation) 🍴 | Publicly mintable and burnable token |  | 0 | [code](https://github.com/tethercoin/coinflation/tree/develop) · [issues](https://github.com/tethercoin/coinflation/issues) |
-| [columbianpesogaslesspeg](https://github.com/tethercoin/columbianpesogaslesspeg) 🍴 | This repository contains the smart contract code for the Colombian Peso stablecoin, the Daily COP (DLYCOP) token and the Relayer contract so users can make gasless transactions paying the fee in the same token. |  | 0 | [code](https://github.com/tethercoin/columbianpesogaslesspeg/tree/master) · [issues](https://github.com/tethercoin/columbianpesogaslesspeg/issues) · [site](https://www.dlycrypto.com) |
-| [contracts-pre22-truefi](https://github.com/tethercoin/contracts-pre22-truefi) 🍴 | TrustToken smart contracts written pre 2022. Includes TrueCurrencies and TrueFi Pools. |  | 0 | [code](https://github.com/tethercoin/contracts-pre22-truefi/tree/main) · [issues](https://github.com/tethercoin/contracts-pre22-truefi/issues) · [site](https://trusttoken.com) |
-| [curve-stablecoin](https://github.com/tethercoin/curve-stablecoin) 🍴 | Stablecoin powered by LLAMMAs |  | 0 | [code](https://github.com/tethercoin/curve-stablecoin/tree/master) · [issues](https://github.com/tethercoin/curve-stablecoin/issues) |
-| [curve-stablecoin-js](https://github.com/tethercoin/curve-stablecoin-js) 🍴 | JavaScript library for Curve Stablecoin |  | 0 | [code](https://github.com/tethercoin/curve-stablecoin-js/tree/master) · [issues](https://github.com/tethercoin/curve-stablecoin-js/issues) |
-| [dai-plugin-dcent-web](https://github.com/tethercoin/dai-plugin-dcent-web) 🍴 | Plugin for using D'CENT with dai.js in a browser environment. |  | 0 | [code](https://github.com/tethercoin/dai-plugin-dcent-web/tree/master) · [issues](https://github.com/tethercoin/dai-plugin-dcent-web/issues) |
-| [defidollar-core](https://github.com/tethercoin/defidollar-core) 🍴 | Smart contracts for the DefiDollar ($DUSD) stablecoin. |  | 0 | [code](https://github.com/tethercoin/defidollar-core/tree/master) · [issues](https://github.com/tethercoin/defidollar-core/issues) · [site](https://app.dusd.finance/) |
-| [developerguides](https://github.com/tethercoin/developerguides) 🍴 | Developer guides to integrate with MakerDAO's smart contracts, SDKs, APIs, products, and partners |  | 0 | [code](https://github.com/tethercoin/developerguides/tree/master) · [issues](https://github.com/tethercoin/developerguides/issues) |
-| [dex-contracts](https://github.com/tethercoin/dex-contracts) 🍴 | Smart contracts for the Gnosis Protocol v1 |  | 0 | [code](https://github.com/tethercoin/dex-contracts/tree/master) · [issues](https://github.com/tethercoin/dex-contracts/issues) · [site](https://docs.gnosis.io/protocol/) |
-| [digix-dao](https://github.com/tethercoin/digix-dao) 🍴 | DigixDAO gold peg |  | 0 | [code](https://github.com/tethercoin/digix-dao/tree/master) · [issues](https://github.com/tethercoin/digix-dao/issues) |
-| [dollar](https://github.com/tethercoin/dollar) 🍴 | Gemini dollar contract source code |  | 0 | [code](https://github.com/tethercoin/dollar/tree/master) · [issues](https://github.com/tethercoin/dollar/issues) · [site](https://gemini.com/dollar) |
-| [ds-weth](https://github.com/tethercoin/ds-weth) 🍴 | ETH->ERC20 with extra opinions |  | 0 | [code](https://github.com/tethercoin/ds-weth/tree/master) · [issues](https://github.com/tethercoin/ds-weth/issues) |
-| [dss](https://github.com/tethercoin/dss) 🍴 | Dai Stablecoin System |  | 0 | [code](https://github.com/tethercoin/dss/tree/master) · [issues](https://github.com/tethercoin/dss/issues) |
-| [dss-dai-stablecoin-system](https://github.com/tethercoin/dss-dai-stablecoin-system) 🍴 | Dai Stablecoin System |  | 0 | [code](https://github.com/tethercoin/dss-dai-stablecoin-system/tree/master) · [issues](https://github.com/tethercoin/dss-dai-stablecoin-system/issues) |
-| [dss-deploy](https://github.com/tethercoin/dss-deploy) 🍴 | Set of smart contracts and bash scripts to deploy Multi collateral DAI |  | 0 | [code](https://github.com/tethercoin/dss-deploy/tree/master) · [issues](https://github.com/tethercoin/dss-deploy/issues) |
-| [dss-makerdai](https://github.com/tethercoin/dss-makerdai) 🍴 | Dai Stablecoin System for maker dao |  | 0 | [code](https://github.com/tethercoin/dss-makerdai/tree/master) · [issues](https://github.com/tethercoin/dss-makerdai/issues) |
-| [flow-usdc](https://github.com/tethercoin/flow-usdc) 🍴 | A FungibleToken-compatible fiat coin on the Flow blockchain, ERC20-alike with additional support for pausing and blocklisting. |  | 0 | [code](https://github.com/tethercoin/flow-usdc/tree/main) · [issues](https://github.com/tethercoin/flow-usdc/issues) |
-| [foundry-defi-stablecoin-f23](https://github.com/tethercoin/foundry-defi-stablecoin-f23) 🍴 | Foundry defi stablecoin inception reference |  | 0 | [code](https://github.com/tethercoin/foundry-defi-stablecoin-f23/tree/main) · [issues](https://github.com/tethercoin/foundry-defi-stablecoin-f23/issues) |
-| [gateway](https://github.com/tethercoin/gateway) 🍴 | makerdao market maker keeper as an interest-bearing stablecoin bridge between all DeFi chains. |  | 0 | [code](https://github.com/tethercoin/gateway/tree/develop) · [issues](https://github.com/tethercoin/gateway/issues) · [site](https://compound.cash) |
-| [gemini-dollar](https://github.com/tethercoin/gemini-dollar) 🍴 | Gemini dollar contract source code |  | 0 | [code](https://github.com/tethercoin/gemini-dollar/tree/master) · [issues](https://github.com/tethercoin/gemini-dollar/issues) · [site](https://gemini.com/dollar) |
-| [GUH](https://github.com/tethercoin/GUH) 🍴 | Goes Up Higher a radical experiment in Bitcoin pegging |  | 0 | [code](https://github.com/tethercoin/GUH/tree/main) · [issues](https://github.com/tethercoin/GUH/issues) |
-| [hedera-stable-coin-solidity-ethereum](https://github.com/tethercoin/hedera-stable-coin-solidity-ethereum) 🍴 | Hedera Stable Coin implementation as a Solidity smart contract for Ethereum |  | 0 | [code](https://github.com/tethercoin/hedera-stable-coin-solidity-ethereum/tree/master) · [issues](https://github.com/tethercoin/hedera-stable-coin-solidity-ethereum/issues) |
-| [incur-debt-ts](https://github.com/tethercoin/incur-debt-ts) 🍴 | incur debt ts |  | 0 | [code](https://github.com/tethercoin/incur-debt-ts/tree/main) · [issues](https://github.com/tethercoin/incur-debt-ts/issues) |
-| [kcoin](https://github.com/tethercoin/kcoin) 🍴 | A stable cryptocurrency that algorithmically targets $1 USD using the Kowala Protocol |  | 0 | [code](https://github.com/tethercoin/kcoin/tree/dev) · [issues](https://github.com/tethercoin/kcoin/issues) · [site](https://www.kowala.tech/) |
-| [market-maker-keeper](https://github.com/tethercoin/market-maker-keeper) 🍴 | Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io. |  | 0 | [code](https://github.com/tethercoin/market-maker-keeper/tree/master) · [issues](https://github.com/tethercoin/market-maker-keeper/issues) |
-| [paxos-gold-contract](https://github.com/tethercoin/paxos-gold-contract) 🍴 | paxos gold tether contract |  | 0 | [code](https://github.com/tethercoin/paxos-gold-contract/tree/master) · [issues](https://github.com/tethercoin/paxos-gold-contract/issues) |
-| [solidity-collections-library-digix](https://github.com/tethercoin/solidity-collections-library-digix) 🍴 | Digix Gold Collections Library |  | 0 | [code](https://github.com/tethercoin/solidity-collections-library-digix/tree/master) · [issues](https://github.com/tethercoin/solidity-collections-library-digix/issues) · [site](https://digixglobal.github.io/solidity-collections-library/) |
-| [stablecoin-fun](https://github.com/tethercoin/stablecoin-fun) 🍴 | Really minimal stablecoin with ERC-4626 |  | 0 | [code](https://github.com/tethercoin/stablecoin-fun/tree/main) · [issues](https://github.com/tethercoin/stablecoin-fun/issues) |
-| [stablecoin-t1-arbitrage](https://github.com/tethercoin/stablecoin-t1-arbitrage) 🍴 | Arbitrage bot for trading between T1 and the reserve currency on bonded stablecoins |  | 0 | [code](https://github.com/tethercoin/stablecoin-t1-arbitrage/tree/master) · [issues](https://github.com/tethercoin/stablecoin-t1-arbitrage/issues) |
-| [stablecoin.services](https://github.com/tethercoin/stablecoin.services) 🍴 | A gas free offering of common Dai and Chai operations |  | 0 | [code](https://github.com/tethercoin/stablecoin.services/tree/master) · [issues](https://github.com/tethercoin/stablecoin.services/issues) · [site](https://stablecoin.services) |
-| [stablecoooinEOS](https://github.com/tethercoin/stablecoooinEOS) 🍴 | EOS stable coin contract |  | 0 | [code](https://github.com/tethercoin/stablecoooinEOS/tree/master) · [issues](https://github.com/tethercoin/stablecoooinEOS/issues) |
-| [synthetix](https://github.com/tethercoin/synthetix) 🍴 | Synthetix Solidity smart contracts |  | 0 | [code](https://github.com/tethercoin/synthetix/tree/develop) · [issues](https://github.com/tethercoin/synthetix/issues) · [site](https://synthetix.io/) |
-| [tezos-btc](https://github.com/tethercoin/tezos-btc) 🍴 | Wrapped Bitcoin on Tezos Blockchain |  | 0 | [code](https://github.com/tethercoin/tezos-btc/tree/master) · [issues](https://github.com/tethercoin/tezos-btc/issues) · [site](https://tzbtc.io/) |
-| [usdp-contracts](https://github.com/tethercoin/usdp-contracts) 🍴 | Solidity smart contracts for the Paxos Standard ERC20 stablecoin USDP |  | 0 | [code](https://github.com/tethercoin/usdp-contracts/tree/master) · [issues](https://github.com/tethercoin/usdp-contracts/issues) |
-| [USM](https://github.com/tethercoin/USM) 🍴 | Minimalist USD - A minimalist, collateralized stablecoin built on Ethereum. |  | 0 | [code](https://github.com/tethercoin/USM/tree/master) · [issues](https://github.com/tethercoin/USM/issues) |
-| [wusd-contracts](https://github.com/tethercoin/wusd-contracts) 🍴 | Wrapped USD (Decentralized, trustless stablecoin basket consisting of 25% DAI, 25% USDC, 25% TUSD, 25% PAX) |  | 0 | [code](https://github.com/tethercoin/wusd-contracts/tree/master) · [issues](https://github.com/tethercoin/wusd-contracts/issues) |
+| [Acala](https://github.com/tethercoin/Acala) | [AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala) | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. | 762 | Rust |
+| [alpaca-stablecoin](https://github.com/tethercoin/alpaca-stablecoin) | [alpaca-finance/alpaca-stablecoin](https://github.com/alpaca-finance/alpaca-stablecoin) | Smart Contracts for Alpaca Stablecoin | 39 | TypeScript |
+| [bitcoin](https://github.com/tethercoin/bitcoin) | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree | 90,269 | C++ |
+| [stablecoin-t1-arbitrage](https://github.com/tethercoin/stablecoin-t1-arbitrage) | [byteball/stablecoin-t1-arbitrage](https://github.com/byteball/stablecoin-t1-arbitrage) | Arbitrage bot for trading between T1 and the reserve currency on bonded stablecoins | 16 | JavaScript |
+| [gateway](https://github.com/tethercoin/gateway) | [compound-finance/gateway](https://github.com/compound-finance/gateway) 📦 | An interest-bearing stablecoin bridge between all DeFi chains. | 135 | Rust |
+| [stellarator](https://github.com/tethercoin/stellarator) | [cowriesys/stellarator](https://github.com/cowriesys/stellarator) | Cowrie exchange API for converting between fiat currencies and crypto currencies | 36 | JavaScript |
+| [curve-stablecoin](https://github.com/tethercoin/curve-stablecoin) | [curvefi/curve-stablecoin](https://github.com/curvefi/curve-stablecoin) | Stablecoin powered by LLAMMAs | 545 | Python |
+| [curve-stablecoin-js](https://github.com/tethercoin/curve-stablecoin-js) | [curvefi/curve-stablecoin-js](https://github.com/curvefi/curve-stablecoin-js) | JavaScript library for Curve Stablecoin | 102 | TypeScript |
+| [digix-dao](https://github.com/tethercoin/digix-dao) | [cuteolaf/digix-dao](https://github.com/cuteolaf/digix-dao) | DigixDAO gold peg | 0 | Solidity |
+| [foundry-defi-stablecoin-f23](https://github.com/tethercoin/foundry-defi-stablecoin-f23) | [Cyfrin/foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu) | Foundry defi stablecoin inception reference | 335 | Solidity |
+| [dai-plugin-dcent-web](https://github.com/tethercoin/dai-plugin-dcent-web) | [dairef/dai-plugin-dcent-web](https://github.com/dairef/dai-plugin-dcent-web) | Plugin for using D'CENT with dai.js in a browser environment. | 0 | JavaScript |
+| [defidollar-core](https://github.com/tethercoin/defidollar-core) | [defidollar/defidollar-core](https://github.com/defidollar/defidollar-core) | Smart contracts for the DefiDollar ($DUSD) stablecoin. | 48 | JavaScript |
+| [aw](https://github.com/tethercoin/aw) | [deltabridge/aw](https://github.com/deltabridge/aw) | A flexible P2P networking library for upgradable distributed systems. | 0 | Go |
+| [arkadiko](https://github.com/tethercoin/arkadiko) | [deltaloans/arkadiko](https://github.com/deltaloans/arkadiko) | Arkadiko implements a stablecoin (USDA) and governance token (DIKO) on Stacks | 0 | TypeScript |
+| [solidity-collections-library-digix](https://github.com/tethercoin/solidity-collections-library-digix) | [DigixGlobal/solidity-collections-library](https://github.com/DigixGlobal/solidity-collections-library) | Collections Library | 22 | JavaScript |
+| [flow-usdc](https://github.com/tethercoin/flow-usdc) | [flow-usdc/flow-usdc](https://github.com/flow-usdc/flow-usdc) | A FungibleToken-compatible fiat coin on the Flow blockchain, ERC20-alike with additional support for pausing and blocklisting. | 21 | Go |
+| [dollar](https://github.com/tethercoin/dollar) | [gemini/dollar](https://github.com/gemini/dollar) | Gemini dollar contract source code | 106 | Solidity |
+| [gemini-dollar](https://github.com/tethercoin/gemini-dollar) | [gemini/dollar](https://github.com/gemini/dollar) | Gemini dollar contract source code | 106 | Solidity |
+| [columbianpesogaslesspeg](https://github.com/tethercoin/columbianpesogaslesspeg) | [gmuneracyclops/Daily-COP](https://github.com/gmuneracyclops/Daily-COP) | This repository contains the smart contract code for the Colombian Peso stablecoin, the Daily COP (DLYCOP) token and the Relayer contract so users can make gasless transactions paying the fee in the same token. | 0 | Solidity |
+| [dex-contracts](https://github.com/tethercoin/dex-contracts) | [gnosis/dex-contracts](https://github.com/gnosis/dex-contracts) | Smart contracts for the Gnosis Protocol v1 | 98 | TypeScript |
+| [Anti-Gravity-Bridge](https://github.com/tethercoin/Anti-Gravity-Bridge) | [Gravity-Bridge/Gravity-Bridge](https://github.com/Gravity-Bridge/Gravity-Bridge) | The official repository of the Gravity Bridge Blockchain | 155 | Go |
+| [hedera-stable-coin-solidity-ethereum](https://github.com/tethercoin/hedera-stable-coin-solidity-ethereum) | [hashgraph/hedera-stable-coin-solidity-ethereum](https://github.com/hashgraph/hedera-stable-coin-solidity-ethereum) | Hedera Stable Coin implementation as a Solidity smart contract for Ethereum | 26 | Solidity |
+| [kcoin](https://github.com/tethercoin/kcoin) | [kowala-tech/kcoin](https://github.com/kowala-tech/kcoin) | A stable cryptocurrency that algorithmically targets $1 USD using the Kowala Protocol | 18 | JavaScript |
+| [stablecoin.services](https://github.com/tethercoin/stablecoin.services) | [MrChico/stablecoin.services](https://github.com/MrChico/stablecoin.services) | A gas free offering of common Dai and Chai operations | 32 | JavaScript |
+| [stablecoooinEOS](https://github.com/tethercoin/stablecoooinEOS) | [newbdez33/stablecoooin](https://github.com/newbdez33/stablecoooin) | EOS stable coin contract | 16 | C++ |
+| [incur-debt-ts](https://github.com/tethercoin/incur-debt-ts) | [OlympusDAO/incur-debt-ts](https://github.com/OlympusDAO/incur-debt-ts) 📦 | incur debt ts | 2 | JavaScript |
+| [busd-contract](https://github.com/tethercoin/busd-contract) | [paxosglobal/busd-contract](https://github.com/paxosglobal/busd-contract) | Solidity smart contracts for the BUSD stablecoin | 146 | Solidity |
+| [paxos-gold-contract](https://github.com/tethercoin/paxos-gold-contract) | [paxosglobal/paxos-gold-contract](https://github.com/paxosglobal/paxos-gold-contract) | paxos gold tether contract | 91 | JavaScript |
+| [usdp-contracts](https://github.com/tethercoin/usdp-contracts) | [paxosglobal/usdp-contracts](https://github.com/paxosglobal/usdp-contracts) | Solidity smart contracts for the Paxos Standard ERC20 stablecoin USDP | 177 | TypeScript |
+| [GUH](https://github.com/tethercoin/GUH) | [qqonline/GUH](https://github.com/qqonline/GUH) | Goes Up Higher a radical experiment in Bitcoin pegging | 0 | Solidity |
+| [coinflation](https://github.com/tethercoin/coinflation) | [SaveGlaciers/coinflation](https://github.com/SaveGlaciers/coinflation) | Publicly mintable and burnable token | 0 | JavaScript |
+| [awesome-stablecoins](https://github.com/tethercoin/awesome-stablecoins) | [sdtsui/awesome-stablecoins](https://github.com/sdtsui/awesome-stablecoins) | Curated list of stable cryptocurrency resources and projects | 67 | — |
+| [stablecoin-fun](https://github.com/tethercoin/stablecoin-fun) | [shortdoom/stablecoin-fun](https://github.com/shortdoom/stablecoin-fun) | Really minimal stablecoin with ERC-4626 | 50 | Solidity |
+| [developerguides](https://github.com/tethercoin/developerguides) | [sky-ecosystem/developerguides](https://github.com/sky-ecosystem/developerguides) 📦 | Developer guides to integrate with MakerDAO's smart contracts, SDKs, APIs, products, and partners | 685 | Shell |
+| [ds-weth](https://github.com/tethercoin/ds-weth) | [sky-ecosystem/ds-weth](https://github.com/sky-ecosystem/ds-weth) 📦 | ETH->ERC20 with extra opinions | 0 | Solidity |
+| [dss](https://github.com/tethercoin/dss) | [sky-ecosystem/dss](https://github.com/sky-ecosystem/dss) | Dai Stablecoin System | 837 | Solidity |
+| [dss-dai-stablecoin-system](https://github.com/tethercoin/dss-dai-stablecoin-system) | [sky-ecosystem/dss](https://github.com/sky-ecosystem/dss) | Dai Stablecoin System | 837 | Solidity |
+| [dss-makerdai](https://github.com/tethercoin/dss-makerdai) | [sky-ecosystem/dss](https://github.com/sky-ecosystem/dss) | Dai Stablecoin System | 837 | Solidity |
+| [dss-deploy](https://github.com/tethercoin/dss-deploy) | [sky-ecosystem/dss-deploy](https://github.com/sky-ecosystem/dss-deploy) | Set of smart contracts and bash scripts to deploy Multi collateral DAI | 69 | Solidity |
+| [dss-interfaces](https://github.com/tethercoin/dss-interfaces) | [sky-ecosystem/dss-interfaces](https://github.com/sky-ecosystem/dss-interfaces) | Abstract developer interfaces to the Dai Stablecoin System core contracts. | 33 | Solidity |
+| [market-maker-keeper](https://github.com/tethercoin/market-maker-keeper) | [sky-ecosystem/market-maker-keeper](https://github.com/sky-ecosystem/market-maker-keeper) 📦 | Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io. | 494 | Python |
+| [BondingCurveFactory](https://github.com/tethercoin/BondingCurveFactory) | [solidml/BondingCurveFactory](https://github.com/solidml/BondingCurveFactory) | A bonding curve factory for simple and easy dynamic bonding curve creation. | 0 | CSS |
+| [synthetix](https://github.com/tethercoin/synthetix) | [sramos30/havven](https://github.com/sramos30/havven) | Havven Solidity smart contracts | 1 | Python |
+| [stablecoin](https://github.com/tethercoin/stablecoin) | [tqtezos/stablecoin](https://github.com/tqtezos/stablecoin) | Tezos stablecoin smart contract | 29 | Haskell |
+| [contracts-pre22-truefi](https://github.com/tethercoin/contracts-pre22-truefi) | [trusttoken/contracts-pre22](https://github.com/trusttoken/contracts-pre22) | TrustToken smart contracts written pre 2022. Includes TrueCurrencies and TrueFi Pools. | 318 | TypeScript |
+| [tezos-btc](https://github.com/tethercoin/tezos-btc) | [tz-wrapped/tezos-btc](https://github.com/tz-wrapped/tezos-btc) | Wrapped Bitcoin on Tezos Blockchain | 14 | Haskell |
+| [USM](https://github.com/tethercoin/USM) | [usmfum/USM](https://github.com/usmfum/USM) | Minimalist USD - A minimalist, collateralized stablecoin built on Ethereum. | 134 | Solidity |
+| [bitcoin-token-smart-contracts](https://github.com/tethercoin/bitcoin-token-smart-contracts) | [WrappedBTC/bitcoin-token-smart-contracts](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) | wrapped bitcoin smart contracts | 150 | JavaScript |
+| [wusd-contracts](https://github.com/tethercoin/wusd-contracts) | [WUSD-Stablecoin/wusd-contracts](https://github.com/WUSD-Stablecoin/wusd-contracts) | Wrapped USD (Decentralized, trustless stablecoin basket consisting of 25% DAI, 25% USDC, 25% TUSD, 25% PAX) | 4 | JavaScript |
+| [augur_foundry](https://github.com/tethercoin/augur_foundry) | [yashnaman/augur_foundry](https://github.com/yashnaman/augur_foundry) | Wrappers for shares of augur markets | 12 | JavaScript |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

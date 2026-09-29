@@ -1,35 +1,52 @@
 # [Jaimla](https://github.com/Jaimla)
 
-[← all organizations](../README.md) · [profile](https://github.com/Jaimla) · [repositories](https://github.com/orgs/Jaimla/repositories) · [people](https://github.com/orgs/Jaimla/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/Jaimla) · [repositories](https://github.com/orgs/Jaimla/repositories)
 
 > I am the machine learning agent
 
-**23** repos · 23 public · 0 private 🔒 · 22 research forks · 0 archived
+**Domain:** [Machine learning and local language models](../ARCHIVE.md#ml) · **Held outside the Professor-Codephreak account.** Public repositories only.
 
-| Repository | Description | Language | ★ | Links |
+**23** repos · **1** original works · **22** research forks · 0 private 🔒
+
+## Concept
+
+- **Original work is written in:** 
+- **Research studies the work of:** [DeltaVML](https://github.com/DeltaVML) (15), [lablab-ai](https://github.com/lablab-ai) (2), [AUTOMINDx](https://github.com/AUTOMINDx) (1), [h2oai](https://github.com/h2oai) (1), [mlodels](https://github.com/mlodels) (1), [oobabooga](https://github.com/oobabooga) (1), [reworkd](https://github.com/reworkd) (1)
+
+## Original works (1)
+
+- **[.github](https://github.com/Jaimla/.github)** · [code](https://github.com/Jaimla/.github/tree/main)
+  Jaimla "I am the machine learning agent"
+
+## Research forks (22)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [.github](https://github.com/Jaimla/.github) | Jaimla "I am the machine learning agent" |  | 0 | [code](https://github.com/Jaimla/.github/tree/main) · [issues](https://github.com/Jaimla/.github/issues) |
-| [datasets](https://github.com/Jaimla/datasets) 🍴 | 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools |  | 1 | [code](https://github.com/Jaimla/datasets/tree/main) · [issues](https://github.com/Jaimla/datasets/issues) · [site](https://huggingface.co/docs/datasets) |
-| [text-generation-webui-extensions](https://github.com/Jaimla/text-generation-webui-extensions) 🍴 | text-generation-webui-extension long term memory |  | 1 | [code](https://github.com/Jaimla/text-generation-webui-extensions/tree/main) · [issues](https://github.com/Jaimla/text-generation-webui-extensions/issues) |
-| [AgentGPT](https://github.com/Jaimla/AgentGPT) 🍴 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. |  | 0 | [code](https://github.com/Jaimla/AgentGPT/tree/main) · [issues](https://github.com/Jaimla/AgentGPT/issues) · [site](https://agentgpt.reworkd.ai) |
-| [alpaca.cpp](https://github.com/Jaimla/alpaca.cpp) 🍴 | Locally run an Instruction-Tuned Chat-Style LLM |  | 0 | [code](https://github.com/Jaimla/alpaca.cpp/tree/master) · [issues](https://github.com/Jaimla/alpaca.cpp/issues) |
-| [Auto-GPT](https://github.com/Jaimla/Auto-GPT) 🍴 | An experimental open-source attempt to make GPT-4 fully autonomous. |  | 0 | [code](https://github.com/Jaimla/Auto-GPT/tree/master) · [issues](https://github.com/Jaimla/Auto-GPT/issues) · [site](https://significant-gravitas.github.io/Auto-GPT/) |
-| [chat-bot-next.js-tailwind-boilerplate](https://github.com/Jaimla/chat-bot-next.js-tailwind-boilerplate) 🍴 | Boiler plate of a conversational bot with access to internet |  | 0 | [code](https://github.com/Jaimla/chat-bot-next.js-tailwind-boilerplate/tree/main) · [issues](https://github.com/Jaimla/chat-bot-next.js-tailwind-boilerplate/issues) |
-| [chat-nextjs-tailwind-vercel-boilerplate](https://github.com/Jaimla/chat-nextjs-tailwind-vercel-boilerplate) 🍴 | Netxjs boilerplate for a chat application. |  | 0 | [code](https://github.com/Jaimla/chat-nextjs-tailwind-vercel-boilerplate/tree/main) · [issues](https://github.com/Jaimla/chat-nextjs-tailwind-vercel-boilerplate/issues) · [site](https://chat-nextjs-tailwind-vercel-boilerplate.vercel.app) |
-| [deep-learning-wizard](https://github.com/Jaimla/deep-learning-wizard) 🍴 | Open source guides/codes for mastering deep learning to deploying deep learning in production in PyTorch, Python, C++ and more. |  | 0 | [code](https://github.com/Jaimla/deep-learning-wizard/tree/master) · [issues](https://github.com/Jaimla/deep-learning-wizard/issues) · [site](https://www.deeplearningwizard.com/) |
-| [gpt-ai-agent](https://github.com/Jaimla/gpt-ai-agent) 🍴 | AI Agent Demo Using GPT Function Calling |  | 0 | [code](https://github.com/Jaimla/gpt-ai-agent/tree/master) · [issues](https://github.com/Jaimla/gpt-ai-agent/issues) |
-| [h2ogpt](https://github.com/Jaimla/h2ogpt) 🍴 | Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf   Live Demo: https://gpt.h2o.ai/ |  | 0 | [code](https://github.com/Jaimla/h2ogpt/tree/main) · [issues](https://github.com/Jaimla/h2ogpt/issues) · [site](http://h2o.ai) |
-| [koboldcpp](https://github.com/Jaimla/koboldcpp) 🍴 | A simple one-file way to run various GGML models with KoboldAI's UI |  | 0 | [code](https://github.com/Jaimla/koboldcpp/tree/concedo) · [issues](https://github.com/Jaimla/koboldcpp/issues) |
-| [Mind2Web](https://github.com/Jaimla/Mind2Web) 🍴 | Dataset, code and models for the paper "Mind2Web: Towards a Generalist Agent for the Web". |  | 0 | [code](https://github.com/Jaimla/Mind2Web/tree/main) · [issues](https://github.com/Jaimla/Mind2Web/issues) · [site](https://osu-nlp-group.github.io/Mind2Web/) |
-| [personas](https://github.com/Jaimla/personas) 🍴 | Datasets for Deep learning Personas |  | 0 | [code](https://github.com/Jaimla/personas/tree/master) · [issues](https://github.com/Jaimla/personas/issues) |
-| [privateGPT](https://github.com/Jaimla/privateGPT) 🍴 | Interact privately with your documents using the power of GPT, 100% privately, no data leaks |  | 0 | [code](https://github.com/Jaimla/privateGPT/tree/main) · [issues](https://github.com/Jaimla/privateGPT/issues) |
-| [PyAIPersonality](https://github.com/Jaimla/PyAIPersonality) 🍴 | A library for defining AI personalities for AI based models.We define a file format, assets and personalized scripts. |  | 0 | [code](https://github.com/Jaimla/PyAIPersonality/tree/main) · [issues](https://github.com/Jaimla/PyAIPersonality/issues) |
-| [robosumo](https://github.com/Jaimla/robosumo) 🍴 | Code for the paper "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments" |  | 0 | [code](https://github.com/Jaimla/robosumo/tree/master) · [issues](https://github.com/Jaimla/robosumo/issues) · [site](https://arxiv.org/abs/1710.03641) |
-| [robotjs](https://github.com/Jaimla/robotjs) 🍴 | Node.js Desktop Automation. |  | 0 | [code](https://github.com/Jaimla/robotjs/tree/master) · [issues](https://github.com/Jaimla/robotjs/issues) · [site](http://robotjs.io) |
-| [starcoder](https://github.com/Jaimla/starcoder) 🍴 | Home of StarCoder: fine-tuning & inference! |  | 0 | [code](https://github.com/Jaimla/starcoder/tree/main) · [issues](https://github.com/Jaimla/starcoder/issues) |
-| [starcoder.cpp](https://github.com/Jaimla/starcoder.cpp) 🍴 | C++ implementation for 💫StarCoder |  | 0 | [code](https://github.com/Jaimla/starcoder.cpp/tree/main) · [issues](https://github.com/Jaimla/starcoder.cpp/issues) |
-| [WizardLM](https://github.com/Jaimla/WizardLM) 🍴 | WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions |  | 0 | [code](https://github.com/Jaimla/WizardLM/tree/main) · [issues](https://github.com/Jaimla/WizardLM/issues) |
-| [zenml](https://github.com/Jaimla/zenml) 🍴 | ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io. |  | 0 | [code](https://github.com/Jaimla/zenml/tree/main) · [issues](https://github.com/Jaimla/zenml/issues) |
-| [zenml-projects](https://github.com/Jaimla/zenml-projects) 🍴 | A repository for all ZenML projects that are specific production use-cases. |  | 0 | [code](https://github.com/Jaimla/zenml-projects/tree/main) · [issues](https://github.com/Jaimla/zenml-projects/issues) |
+| [gpt-ai-agent](https://github.com/Jaimla/gpt-ai-agent) | [AUTOMINDx/gpt-ai-agent](https://github.com/AUTOMINDx/gpt-ai-agent) | AI Agent Demo Using GPT Function Calling | 0 | Python |
+| [alpaca.cpp](https://github.com/Jaimla/alpaca.cpp) | [DeltaVML/alpaca.cpp](https://github.com/DeltaVML/alpaca.cpp) | Locally run an Instruction-Tuned Chat-Style LLM | 1 | C |
+| [Auto-GPT](https://github.com/Jaimla/Auto-GPT) | [DeltaVML/Auto-GPT](https://github.com/DeltaVML/Auto-GPT) | An experimental open-source attempt to make GPT-4 fully autonomous. | 0 | Python |
+| [datasets](https://github.com/Jaimla/datasets) | [DeltaVML/datasets](https://github.com/DeltaVML/datasets) | 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools | 0 | Python |
+| [deep-learning-wizard](https://github.com/Jaimla/deep-learning-wizard) | [DeltaVML/deep-learning-wizard](https://github.com/DeltaVML/deep-learning-wizard) | Open source guides/codes for mastering deep learning to deploying deep learning in production in PyTorch, Python, C++ and more. | 0 | HTML |
+| [koboldcpp](https://github.com/Jaimla/koboldcpp) | [DeltaVML/koboldcpp](https://github.com/DeltaVML/koboldcpp) | A simple one-file way to run various GGML models with KoboldAI's UI | 1 | C |
+| [personas](https://github.com/Jaimla/personas) | [DeltaVML/personas](https://github.com/DeltaVML/personas) | Datasets for Deep learning Personas | 1 | — |
+| [privateGPT](https://github.com/Jaimla/privateGPT) | [DeltaVML/privateGPT](https://github.com/DeltaVML/privateGPT) | Interact privately with your documents using the power of GPT, 100% privately, no data leaks | 0 | Python |
+| [PyAIPersonality](https://github.com/Jaimla/PyAIPersonality) | [DeltaVML/PyAIPersonality](https://github.com/DeltaVML/PyAIPersonality) | A library for defining AI personalities for AI based models.We define a file format, assets and personalized scripts. | 0 | Python |
+| [robosumo](https://github.com/Jaimla/robosumo) | [DeltaVML/robosumo](https://github.com/DeltaVML/robosumo) | Code for the paper "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments" | 0 | Python |
+| [robotjs](https://github.com/Jaimla/robotjs) | [DeltaVML/robotjs](https://github.com/DeltaVML/robotjs) | Node.js Desktop Automation. | 0 | C |
+| [starcoder](https://github.com/Jaimla/starcoder) | [DeltaVML/starcoder](https://github.com/DeltaVML/starcoder) | Home of StarCoder: fine-tuning & inference! | 0 | Python |
+| [starcoder.cpp](https://github.com/Jaimla/starcoder.cpp) | [DeltaVML/starcoder.cpp](https://github.com/DeltaVML/starcoder.cpp) | C++ implementation for 💫StarCoder | 1 | C |
+| [WizardLM](https://github.com/Jaimla/WizardLM) | [DeltaVML/WizardLM](https://github.com/DeltaVML/WizardLM) | WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions | 0 | Python |
+| [zenml](https://github.com/Jaimla/zenml) | [DeltaVML/zenml](https://github.com/DeltaVML/zenml) | ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io. | 0 | Python |
+| [zenml-projects](https://github.com/Jaimla/zenml-projects) | [DeltaVML/zenml-projects](https://github.com/DeltaVML/zenml-projects) | A repository for all ZenML projects that are specific production use-cases. | 0 | Python |
+| [h2ogpt](https://github.com/Jaimla/h2ogpt) | [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) 📦 | Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/ | 11,959 | Python |
+| [chat-bot-next.js-tailwind-boilerplate](https://github.com/Jaimla/chat-bot-next.js-tailwind-boilerplate) | [lablab-ai/chat-bot-next.js-tailwind-boilerplate](https://github.com/lablab-ai/chat-bot-next.js-tailwind-boilerplate) | Boiler plate of a conversational bot with access to internet | 8 | Python |
+| [chat-nextjs-tailwind-vercel-boilerplate](https://github.com/Jaimla/chat-nextjs-tailwind-vercel-boilerplate) | [lablab-ai/chat-nextjs-tailwind-vercel-boilerplate](https://github.com/lablab-ai/chat-nextjs-tailwind-vercel-boilerplate) | Netxjs boilerplate for a chat application. | 3 | JavaScript |
+| [Mind2Web](https://github.com/Jaimla/Mind2Web) | [mlodels/Mind2Web](https://github.com/mlodels/Mind2Web) | Dataset, code and models for the paper "Mind2Web: Towards a Generalist Agent for the Web". | 0 | Jupyter Notebook |
+| [text-generation-webui-extensions](https://github.com/Jaimla/text-generation-webui-extensions) | [oobabooga/textgen-extensions](https://github.com/oobabooga/textgen-extensions) | text-generation-webui-extension long term memory | 676 | — |
+| [AgentGPT](https://github.com/Jaimla/AgentGPT) | [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) 📦 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 36,297 | TypeScript |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

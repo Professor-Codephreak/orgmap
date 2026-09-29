@@ -1,16 +1,28 @@
 # [newagi](https://github.com/newagi)
 
-[← all organizations](../README.md) · [profile](https://github.com/newagi) · [repositories](https://github.com/orgs/newagi/repositories) · [people](https://github.com/orgs/newagi/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/newagi) · [repositories](https://github.com/orgs/newagi/repositories)
 
 > neural enhanced wisdom augmented generative intelligence
 
-Website: <https://rage.pythai.net>
+**Domain:** [Autonomous agents, AGI and retrieval](../ARCHIVE.md#agi) · **Website:** <https://rage.pythai.net>
 
-**2** repos · 2 public · 0 private 🔒 · 0 research forks · 0 archived
+**2** repos · **2** original works · **0** research forks · 0 private 🔒
 
-| Repository | Description | Language | ★ | Links |
-|---|---|---|--:|---|
-| [.github](https://github.com/newagi/.github) | newagi organization profile |  | 0 | [code](https://github.com/newagi/.github/tree/main) · [issues](https://github.com/newagi/.github/issues) |
-| [README.md](https://github.com/newagi/README.md) | neural enhance wisdom augmented generative intelligence |  | 0 | [code](https://github.com/newagi/README.md/tree/main) · [issues](https://github.com/newagi/README.md/issues) |
+## Concept
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+- **Original work is written in:** 
+
+## Original works (2)
+
+- **[.github](https://github.com/newagi/.github)** · [code](https://github.com/newagi/.github/tree/main)
+  newagi organization profile
+- **[README.md](https://github.com/newagi/README.md)** · MIT · [code](https://github.com/newagi/README.md/tree/main)
+  neural enhance wisdom augmented generative intelligence
+
+## Research forks (0)
+
+_None._
+
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

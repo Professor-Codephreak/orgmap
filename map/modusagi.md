@@ -1,18 +1,30 @@
 # [modusAGI](https://github.com/modusAGI)
 
-[← all organizations](../README.md) · [profile](https://github.com/modusAGI) · [repositories](https://github.com/orgs/modusAGI/repositories) · [people](https://github.com/orgs/modusAGI/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/modusAGI) · [repositories](https://github.com/orgs/modusAGI/repositories)
 
 > modular AGI
 
-Website: <https://rage.pythai.net>
+**Domain:** [Autonomous agents, AGI and retrieval](../ARCHIVE.md#agi) · **Website:** <https://rage.pythai.net>
 
-**4** repos · 2 public · 2 private 🔒 · 0 research forks · 0 archived
+**4** repos · **4** original works · **0** research forks · 2 private 🔒
 
-| Repository | Description | Language | ★ | Links |
-|---|---|---|--:|---|
-| [.github](https://github.com/modusAGI/.github) | modusAGI organization profile |  | 0 | [code](https://github.com/modusAGI/.github/tree/main) · [issues](https://github.com/modusAGI/.github/issues) |
-| [modus](https://github.com/modusAGI/modus) 🔒 |  | | | `github.com/modusAGI/modus` |
-| [ponenAGI](https://github.com/modusAGI/ponenAGI) 🔒 | experiment in a single polyglotAGI file for advanced reasoning | | | `github.com/modusAGI/ponenAGI` |
-| [tkAGI](https://github.com/modusAGI/tkAGI) | using tkinter for expression of UI as experiments | [Python](https://github.com/orgs/modusAGI/repositories?language=python) | 0 | [code](https://github.com/modusAGI/tkAGI/tree/main) · [issues](https://github.com/modusAGI/tkAGI/issues) |
+## Concept
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+- **Original work is written in:** Python (1)
+
+## Original works (4)
+
+- **[.github](https://github.com/modusAGI/.github)** · [code](https://github.com/modusAGI/.github/tree/main)
+  modusAGI organization profile
+- **[tkAGI](https://github.com/modusAGI/tkAGI)** · [Python](https://github.com/orgs/modusAGI/repositories?language=python) · [code](https://github.com/modusAGI/tkAGI/tree/main)
+  using tkinter for expression of UI as experiments
+- **[modus](https://github.com/modusAGI/modus)** 🔒  · `github.com/modusAGI/modus`
+- **[ponenAGI](https://github.com/modusAGI/ponenAGI)** 🔒 experiment in a single polyglotAGI file for advanced reasoning · `github.com/modusAGI/ponenAGI`
+
+## Research forks (0)
+
+_None._
+
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

@@ -1,38 +1,58 @@
 # [mastermindML](https://github.com/mastermindML)
 
-[← all organizations](../README.md) · [profile](https://github.com/mastermindML) · [repositories](https://github.com/orgs/mastermindML/repositories) · [people](https://github.com/orgs/mastermindML/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/mastermindML) · [repositories](https://github.com/orgs/mastermindML/repositories)
 
 > mastermind agency controller
 
-Website: <https://pythai.net/>
+**Domain:** [Autonomous agents, AGI and retrieval](../ARCHIVE.md#agi) · **Website:** <https://pythai.net/>
 
-**24** repos · 21 public · 3 private 🔒 · 17 research forks · 0 archived
+**24** repos · **7** original works · **17** research forks · 3 private 🔒
 
-| Repository | Description | Language | ★ | Links |
+## Concept
+
+- **Original work is written in:** Python (2)
+- **Topics:** `aglm`, `autonomous`, `epistemic-logic`, `epistemology`, `general`, `learning`, `mastermind`, `nonmonotonic`
+- **Research studies the work of:** [obsidianmd](https://github.com/obsidianmd) (2), [run-llama](https://github.com/run-llama) (2), [abetlen](https://github.com/abetlen) (1), [alikalik9](https://github.com/alikalik9) (1), [GATERAGE](https://github.com/GATERAGE) (1), [j0sephsasson](https://github.com/j0sephsasson) (1), [Jaimla](https://github.com/Jaimla) (1), [kkondo1981](https://github.com/kkondo1981) (1), [Lilypad-Tech](https://github.com/Lilypad-Tech) (1), [llamagi](https://github.com/llamagi) (1)
+
+## Original works (7)
+
+- **[mastermind](https://github.com/mastermindML/mastermind)** · [Python](https://github.com/orgs/mastermindML/repositories?language=python) · ★ 2 · GPL-3.0 · [site](https://pythai.net) · [code](https://github.com/mastermindML/mastermind/tree/main)
+  MASTERMIND agent creation for controlled agency using aGLM BDI and RAGE
+  `aglm` `autonomous` `epistemic-logic` `epistemology` `general` `learning` `mastermind` `nonmonotonic`
+- **[.github](https://github.com/mastermindML/.github)** · MIT · [code](https://github.com/mastermindML/.github/tree/main)
+  MASTERMIND Machine Learning natural language interface adaptive intelligent agency
+- **[attentionisallyouneed](https://github.com/mastermindML/attentionisallyouneed)** · [code](https://github.com/mastermindML/attentionisallyouneed/tree/main)
+  transformer
+- **[polyglotAGI](https://github.com/mastermindML/polyglotAGI)** · [Python](https://github.com/orgs/mastermindML/repositories?language=python) · MIT · [code](https://github.com/mastermindML/polyglotAGI/tree/main)
+  using polyglotAI with Profesor Codephreak enhanced by aGLM, automind, and mastermind to generate the code for autonomous general intelligence
+- **[augmentic](https://github.com/mastermindML/augmentic)** 🔒  · `github.com/mastermindML/augmentic`
+- **[warcouncil](https://github.com/mastermindML/warcouncil)** 🔒 13-seat war council for mastermind.pythai.net. aisdk + WebSocket consensus. Hostile-client posture… · `github.com/mastermindML/warcouncil`
+- **[augmentic1](https://github.com/mastermindML/augmentic1)** 🔒 milestone realease of 146 mastermind builds mastermind not included · `github.com/mastermindML/augmentic1`
+
+## Research forks (17)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [mastermind](https://github.com/mastermindML/mastermind) | MASTERMIND agent creation for controlled agency using aGLM BDI and RAGE | [Python](https://github.com/orgs/mastermindML/repositories?language=python) | 2 | [code](https://github.com/mastermindML/mastermind/tree/main) · [issues](https://github.com/mastermindML/mastermind/issues) · [site](https://pythai.net) |
-| [augmentic](https://github.com/mastermindML/augmentic) 🔒 |  | | | `github.com/mastermindML/augmentic` |
-| [warcouncil](https://github.com/mastermindML/warcouncil) 🔒 | 13-seat war council for mastermind.pythai.net. aisdk + WebSocket consensus. Hostile-client posture… | | | `github.com/mastermindML/warcouncil` |
-| [.github](https://github.com/mastermindML/.github) | MASTERMIND Machine Learning natural language interface adaptive intelligent agency |  | 0 | [code](https://github.com/mastermindML/.github/tree/main) · [issues](https://github.com/mastermindML/.github/issues) |
-| [attentionisallyouneed](https://github.com/mastermindML/attentionisallyouneed) | transformer |  | 0 | [code](https://github.com/mastermindML/attentionisallyouneed/tree/main) · [issues](https://github.com/mastermindML/attentionisallyouneed/issues) |
-| [augmentic1](https://github.com/mastermindML/augmentic1) 🔒 | milestone realease of 146 mastermind builds mastermind not included | | | `github.com/mastermindML/augmentic1` |
-| [polyglotAGI](https://github.com/mastermindML/polyglotAGI) | using polyglotAI with Profesor Codephreak enhanced by aGLM, automind, and mastermind to generate the code for autonomous general intelligence | [Python](https://github.com/orgs/mastermindML/repositories?language=python) | 0 | [code](https://github.com/mastermindML/polyglotAGI/tree/main) · [issues](https://github.com/mastermindML/polyglotAGI/issues) |
-| [aglm](https://github.com/mastermindML/aglm) 🍴 | A handy tool for actuarial modeling, which is designed to achieve both accuracy and accountability. |  | 1 | [code](https://github.com/mastermindML/aglm/tree/master) · [issues](https://github.com/mastermindML/aglm/issues) |
-| [datasets](https://github.com/mastermindML/datasets) 🍴 | 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools |  | 0 | [code](https://github.com/mastermindML/datasets/tree/main) · [issues](https://github.com/mastermindML/datasets/issues) · [site](https://huggingface.co/docs/datasets) |
-| [lilypad-module-ollama-pipeline](https://github.com/mastermindML/lilypad-module-ollama-pipeline) 🍴 | OLLaMa pipeline |  | 0 | [code](https://github.com/mastermindML/lilypad-module-ollama-pipeline/tree/main) · [issues](https://github.com/mastermindML/lilypad-module-ollama-pipeline/issues) |
-| [llama-cpp-python](https://github.com/mastermindML/llama-cpp-python) 🍴 | Python bindings for llama.cpp pip install llama-cpp-python |  | 0 | [code](https://github.com/mastermindML/llama-cpp-python/tree/main) · [issues](https://github.com/mastermindML/llama-cpp-python/issues) · [site](https://llama-cpp-python.readthedocs.io) |
-| [llama_index](https://github.com/mastermindML/llama_index) 🍴 | LlamaIndex is a data framework for your LLM applications |  | 0 | [code](https://github.com/mastermindML/llama_index/tree/main) · [issues](https://github.com/mastermindML/llama_index/issues) · [site](https://docs.llamaindex.ai) |
-| [mastermindNLP](https://github.com/mastermindML/mastermindNLP) 🍴 | MASTERMIND UIUX NLP Natural Language Programming openUI imagination generator |  | 0 | [code](https://github.com/mastermindML/mastermindNLP/tree/main) · [issues](https://github.com/mastermindML/mastermindNLP/issues) |
-| [megalodon](https://github.com/mastermindML/megalodon) 🍴 | Megalodon 7B model with unlimited learning context |  | 0 | [code](https://github.com/mastermindML/megalodon/tree/main) · [issues](https://github.com/mastermindML/megalodon/issues) |
-| [mindmaster-plugin-docs](https://github.com/mastermindML/mindmaster-plugin-docs) 🍴 | Unofficial documentation mindmaster plugin development. |  | 0 | [code](https://github.com/mastermindML/mindmaster-plugin-docs/tree/main) · [issues](https://github.com/mastermindML/mindmaster-plugin-docs/issues) |
-| [multi-agent-concierge](https://github.com/mastermindML/multi-agent-concierge) 🍴 | suitable for mastermind orchestraion of multi-agent feedback loops to perform "intelligent" actions |  | 0 | [code](https://github.com/mastermindML/multi-agent-concierge/tree/main) · [issues](https://github.com/mastermindML/multi-agent-concierge/issues) |
-| [multi-agents-workflow](https://github.com/mastermindML/multi-agents-workflow) 🍴 | Multi-Agents using Workflows This example is using three agents to generate a blog post:      a researcher that retrieves content via a RAG pipeline,     a writer that specializes in writing blog posts and     a reviewer that is reviewing the blog post. |  | 0 | [code](https://github.com/mastermindML/multi-agents-workflow/tree/main) · [issues](https://github.com/mastermindML/multi-agents-workflow/issues) |
-| [obsidian-developer-docs](https://github.com/mastermindML/obsidian-developer-docs) 🍴 | extensible robust workspace mind master and mind mapping software |  | 0 | [code](https://github.com/mastermindML/obsidian-developer-docs/tree/main) · [issues](https://github.com/mastermindML/obsidian-developer-docs/issues) |
-| [ollama](https://github.com/mastermindML/ollama) 🍴 | Get up and running with Llama 2 and other large language models locally |  | 0 | [code](https://github.com/mastermindML/ollama/tree/main) · [issues](https://github.com/mastermindML/ollama/issues) · [site](https://ollama.ai) |
-| [open-interpreter](https://github.com/mastermindML/open-interpreter) 🍴 | OpenAI's Code Interpreter in your terminal, running locally | [Python](https://github.com/orgs/mastermindML/repositories?language=python) | 0 | [code](https://github.com/mastermindML/open-interpreter/tree/main) · [issues](https://github.com/mastermindML/open-interpreter/issues) · [site](http://openinterpreter.com/) |
-| [open-webui](https://github.com/mastermindML/open-webui) 🍴 | User-friendly WebUI for LLMs (Formerly Ollama WebUI) |  | 0 | [code](https://github.com/mastermindML/open-webui/tree/main) · [issues](https://github.com/mastermindML/open-webui/issues) · [site](https://openwebui.com) |
-| [openllm](https://github.com/mastermindML/openllm) 🍴 | Chat to various Large language models through a GUI |  | 0 | [code](https://github.com/mastermindML/openllm/tree/main) · [issues](https://github.com/mastermindML/openllm/issues) |
-| [rag-from-scratch](https://github.com/mastermindML/rag-from-scratch) 🍴 | An entirely local RAG system from scratch | [Jupyter Notebook](https://github.com/orgs/mastermindML/repositories?language=jupyter+notebook) | 0 | [code](https://github.com/mastermindML/rag-from-scratch/tree/main) · [issues](https://github.com/mastermindML/rag-from-scratch/issues) |
-| [simpleaichat](https://github.com/mastermindML/simpleaichat) 🍴 | Python package for easily interfacing with chat apps, with robust features and minimal code complexity. |  | 0 | [code](https://github.com/mastermindML/simpleaichat/tree/main) · [issues](https://github.com/mastermindML/simpleaichat/issues) |
+| [llama-cpp-python](https://github.com/mastermindML/llama-cpp-python) | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | Python bindings for llama.cpp | 10,637 | Python |
+| [openllm](https://github.com/mastermindML/openllm) | [alikalik9/openllm](https://github.com/alikalik9/openllm) | Chat to various Large language models through a GUI | 28 | Python |
+| [megalodon](https://github.com/mastermindML/megalodon) | [GATERAGE/megalodon](https://github.com/GATERAGE/megalodon) | Megalodon 7B model with unlimited learning context | 0 | Cuda |
+| [rag-from-scratch](https://github.com/mastermindML/rag-from-scratch) | [j0sephsasson/rag-from-scratch](https://github.com/j0sephsasson/rag-from-scratch) | An entirely local RAG system from scratch | 47 | Jupyter Notebook |
+| [datasets](https://github.com/mastermindML/datasets) | [Jaimla/datasets](https://github.com/Jaimla/datasets) | 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools | 1 | Python |
+| [aglm](https://github.com/mastermindML/aglm) | [kkondo1981/aglm](https://github.com/kkondo1981/aglm) | A handy tool for actuarial modeling, which is designed to achieve both accuracy and accountability. | 17 | R |
+| [lilypad-module-ollama-pipeline](https://github.com/mastermindML/lilypad-module-ollama-pipeline) | [Lilypad-Tech/lilypad-module-ollama-pipeline](https://github.com/Lilypad-Tech/lilypad-module-ollama-pipeline) | OLLaMa pipeline | 2 | Python |
+| [multi-agents-workflow](https://github.com/mastermindML/multi-agents-workflow) | [llamagi/multi-agents-workflow](https://github.com/llamagi/multi-agents-workflow) | Multi-Agents using Workflows This example is using three agents to generate a blog post:      a researcher that retrieves content via a RAG pipeline,     a writer that specializes in writing blog posts and     a… | 0 | Python |
+| [obsidian-developer-docs](https://github.com/mastermindML/obsidian-developer-docs) | [obsidianmd/obsidian-developer-docs](https://github.com/obsidianmd/obsidian-developer-docs) | extensible robust workspace mind master and mind mapping software | 520 | JavaScript |
+| [mindmaster-plugin-docs](https://github.com/mastermindML/mindmaster-plugin-docs) | [obsidianmd/obsidian-plugin-docs](https://github.com/obsidianmd/obsidian-plugin-docs) | Unofficial documentation for Obsidian plugin development. | 92 | JavaScript |
+| [ollama](https://github.com/mastermindML/ollama) | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | 181,875 | Go |
+| [open-webui](https://github.com/mastermindML/open-webui) | [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 153,463 | Python |
+| [open-interpreter](https://github.com/mastermindML/open-interpreter) | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | A coding agent for open models like Kimi K3 and GLM 5.3 | 68,467 | Python |
+| [mastermindNLP](https://github.com/mastermindML/mastermindNLP) | [PLATYPUSAI/pusaiNLP](https://github.com/PLATYPUSAI/pusaiNLP) | PUSAI UIUX NLP Natural Language Programming openUI imagination generator | 2 | TypeScript |
+| [llama_index](https://github.com/mastermindML/llama_index) | [run-llama/llama_index](https://github.com/run-llama/llama_index) | LlamaIndex is the document processing platform for AI | 52,342 | Python |
+| [multi-agent-concierge](https://github.com/mastermindML/multi-agent-concierge) | [run-llama/multi-agent-concierge](https://github.com/run-llama/multi-agent-concierge) | An example of multi-agent orchestration with llama-index | 445 | Jupyter Notebook |
+| [simpleaichat](https://github.com/mastermindML/simpleaichat) | [webmindml/simpleaichat](https://github.com/webmindml/simpleaichat) | Python package for easily interfacing with chat apps, with robust features and minimal code complexity. | 0 | Python |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

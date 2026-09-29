@@ -1,17 +1,32 @@
 # [STORAGESTAR](https://github.com/STORAGESTAR)
 
-[← all organizations](../README.md) · [profile](https://github.com/STORAGESTAR) · [repositories](https://github.com/orgs/STORAGESTAR/repositories) · [people](https://github.com/orgs/STORAGESTAR/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#storage) · [profile](https://github.com/STORAGESTAR) · [repositories](https://github.com/orgs/STORAGESTAR/repositories)
 
 > Storage Star
 
-Website: <https://agenticplace.pythai.net>
+**Domain:** [Storage and the decentralized web](../ARCHIVE.md#storage) · **Website:** <https://agenticplace.pythai.net>
 
-**3** repos · 2 public · 1 private 🔒 · 1 research forks · 0 archived
+**3** repos · **2** original works · **1** research forks · 1 private 🔒
 
-| Repository | Description | Language | ★ | Links |
+## Concept
+
+- **Original work is written in:** 
+- **Research studies the work of:** [dchest](https://github.com/dchest) (1)
+
+## Original works (2)
+
+- **[.github](https://github.com/STORAGESTAR/.github)** · [code](https://github.com/STORAGESTAR/.github/tree/main)
+  STORAGESTAR organization profile
+- **[documentation](https://github.com/STORAGESTAR/documentation)** 🔒 STORAGE STAR · `github.com/STORAGESTAR/documentation`
+
+## Research forks (1)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [.github](https://github.com/STORAGESTAR/.github) | STORAGESTAR organization profile |  | 0 | [code](https://github.com/STORAGESTAR/.github/tree/main) · [issues](https://github.com/STORAGESTAR/.github/issues) |
-| [documentation](https://github.com/STORAGESTAR/documentation) 🔒 | STORAGE STAR | | | `github.com/STORAGESTAR/documentation` |
-| [tweetnacl-js](https://github.com/STORAGESTAR/tweetnacl-js) 🍴 | Port of TweetNaCl cryptographic library to JavaScript |  | 0 | [code](https://github.com/STORAGESTAR/tweetnacl-js/tree/master) · [issues](https://github.com/STORAGESTAR/tweetnacl-js/issues) · [site](https://tweetnacl.js.org) |
+| [tweetnacl-js](https://github.com/STORAGESTAR/tweetnacl-js) | [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) | Port of TweetNaCl cryptographic library to JavaScript | 1,923 | JavaScript |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

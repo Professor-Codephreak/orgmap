@@ -1,35 +1,52 @@
 # [dairef](https://github.com/dairef)
 
-[← all organizations](../README.md) · [profile](https://github.com/dairef) · [repositories](https://github.com/orgs/dairef/repositories) · [people](https://github.com/orgs/dairef/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/dairef) · [repositories](https://github.com/orgs/dairef/repositories)
 
 > A general reference to programmable DAI
 
-**23** repos · 22 public · 1 private 🔒 · 21 research forks · 0 archived
+**Domain:** [DeFi, stable value and trading](../ARCHIVE.md#defi)
 
-| Repository | Description | Language | ★ | Links |
+**23** repos · **2** original works · **21** research forks · 1 private 🔒
+
+## Concept
+
+- **Original work is written in:** 
+- **Research studies the work of:** [sky-ecosystem](https://github.com/sky-ecosystem) (5), [deltaloans](https://github.com/deltaloans) (3), [tethercoin](https://github.com/tethercoin) (2), [aave](https://github.com/aave) (1), [ava-labs](https://github.com/ava-labs) (1), [bankonvault](https://github.com/bankonvault) (1), [BenSchZA](https://github.com/BenSchZA) (1), [DcentWallet](https://github.com/DcentWallet) (1), [defi-wonderland](https://github.com/defi-wonderland) (1), [deltabridge](https://github.com/deltabridge) (1)
+
+## Original works (2)
+
+- **[.github](https://github.com/dairef/.github)** · [code](https://github.com/dairef/.github/tree/main)
+  dairef organization profile
+- **[PAI](https://github.com/dairef/PAI)** 🔒 payment gateway for agentic economy at scale · `github.com/dairef/PAI`
+
+## Research forks (21)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [.github](https://github.com/dairef/.github) | dairef organization profile |  | 0 | [code](https://github.com/dairef/.github/tree/main) · [issues](https://github.com/dairef/.github/issues) |
-| [PAI](https://github.com/dairef/PAI) 🔒 | payment gateway for agentic economy at scale | | | `github.com/dairef/PAI` |
-| [delta0mnichain](https://github.com/dairef/delta0mnichain) 🍴 | goerli to fuji bridge example |  | 1 | [code](https://github.com/dairef/delta0mnichain/tree/main) · [issues](https://github.com/dairef/delta0mnichain/issues) |
-| [awesome-bonding](https://github.com/dairef/awesome-bonding) 🍴 | A curated list of token bonding curve code and resources. |  | 0 | [code](https://github.com/dairef/awesome-bonding/tree/master) · [issues](https://github.com/dairef/awesome-bonding/issues) |
-| [cache-contract](https://github.com/dairef/cache-contract) 🍴 | Smart Contracts for the CACHE Gold Token |  | 0 | [code](https://github.com/dairef/cache-contract/tree/master) · [issues](https://github.com/dairef/cache-contract/issues) · [site](https://cache.gold) |
-| [cache-crypto-widget](https://github.com/dairef/cache-crypto-widget) 🍴 | A widget for buying CGT using any token at chainlink XAU price + margin |  | 0 | [code](https://github.com/dairef/cache-crypto-widget/tree/main) · [issues](https://github.com/dairef/cache-crypto-widget/issues) |
-| [cache-gold-docs](https://github.com/dairef/cache-gold-docs) 🍴 | CACHE Gold Smart Contract Documentation |  | 0 | [code](https://github.com/dairef/cache-gold-docs/tree/master) · [issues](https://github.com/dairef/cache-gold-docs/issues) · [site](https://cache.gold) |
-| [cgt-bridge](https://github.com/dairef/cgt-bridge) 🍴 | Cache Gold Bridge |  | 0 | [code](https://github.com/dairef/cgt-bridge/tree/main) · [issues](https://github.com/dairef/cgt-bridge/issues) |
-| [dai-plugin-dcent-web](https://github.com/dairef/dai-plugin-dcent-web) 🍴 | Plugin for using D'CENT with dai.js in a browser environment. |  | 0 | [code](https://github.com/dairef/dai-plugin-dcent-web/tree/master) · [issues](https://github.com/dairef/dai-plugin-dcent-web/issues) |
-| [defi-Vault](https://github.com/dairef/defi-Vault) 🍴 | decentralized exchange/ deposit wrapped Avax /ETH. supply wrappedEth to Compound |  | 0 | [code](https://github.com/dairef/defi-Vault/tree/main) · [issues](https://github.com/dairef/defi-Vault/issues) |
-| [dss](https://github.com/dairef/dss) 🍴 | Dai Stablecoin System |  | 0 | [code](https://github.com/dairef/dss/tree/master) · [issues](https://github.com/dairef/dss/issues) |
-| [dss-flash](https://github.com/dairef/dss-flash) 🍴 | MakerDAO Flash Mint Module |  | 0 | [code](https://github.com/dairef/dss-flash/tree/master) · [issues](https://github.com/dairef/dss-flash/issues) |
-| [dss-proxy](https://github.com/dairef/dss-proxy) 🍴 | proxy implementation of  dai dss |  | 0 | [code](https://github.com/dairef/dss-proxy/tree/master) · [issues](https://github.com/dairef/dss-proxy/issues) |
-| [fib](https://github.com/dairef/fib) 🍴 | Fibonacci sequence implementation in Solidity for FV demonstrations. |  | 0 | [code](https://github.com/dairef/fib/tree/master) · [issues](https://github.com/dairef/fib/issues) |
-| [ico](https://github.com/dairef/ico) 🍴 | Jincor ICO smart-contracts |  | 0 | [code](https://github.com/dairef/ico/tree/master) · [issues](https://github.com/dairef/ico/issues) |
-| [interface](https://github.com/dairef/interface) 🍴 | Interface to access the Aave Protocol |  | 0 | [code](https://github.com/dairef/interface/tree/main) · [issues](https://github.com/dairef/interface/issues) · [site](https://app.aave.com) |
-| [market-maker-keeper](https://github.com/dairef/market-maker-keeper) 🍴 | Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io. |  | 0 | [code](https://github.com/dairef/market-maker-keeper/tree/master) · [issues](https://github.com/dairef/market-maker-keeper/issues) |
-| [metaplex-program-library](https://github.com/dairef/metaplex-program-library) 🍴 | Smart contracts maintained by the Metaplex team |  | 0 | [code](https://github.com/dairef/metaplex-program-library/tree/master) · [issues](https://github.com/dairef/metaplex-program-library/issues) |
-| [openzeppelin-contracts](https://github.com/dairef/openzeppelin-contracts) 🍴 | OpenZeppelin Contracts is a library for secure smart contract development. |  | 0 | [code](https://github.com/dairef/openzeppelin-contracts/tree/master) · [issues](https://github.com/dairef/openzeppelin-contracts/issues) · [site](https://openzeppelin.com/contracts) |
-| [synthetix](https://github.com/dairef/synthetix) 🍴 | Synthetix Solidity smart contracts |  | 0 | [code](https://github.com/dairef/synthetix/tree/develop) · [issues](https://github.com/dairef/synthetix/issues) · [site](https://synthetix.io/) |
-| [v3-core](https://github.com/dairef/v3-core) 🍴 | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 |  | 0 | [code](https://github.com/dairef/v3-core/tree/main) · [issues](https://github.com/dairef/v3-core/issues) · [site](https://uniswap.org) |
-| [wrapped-assets](https://github.com/dairef/wrapped-assets) 🍴 | Smart Contract for Wrapped AVAX based on WETH |  | 0 | [code](https://github.com/dairef/wrapped-assets/tree/main) · [issues](https://github.com/dairef/wrapped-assets/issues) |
-| [xERC20](https://github.com/dairef/xERC20) 🍴 | crosschain erc-20 |  | 0 | [code](https://github.com/dairef/xERC20/tree/main) · [issues](https://github.com/dairef/xERC20/issues) |
+| [interface](https://github.com/dairef/interface) | [aave/interface](https://github.com/aave/interface) | Interface to access the Aave Protocol | 536 | TypeScript |
+| [wrapped-assets](https://github.com/dairef/wrapped-assets) | [ava-labs/wrapped-assets](https://github.com/ava-labs/wrapped-assets) | Smart Contract for Wrapped AVAX | 48 | Solidity |
+| [metaplex-program-library](https://github.com/dairef/metaplex-program-library) | [bankonvault/metaplex-program-library](https://github.com/bankonvault/metaplex-program-library) | Smart contracts maintained by the Metaplex team | 0 | Rust |
+| [awesome-bonding](https://github.com/dairef/awesome-bonding) | [BenSchZA/awesome-bonding](https://github.com/BenSchZA/awesome-bonding) | A curated list of token bonding curve code and resources. | 113 | — |
+| [dai-plugin-dcent-web](https://github.com/dairef/dai-plugin-dcent-web) | [DcentWallet/dai-plugin-dcent-web](https://github.com/DcentWallet/dai-plugin-dcent-web) | Plugin for using D'CENT with dai.js in a browser environment. | 1 | JavaScript |
+| [xERC20](https://github.com/dairef/xERC20) | [defi-wonderland/xERC20](https://github.com/defi-wonderland/xERC20) | crosschain erc-20 | 64 | Solidity |
+| [cgt-bridge](https://github.com/dairef/cgt-bridge) | [deltabridge/cgt-bridge](https://github.com/deltabridge/cgt-bridge) | Cache Gold Bridge | 0 | Solidity |
+| [cache-contract](https://github.com/dairef/cache-contract) | [deltaloans/cache-contract](https://github.com/deltaloans/cache-contract) | Smart Contracts for the CACHE Gold Token | 0 | HTML |
+| [cache-crypto-widget](https://github.com/dairef/cache-crypto-widget) | [deltaloans/cache-crypto-widget](https://github.com/deltaloans/cache-crypto-widget) | A widget for buying CGT using any token at chainlink XAU price + margin | 0 | TypeScript |
+| [cache-gold-docs](https://github.com/dairef/cache-gold-docs) | [deltaloans/cache-gold-docs](https://github.com/deltaloans/cache-gold-docs) | CACHE Gold Smart Contract Documentation | 0 | — |
+| [ico](https://github.com/dairef/ico) | [JincorTech/ico](https://github.com/JincorTech/ico) | Jincor ICO smart-contracts | 79 | JavaScript |
+| [delta0mnichain](https://github.com/dairef/delta0mnichain) | [LayerZero-Labs/endpoint-v1-solidity-examples](https://github.com/LayerZero-Labs/endpoint-v1-solidity-examples) 📦 | example contracts | 1,020 | JavaScript |
+| [openzeppelin-contracts](https://github.com/dairef/openzeppelin-contracts) | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | OpenZeppelin Contracts is a library for secure smart contract development. | 27,256 | Solidity |
+| [dss](https://github.com/dairef/dss) | [sky-ecosystem/dss](https://github.com/sky-ecosystem/dss) | Dai Stablecoin System | 837 | Solidity |
+| [dss-flash](https://github.com/dairef/dss-flash) | [sky-ecosystem/dss-flash](https://github.com/sky-ecosystem/dss-flash) | MakerDAO Flash Mint Module | 49 | Solidity |
+| [dss-proxy](https://github.com/dairef/dss-proxy) | [sky-ecosystem/dss-proxy](https://github.com/sky-ecosystem/dss-proxy) 📦 | proxy implementation of  dai dss | 19 | Solidity |
+| [fib](https://github.com/dairef/fib) | [sky-ecosystem/fib](https://github.com/sky-ecosystem/fib) 📦 | Fibonacci sequence implementation in Solidity for FV demonstrations. | 2 | Solidity |
+| [market-maker-keeper](https://github.com/dairef/market-maker-keeper) | [sky-ecosystem/market-maker-keeper](https://github.com/sky-ecosystem/market-maker-keeper) 📦 | Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io. | 494 | Python |
+| [defi-Vault](https://github.com/dairef/defi-Vault) | [tethercoin/defi-Vault](https://github.com/tethercoin/defi-Vault) | decentralized exchange/ deposit wrapped Avax /ETH. supply wrappedEth to Compound | 0 | JavaScript |
+| [synthetix](https://github.com/dairef/synthetix) | [tethercoin/synthetix](https://github.com/tethercoin/synthetix) | Synthetix Solidity smart contracts | 0 | JavaScript |
+| [v3-core](https://github.com/dairef/v3-core) | [Uniswap/v3-core](https://github.com/Uniswap/v3-core) | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 | 5,024 | TypeScript |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

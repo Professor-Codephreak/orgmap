@@ -1,15 +1,33 @@
 # [MMRAIMRAI](https://github.com/MMRAIMRAI)
 
-[← all organizations](../README.md) · [profile](https://github.com/MMRAIMRAI) · [repositories](https://github.com/orgs/MMRAIMRAI/repositories) · [people](https://github.com/orgs/MMRAIMRAI/people)
+[← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/MMRAIMRAI) · [repositories](https://github.com/orgs/MMRAIMRAI/repositories)
 
 > MasterMind Retrieval Augmented Intelligence MemoRAI
 
-**3** repos · 3 public · 0 private 🔒 · 1 research forks · 0 archived
+**Domain:** [Autonomous agents, AGI and retrieval](../ARCHIVE.md#agi)
 
-| Repository | Description | Language | ★ | Links |
+**3** repos · **2** original works · **1** research forks · 0 private 🔒
+
+## Concept
+
+- **Original work is written in:** 
+- **Research studies the work of:** [thTNT](https://github.com/thTNT) (1)
+
+## Original works (2)
+
+- **[.github](https://github.com/MMRAIMRAI/.github)** · [code](https://github.com/MMRAIMRAI/.github/tree/main)
+  MMRAIMRAI organization profile
+- **[README.md](https://github.com/MMRAIMRAI/README.md)** · [code](https://github.com/MMRAIMRAI/README.md/tree/main)
+  MasterMind Retrieval Augemented Intellegence Memory AI
+
+## Research forks (1)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [.github](https://github.com/MMRAIMRAI/.github) | MMRAIMRAI organization profile |  | 0 | [code](https://github.com/MMRAIMRAI/.github/tree/main) · [issues](https://github.com/MMRAIMRAI/.github/issues) |
-| [README.md](https://github.com/MMRAIMRAI/README.md) | MasterMind Retrieval Augemented Intellegence Memory AI |  | 0 | [code](https://github.com/MMRAIMRAI/README.md/tree/main) · [issues](https://github.com/MMRAIMRAI/README.md/issues) |
-| [MRAIBDK](https://github.com/MMRAIMRAI/MRAIBDK) 🍴 | MRAI blockchain development kit zkEVM validium rollup from kurtosis-cdk |  | 0 | [code](https://github.com/MMRAIMRAI/MRAIBDK/tree/main) · [issues](https://github.com/MMRAIMRAI/MRAIBDK/issues) · [site](https://docs.polygon.technology/cdk) |
+| [MRAIBDK](https://github.com/MMRAIMRAI/MRAIBDK) | [thTNT/LAIR3-BDK](https://github.com/thTNT/LAIR3-BDK) | design of a zkEVM AI infrastructure validium layer as Blockchain Development Kit extrapolated from kurtosis-cdk for THRUST NETWORK TECHNOLOGY layer 3 solution | 0 | Starlark |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived

@@ -1,15 +1,30 @@
 # [simplemind](https://github.com/simplemind)
 
-[← all organizations](../README.md) · [profile](https://github.com/simplemind) · [repositories](https://github.com/simplemind?tab=repositories)
+[← master index](../README.md) · [profile](https://github.com/simplemind) · [repositories](https://github.com/simplemind?tab=repositories)
 
-**5** repos · 5 public · 0 private 🔒 · 1 research forks · 0 archived
+**5** repos · **4** original works · **1** research forks · 0 private 🔒
 
-| Repository | Description | Language | ★ | Links |
+## Concept
+
+- **Original work is written in:** JavaScript (1), Visual Basic 6.0 (1)
+- **Research studies the work of:** [render-examples](https://github.com/render-examples) (1)
+
+## Original works (4)
+
+- **[angtut](https://github.com/simplemind/angtut)** · [code](https://github.com/simplemind/angtut/tree/master)
+- **[pragmatic-vba-toasts](https://github.com/simplemind/pragmatic-vba-toasts)** · [Visual Basic 6.0](https://github.com/simplemind?tab=repositories&language=visual+basic+6.0) · MIT · [code](https://github.com/simplemind/pragmatic-vba-toasts/tree/main)
+  Stackable toast notifications for VBA
+- **[sveikinimai-linkejimai.com](https://github.com/simplemind/sveikinimai-linkejimai.com)** · [JavaScript](https://github.com/simplemind?tab=repositories&language=javascript) · [code](https://github.com/simplemind/sveikinimai-linkejimai.com/tree/main)
+- **[training](https://github.com/simplemind/training)** · [code](https://github.com/simplemind/training/tree/main)
+
+## Research forks (1)
+
+Each fork is research into the work of its upstream project. Sorted by the upstream studied.
+
+| Research fork | Studies | What the work is | Upstream ★ | Language |
 |---|---|---|--:|---|
-| [angtut](https://github.com/simplemind/angtut) |  |  | 0 | [code](https://github.com/simplemind/angtut/tree/master) · [issues](https://github.com/simplemind/angtut/issues) |
-| [pragmatic-vba-toasts](https://github.com/simplemind/pragmatic-vba-toasts) | Stackable toast notifications for VBA | [Visual Basic 6.0](https://github.com/simplemind?language=visual+basic+6.0) | 0 | [code](https://github.com/simplemind/pragmatic-vba-toasts/tree/main) · [issues](https://github.com/simplemind/pragmatic-vba-toasts/issues) |
-| [sveikinimai-linkejimai.com](https://github.com/simplemind/sveikinimai-linkejimai.com) |  | [JavaScript](https://github.com/simplemind?language=javascript) | 0 | [code](https://github.com/simplemind/sveikinimai-linkejimai.com/tree/main) · [issues](https://github.com/simplemind/sveikinimai-linkejimai.com/issues) |
-| [training](https://github.com/simplemind/training) |  |  | 0 | [code](https://github.com/simplemind/training/tree/main) · [issues](https://github.com/simplemind/training/issues) |
-| [express-hello-world](https://github.com/simplemind/express-hello-world) 🍴 | Express Hello World Example on Render https://render.com |  | 0 | [code](https://github.com/simplemind/express-hello-world/tree/master) · [issues](https://github.com/simplemind/express-hello-world/issues) · [site](https://express.app.render.com) |
+| [express-hello-world](https://github.com/simplemind/express-hello-world) | [render-examples/express-hello-world](https://github.com/render-examples/express-hello-world) | Express Hello World Example on Render https://render.com | 166 | JavaScript |
 
-🔒 private, listed by name, description and address only until release · 🍴 research fork, a study of the upstream project · 📦 archived
+---
+
+🔒 private: name, brief description and address only, until release · 📦 archived
