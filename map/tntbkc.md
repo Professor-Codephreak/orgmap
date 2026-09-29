@@ -1,0 +1,50 @@
+# [TNTbkc](https://github.com/TNTbkc)
+
+[← all organizations](../README.md) · [profile](https://github.com/TNTbkc) · [repositories](https://github.com/orgs/TNTbkc/repositories) · [people](https://github.com/orgs/TNTbkc/people)
+
+> THRUST TNT contains the tools to deploy THRUST TNT blockchain testnet
+
+Website: <https://deltavthrust.com>
+
+**36** repos · 36 public · 0 private 🔒 · 35 forks · 0 archived
+
+| Repository | Description | Language | ★ | Links |
+|---|---|---|--:|---|
+| [.github](https://github.com/TNTbkc/.github) | TNTbkc organization profile |  | 0 | [code](https://github.com/TNTbkc/.github/tree/main) · [issues](https://github.com/TNTbkc/.github/issues) |
+| [gnosis-subnet](https://github.com/TNTbkc/gnosis-subnet) 🍴 | Helper repo for deploying gnosis safe contracts on Avalanche subnets |  | 1 | [code](https://github.com/TNTbkc/gnosis-subnet/tree/main) · [issues](https://github.com/TNTbkc/gnosis-subnet/issues) |
+| [avalanche-evm-gasless-transaction](https://github.com/TNTbkc/avalanche-evm-gasless-transaction) 🍴 | gas relay as a service |  | 0 | [code](https://github.com/TNTbkc/avalanche-evm-gasless-transaction/tree/main) · [issues](https://github.com/TNTbkc/avalanche-evm-gasless-transaction/issues) |
+| [avalanche-smart-contract-quickstart](https://github.com/TNTbkc/avalanche-smart-contract-quickstart) 🍴 | The easiest way to build smart contracts on Avalanche. |  | 0 | [code](https://github.com/TNTbkc/avalanche-smart-contract-quickstart/tree/main) · [issues](https://github.com/TNTbkc/avalanche-smart-contract-quickstart/issues) |
+| [avalanchejs](https://github.com/TNTbkc/avalanchejs) 🍴 | The Avalanche Platform JavaScript Library |  | 0 | [code](https://github.com/TNTbkc/avalanchejs/tree/master) · [issues](https://github.com/TNTbkc/avalanchejs/issues) |
+| [awm-relayer](https://github.com/TNTbkc/awm-relayer) 🍴 | Service for relaying Avalanche Warp Messages between Subnets |  | 0 | [code](https://github.com/TNTbkc/awm-relayer/tree/main) · [issues](https://github.com/TNTbkc/awm-relayer/issues) |
+| [BDK5](https://github.com/TNTbkc/BDK5) 🍴 | layer3 Blockchain Deployment Kit v5 |  | 0 | [code](https://github.com/TNTbkc/BDK5/tree/main) · [issues](https://github.com/TNTbkc/BDK5/issues) · [site](https://tnt.exchange) |
+| [ChainBridge](https://github.com/TNTbkc/ChainBridge) 🍴 | 🌉 Modular Multi-Directional Blockchain Bridge to interact with Multiple Networks; Ethereum, Ethereum Classic, Substrate,  based chains. Stay tuned for ChainBridge Hub! |  | 0 | [code](https://github.com/TNTbkc/ChainBridge/tree/main) · [issues](https://github.com/TNTbkc/ChainBridge/issues) |
+| [chainbridge-ui](https://github.com/TNTbkc/chainbridge-ui) 🍴 | chainbridge user interface or chainsafe |  | 0 | [code](https://github.com/TNTbkc/chainbridge-ui/tree/main) · [issues](https://github.com/TNTbkc/chainbridge-ui/issues) |
+| [core-dapp-sdks](https://github.com/TNTbkc/core-dapp-sdks) 🍴 | Working example of a dapp working with core extension |  | 0 | [code](https://github.com/TNTbkc/core-dapp-sdks/tree/alpha-release) · [issues](https://github.com/TNTbkc/core-dapp-sdks/issues) |
+| [coreth](https://github.com/TNTbkc/coreth) 🍴 | Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services. |  | 0 | [code](https://github.com/TNTbkc/coreth/tree/master) · [issues](https://github.com/TNTbkc/coreth/issues) |
+| [crazychain](https://github.com/TNTbkc/crazychain) 🍴 | Launch your own EVM as a Subnet. |  | 0 | [code](https://github.com/TNTbkc/crazychain/tree/master) · [issues](https://github.com/TNTbkc/crazychain/issues) · [site](https://docs.avax.network/subnets/create-a-fuji-subnet) |
+| [decenternet](https://github.com/TNTbkc/decenternet) 🍴 | Ignite DDS / Ethereum stuff |  | 0 | [code](https://github.com/TNTbkc/decenternet/tree/master) · [issues](https://github.com/TNTbkc/decenternet/issues) |
+| [erigon](https://github.com/TNTbkc/erigon) 🍴 | Ethereum implementation on the efficiency frontier https://erigon.gitbook.io |  | 0 | [code](https://github.com/TNTbkc/erigon/tree/main) · [issues](https://github.com/TNTbkc/erigon/issues) |
+| [gnosis-TNT](https://github.com/TNTbkc/gnosis-TNT) 🍴 | Helper repo for deploying gnosis safe contracts on TNT subnet |  | 0 | [code](https://github.com/TNTbkc/gnosis-TNT/tree/main) · [issues](https://github.com/TNTbkc/gnosis-TNT/issues) |
+| [gravity-bridge](https://github.com/TNTbkc/gravity-bridge) 🍴 | A CosmosSDK application for moving assets on and off of EVM based, POW chains |  | 0 | [code](https://github.com/TNTbkc/gravity-bridge/tree/main) · [issues](https://github.com/TNTbkc/gravity-bridge/issues) |
+| [http2ipfs-web](https://github.com/TNTbkc/http2ipfs-web) 🍴 | http2ipfs-web |  | 0 | [code](https://github.com/TNTbkc/http2ipfs-web/tree/master) · [issues](https://github.com/TNTbkc/http2ipfs-web/issues) · [site](http://localhost:8080/ipfs/QmZTEDF8yN3dMGcYqtyTzuR8PFsTqmLLBxsVZ4jzV2a1rd) |
+| [hypersdk](https://github.com/TNTbkc/hypersdk) 🍴 | Opinionated Framework for Building Hyper-Scalable Blockchains on Avalanche |  | 0 | [code](https://github.com/TNTbkc/hypersdk/tree/main) · [issues](https://github.com/TNTbkc/hypersdk/issues) · [site](https://hypersdk.xyz/) |
+| [indexvm](https://github.com/TNTbkc/indexvm) 🍴 | The Context Layer of the Decentralized Web |  | 0 | [code](https://github.com/TNTbkc/indexvm/tree/main) · [issues](https://github.com/TNTbkc/indexvm/issues) |
+| [MarketplaceVM](https://github.com/TNTbkc/MarketplaceVM) 🍴 | MarketplaceVM is a virtual machine (VM) for building decentralized marketplaces for blockchains enabling peer-to-peer trading of digital assets, including NFTs and custom tokens, with support for features such as auctions, bidding, escrow services, and user profiles. MarketplaceVM provides a robust and extensible foundation for creat |  | 0 | [code](https://github.com/TNTbkc/MarketplaceVM/tree/main) · [issues](https://github.com/TNTbkc/MarketplaceVM/issues) · [site](https://hypersdk.xyz/) |
+| [multicall.js](https://github.com/TNTbkc/multicall.js) 🍴 | Multicall allows multiple smart contract constant function calls to be grouped into a single call and the results aggregated into a single result |  | 0 | [code](https://github.com/TNTbkc/multicall.js/tree/main) · [issues](https://github.com/TNTbkc/multicall.js/issues) |
+| [npm-on-ipfs](https://github.com/TNTbkc/npm-on-ipfs) 🍴 | :package: Install npm modules through IPFS! |  | 0 | [code](https://github.com/TNTbkc/npm-on-ipfs/tree/master) · [issues](https://github.com/TNTbkc/npm-on-ipfs/issues) |
+| [spacesvm](https://github.com/TNTbkc/spacesvm) 🍴 | SpacesVM enables authenticated, hierarchical storage of arbitrary keys/values using any EIP-712 compatible wallet. |  | 0 | [code](https://github.com/TNTbkc/spacesvm/tree/master) · [issues](https://github.com/TNTbkc/spacesvm/issues) |
+| [spacesvm-js](https://github.com/TNTbkc/spacesvm-js) 🍴 | frontend for spacesvm in javascript |  | 0 | [code](https://github.com/TNTbkc/spacesvm-js/tree/main) · [issues](https://github.com/TNTbkc/spacesvm-js/issues) · [site](https://tryspaces.xyz) |
+| [spacesvm-postman-collection](https://github.com/TNTbkc/spacesvm-postman-collection) 🍴 | Postman collection for the SpacesVM |  | 0 | [code](https://github.com/TNTbkc/spacesvm-postman-collection/tree/main) · [issues](https://github.com/TNTbkc/spacesvm-postman-collection/issues) |
+| [spacesvm-rs](https://github.com/TNTbkc/spacesvm-rs) 🍴 | Spaces VM in Rust |  | 0 | [code](https://github.com/TNTbkc/spacesvm-rs/tree/main) · [issues](https://github.com/TNTbkc/spacesvm-rs/issues) |
+| [subnet-assets](https://github.com/TNTbkc/subnet-assets) 🍴 | deprecated subnet assets for reference |  | 0 | [code](https://github.com/TNTbkc/subnet-assets/tree/main) · [issues](https://github.com/TNTbkc/subnet-assets/issues) |
+| [subnet-evm](https://github.com/TNTbkc/subnet-evm) 🍴 | Launch your own EVM as a Subnet |  | 0 | [code](https://github.com/TNTbkc/subnet-evm/tree/master) · [issues](https://github.com/TNTbkc/subnet-evm/issues) · [site](https://docs.avax.network/subnets/create-a-fuji-subnet) |
+| [svelte-web3](https://github.com/TNTbkc/svelte-web3) 🍴 | web3.js library integration as a Svelte store |  | 0 | [code](https://github.com/TNTbkc/svelte-web3/tree/master) · [issues](https://github.com/TNTbkc/svelte-web3/issues) |
+| [teleporter](https://github.com/TNTbkc/teleporter) 🍴 | EVM cross-chain messaging protocol built on top of Avalanche Warp Messaging |  | 0 | [code](https://github.com/TNTbkc/teleporter/tree/main) · [issues](https://github.com/TNTbkc/teleporter/issues) |
+| [timestampvm](https://github.com/TNTbkc/timestampvm) 🍴 | timestampvm implementation as rpc-plugin |  | 0 | [code](https://github.com/TNTbkc/timestampvm/tree/main) · [issues](https://github.com/TNTbkc/timestampvm/issues) |
+| [timestampvm-rs](https://github.com/TNTbkc/timestampvm-rs) 🍴 | Timestamp VM in Rust |  | 0 | [code](https://github.com/TNTbkc/timestampvm-rs/tree/main) · [issues](https://github.com/TNTbkc/timestampvm-rs/issues) |
+| [tnt-faucet](https://github.com/TNTbkc/tnt-faucet) 🍴 | Faucet for Fuji Network and TNT Subnet |  | 0 | [code](https://github.com/TNTbkc/tnt-faucet/tree/main) · [issues](https://github.com/TNTbkc/tnt-faucet/issues) · [site](https://faucet.avax.network/) |
+| [TNT-monitoring](https://github.com/TNTbkc/TNT-monitoring) 🍴 | Monitoring tooling for TNT node |  | 0 | [code](https://github.com/TNTbkc/TNT-monitoring/tree/main) · [issues](https://github.com/TNTbkc/TNT-monitoring/issues) |
+| [vue-components](https://github.com/TNTbkc/vue-components) 🍴 | A collection of Vue based components used across application frontends |  | 0 | [code](https://github.com/TNTbkc/vue-components/tree/master) · [issues](https://github.com/TNTbkc/vue-components/issues) |
+| [wrapped-assets](https://github.com/TNTbkc/wrapped-assets) 🍴 | Smart Contract for Wrapped AVAX from Wrapped ETH |  | 0 | [code](https://github.com/TNTbkc/wrapped-assets/tree/main) · [issues](https://github.com/TNTbkc/wrapped-assets/issues) |
+
+🔒 private · 🍴 fork · 📦 archived
