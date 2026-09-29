@@ -14,7 +14,7 @@ for u in ['simplemind','simplecode','sAGI']:
     try:
         r=gh(f'users/{u}/repos?per_page=100&type=owner'); out['users'][u]={'meta':{},'repos':r}; print(u,len(r))
     except subprocess.CalledProcessError as e: print(u,'ERR',e.stderr[:100])
-RELATED=['automindx','bankonme','bankonmecoin','cryptocurrent','faicey','jaimla','mlodels','mlodular','spintrade']  # estate orgs held outside this account
+RELATED=['automindx','bankonme','bankonmecoin','cryptocurrent','faicey','jaimla','mlodels','mlodular','spintrade','javascriptit','smartmetamask']  # estate orgs held outside this account
 out['related']={}
 for o in RELATED:
     meta=json.loads(subprocess.run(['gh','api',f'orgs/{o}'],capture_output=True,text=True).stdout)

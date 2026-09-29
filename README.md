@@ -2,7 +2,7 @@
 
 The organizations and repositories of [Professor Codephreak](https://github.com/Professor-Codephreak), the Software Engineer and Platform Architect behind them.
 
-**99 organizations** · **4 accounts** · **4988 repositories** (4789 public, 199 private 🔒) · plus **9 related organizations** (1038 public repos) · generated 2026-09-29 from the GitHub API
+**99 organizations** · **4 accounts** · **4988 repositories** (4789 public, 199 private 🔒) · plus **11 related organizations** (1492 public repos) · generated 2026-09-29 from the GitHub API
 
 ## Sites
 
@@ -143,8 +143,10 @@ Estate organizations held outside the Professor-Codephreak account. Public repos
 | [cryptocurrent](https://github.com/cryptocurrent) | A repository to store some of the code to build the bankonmeOS Desktop as a bash shell script. | [bankon.me](http://bankon.me) | [191](https://github.com/orgs/cryptocurrent/repositories) | [map](map/cryptocurrent.md) |
 | [Faicey](https://github.com/Faicey) | UIUX AIML modular response systems interface design parameters | [github.com/Faicey](https://github.com/Faicey) | [18](https://github.com/orgs/Faicey/repositories) | [map](map/faicey.md) |
 | [Jaimla](https://github.com/Jaimla) | I am the machine learning agent |  | [23](https://github.com/orgs/Jaimla/repositories) | [map](map/jaimla.md) |
+| [javascriptit](https://github.com/javascriptit) | JavaScript the client side language of the World Wide Web | [www.w3schools.com/jsref/default.asp](http://www.w3schools.com/jsref/default.asp) | [346](https://github.com/orgs/javascriptit/repositories) | [map](map/javascriptit.md) |
 | [mlodels](https://github.com/mlodels) | local language machine learning models |  | [50](https://github.com/orgs/mlodels/repositories) | [map](map/mlodels.md) |
 | [mlodular](https://github.com/mlodular) | collection of modular javascript snippets including drag drop 3D design and data sorting | [github.com/Faicey](https://github.com/Faicey) | [17](https://github.com/orgs/mlodular/repositories) | [map](map/mlodular.md) |
+| [smartmetamask](https://github.com/smartmetamask) | making metamask smarter | [decenterland.crypto](https://decenterland.crypto) | [108](https://github.com/orgs/smartmetamask/repositories) | [map](map/smartmetamask.md) |
 | [spintrade](https://github.com/spintrade) | DEX | [spintrade.crypto](https://spintrade.crypto) | [228](https://github.com/orgs/spintrade/repositories) | [map](map/spintrade.md) |
 
 ## Regenerate
