@@ -79,6 +79,8 @@ def page(kind, login, v):
     if dom: facts.append(f"**Domain:** [{dom['title']}](../ARCHIVE.md#{dom['key']})" + (f" · `{dom['name']}`" if dom.get('name') else ''))
     if login in (dom or {}).get('reference', {}):
         facts.append(f"**Reference for** `{dom.get('name') or dom['key']}`: {dom['reference'][login]}")
+    if login in (dom or {}).get('roles', {}):
+        facts.append(f"**Role in** `{dom.get('name') or dom['key']}`: {dom['roles'][login]}")
     if m.get('blog'): facts.append(f"**Website:** <{url(m['blog'])}>")
     if kind == 'related': facts.append('**Held outside the Professor-Codephreak account.** Public repositories only.')
     if facts: L += [' · '.join(facts), '']
@@ -282,6 +284,10 @@ for x in DOM:
         A += ['**Reference organizations**', '']
         A += [f"- [{l}](map/{slug(l)}.md) · [GitHub]({GH}/{l}): {role}" for l, role in x['reference'].items()]
         A.append('')
+    if x.get('roles'):
+        A += ['**Roles**', '']
+        A += [f"- [{l}](map/{slug(l)}.md) · [GitHub]({GH}/{l}): {role}" for l, role in x['roles'].items()]
+        A.append('')
     A += [f"**{len(o)}** organizations · **{sum(DSTAT[l]['originals'] for l in o)}** original works · **{sum(DSTAT[l]['forks'] for l in o)}** research forks", '',
           '| Organization | Its concept | Original | Research | Studies most |', '|---|---|--:|--:|---|']
     for l in sorted(o, key=lambda l: (-DSTAT[l]['originals'], l.lower())):
@@ -325,7 +331,7 @@ J = {'generated': now, 'owner': 'Professor-Codephreak',
                 'related_repositories': rel},
      'sites': [f'https://{h}' for h, _ in SITES],
      'domains': [{'key': x['key'], 'name': x.get('name'), 'title': x['title'], 'concept': x['concept'], 'organizations': x['orgs'],
-                  'reference': x.get('reference') or None} for x in DOM]}
+                  'reference': x.get('reference') or None, 'roles': x.get('roles') or None} for x in DOM]}
 for key, kind in (('accounts', 'user'), ('organizations', 'org'), ('related_organizations', 'related')):
     J[key] = [{'login': login, 'url': f'{GH}/{login}', 'description': groups[kind][login]['meta'].get('description'),
                'domain': DOMAIN_OF[login]['key'] if login in DOMAIN_OF else None,
@@ -358,6 +364,7 @@ T += [f"- [{l}]({RAW}/map/{slug(l)}.md): {S['user'][l]['repos']} repos, {S['user
 for x in DOM:
     T += ['', f"## {x['title']}", '', x['concept'] + (f" Concept name: `{x['name']}`." if x.get('name') else ''), '']
     T += [f"- Reference: [{l}]({GH}/{l}): {role}" for l, role in (x.get('reference') or {}).items()]
+    T += [f"- Role: [{l}]({GH}/{l}): {role}" for l, role in (x.get('roles') or {}).items()]
     T += [f"- [{l}]({RAW}/map/{slug(l)}.md): {esc(ALL[l]['meta'].get('description')) or 'no description'} ({DSTAT[l]['originals']} original, {DSTAT[l]['forks']} research){' · related, held outside the account' if KIND[l] == 'related' else ''}" for l in x['orgs']]
 T += ['', '## Optional', '', '- [README.md]({RAW}/README.md): also lists the related organizations with their websites'.replace('{RAW}', RAW)]
 T.append('')

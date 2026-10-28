@@ -4,7 +4,7 @@
 
 > blockchain communication system
 
-**Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication`
+**Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication` · **Role in** `blockchain.communication`: the systems layer: wallet-signature communication and what it stands on; research into Proof (zero knowledge: zk-kit, privacy-ethereum), Place (IPC subnets: consensus-shipyard), Passage (AggLayer and zkEVM bridges), Person (did:ethr, UNS, sign-in), plus XMTP, Lit Protocol and dyne.org social wallets
 
 **49** repos · **1** original works · **48** research forks · 0 private 🔒
 

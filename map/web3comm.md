@@ -4,7 +4,7 @@
 
 > Token Talk Transaction web3 communication environment
 
-**Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication` · **Website:** <https://0x10f7Ee226B16bea7f365Dc1eDEF159Fc1957D169>
+**Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication` · **Role in** `blockchain.communication`: the environment: Token · Talk · Transaction, everything a wallet needs to talk to another wallet; research into ENS names, sign-in and key infrastructure (Web3Auth, SIWE), Lit Protocol gated access, XMTP messaging, the Cryptoverse line (tokntalk, ethmail.cc, calleth.me), Telegram/XMPP/Twitter bridges, value in the message (DeChat, Unlock) and agent skills · **Website:** <https://0x10f7Ee226B16bea7f365Dc1eDEF159Fc1957D169>
 
 **61** repos · **2** original works · **59** research forks · 0 private 🔒
 

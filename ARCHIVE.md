@@ -358,6 +358,11 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 - [chatter3](map/chatter3.md) · [GitHub](https://github.com/chatter3): the forum: signature-verified conversation for people and agents, built to cypherpunk4096 with cryptoAGI agents as participants; research into XMTP, WalletConnect sign-in, libp2p and mesh transport
 - [chattchain](map/chattchain.md) · [GitHub](https://github.com/chattchain): the chain: messages and identity carried on chain; research into on-chain conversation (conversation-contract), the XMTP node (xmtpd), ERC-1056 DIDs (ethr-did-registry), encrypted ERC-20 memos (recibo), Internet Computer canisters (motoko) and Arweave hosting (ar-io-deploy)
 
+**Roles**
+
+- [web3comm](map/web3comm.md) · [GitHub](https://github.com/web3comm): the environment: Token · Talk · Transaction, everything a wallet needs to talk to another wallet; research into ENS names, sign-in and key infrastructure (Web3Auth, SIWE), Lit Protocol gated access, XMTP messaging, the Cryptoverse line (tokntalk, ethmail.cc, calleth.me), Telegram/XMPP/Twitter bridges, value in the message (DeChat, Unlock) and agent skills
+- [blktalk](map/blktalk.md) · [GitHub](https://github.com/blktalk): the systems layer: wallet-signature communication and what it stands on; research into Proof (zero knowledge: zk-kit, privacy-ethereum), Place (IPC subnets: consensus-shipyard), Passage (AggLayer and zkEVM bridges), Person (did:ethr, UNS, sign-in), plus XMTP, Lit Protocol and dyne.org social wallets
+
 **4** organizations · **6** original works · **167** research forks
 
 | Organization | Its concept | Original | Research | Studies most |
