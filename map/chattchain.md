@@ -2,6 +2,8 @@
 
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#comm) · [profile](https://github.com/chattchain) · [repositories](https://github.com/orgs/chattchain/repositories)
 
+**Description:** blockchain.communication — the chain: messages and identity carried on chain, verified by signature
+
 **Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication` · **Reference for** `blockchain.communication`: the chain: messages and identity carried on chain; research into on-chain conversation (conversation-contract), the XMTP node (xmtpd), ERC-1056 DIDs (ethr-did-registry), encrypted ERC-20 memos (recibo), Internet Computer canisters (motoko) and Arweave hosting (ar-io-deploy)
 
 **20** repos · **1** original works · **19** research forks · 0 private 🔒

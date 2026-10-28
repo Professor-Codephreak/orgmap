@@ -367,10 +367,10 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [chatter3](map/chatter3.md) | I am who I am because of who I am | 2 | 41 | [xmtp](https://github.com/xmtp), [WalletConnect](https://github.com/WalletConnect), [reown-com](https://github.com/reown-com) |
+| [chatter3](map/chatter3.md) | blockchain.communication — the forum: signature-verified conversation for people and agents | 2 | 41 | [xmtp](https://github.com/xmtp), [WalletConnect](https://github.com/WalletConnect), [reown-com](https://github.com/reown-com) |
 | [web3comm](map/web3comm.md) | Token Talk Transaction web3 communication environment | 2 | 59 | [Web3Auth](https://github.com/Web3Auth), [idmanagement](https://github.com/idmanagement), [webthreejs](https://github.com/webthreejs) |
 | [blktalk](map/blktalk.md) | blockchain communication system | 1 | 48 | [web3comm](https://github.com/web3comm), [consensus-shipyard](https://github.com/consensus-shipyard), [dyne](https://github.com/dyne) |
-| [chattchain](map/chattchain.md) | — | 1 | 19 | [chatter3](https://github.com/chatter3), [xmtp](https://github.com/xmtp), [caffeinelabs](https://github.com/caffeinelabs) |
+| [chattchain](map/chattchain.md) | blockchain.communication — the chain: messages and identity carried on chain, verified by signature | 1 | 19 | [chatter3](https://github.com/chatter3), [xmtp](https://github.com/xmtp), [caffeinelabs](https://github.com/caffeinelabs) |
 
 **Notable original works**
 

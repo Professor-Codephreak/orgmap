@@ -4,6 +4,8 @@
 
 > I am who I am because of who I am
 
+**Description:** blockchain.communication — the forum: signature-verified conversation for people and agents
+
 **Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication` · **Reference for** `blockchain.communication`: the forum: signature-verified conversation for people and agents, built to cypherpunk4096 with cryptoAGI agents as participants; research into XMTP, WalletConnect sign-in, libp2p and mesh transport
 
 **43** repos · **2** original works · **41** research forks · 0 private 🔒

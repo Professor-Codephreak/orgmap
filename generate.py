@@ -32,6 +32,10 @@ RDM = json.load(open('readme.json')) if os.path.exists('readme.json') else {}
 DOM = json.load(open('domains.json'))['domains']
 DOMAIN_OF = {o: x for x in DOM for o in x['orgs']}
 
+def odesc(login, meta):
+    """The map's description of an organization: its domain's override, else its GitHub description."""
+    return (DOMAIN_OF.get(login) or {}).get('descriptions', {}).get(login) or meta.get('description')
+
 def det(login, r):
     return DET.get(login, {}).get(r['name'], {})
 
@@ -75,6 +79,7 @@ def page(kind, login, v):
            f"[repositories]({GH}/{login}?tab=repositories)" if kind == 'user' else f"[repositories]({GH}/orgs/{login}/repositories)"]
     L += [' · '.join(x for x in nav if x), '']
     if m.get('description'): L += [f"> {esc(m['description'])}", '']
+    if odesc(login, m) != m.get('description'): L += [f"**Description:** {esc(odesc(login, m))}", '']
     facts = []
     if dom: facts.append(f"**Domain:** [{dom['title']}](../ARCHIVE.md#{dom['key']})" + (f" · `{dom['name']}`" if dom.get('name') else ''))
     if login in (dom or {}).get('reference', {}):
@@ -293,7 +298,7 @@ for x in DOM:
     for l in sorted(o, key=lambda l: (-DSTAT[l]['originals'], l.lower())):
         top = upstream_owners([l])[:3]
         rel = ' _(related)_' if KIND[l] == 'related' else ''
-        A.append(f"| [{l}](map/{slug(l)}.md){rel} | {esc(ALL[l]['meta'].get('description')) or '—'} | {DSTAT[l]['originals']} | {DSTAT[l]['forks']} | "
+        A.append(f"| [{l}](map/{slug(l)}.md){rel} | {esc(odesc(l, ALL[l]['meta'])) or '—'} | {DSTAT[l]['originals']} | {DSTAT[l]['forks']} | "
                  + (', '.join(f'[{u}]({GH}/{u})' for u, _ in top) or '—') + ' |')
     A.append('')
     nb = notable(o, 8)
@@ -334,6 +339,7 @@ J = {'generated': now, 'owner': 'Professor-Codephreak',
                   'reference': x.get('reference') or None, 'roles': x.get('roles') or None} for x in DOM]}
 for key, kind in (('accounts', 'user'), ('organizations', 'org'), ('related_organizations', 'related')):
     J[key] = [{'login': login, 'url': f'{GH}/{login}', 'description': groups[kind][login]['meta'].get('description'),
+               'map_description': odesc(login, groups[kind][login]['meta']),
                'domain': DOMAIN_OF[login]['key'] if login in DOMAIN_OF else None,
                'website': url(groups[kind][login]['meta'].get('blog')) or None, 'map': f'map/{slug(login)}.md',
                **S[kind][login], 'repositories': [rj(r) for r in groups[kind][login]['repos']]}
@@ -365,7 +371,7 @@ for x in DOM:
     T += ['', f"## {x['title']}", '', x['concept'] + (f" Concept name: `{x['name']}`." if x.get('name') else ''), '']
     T += [f"- Reference: [{l}]({GH}/{l}): {role}" for l, role in (x.get('reference') or {}).items()]
     T += [f"- Role: [{l}]({GH}/{l}): {role}" for l, role in (x.get('roles') or {}).items()]
-    T += [f"- [{l}]({RAW}/map/{slug(l)}.md): {esc(ALL[l]['meta'].get('description')) or 'no description'} ({DSTAT[l]['originals']} original, {DSTAT[l]['forks']} research){' · related, held outside the account' if KIND[l] == 'related' else ''}" for l in x['orgs']]
+    T += [f"- [{l}]({RAW}/map/{slug(l)}.md): {esc(odesc(l, ALL[l]['meta'])) or 'no description'} ({DSTAT[l]['originals']} original, {DSTAT[l]['forks']} research){' · related, held outside the account' if KIND[l] == 'related' else ''}" for l in x['orgs']]
 T += ['', '## Optional', '', '- [README.md]({RAW}/README.md): also lists the related organizations with their websites'.replace('{RAW}', RAW)]
 T.append('')
 for name in ('llm.txt', 'llms.txt'):  # llms.txt is the conventional name; both carry the same text
