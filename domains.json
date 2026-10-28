@@ -1,5 +1,5 @@
 {
-  "_note": "Concept domains of the archive. Each organization is filed under exactly one domain. Edit freely; generate.py reads this file.",
+  "_note": "Concept domains of the archive. Each organization is filed under exactly one domain. Edit freely; generate.py reads this file. Optional per domain: name (the dotted concept name) and reference (the organizations that define the concept, each with its role).",
   "domains": [
     {"key": "ml", "title": "Machine learning and local language models",
      "concept": "Models that run where the user is: local and miniature language models, training, and machine-learning reference code.",
@@ -31,9 +31,12 @@
     {"key": "storage", "title": "Storage and the decentralized web",
      "concept": "Permanence and distribution: IPFS, decentralized front ends and storage.",
      "orgs": ["interplanetaryfilesystem", "IPFSdapps", "STORAGESTAR"]},
-    {"key": "comm", "title": "Communication",
-     "concept": "Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems.",
-     "orgs": ["web3comm", "blktalk", "chatter3", "chattchain"]},
+    {"key": "comm", "title": "Communication", "name": "blockchain.communication",
+     "concept": "Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems, where a message is trusted because its signature verifies.",
+     "reference": {
+       "chatter3": "the forum: signature-verified conversation for people and agents, built to cypherpunk4096 with cryptoAGI agents as participants; research into XMTP, WalletConnect sign-in, libp2p and mesh transport",
+       "chattchain": "the chain: messages and identity carried on chain; research into on-chain conversation (conversation-contract), the XMTP node (xmtpd), ERC-1056 DIDs (ethr-did-registry), encrypted ERC-20 memos (recibo), Internet Computer canisters (motoko) and Arweave hosting (ar-io-deploy)"},
+     "orgs": ["chatter3", "chattchain", "web3comm", "blktalk"]},
     {"key": "theory", "title": "Oracles, theory and the living world",
      "concept": "The questions behind the work: the Pythia oracle, prediction, a grand unified theory, the mind as a chain, and water as life.",
      "orgs": ["PYTHIAMYSTIC", "MYSTICALPYTHIA", "GrandUnifiedTheoryOfEverything", "BRAINCHN", "SaveGlaciers"]}

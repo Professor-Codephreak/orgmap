@@ -349,7 +349,14 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 ## Communication
 
-> Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems.
+> Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems, where a message is trusted because its signature verifies.
+
+**Concept name:** `blockchain.communication`
+
+**Reference organizations**
+
+- [chatter3](map/chatter3.md) · [GitHub](https://github.com/chatter3): the forum: signature-verified conversation for people and agents, built to cypherpunk4096 with cryptoAGI agents as participants; research into XMTP, WalletConnect sign-in, libp2p and mesh transport
+- [chattchain](map/chattchain.md) · [GitHub](https://github.com/chattchain): the chain: messages and identity carried on chain; research into on-chain conversation (conversation-contract), the XMTP node (xmtpd), ERC-1056 DIDs (ethr-did-registry), encrypted ERC-20 memos (recibo), Internet Computer canisters (motoko) and Arweave hosting (ar-io-deploy)
 
 **4** organizations · **6** original works · **167** research forks
 
@@ -362,11 +369,11 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 **Notable original works**
 
-- [web3comm/.github](https://github.com/web3comm/.github): wallet to wallet blockchain communication
 - [chattchain/.github](https://github.com/chattchain/.github): chattchain organization profile
-- [blktalk/.github](https://github.com/blktalk/.github): blktalk research into wallet based signature communication
+- [web3comm/.github](https://github.com/web3comm/.github): wallet to wallet blockchain communication
 - [chatter3/.github](https://github.com/chatter3/.github): chatter3 is a communication forum with signature verified identity
 - [chatter3/links.md](https://github.com/chatter3/links.md): collection of information on identity management solutions
+- [blktalk/.github](https://github.com/blktalk/.github): blktalk research into wallet based signature communication
 - [web3comm/xmtp-thirdweb-js](https://github.com/web3comm/xmtp-thirdweb-js): xmtp-thirdweb-js
 
 **The research studies:** [xmtp](https://github.com/xmtp) (26), [web3comm](https://github.com/web3comm) (12), [chatter3](https://github.com/chatter3) (8), [consensus-shipyard](https://github.com/consensus-shipyard) (7), [WalletConnect](https://github.com/WalletConnect) (6), [Web3Auth](https://github.com/Web3Auth) (6), [chattchain](https://github.com/chattchain) (4), [dyne](https://github.com/dyne) (4), [idmanagement](https://github.com/idmanagement) (4), [privacy-ethereum](https://github.com/privacy-ethereum) (4), [webthreejs](https://github.com/webthreejs) (4), [Commonfare-net](https://github.com/Commonfare-net) (3)

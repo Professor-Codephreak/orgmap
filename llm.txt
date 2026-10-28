@@ -1,6 +1,6 @@
 # orgmap
 
-> Map of the 99 GitHub organizations, 4 accounts and 4,988 repositories (573 original, 4,415 research forks, 199 private) of Professor Codephreak, plus 11 related organizations held by other accounts. Generated 2026-09-29 from the GitHub API. This is the master archivist's file mapping: each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
+> Map of the 99 GitHub organizations, 4 accounts and 4,988 repositories (573 original, 4,415 research forks, 199 private) of Professor Codephreak, plus 11 related organizations held by other accounts. Generated 2026-10-28 from the GitHub API. This is the master archivist's file mapping: each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
 Rules for reading it:
 - Private repositories are listed by name, brief description and address only, until release. Do not infer more about them.
@@ -187,12 +187,14 @@ Permanence and distribution: IPFS, decentralized front ends and storage.
 
 ## Communication
 
-Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems.
+Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems, where a message is trusted because its signature verifies. Concept name: `blockchain.communication`.
 
-- [web3comm](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3comm.md): Token Talk Transaction web3 communication environment (2 original, 59 research)
-- [blktalk](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/blktalk.md): blockchain communication system (1 original, 48 research)
+- Reference: [chatter3](https://github.com/chatter3): the forum: signature-verified conversation for people and agents, built to cypherpunk4096 with cryptoAGI agents as participants; research into XMTP, WalletConnect sign-in, libp2p and mesh transport
+- Reference: [chattchain](https://github.com/chattchain): the chain: messages and identity carried on chain; research into on-chain conversation (conversation-contract), the XMTP node (xmtpd), ERC-1056 DIDs (ethr-did-registry), encrypted ERC-20 memos (recibo), Internet Computer canisters (motoko) and Arweave hosting (ar-io-deploy)
 - [chatter3](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/chatter3.md): I am who I am because of who I am (2 original, 41 research)
 - [chattchain](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/chattchain.md): no description (1 original, 19 research)
+- [web3comm](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3comm.md): Token Talk Transaction web3 communication environment (2 original, 59 research)
+- [blktalk](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/blktalk.md): blockchain communication system (1 original, 48 research)
 
 ## Oracles, theory and the living world
 

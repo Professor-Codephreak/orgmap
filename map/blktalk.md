@@ -4,7 +4,7 @@
 
 > blockchain communication system
 
-**Domain:** [Communication](../ARCHIVE.md#comm)
+**Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication`
 
 **49** repos · **1** original works · **48** research forks · 0 private 🔒
 

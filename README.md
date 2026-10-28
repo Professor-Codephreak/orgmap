@@ -4,7 +4,7 @@
 
 > The organizations and repositories of **[Professor Codephreak](https://github.com/Professor-Codephreak)**, Software Engineer and Platform Architect, mapped from the GitHub API. Each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
-**99 organizations** · **4 accounts** · **4,988 repositories** · **11 related organizations** · updated 2026-09-29
+**99 organizations** · **4 accounts** · **4,988 repositories** · **11 related organizations** · updated 2026-10-28
 
 **Contents:** [At a glance](#at-a-glance) · [Concept domains](#concept-domains) · [How to read this map](#how-to-read-this-map) · [Sites](#sites) · [Accounts](#accounts) · [Organizations](#organizations) · [Related organizations](#related-organizations) · [Recently active](#recently-active) · [For agents](#for-agents) · [Regenerate](#regenerate)
 
@@ -43,7 +43,7 @@ The organizations fall into 12 concept domains. The full [concept archive](ARCHI
 | [NFTs and digital assets](ARCHIVE.md#nft) | Ownership of digital things: NFT creation, royalties, marketplaces, programmable keys and Bitcoin ordinals. | 6 | 25 | 243 |
 | [Wallets, identity and sovereignty](ARCHIVE.md#custody) | Keys are identity: wallets, account abstraction, identity management, vaults, MetaMask extensions, private networking and the cypherpunk standard. | 12 | 71 | 1161 |
 | [Storage and the decentralized web](ARCHIVE.md#storage) | Permanence and distribution: IPFS, decentralized front ends and storage. | 3 | 13 | 195 |
-| [Communication](ARCHIVE.md#comm) | Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems. | 4 | 6 | 167 |
+| [Communication](ARCHIVE.md#comm) · `blockchain.communication` | Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems, where a message is trusted because its signature verifies. | 4 | 6 | 167 |
 | [Oracles, theory and the living world](ARCHIVE.md#theory) | The questions behind the work: the Pythia oracle, prediction, a grand unified theory, the mind as a chain, and water as life. | 5 | 22 | 69 |
 
 ## How to read this map
