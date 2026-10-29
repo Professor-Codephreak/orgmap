@@ -4,7 +4,7 @@
 
 > The organizations and repositories of **[Professor Codephreak](https://github.com/Professor-Codephreak)**, Software Engineer and Platform Architect, mapped from the GitHub API. Each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
-**99 organizations** · **4 accounts** · **4,988 repositories** · **11 related organizations** · updated 2026-10-28
+**100 organizations** · **4 accounts** · **4,990 repositories** · **11 related organizations** · updated 2026-10-29
 
 **Contents:** [At a glance](#at-a-glance) · [Concept domains](#concept-domains) · [How to read this map](#how-to-read-this-map) · [Sites](#sites) · [Accounts](#accounts) · [Organizations](#organizations) · [Related organizations](#related-organizations) · [Recently active](#recently-active) · [For agents](#for-agents) · [Regenerate](#regenerate)
 
@@ -12,12 +12,12 @@
 
 | | Count |
 |---|--:|
-| Organizations (on the Professor-Codephreak account) | 99 |
+| Organizations (on the Professor-Codephreak account) | 100 |
 | Accounts | 4 |
-| Repositories | 4,988 |
-| &nbsp;&nbsp;original | 573 |
+| Repositories | 4,990 |
+| &nbsp;&nbsp;original | 575 |
 | &nbsp;&nbsp;research forks | 4,415 |
-| &nbsp;&nbsp;private 🔒 | 199 |
+| &nbsp;&nbsp;private 🔒 | 200 |
 | Related organizations (held by other accounts) | 11 |
 | &nbsp;&nbsp;their public repositories | 1,492 |
 
@@ -43,7 +43,7 @@ The organizations fall into 12 concept domains. The full [concept archive](ARCHI
 | [NFTs and digital assets](ARCHIVE.md#nft) | Ownership of digital things: NFT creation, royalties, marketplaces, programmable keys and Bitcoin ordinals. | 6 | 25 | 243 |
 | [Wallets, identity and sovereignty](ARCHIVE.md#custody) | Keys are identity: wallets, account abstraction, identity management, vaults, MetaMask extensions, private networking and the cypherpunk standard. | 12 | 71 | 1161 |
 | [Storage and the decentralized web](ARCHIVE.md#storage) | Permanence and distribution: IPFS, decentralized front ends and storage. | 3 | 13 | 195 |
-| [Communication](ARCHIVE.md#comm) · `blockchain.communication` | Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems, where a message is trusted because its signature verifies. | 4 | 6 | 167 |
+| [Communication](ARCHIVE.md#comm) · `blockchain.communication` | Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems, where a message is trusted because its signature verifies. | 5 | 8 | 167 |
 | [Oracles, theory and the living world](ARCHIVE.md#theory) | The questions behind the work: the Pythia oracle, prediction, a grand unified theory, the mind as a chain, and water as life. | 5 | 22 | 69 |
 
 ## How to read this map
@@ -91,7 +91,7 @@ On each `map/` page, repositories are sorted with original work first, then by s
 
 ## Organizations
 
-99 organizations, A to Z. Jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [G](#g) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w) · [X](#x)
+100 organizations, A to Z. Jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [G](#g) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w) · [X](#x)
 
 ### A
 
@@ -116,6 +116,7 @@ On each `map/` page, repositories are sorted with original work first, then by s
 | [BANKONPYTHAI](https://github.com/BANKONPYTHAI) | fixed-supply Qubic quantum price oracle | — | [23](https://github.com/orgs/BANKONPYTHAI/repositories) | 8 | 3 | [map](map/bankonpythai.md) |
 | [bankonvault](https://github.com/bankonvault) | client to data storage facilitation | — | [92](https://github.com/orgs/bankonvault/repositories) | 2 | — | [map](map/bankonvault.md) |
 | [blktalk](https://github.com/blktalk) | blockchain communication system | — | [49](https://github.com/orgs/blktalk/repositories) | 1 | — | [map](map/blktalk.md) |
+| [blockwhisper](https://github.com/blockwhisper) | — | — | [2](https://github.com/orgs/blockwhisper/repositories) | 2 | 1 | [map](map/blockwhisper.md) |
 | [BRAINCHN](https://github.com/BRAINCHN) | BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN | — | [49](https://github.com/orgs/BRAINCHN/repositories) | 7 | 4 | [map](map/brainchn.md) |
 | [BROBOTBRAI](https://github.com/BROBOTBRAI) | BROBOT BRAI cryptocurrency adoption AI tool | [brobot.dmg.finance](https://brobot.dmg.finance) | [3](https://github.com/orgs/BROBOTBRAI/repositories) | 1 | — | [map](map/brobotbrai.md) |
 | [BRUHAI](https://github.com/BRUHAI) | collection of machine learning augmented intelligence source code for research and development | [deltavthrust.com](https://deltavthrust.com) | [4](https://github.com/orgs/BRUHAI/repositories) | 1 | — | [map](map/bruhai.md) |
@@ -306,6 +307,7 @@ The 15 public original repositories pushed most recently.
 
 | Repository | Description | Language | Last push |
 |---|---|---|---|
+| [blockwhisper/.github](https://github.com/blockwhisper/.github) | blockwhisper organization profile | — | 2026-10-29 |
 | [cryptoAGI/bankml](https://github.com/cryptoAGI/bankml) | Verified low-bit inference for the CPU you already have — a zero-dependency Rust runtime… | Rust | 2026-09-29 |
 | [GATERAGE/enlightenment-rage](https://github.com/GATERAGE/enlightenment-rage) | Import of Enlightenment's Rage video/audio player (EFL, BSD-2-Clause) with EXPLANATION,… | C | 2026-09-26 |
 | [openbdk/galileo-alpine](https://github.com/openbdk/galileo-alpine) | Galileo Alpine — RAM-only Alpine ISO for the Open Blockchain Development Kit (bankonOS… | Shell | 2026-09-26 |
@@ -320,7 +322,6 @@ The 15 public original repositories pushed most recently.
 | [dddcyborgd/cyborg-shell](https://github.com/dddcyborgd/cyborg-shell) | The Tauri v2 client delivery of the DeltaVerse — one shell, two lanes (app · dapp), every… | Rust | 2026-09-24 |
 | [dddcyborgd/dvengine](https://github.com/dddcyborgd/dvengine) | dvengine — the DeltaVerse 3D participant engine (three.js), refined from oncyberio awe… | TypeScript | 2026-09-24 |
 | [dddcyborgd/.github](https://github.com/dddcyborgd/.github) | dddcyborgd — organization profile: the three-d cyborg daemon, dvengine and… | — | 2026-09-24 |
-| [cryptoAGI/bashmoji](https://github.com/cryptoAGI/bashmoji) | Emoji + colour for bash scripts, safe to source — used by the DeltaVerse installer… | Shell | 2026-09-23 |
 
 ## For agents
 

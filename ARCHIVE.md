@@ -2,7 +2,7 @@
 
 Part of the master archivist's file mapping. [← master index](README.md)
 
-The 110 organizations are filed in 12 concept domains. Each organization holds one concept: its **original works** express it, and its **research forks** study the upstream projects it learns from. The domains below are read from that structure: the organization descriptions, the work, and what the research studies.
+The 111 organizations are filed in 12 concept domains. Each organization holds one concept: its **original works** express it, and its **research forks** study the upstream projects it learns from. The domains below are read from that structure: the organization descriptions, the work, and what the research studies.
 
 Domains: [Machine learning and local language models](#ml) · [Autonomous agents, AGI and retrieval](#agi) · [Interfaces, web3D and the expressive web](#ui) · [DeltaVerse and DAO governance](#dao) · [Chains, layers and interoperability](#chain) · [Smart contracts and EVM tooling](#contracts) · [DeFi, stable value and trading](#defi) · [NFTs and digital assets](#nft) · [Wallets, identity and sovereignty](#custody) · [Storage and the decentralized web](#storage) · [Communication](#comm) · [Oracles, theory and the living world](#theory)
 
@@ -362,11 +362,13 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 - [web3comm](map/web3comm.md) · [GitHub](https://github.com/web3comm): the environment: Token · Talk · Transaction, everything a wallet needs to talk to another wallet; research into ENS names, sign-in and key infrastructure (Web3Auth, SIWE), Lit Protocol gated access, XMTP messaging, the Cryptoverse line (tokntalk, ethmail.cc, calleth.me), Telegram/XMPP/Twitter bridges, value in the message (DeChat, Unlock) and agent skills
 - [blktalk](map/blktalk.md) · [GitHub](https://github.com/blktalk): the systems layer: wallet-signature communication and what it stands on; research into Proof (zero knowledge: zk-kit, privacy-ethereum), Place (IPC subnets: consensus-shipyard), Passage (AggLayer and zkEVM bridges), Person (did:ethr, UNS, sign-in), plus XMTP, Lit Protocol and dyne.org social wallets
+- [blockwhisper](map/blockwhisper.md) · [GitHub](https://github.com/blockwhisper): the continuation: the record of blockchain.communication across chatter3, chattchain, web3comm and blktalk, and the next work; named for Whisper, the messaging protocol of the original web3 trio
 
-**4** organizations · **6** original works · **167** research forks
+**5** organizations · **8** original works · **167** research forks
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
+| [blockwhisper](map/blockwhisper.md) | blockchain.communication — carried forward: the continuation of the forum, the chain, the environment and the systems layer | 2 | 0 | — |
 | [chatter3](map/chatter3.md) | blockchain.communication — the forum: signature-verified conversation for people and agents | 2 | 41 | [xmtp](https://github.com/xmtp), [WalletConnect](https://github.com/WalletConnect), [reown-com](https://github.com/reown-com) |
 | [web3comm](map/web3comm.md) | Token Talk Transaction web3 communication environment | 2 | 59 | [Web3Auth](https://github.com/Web3Auth), [idmanagement](https://github.com/idmanagement), [webthreejs](https://github.com/webthreejs) |
 | [blktalk](map/blktalk.md) | blockchain communication system | 1 | 48 | [web3comm](https://github.com/web3comm), [consensus-shipyard](https://github.com/consensus-shipyard), [dyne](https://github.com/dyne) |
@@ -374,6 +376,7 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 **Notable original works**
 
+- [blockwhisper/.github](https://github.com/blockwhisper/.github): blockwhisper organization profile
 - [chattchain/.github](https://github.com/chattchain/.github): chattchain organization profile
 - [web3comm/.github](https://github.com/web3comm/.github): wallet to wallet blockchain communication
 - [chatter3/.github](https://github.com/chatter3/.github): chatter3 is a communication forum with signature verified identity
