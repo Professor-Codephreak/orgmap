@@ -1,6 +1,6 @@
 # orgmap
 
-> Map of the 100 GitHub organizations, 4 accounts and 4,990 repositories (575 original, 4,415 research forks, 200 private) of Professor Codephreak, plus 11 related organizations held by other accounts. Generated 2026-10-29 from the GitHub API. This is the master archivist's file mapping: each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
+> Map of the 100 GitHub organizations, 4 accounts and 4,990 repositories (575 original, 4,415 research forks, 199 private) of Professor Codephreak, plus 11 related organizations held by other accounts. Generated 2026-10-30 from the GitHub API. This is the master archivist's file mapping: each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
 Rules for reading it:
 - Private repositories are listed by name, brief description and address only, until release. Do not infer more about them.

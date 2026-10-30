@@ -376,6 +376,7 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 **Notable original works**
 
+- [blockwhisper/blockchain.communication](https://github.com/blockwhisper/blockchain.communication): The working record of blockchain.communication: chatter3 · chattchain · web3comm · blktalk. Start with CONTINUATION.md
 - [blockwhisper/.github](https://github.com/blockwhisper/.github): blockwhisper organization profile
 - [chattchain/.github](https://github.com/chattchain/.github): chattchain organization profile
 - [web3comm/.github](https://github.com/web3comm/.github): wallet to wallet blockchain communication

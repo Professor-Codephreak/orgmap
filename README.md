@@ -4,7 +4,7 @@
 
 > The organizations and repositories of **[Professor Codephreak](https://github.com/Professor-Codephreak)**, Software Engineer and Platform Architect, mapped from the GitHub API. Each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
-**100 organizations** · **4 accounts** · **4,990 repositories** · **11 related organizations** · updated 2026-10-29
+**100 organizations** · **4 accounts** · **4,990 repositories** · **11 related organizations** · updated 2026-10-30
 
 **Contents:** [At a glance](#at-a-glance) · [Concept domains](#concept-domains) · [How to read this map](#how-to-read-this-map) · [Sites](#sites) · [Accounts](#accounts) · [Organizations](#organizations) · [Related organizations](#related-organizations) · [Recently active](#recently-active) · [For agents](#for-agents) · [Regenerate](#regenerate)
 
@@ -17,13 +17,13 @@
 | Repositories | 4,990 |
 | &nbsp;&nbsp;original | 575 |
 | &nbsp;&nbsp;research forks | 4,415 |
-| &nbsp;&nbsp;private 🔒 | 200 |
+| &nbsp;&nbsp;private 🔒 | 199 |
 | Related organizations (held by other accounts) | 11 |
 | &nbsp;&nbsp;their public repositories | 1,492 |
 
 Forks are research: each one studies the work of its upstream project, and together they form the research library behind the original work.
 
-**Top languages** (public original repos): Python 53 · JavaScript 31 · TypeScript 27 · Solidity 26 · Shell 13 · HTML 8 · C 3 · C++ 3 · CSS 2 · PHP 2
+**Top languages** (public original repos): Python 54 · JavaScript 31 · TypeScript 27 · Solidity 26 · Shell 13 · HTML 8 · C 3 · C++ 3 · CSS 2 · PHP 2
 
 **Most original work:** [AgenticPlace](map/agenticplace.md) 63 · [cryptoAGI](map/cryptoagi.md) 46 · [SHAMBA-LUV](map/shamba-luv.md) 17 · [GATERAGE](map/gaterage.md) 15 · [cypherpunk4096](map/cypherpunk4096.md) 15 · [pkNFTapi](map/pknftapi.md) 11 · [AIMLdr](map/aimldr.md) 11 · [researchsolution](map/researchsolution.md) 10 · [DeltaVThrust-NFT](map/deltavthrust-nft.md) 9 · [IPFSdapps](map/ipfsdapps.md) 9
 
@@ -116,7 +116,7 @@ On each `map/` page, repositories are sorted with original work first, then by s
 | [BANKONPYTHAI](https://github.com/BANKONPYTHAI) | fixed-supply Qubic quantum price oracle | — | [23](https://github.com/orgs/BANKONPYTHAI/repositories) | 8 | 3 | [map](map/bankonpythai.md) |
 | [bankonvault](https://github.com/bankonvault) | client to data storage facilitation | — | [92](https://github.com/orgs/bankonvault/repositories) | 2 | — | [map](map/bankonvault.md) |
 | [blktalk](https://github.com/blktalk) | blockchain communication system | — | [49](https://github.com/orgs/blktalk/repositories) | 1 | — | [map](map/blktalk.md) |
-| [blockwhisper](https://github.com/blockwhisper) | — | — | [2](https://github.com/orgs/blockwhisper/repositories) | 2 | 1 | [map](map/blockwhisper.md) |
+| [blockwhisper](https://github.com/blockwhisper) | — | — | [2](https://github.com/orgs/blockwhisper/repositories) | 2 | — | [map](map/blockwhisper.md) |
 | [BRAINCHN](https://github.com/BRAINCHN) | BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN | — | [49](https://github.com/orgs/BRAINCHN/repositories) | 7 | 4 | [map](map/brainchn.md) |
 | [BROBOTBRAI](https://github.com/BROBOTBRAI) | BROBOT BRAI cryptocurrency adoption AI tool | [brobot.dmg.finance](https://brobot.dmg.finance) | [3](https://github.com/orgs/BROBOTBRAI/repositories) | 1 | — | [map](map/brobotbrai.md) |
 | [BRUHAI](https://github.com/BRUHAI) | collection of machine learning augmented intelligence source code for research and development | [deltavthrust.com](https://deltavthrust.com) | [4](https://github.com/orgs/BRUHAI/repositories) | 1 | — | [map](map/bruhai.md) |
@@ -307,6 +307,7 @@ The 15 public original repositories pushed most recently.
 
 | Repository | Description | Language | Last push |
 |---|---|---|---|
+| [blockwhisper/blockchain.communication](https://github.com/blockwhisper/blockchain.communication) | The working record of blockchain.communication: chatter3 · chattchain · web3comm ·… | Python | 2026-10-30 |
 | [blockwhisper/.github](https://github.com/blockwhisper/.github) | blockwhisper organization profile | — | 2026-10-29 |
 | [cryptoAGI/bankml](https://github.com/cryptoAGI/bankml) | Verified low-bit inference for the CPU you already have — a zero-dependency Rust runtime… | Rust | 2026-09-29 |
 | [GATERAGE/enlightenment-rage](https://github.com/GATERAGE/enlightenment-rage) | Import of Enlightenment's Rage video/audio player (EFL, BSD-2-Clause) with EXPLANATION,… | C | 2026-09-26 |
@@ -321,7 +322,6 @@ The 15 public original repositories pushed most recently.
 | [cryptoAGI/voaice](https://github.com/cryptoAGI/voaice) | What a voice is, written down: .voaice identities for NEURAL and JAIMLA, an 18-decimal… | JavaScript | 2026-09-24 |
 | [dddcyborgd/cyborg-shell](https://github.com/dddcyborgd/cyborg-shell) | The Tauri v2 client delivery of the DeltaVerse — one shell, two lanes (app · dapp), every… | Rust | 2026-09-24 |
 | [dddcyborgd/dvengine](https://github.com/dddcyborgd/dvengine) | dvengine — the DeltaVerse 3D participant engine (three.js), refined from oncyberio awe… | TypeScript | 2026-09-24 |
-| [dddcyborgd/.github](https://github.com/dddcyborgd/.github) | dddcyborgd — organization profile: the three-d cyborg daemon, dvengine and… | — | 2026-09-24 |
 
 ## For agents
 
