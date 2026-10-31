@@ -1,6 +1,6 @@
 # orgmap
 
-> Map of the 100 GitHub organizations, 4 accounts and 4,990 repositories (575 original, 4,415 research forks, 199 private) of Professor Codephreak, plus 11 related organizations held by other accounts. Generated 2026-10-31 from the GitHub API. This is the master archivist's file mapping: each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
+> Map of the 100 GitHub organizations, 4 accounts and 4,991 repositories (576 original, 4,415 research forks, 200 private) of Professor Codephreak, plus 11 related organizations held by other accounts. Generated 2026-10-31 from the GitHub API. This is the master archivist's file mapping: each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
 Rules for reading it:
 - Private repositories are listed by name, brief description and address only, until release. Do not infer more about them.
@@ -203,7 +203,7 @@ Token, talk and transaction: wallet-to-wallet messaging and blockchain communica
 - [chattchain](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/chattchain.md): blockchain.communication — the chain: messages and identity carried on chain, verified by signature (1 original, 19 research)
 - [web3comm](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/web3comm.md): Token Talk Transaction web3 communication environment (2 original, 59 research)
 - [blktalk](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/blktalk.md): blockchain communication system (1 original, 48 research)
-- [blockwhisper](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/blockwhisper.md): blockchain.communication — carried forward: the continuation of the forum, the chain, the environment and the systems layer (2 original, 0 research)
+- [blockwhisper](https://raw.githubusercontent.com/Professor-Codephreak/orgmap/main/map/blockwhisper.md): blockchain.communication — carried forward: the continuation of the forum, the chain, the environment and the systems layer (3 original, 0 research)
 
 ## Oracles, theory and the living world
 

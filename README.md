@@ -4,7 +4,7 @@
 
 > The organizations and repositories of **[Professor Codephreak](https://github.com/Professor-Codephreak)**, Software Engineer and Platform Architect, mapped from the GitHub API. Each organization is an archive of one concept, holding original works and research forks of the upstream projects it studies.
 
-**100 organizations** · **4 accounts** · **4,990 repositories** · **11 related organizations** · updated 2026-10-31
+**100 organizations** · **4 accounts** · **4,991 repositories** · **11 related organizations** · updated 2026-10-31
 
 **Contents:** [At a glance](#at-a-glance) · [Concept domains](#concept-domains) · [How to read this map](#how-to-read-this-map) · [Sites](#sites) · [Accounts](#accounts) · [Organizations](#organizations) · [Related organizations](#related-organizations) · [Recently active](#recently-active) · [For agents](#for-agents) · [Regenerate](#regenerate)
 
@@ -14,10 +14,10 @@
 |---|--:|
 | Organizations (on the Professor-Codephreak account) | 100 |
 | Accounts | 4 |
-| Repositories | 4,990 |
-| &nbsp;&nbsp;original | 575 |
+| Repositories | 4,991 |
+| &nbsp;&nbsp;original | 576 |
 | &nbsp;&nbsp;research forks | 4,415 |
-| &nbsp;&nbsp;private 🔒 | 199 |
+| &nbsp;&nbsp;private 🔒 | 200 |
 | Related organizations (held by other accounts) | 11 |
 | &nbsp;&nbsp;their public repositories | 1,492 |
 
@@ -43,7 +43,7 @@ The organizations fall into 12 concept domains. The full [concept archive](ARCHI
 | [NFTs and digital assets](ARCHIVE.md#nft) | Ownership of digital things: NFT creation, royalties, marketplaces, programmable keys and Bitcoin ordinals. | 6 | 25 | 243 |
 | [Wallets, identity and sovereignty](ARCHIVE.md#custody) | Keys are identity: wallets, account abstraction, identity management, vaults, MetaMask extensions, private networking and the cypherpunk standard. | 12 | 71 | 1161 |
 | [Storage and the decentralized web](ARCHIVE.md#storage) | Permanence and distribution: IPFS, decentralized front ends and storage. | 3 | 13 | 195 |
-| [Communication](ARCHIVE.md#comm) · `blockchain.communication` | Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems, where a message is trusted because its signature verifies. | 5 | 8 | 167 |
+| [Communication](ARCHIVE.md#comm) · `blockchain.communication` | Token, talk and transaction: wallet-to-wallet messaging and blockchain communication systems, where a message is trusted because its signature verifies. | 5 | 9 | 167 |
 | [Oracles, theory and the living world](ARCHIVE.md#theory) | The questions behind the work: the Pythia oracle, prediction, a grand unified theory, the mind as a chain, and water as life. | 5 | 22 | 69 |
 
 ## How to read this map
@@ -116,7 +116,7 @@ On each `map/` page, repositories are sorted with original work first, then by s
 | <img src="https://github.com/BANKONPYTHAI.png?size=400" width="20" alt=""> [BANKONPYTHAI](https://github.com/BANKONPYTHAI) | fixed-supply Qubic quantum price oracle | — | [23](https://github.com/orgs/BANKONPYTHAI/repositories) | 8 | 3 | [map](map/bankonpythai.md) |
 | <img src="https://github.com/bankonvault.png?size=400" width="20" alt=""> [bankonvault](https://github.com/bankonvault) | client to data storage facilitation | — | [92](https://github.com/orgs/bankonvault/repositories) | 2 | — | [map](map/bankonvault.md) |
 | <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blktalk.jpg" width="20" alt=""> [blktalk](https://github.com/blktalk) | blockchain communication system | — | [49](https://github.com/orgs/blktalk/repositories) | 1 | — | [map](map/blktalk.md) |
-| <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png" width="20" alt=""> [blockwhisper](https://github.com/blockwhisper) | — | — | [2](https://github.com/orgs/blockwhisper/repositories) | 2 | — | [map](map/blockwhisper.md) |
+| <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png" width="20" alt=""> [blockwhisper](https://github.com/blockwhisper) | — | — | [3](https://github.com/orgs/blockwhisper/repositories) | 3 | 1 | [map](map/blockwhisper.md) |
 | <img src="https://github.com/BRAINCHN.png?size=400" width="20" alt=""> [BRAINCHN](https://github.com/BRAINCHN) | BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN | — | [49](https://github.com/orgs/BRAINCHN/repositories) | 7 | 4 | [map](map/brainchn.md) |
 | <img src="https://github.com/BROBOTBRAI.png?size=400" width="20" alt=""> [BROBOTBRAI](https://github.com/BROBOTBRAI) | BROBOT BRAI cryptocurrency adoption AI tool | [brobot.dmg.finance](https://brobot.dmg.finance) | [3](https://github.com/orgs/BROBOTBRAI/repositories) | 1 | — | [map](map/brobotbrai.md) |
 | <img src="https://github.com/BRUHAI.png?size=400" width="20" alt=""> [BRUHAI](https://github.com/BRUHAI) | collection of machine learning augmented intelligence source code for research and development | [deltavthrust.com](https://deltavthrust.com) | [4](https://github.com/orgs/BRUHAI/repositories) | 1 | — | [map](map/bruhai.md) |
@@ -307,8 +307,8 @@ The 15 public original repositories pushed most recently.
 
 | Repository | Description | Language | Last push |
 |---|---|---|---|
-| [blockwhisper/blockchain.communication](https://github.com/blockwhisper/blockchain.communication) | The working record of blockchain.communication: chatter3 · chattchain · web3comm ·… | Python | 2026-10-30 |
-| [blockwhisper/.github](https://github.com/blockwhisper/.github) | blockwhisper organization profile | — | 2026-10-29 |
+| [blockwhisper/blockchain.communication](https://github.com/blockwhisper/blockchain.communication) | The working record of blockchain.communication: chatter3 · chattchain · web3comm ·… | Python | 2026-10-31 |
+| [blockwhisper/.github](https://github.com/blockwhisper/.github) | blockwhisper organization profile | — | 2026-10-31 |
 | [cryptoAGI/bankml](https://github.com/cryptoAGI/bankml) | Verified low-bit inference for the CPU you already have — a zero-dependency Rust runtime… | Rust | 2026-09-29 |
 | [GATERAGE/enlightenment-rage](https://github.com/GATERAGE/enlightenment-rage) | Import of Enlightenment's Rage video/audio player (EFL, BSD-2-Clause) with EXPLANATION,… | C | 2026-09-26 |
 | [openbdk/galileo-alpine](https://github.com/openbdk/galileo-alpine) | Galileo Alpine — RAM-only Alpine ISO for the Open Blockchain Development Kit (bankonOS… | Shell | 2026-09-26 |
