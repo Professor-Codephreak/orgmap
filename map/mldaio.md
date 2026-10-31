@@ -1,5 +1,7 @@
 # [mldaio](https://github.com/mldaio)
 
+<p align="center"><a href="https://github.com/mldaio"><img src="https://github.com/mldaio.png?size=400" width="200" alt="mldaio logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/mldaio) · [repositories](https://github.com/orgs/mldaio/repositories)
 
 > machine learning decentralised autonomous organisation

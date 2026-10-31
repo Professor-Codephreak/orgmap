@@ -1,5 +1,7 @@
 # [SaveGlaciers](https://github.com/SaveGlaciers)
 
+<p align="center"><a href="https://github.com/SaveGlaciers"><img src="https://github.com/SaveGlaciers.png?size=400" width="200" alt="SaveGlaciers logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#theory) · [profile](https://github.com/SaveGlaciers) · [repositories](https://github.com/orgs/SaveGlaciers/repositories)
 
 > Water is Life

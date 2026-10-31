@@ -1,5 +1,7 @@
 # [mlodels](https://github.com/mlodels)
 
+<p align="center"><a href="https://github.com/mlodels"><img src="https://github.com/mlodels.png?size=400" width="200" alt="mlodels logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/mlodels) · [repositories](https://github.com/orgs/mlodels/repositories)
 
 > local language machine learning models

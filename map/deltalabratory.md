@@ -1,5 +1,7 @@
 # [DeltaLabratory](https://github.com/DeltaLabratory)
 
+<p align="center"><a href="https://github.com/DeltaLabratory"><img src="https://github.com/DeltaLabratory.png?size=400" width="200" alt="DeltaLabratory logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/DeltaLabratory) · [repositories](https://github.com/orgs/DeltaLabratory/repositories)
 
 > Experimental Zone enter at own risk

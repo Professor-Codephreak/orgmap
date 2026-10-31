@@ -1,5 +1,7 @@
 # [webthreejs](https://github.com/webthreejs)
 
+<p align="center"><a href="https://github.com/webthreejs"><img src="https://github.com/webthreejs.png?size=400" width="200" alt="webthreejs logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/webthreejs) · [repositories](https://github.com/orgs/webthreejs/repositories)
 
 > web3js

@@ -1,5 +1,7 @@
 # [idmanagement](https://github.com/idmanagement)
 
+<p align="center"><a href="https://github.com/idmanagement"><img src="https://github.com/idmanagement.png?size=400" width="200" alt="idmanagement logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/idmanagement) · [repositories](https://github.com/orgs/idmanagement/repositories)
 
 > I am who I am because of who I am

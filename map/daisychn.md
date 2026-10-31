@@ -1,5 +1,7 @@
 # [daisychn](https://github.com/daisychn)
 
+<p align="center"><a href="https://github.com/daisychn"><img src="https://github.com/daisychn.png?size=400" width="200" alt="daisychn logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/daisychn) · [repositories](https://github.com/orgs/daisychn/repositories)
 
 > layer three agentic blockchain

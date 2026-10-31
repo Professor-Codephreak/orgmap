@@ -1,5 +1,7 @@
 # [GrandUnifiedTheoryOfEverything](https://github.com/GrandUnifiedTheoryOfEverything)
 
+<p align="center"><a href="https://github.com/GrandUnifiedTheoryOfEverything"><img src="https://github.com/GrandUnifiedTheoryOfEverything.png?size=400" width="200" alt="GrandUnifiedTheoryOfEverything logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#theory) · [profile](https://github.com/GrandUnifiedTheoryOfEverything) · [repositories](https://github.com/orgs/GrandUnifiedTheoryOfEverything/repositories)
 
 > Professor Codephreak explores the fourth dimension and posits Smatter

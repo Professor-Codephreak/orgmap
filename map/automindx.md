@@ -1,5 +1,7 @@
 # [AUTOMINDx](https://github.com/AUTOMINDx)
 
+<p align="center"><a href="https://github.com/AUTOMINDx"><img src="https://github.com/AUTOMINDx.png?size=400" width="200" alt="AUTOMINDx logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/AUTOMINDx) · [repositories](https://github.com/orgs/AUTOMINDx/repositories)
 
 > AIML Automated Intelligent Machine Learning AIMLx

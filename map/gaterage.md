@@ -1,5 +1,7 @@
 # [GATERAGE](https://github.com/GATERAGE)
 
+<p align="center"><a href="https://github.com/GATERAGE"><img src="https://github.com/GATERAGE.png?size=400" width="200" alt="GATERAGE logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/GATERAGE) · [repositories](https://github.com/orgs/GATERAGE/repositories)
 
 > Retrieval Augmented Generative Engine

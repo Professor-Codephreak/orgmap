@@ -1,5 +1,7 @@
 # [rustchain](https://github.com/rustchain)
 
+<p align="center"><a href="https://github.com/rustchain"><img src="https://github.com/rustchain.png?size=400" width="200" alt="rustchain logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/rustchain) · [repositories](https://github.com/orgs/rustchain/repositories)
 
 > collection of tools to support rust blockchains including Partisia, Solana, and Cosm Wasm enhanced by SOLmaster GPT agent

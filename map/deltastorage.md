@@ -1,5 +1,7 @@
 # [deltastorage](https://github.com/deltastorage)
 
+<p align="center"><a href="https://github.com/deltastorage"><img src="https://github.com/deltastorage.png?size=400" width="200" alt="deltastorage logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/deltastorage) · [repositories](https://github.com/orgs/deltastorage/repositories)
 
 > Zilliqa Scilla language exploration

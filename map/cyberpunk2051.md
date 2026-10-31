@@ -1,5 +1,7 @@
 # [cyberpunk2051](https://github.com/cyberpunk2051)
 
+<p align="center"><a href="https://github.com/cyberpunk2051"><img src="https://github.com/cyberpunk2051.png?size=400" width="200" alt="cyberpunk2051 logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/cyberpunk2051) · [repositories](https://github.com/orgs/cyberpunk2051/repositories)
 
 > collection of ollama software and blockchain software for an abundant future of collective prosperity

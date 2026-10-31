@@ -1,5 +1,7 @@
 # [mastermindML](https://github.com/mastermindML)
 
+<p align="center"><a href="https://github.com/mastermindML"><img src="https://github.com/mastermindML.png?size=400" width="200" alt="mastermindML logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/mastermindML) · [repositories](https://github.com/orgs/mastermindML/repositories)
 
 > mastermind agency controller

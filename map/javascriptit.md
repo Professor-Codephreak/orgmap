@@ -1,5 +1,7 @@
 # [javascriptit](https://github.com/javascriptit)
 
+<p align="center"><a href="https://github.com/javascriptit"><img src="https://github.com/javascriptit.png?size=400" width="200" alt="javascriptit logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/javascriptit) · [repositories](https://github.com/orgs/javascriptit/repositories)
 
 > JavaScript the client side language of the World Wide Web

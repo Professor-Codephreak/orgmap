@@ -1,5 +1,7 @@
 # [easyAGI](https://github.com/easyAGI)
 
+<p align="center"><a href="https://github.com/easyAGI"><img src="https://github.com/easyAGI.png?size=400" width="200" alt="easyAGI logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/easyAGI) · [repositories](https://github.com/orgs/easyAGI/repositories)
 
 > easy Augmented Generative Intelligence

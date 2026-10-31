@@ -1,5 +1,7 @@
 # [bankonme](https://github.com/bankonme)
 
+<p align="center"><a href="https://github.com/bankonme"><img src="https://github.com/bankonme.png?size=400" width="200" alt="bankonme logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/bankonme) · [repositories](https://github.com/orgs/bankonme/repositories)
 
 > bankon.me privacy, integrity and security for your personal banking information

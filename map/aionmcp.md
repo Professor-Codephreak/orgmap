@@ -1,5 +1,7 @@
 # [AIONMCP](https://github.com/AIONMCP)
 
+<p align="center"><a href="https://github.com/AIONMCP"><img src="https://github.com/AIONMCP.png?size=400" width="200" alt="AIONMCP logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/AIONMCP) · [repositories](https://github.com/orgs/AIONMCP/repositories)
 
 > AION Model Context Protocol summary and links

@@ -1,5 +1,7 @@
 # [abaracadabra](https://github.com/abaracadabra)
 
+<p align="center"><a href="https://github.com/abaracadabra"><img src="https://github.com/abaracadabra.png?size=400" width="200" alt="abaracadabra logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/abaracadabra) · [repositories](https://github.com/orgs/abaracadabra/repositories)
 
 > utterance as expression of will

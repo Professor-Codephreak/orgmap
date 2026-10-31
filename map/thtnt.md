@@ -1,5 +1,7 @@
 # [thTNT](https://github.com/thTNT)
 
+<p align="center"><a href="https://github.com/thTNT"><img src="https://github.com/thTNT.png?size=400" width="200" alt="thTNT logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/thTNT) · [repositories](https://github.com/orgs/thTNT/repositories)
 
 > THRUST NETWORK TECHNOLOGY blockchain solutions

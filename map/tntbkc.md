@@ -1,5 +1,7 @@
 # [TNTbkc](https://github.com/TNTbkc)
 
+<p align="center"><a href="https://github.com/TNTbkc"><img src="https://github.com/TNTbkc.png?size=400" width="200" alt="TNTbkc logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/TNTbkc) · [repositories](https://github.com/orgs/TNTbkc/repositories)
 
 > THRUST TNT contains the tools to deploy THRUST TNT blockchain testnet

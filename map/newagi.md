@@ -1,5 +1,7 @@
 # [newagi](https://github.com/newagi)
 
+<p align="center"><a href="https://github.com/newagi"><img src="https://github.com/newagi.png?size=400" width="200" alt="newagi logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/newagi) · [repositories](https://github.com/orgs/newagi/repositories)
 
 > neural enhanced wisdom augmented generative intelligence

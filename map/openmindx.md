@@ -1,5 +1,7 @@
 # [openmindx](https://github.com/openmindx)
 
+<p align="center"><a href="https://github.com/openmindx"><img src="https://github.com/openmindx.png?size=400" width="200" alt="openmindx logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/openmindx) · [repositories](https://github.com/orgs/openmindx/repositories)
 
 > open source machine learning source code

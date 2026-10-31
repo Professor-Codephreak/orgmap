@@ -1,5 +1,7 @@
 # [bankonvault](https://github.com/bankonvault)
 
+<p align="center"><a href="https://github.com/bankonvault"><img src="https://github.com/bankonvault.png?size=400" width="200" alt="bankonvault logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/bankonvault) · [repositories](https://github.com/orgs/bankonvault/repositories)
 
 > client to data storage facilitation

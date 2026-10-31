@@ -1,5 +1,7 @@
 # [poormanvpn](https://github.com/poormanvpn)
 
+<p align="center"><a href="https://github.com/poormanvpn"><img src="https://github.com/poormanvpn.png?size=400" width="200" alt="poormanvpn logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/poormanvpn) · [repositories](https://github.com/orgs/poormanvpn/repositories)
 
 > poor mans VPN client server code

@@ -1,5 +1,7 @@
 # [cypherpunk2048](https://github.com/cypherpunk2048)
 
+<p align="center"><a href="https://github.com/cypherpunk2048"><img src="https://github.com/cypherpunk2048.png?size=400" width="200" alt="cypherpunk2048 logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/cypherpunk2048) · [repositories](https://github.com/orgs/cypherpunk2048/repositories)
 
 > standard

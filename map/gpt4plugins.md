@@ -1,5 +1,7 @@
 # [gpt4plugins](https://github.com/gpt4plugins)
 
+<p align="center"><a href="https://github.com/gpt4plugins"><img src="https://github.com/gpt4plugins.png?size=400" width="200" alt="gpt4plugins logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/gpt4plugins) · [repositories](https://github.com/orgs/gpt4plugins/repositories)
 
 > IAM intellegent augmentation machine

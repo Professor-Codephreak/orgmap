@@ -1,5 +1,7 @@
 # [dddcyborgd](https://github.com/dddcyborgd)
 
+<p align="center"><a href="https://github.com/dddcyborgd"><img src="https://github.com/dddcyborgd.png?size=400" width="200" alt="dddcyborgd logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/dddcyborgd) · [repositories](https://github.com/orgs/dddcyborgd/repositories)
 
 > three d cyborg daemon for decentralized interactive experience

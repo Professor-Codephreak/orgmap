@@ -1,5 +1,7 @@
 # [NFTdr](https://github.com/NFTdr)
 
+<p align="center"><a href="https://github.com/NFTdr"><img src="https://github.com/NFTdr.png?size=400" width="200" alt="NFTdr logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#nft) · [profile](https://github.com/NFTdr) · [repositories](https://github.com/orgs/NFTdr/repositories)
 
 > NFT data royalties

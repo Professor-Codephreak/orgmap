@@ -1,5 +1,7 @@
 # [augml](https://github.com/augml)
 
+<p align="center"><a href="https://github.com/augml"><img src="https://github.com/augml.png?size=400" width="200" alt="augml logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/augml) · [repositories](https://github.com/orgs/augml/repositories)
 
 > augmentation machine learning

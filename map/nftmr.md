@@ -1,5 +1,7 @@
 # [NFTmr](https://github.com/NFTmr)
 
+<p align="center"><a href="https://github.com/NFTmr"><img src="https://github.com/NFTmr.png?size=400" width="200" alt="NFTmr logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#nft) · [profile](https://github.com/NFTmr) · [repositories](https://github.com/orgs/NFTmr/repositories)
 
 > NFT Marketplace Royalties

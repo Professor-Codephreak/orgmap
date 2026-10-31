@@ -1,5 +1,7 @@
 # [pyeth](https://github.com/pyeth)
 
+<p align="center"><a href="https://github.com/pyeth"><img src="https://github.com/pyeth.png?size=400" width="200" alt="pyeth logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#contracts) · [profile](https://github.com/pyeth) · [repositories](https://github.com/orgs/pyeth/repositories)
 
 > Ethereum Virtual Machine Python tools

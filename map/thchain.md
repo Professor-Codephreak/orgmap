@@ -1,5 +1,7 @@
 # [THCHAIN](https://github.com/THCHAIN)
 
+<p align="center"><a href="https://github.com/THCHAIN"><img src="https://github.com/THCHAIN.png?size=400" width="200" alt="THCHAIN logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/THCHAIN) · [repositories](https://github.com/orgs/THCHAIN/repositories)
 
 **Domain:** [Chains, layers and interoperability](../ARCHIVE.md#chain)

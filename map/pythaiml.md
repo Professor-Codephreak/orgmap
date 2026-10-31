@@ -1,5 +1,7 @@
 # [pythaiml](https://github.com/pythaiml)
 
+<p align="center"><a href="https://github.com/pythaiml"><img src="https://github.com/pythaiml.png?size=400" width="200" alt="pythaiml logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/pythaiml) · [repositories](https://github.com/orgs/pythaiml/repositories)
 
 > Sovereign intelligence for the open chain — Python Augmented Intelligence Machine Learning · pythai.net

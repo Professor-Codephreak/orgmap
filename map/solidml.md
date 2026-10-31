@@ -1,5 +1,7 @@
 # [solidml](https://github.com/solidml)
 
+<p align="center"><a href="https://github.com/solidml"><img src="https://github.com/solidml.png?size=400" width="200" alt="solidml logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#contracts) · [profile](https://github.com/solidml) · [repositories](https://github.com/orgs/solidml/repositories)
 
 > solidity and machine learning reference zone

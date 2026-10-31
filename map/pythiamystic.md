@@ -1,5 +1,7 @@
 # [PYTHIAMYSTIC](https://github.com/PYTHIAMYSTIC)
 
+<p align="center"><a href="https://github.com/PYTHIAMYSTIC"><img src="https://github.com/PYTHIAMYSTIC.png?size=400" width="200" alt="PYTHIAMYSTIC logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#theory) · [profile](https://github.com/PYTHIAMYSTIC) · [repositories](https://github.com/orgs/PYTHIAMYSTIC/repositories)
 
 > mystical guidance from PYTHIA MYSTIC oracle of Delphi

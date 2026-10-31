@@ -1,5 +1,7 @@
 # [BRUHAI](https://github.com/BRUHAI)
 
+<p align="center"><a href="https://github.com/BRUHAI"><img src="https://github.com/BRUHAI.png?size=400" width="200" alt="BRUHAI logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/BRUHAI) · [repositories](https://github.com/orgs/BRUHAI/repositories)
 
 > collection of machine learning augmented intelligence source code for research and development

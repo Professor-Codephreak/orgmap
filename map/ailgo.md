@@ -1,5 +1,7 @@
 # [ailgo](https://github.com/ailgo)
 
+<p align="center"><a href="https://github.com/ailgo"><img src="https://github.com/ailgo.png?size=400" width="200" alt="ailgo logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/ailgo) · [repositories](https://github.com/orgs/ailgo/repositories)
 
 **Domain:** [Chains, layers and interoperability](../ARCHIVE.md#chain) · **Website:** <https://pythai.net/>

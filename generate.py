@@ -37,8 +37,14 @@ def odesc(login, meta):
     return (DOMAIN_OF.get(login) or {}).get('descriptions', {}).get(login) or meta.get('description')
 
 def ologo(login):
-    """An organization's official logo from its domain, or None."""
-    return (DOMAIN_OF.get(login) or {}).get('logos', {}).get(login)
+    """An organization's logo: the official one its domain names, else its GitHub avatar. None for accounts."""
+    official = (DOMAIN_OF.get(login) or {}).get('logos', {}).get(login)
+    if official: return {**official, 'source': 'official'}
+    if login in d['users']: return None
+    return {'src': f'{GH}/{login}.png?size=400', 'source': 'github'}
+
+def logo_img(l):
+    return f'<img src="{ologo(l)["src"]}" width="20" alt=""> ' if ologo(l) else ''
 
 def det(login, r):
     return DET.get(login, {}).get(r['name'], {})
@@ -248,7 +254,7 @@ for c in letters:
     R += [f'### {c}', '', '| Organization | Description | Website | Repos | Original | 🔒 | Map |', '|---|---|---|--:|--:|--:|---|']
     for login in (o for o in orgs if o[0].upper() == c):
         m, x = groups['org'][login]['meta'], S['org'][login]
-        R.append(f"| [{login}]({GH}/{login}) | {esc(m.get('description')) or '—'} | {site_link(m)} | [{x['repos']}]({GH}/orgs/{login}/repositories) | {x['originals']} | {x['private'] or '—'} | [map](map/{slug(login)}.md) |")
+        R.append(f"| {logo_img(login)}[{login}]({GH}/{login}) | {esc(m.get('description')) or '—'} | {site_link(m)} | [{x['repos']}]({GH}/orgs/{login}/repositories) | {x['originals']} | {x['private'] or '—'} | [map](map/{slug(login)}.md) |")
     R.append('')
 
 R += ['## Related organizations', '',
@@ -256,7 +262,7 @@ R += ['## Related organizations', '',
       '| Organization | Description | Website | Repos | Original | Map |', '|---|---|---|--:|--:|---|']
 for login in sorted(groups['related'], key=str.lower):
     m, x = groups['related'][login]['meta'], S['related'][login]
-    R.append(f"| [{login}]({GH}/{login}) | {esc(m.get('description')) or '—'} | {site_link(m)} | [{x['repos']}]({GH}/orgs/{login}/repositories) | {x['originals']} | [map](map/{slug(login)}.md) |")
+    R.append(f"| {logo_img(login)}[{login}]({GH}/{login}) | {esc(m.get('description')) or '—'} | {site_link(m)} | [{x['repos']}]({GH}/orgs/{login}/repositories) | {x['originals']} | [map](map/{slug(login)}.md) |")
 
 R += ['', '## Recently active', '', 'The 15 public original repositories pushed most recently.', '',
       '| Repository | Description | Language | Last push |', '|---|---|---|---|']
@@ -276,9 +282,6 @@ open('README.md', 'w').write('\n'.join(R))
 # ARCHIVE.md: the concept archive, read from the organization of the archives
 ALL = {**groups['user'], **groups['org'], **groups['related']}
 KIND = {**{l: 'user' for l in groups['user']}, **{l: 'org' for l in groups['org']}, **{l: 'related' for l in groups['related']}}
-def logo_img(l):
-    return f'<img src="{ologo(l)["src"]}" width="20" alt=""> ' if ologo(l) else ''
-
 def upstream_owners(logins):
     return counter([(studies(l, r) or {}).get('owner', {}).get('login') for l in logins for r in ALL[l]['repos'] if r['fork'] and not r['private']], 12)
 def notable(logins, n):
@@ -308,7 +311,7 @@ for x in DOM:
     for l in sorted(o, key=lambda l: (-DSTAT[l]['originals'], l.lower())):
         top = upstream_owners([l])[:3]
         rel = ' _(related)_' if KIND[l] == 'related' else ''
-        A.append(f"| [{l}](map/{slug(l)}.md){rel} | {esc(odesc(l, ALL[l]['meta'])) or '—'} | {DSTAT[l]['originals']} | {DSTAT[l]['forks']} | "
+        A.append(f"| {logo_img(l)}[{l}](map/{slug(l)}.md){rel} | {esc(odesc(l, ALL[l]['meta'])) or '—'} | {DSTAT[l]['originals']} | {DSTAT[l]['forks']} | "
                  + (', '.join(f'[{u}]({GH}/{u})' for u, _ in top) or '—') + ' |')
     A.append('')
     nb = notable(o, 8)

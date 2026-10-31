@@ -1,5 +1,7 @@
 # [cryptocurrent](https://github.com/cryptocurrent)
 
+<p align="center"><a href="https://github.com/cryptocurrent"><img src="https://github.com/cryptocurrent.png?size=400" width="200" alt="cryptocurrent logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/cryptocurrent) · [repositories](https://github.com/orgs/cryptocurrent/repositories)
 
 > A repository to store some of the code to build the bankonmeOS Desktop as a bash shell script.

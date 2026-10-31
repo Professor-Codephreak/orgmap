@@ -16,20 +16,20 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [AIMLdr](map/aimldr.md) | machine learning healthcare consultation | 11 | 3 | [GLambard](https://github.com/GLambard), [streamlit](https://github.com/streamlit), [Web3dGuy](https://github.com/Web3dGuy) |
-| [openmindx](map/openmindx.md) | open source machine learning source code | 8 | 46 | [AUTOMINDx](https://github.com/AUTOMINDx), [obsidianmd](https://github.com/obsidianmd), [Jaimla](https://github.com/Jaimla) |
-| [webmindml](map/webmindml.md) | distributed l client side local language model development zone | 6 | 43 | [elastic](https://github.com/elastic), [AIML-Foundation](https://github.com/AIML-Foundation), [ramonclaudio](https://github.com/ramonclaudio) |
-| [AUTOMINDx](map/automindx.md) _(related)_ | AIML Automated Intelligent Machine Learning AIMLx | 5 | 23 | [DeltaVML](https://github.com/DeltaVML), [unconv](https://github.com/unconv), [abetlen](https://github.com/abetlen) |
-| [DeltaVML](map/deltavml.md) | machine learning | 4 | 267 | [daveshap](https://github.com/daveshap), [huggingface](https://github.com/huggingface), [openai](https://github.com/openai) |
-| [augml](map/augml.md) | augmentation machine learning | 3 | 135 | [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform), [Lilypad-Tech](https://github.com/Lilypad-Tech), [unclecode](https://github.com/unclecode) |
-| [pythaiml](map/pythaiml.md) | Sovereign intelligence for the open chain — Python Augmented Intelligence Machine Learning · pythai.net | 3 | 41 | [DeltaVML](https://github.com/DeltaVML), [Jaimla](https://github.com/Jaimla), [aindilis](https://github.com/aindilis) |
-| [llamagi](map/llamagi.md) | local language model augmented generative intelligence | 2 | 13 | [run-llama](https://github.com/run-llama), [ollama](https://github.com/ollama), [augml](https://github.com/augml) |
-| [minaiml](map/minaiml.md) | min ai ml   language models in miniature | 2 | 78 | [webmindml](https://github.com/webmindml), [google-ai-edge](https://github.com/google-ai-edge), [huggingface](https://github.com/huggingface) |
-| [BROBOTBRAI](map/brobotbrai.md) | BROBOT BRAI cryptocurrency adoption AI tool | 1 | 2 | [BRUHAI](https://github.com/BRUHAI) |
-| [BRUHAI](map/bruhai.md) | collection of machine learning augmented intelligence source code for research and development | 1 | 3 | [exitatmosphere](https://github.com/exitatmosphere), [neonlabsorg](https://github.com/neonlabsorg), [otter-sec](https://github.com/otter-sec) |
-| [Jaimla](map/jaimla.md) _(related)_ | I am the machine learning agent | 1 | 22 | [DeltaVML](https://github.com/DeltaVML), [lablab-ai](https://github.com/lablab-ai), [AUTOMINDx](https://github.com/AUTOMINDx) |
-| [trainair](map/trainair.md) | trainAIr is the model trainer | 1 | 10 | [google-research](https://github.com/google-research), [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform), [mrdoob](https://github.com/mrdoob) |
-| [mlodels](map/mlodels.md) _(related)_ | local language machine learning models | 0 | 50 | [DeltaVML](https://github.com/DeltaVML), [exa-labs](https://github.com/exa-labs), [oobabooga](https://github.com/oobabooga) |
+| <img src="https://github.com/AIMLdr.png?size=400" width="20" alt=""> [AIMLdr](map/aimldr.md) | machine learning healthcare consultation | 11 | 3 | [GLambard](https://github.com/GLambard), [streamlit](https://github.com/streamlit), [Web3dGuy](https://github.com/Web3dGuy) |
+| <img src="https://github.com/openmindx.png?size=400" width="20" alt=""> [openmindx](map/openmindx.md) | open source machine learning source code | 8 | 46 | [AUTOMINDx](https://github.com/AUTOMINDx), [obsidianmd](https://github.com/obsidianmd), [Jaimla](https://github.com/Jaimla) |
+| <img src="https://github.com/webmindml.png?size=400" width="20" alt=""> [webmindml](map/webmindml.md) | distributed l client side local language model development zone | 6 | 43 | [elastic](https://github.com/elastic), [AIML-Foundation](https://github.com/AIML-Foundation), [ramonclaudio](https://github.com/ramonclaudio) |
+| <img src="https://github.com/AUTOMINDx.png?size=400" width="20" alt=""> [AUTOMINDx](map/automindx.md) _(related)_ | AIML Automated Intelligent Machine Learning AIMLx | 5 | 23 | [DeltaVML](https://github.com/DeltaVML), [unconv](https://github.com/unconv), [abetlen](https://github.com/abetlen) |
+| <img src="https://github.com/DeltaVML.png?size=400" width="20" alt=""> [DeltaVML](map/deltavml.md) | machine learning | 4 | 267 | [daveshap](https://github.com/daveshap), [huggingface](https://github.com/huggingface), [openai](https://github.com/openai) |
+| <img src="https://github.com/augml.png?size=400" width="20" alt=""> [augml](map/augml.md) | augmentation machine learning | 3 | 135 | [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform), [Lilypad-Tech](https://github.com/Lilypad-Tech), [unclecode](https://github.com/unclecode) |
+| <img src="https://github.com/pythaiml.png?size=400" width="20" alt=""> [pythaiml](map/pythaiml.md) | Sovereign intelligence for the open chain — Python Augmented Intelligence Machine Learning · pythai.net | 3 | 41 | [DeltaVML](https://github.com/DeltaVML), [Jaimla](https://github.com/Jaimla), [aindilis](https://github.com/aindilis) |
+| <img src="https://github.com/llamagi.png?size=400" width="20" alt=""> [llamagi](map/llamagi.md) | local language model augmented generative intelligence | 2 | 13 | [run-llama](https://github.com/run-llama), [ollama](https://github.com/ollama), [augml](https://github.com/augml) |
+| <img src="https://github.com/minaiml.png?size=400" width="20" alt=""> [minaiml](map/minaiml.md) | min ai ml   language models in miniature | 2 | 78 | [webmindml](https://github.com/webmindml), [google-ai-edge](https://github.com/google-ai-edge), [huggingface](https://github.com/huggingface) |
+| <img src="https://github.com/BROBOTBRAI.png?size=400" width="20" alt=""> [BROBOTBRAI](map/brobotbrai.md) | BROBOT BRAI cryptocurrency adoption AI tool | 1 | 2 | [BRUHAI](https://github.com/BRUHAI) |
+| <img src="https://github.com/BRUHAI.png?size=400" width="20" alt=""> [BRUHAI](map/bruhai.md) | collection of machine learning augmented intelligence source code for research and development | 1 | 3 | [exitatmosphere](https://github.com/exitatmosphere), [neonlabsorg](https://github.com/neonlabsorg), [otter-sec](https://github.com/otter-sec) |
+| <img src="https://github.com/Jaimla.png?size=400" width="20" alt=""> [Jaimla](map/jaimla.md) _(related)_ | I am the machine learning agent | 1 | 22 | [DeltaVML](https://github.com/DeltaVML), [lablab-ai](https://github.com/lablab-ai), [AUTOMINDx](https://github.com/AUTOMINDx) |
+| <img src="https://github.com/trainair.png?size=400" width="20" alt=""> [trainair](map/trainair.md) | trainAIr is the model trainer | 1 | 10 | [google-research](https://github.com/google-research), [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform), [mrdoob](https://github.com/mrdoob) |
+| <img src="https://github.com/mlodels.png?size=400" width="20" alt=""> [mlodels](map/mlodels.md) _(related)_ | local language machine learning models | 0 | 50 | [DeltaVML](https://github.com/DeltaVML), [exa-labs](https://github.com/exa-labs), [oobabooga](https://github.com/oobabooga) |
 
 **Notable original works**
 
@@ -54,25 +54,25 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [AgenticPlace](map/agenticplace.md) | distributed THOT transference | 63 | 17 | [a2aproject](https://github.com/a2aproject), [abaracadabra](https://github.com/abaracadabra), [aiming-lab](https://github.com/aiming-lab) |
-| [cryptoAGI](map/cryptoagi.md) | cryptoAGI | 46 | 10 | [marketcalls](https://github.com/marketcalls), [Web3dGuy](https://github.com/Web3dGuy), [openpgpjs](https://github.com/openpgpjs) |
-| [GATERAGE](map/gaterage.md) | Retrieval Augmented Generative Engine | 15 | 60 | [vectara](https://github.com/vectara), [augml](https://github.com/augml), [DeltaVML](https://github.com/DeltaVML) |
-| [AION-NET](map/aion-net.md) | aion-net | 7 | 13 | [augml](https://github.com/augml), [cline](https://github.com/cline), [Continual-Intelligence](https://github.com/Continual-Intelligence) |
-| [mastermindML](map/mastermindml.md) | mastermind agency controller | 7 | 17 | [obsidianmd](https://github.com/obsidianmd), [run-llama](https://github.com/run-llama), [abetlen](https://github.com/abetlen) |
-| [autoGLM](map/autoglm.md) | Autonomous General Learning Machine | 5 | 44 | [pythaiml](https://github.com/pythaiml), [GATERAGE](https://github.com/GATERAGE), [mastermindML](https://github.com/mastermindML) |
-| [easyAGI](map/easyagi.md) | easy Augmented Generative Intelligence | 5 | 5 | [autoGLM](https://github.com/autoGLM), [llamagi](https://github.com/llamagi), [mastermindML](https://github.com/mastermindML) |
-| [abaracadabra](map/abaracadabra.md) | utterance as expression of will | 4 | 7 | [Crossmint](https://github.com/Crossmint), [openmindx](https://github.com/openmindx), [Coral-Protocol](https://github.com/Coral-Protocol) |
-| [modusAGI](map/modusagi.md) | modular AGI | 4 | 0 | — |
-| [cyberpunk2051](map/cyberpunk2051.md) | collection of ollama software and blockchain software for an abundant future of collective prosperity | 3 | 13 | [kapa-ai](https://github.com/kapa-ai), [0xPolygon](https://github.com/0xPolygon), [algorand-devrel](https://github.com/algorand-devrel) |
-| [polyglotAGI](map/polyglotagi.md) | multi-model multi-modal machine generative augmented intelligence | 3 | 0 | — |
-| [xtends](map/xtends.md) | Professor Codephreak extensions for local language models | 3 | 109 | [compiz-reloaded](https://github.com/compiz-reloaded), [gpt4plugins](https://github.com/gpt4plugins), [Faicey](https://github.com/Faicey) |
-| [AIONMCP](map/aionmcp.md) | AION Model Context Protocol summary and links | 2 | 27 | [modelcontextprotocol](https://github.com/modelcontextprotocol), [bhancockio](https://github.com/bhancockio), [jennyzzt](https://github.com/jennyzzt) |
-| [aiterm](map/aiterm.md) | augmented intelligence terminal | 2 | 34 | [sekure](https://github.com/sekure), [0015](https://github.com/0015), [Aider-AI](https://github.com/Aider-AI) |
-| [easyGLM](map/easyglm.md) | easy General Learning Model | 2 | 6 | [groq](https://github.com/groq), [run-llama](https://github.com/run-llama), [ollama](https://github.com/ollama) |
-| [MMRAIMRAI](map/mmraimrai.md) | MasterMind Retrieval Augmented Intelligence MemoRAI | 2 | 1 | [thTNT](https://github.com/thTNT) |
-| [newagi](map/newagi.md) | neural enhanced wisdom augmented generative intelligence | 2 | 0 | — |
-| [autonomos-agent](map/autonomos-agent.md) | automatic operating system | 1 | 30 | [ollama](https://github.com/ollama), [white-flame](https://github.com/white-flame), [agent0lab](https://github.com/agent0lab) |
-| [gpt4plugins](map/gpt4plugins.md) | IAM intellegent augmentation machine | 1 | 72 | [openai](https://github.com/openai), [mlodels](https://github.com/mlodels), [bhancockio](https://github.com/bhancockio) |
+| <img src="https://github.com/AgenticPlace.png?size=400" width="20" alt=""> [AgenticPlace](map/agenticplace.md) | distributed THOT transference | 63 | 17 | [a2aproject](https://github.com/a2aproject), [abaracadabra](https://github.com/abaracadabra), [aiming-lab](https://github.com/aiming-lab) |
+| <img src="https://github.com/cryptoAGI.png?size=400" width="20" alt=""> [cryptoAGI](map/cryptoagi.md) | cryptoAGI | 46 | 10 | [marketcalls](https://github.com/marketcalls), [Web3dGuy](https://github.com/Web3dGuy), [openpgpjs](https://github.com/openpgpjs) |
+| <img src="https://github.com/GATERAGE.png?size=400" width="20" alt=""> [GATERAGE](map/gaterage.md) | Retrieval Augmented Generative Engine | 15 | 60 | [vectara](https://github.com/vectara), [augml](https://github.com/augml), [DeltaVML](https://github.com/DeltaVML) |
+| <img src="https://github.com/AION-NET.png?size=400" width="20" alt=""> [AION-NET](map/aion-net.md) | aion-net | 7 | 13 | [augml](https://github.com/augml), [cline](https://github.com/cline), [Continual-Intelligence](https://github.com/Continual-Intelligence) |
+| <img src="https://github.com/mastermindML.png?size=400" width="20" alt=""> [mastermindML](map/mastermindml.md) | mastermind agency controller | 7 | 17 | [obsidianmd](https://github.com/obsidianmd), [run-llama](https://github.com/run-llama), [abetlen](https://github.com/abetlen) |
+| <img src="https://github.com/autoGLM.png?size=400" width="20" alt=""> [autoGLM](map/autoglm.md) | Autonomous General Learning Machine | 5 | 44 | [pythaiml](https://github.com/pythaiml), [GATERAGE](https://github.com/GATERAGE), [mastermindML](https://github.com/mastermindML) |
+| <img src="https://github.com/easyAGI.png?size=400" width="20" alt=""> [easyAGI](map/easyagi.md) | easy Augmented Generative Intelligence | 5 | 5 | [autoGLM](https://github.com/autoGLM), [llamagi](https://github.com/llamagi), [mastermindML](https://github.com/mastermindML) |
+| <img src="https://github.com/abaracadabra.png?size=400" width="20" alt=""> [abaracadabra](map/abaracadabra.md) | utterance as expression of will | 4 | 7 | [Crossmint](https://github.com/Crossmint), [openmindx](https://github.com/openmindx), [Coral-Protocol](https://github.com/Coral-Protocol) |
+| <img src="https://github.com/modusAGI.png?size=400" width="20" alt=""> [modusAGI](map/modusagi.md) | modular AGI | 4 | 0 | — |
+| <img src="https://github.com/cyberpunk2051.png?size=400" width="20" alt=""> [cyberpunk2051](map/cyberpunk2051.md) | collection of ollama software and blockchain software for an abundant future of collective prosperity | 3 | 13 | [kapa-ai](https://github.com/kapa-ai), [0xPolygon](https://github.com/0xPolygon), [algorand-devrel](https://github.com/algorand-devrel) |
+| <img src="https://github.com/polyglotAGI.png?size=400" width="20" alt=""> [polyglotAGI](map/polyglotagi.md) | multi-model multi-modal machine generative augmented intelligence | 3 | 0 | — |
+| <img src="https://github.com/xtends.png?size=400" width="20" alt=""> [xtends](map/xtends.md) | Professor Codephreak extensions for local language models | 3 | 109 | [compiz-reloaded](https://github.com/compiz-reloaded), [gpt4plugins](https://github.com/gpt4plugins), [Faicey](https://github.com/Faicey) |
+| <img src="https://github.com/AIONMCP.png?size=400" width="20" alt=""> [AIONMCP](map/aionmcp.md) | AION Model Context Protocol summary and links | 2 | 27 | [modelcontextprotocol](https://github.com/modelcontextprotocol), [bhancockio](https://github.com/bhancockio), [jennyzzt](https://github.com/jennyzzt) |
+| <img src="https://github.com/aiterm.png?size=400" width="20" alt=""> [aiterm](map/aiterm.md) | augmented intelligence terminal | 2 | 34 | [sekure](https://github.com/sekure), [0015](https://github.com/0015), [Aider-AI](https://github.com/Aider-AI) |
+| <img src="https://github.com/easyGLM.png?size=400" width="20" alt=""> [easyGLM](map/easyglm.md) | easy General Learning Model | 2 | 6 | [groq](https://github.com/groq), [run-llama](https://github.com/run-llama), [ollama](https://github.com/ollama) |
+| <img src="https://github.com/MMRAIMRAI.png?size=400" width="20" alt=""> [MMRAIMRAI](map/mmraimrai.md) | MasterMind Retrieval Augmented Intelligence MemoRAI | 2 | 1 | [thTNT](https://github.com/thTNT) |
+| <img src="https://github.com/newagi.png?size=400" width="20" alt=""> [newagi](map/newagi.md) | neural enhanced wisdom augmented generative intelligence | 2 | 0 | — |
+| <img src="https://github.com/autonomos-agent.png?size=400" width="20" alt=""> [autonomos-agent](map/autonomos-agent.md) | automatic operating system | 1 | 30 | [ollama](https://github.com/ollama), [white-flame](https://github.com/white-flame), [agent0lab](https://github.com/agent0lab) |
+| <img src="https://github.com/gpt4plugins.png?size=400" width="20" alt=""> [gpt4plugins](map/gpt4plugins.md) | IAM intellegent augmentation machine | 1 | 72 | [openai](https://github.com/openai), [mlodels](https://github.com/mlodels), [bhancockio](https://github.com/bhancockio) |
 
 **Notable original works**
 
@@ -97,16 +97,16 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [dddcyborgd](map/dddcyborgd.md) | three d cyborg daemon for decentralized interactive experience | 5 | 0 | — |
-| [gnugui](map/gnugui.md) | a GNU GUI for a 3D, expressive web — vault · themes · charts · web3D. GPLv3. take it, own it, use it, share it | 3 | 10 | [Web3dGuy](https://github.com/Web3dGuy), [ethers-io](https://github.com/ethers-io), [mrdoob](https://github.com/mrdoob) |
-| [mlodular](map/mlodular.md) _(related)_ | collection of modular javascript snippets including drag drop 3D design and data sorting | 2 | 15 | [SortableJS](https://github.com/SortableJS), [atlassian](https://github.com/atlassian), [AUTOMATIC1111](https://github.com/AUTOMATIC1111) |
-| [ramziosta-code](map/ramziosta-code.md) | — | 2 | 2 | [trekhleb](https://github.com/trekhleb) |
-| [UIUXt](map/uiuxt.md) | extensions collection for extension development of UIUX | 2 | 32 | [pythaiml](https://github.com/pythaiml), [quasarframework](https://github.com/quasarframework), [webthreejs](https://github.com/webthreejs) |
-| [DeltaVD](map/deltavd.md) | DeltaVerse web3D resourcecode | 1 | 81 | [CesiumGS](https://github.com/CesiumGS), [OpenZeppelin](https://github.com/OpenZeppelin), [oncyberio](https://github.com/oncyberio) |
-| [Faicey](map/faicey.md) _(related)_ | UIUX AIML modular response systems interface design parameters | 1 | 17 | [lablab-ai](https://github.com/lablab-ai), [Jaimla](https://github.com/Jaimla), [jameshball](https://github.com/jameshball) |
-| [web3Dai](map/web3dai.md) | — | 1 | 54 | [thirdweb-dev](https://github.com/thirdweb-dev), [OpenZeppelin](https://github.com/OpenZeppelin), [Anish-Agnihotri](https://github.com/Anish-Agnihotri) |
-| [webthreejs](map/webthreejs.md) | web3js | 1 | 72 | [fireship-io](https://github.com/fireship-io), [idmanagement](https://github.com/idmanagement), [suhailkakar](https://github.com/suhailkakar) |
-| [javascriptit](map/javascriptit.md) _(related)_ | JavaScript the client side language of the World Wide Web | 0 | 346 | [bankonme](https://github.com/bankonme), [reduxjs](https://github.com/reduxjs), [aeternity](https://github.com/aeternity) |
+| <img src="https://github.com/dddcyborgd.png?size=400" width="20" alt=""> [dddcyborgd](map/dddcyborgd.md) | three d cyborg daemon for decentralized interactive experience | 5 | 0 | — |
+| <img src="https://github.com/gnugui.png?size=400" width="20" alt=""> [gnugui](map/gnugui.md) | a GNU GUI for a 3D, expressive web — vault · themes · charts · web3D. GPLv3. take it, own it, use it, share it | 3 | 10 | [Web3dGuy](https://github.com/Web3dGuy), [ethers-io](https://github.com/ethers-io), [mrdoob](https://github.com/mrdoob) |
+| <img src="https://github.com/mlodular.png?size=400" width="20" alt=""> [mlodular](map/mlodular.md) _(related)_ | collection of modular javascript snippets including drag drop 3D design and data sorting | 2 | 15 | [SortableJS](https://github.com/SortableJS), [atlassian](https://github.com/atlassian), [AUTOMATIC1111](https://github.com/AUTOMATIC1111) |
+| <img src="https://github.com/ramziosta-code.png?size=400" width="20" alt=""> [ramziosta-code](map/ramziosta-code.md) | — | 2 | 2 | [trekhleb](https://github.com/trekhleb) |
+| <img src="https://github.com/UIUXt.png?size=400" width="20" alt=""> [UIUXt](map/uiuxt.md) | extensions collection for extension development of UIUX | 2 | 32 | [pythaiml](https://github.com/pythaiml), [quasarframework](https://github.com/quasarframework), [webthreejs](https://github.com/webthreejs) |
+| <img src="https://github.com/DeltaVD.png?size=400" width="20" alt=""> [DeltaVD](map/deltavd.md) | DeltaVerse web3D resourcecode | 1 | 81 | [CesiumGS](https://github.com/CesiumGS), [OpenZeppelin](https://github.com/OpenZeppelin), [oncyberio](https://github.com/oncyberio) |
+| <img src="https://github.com/Faicey.png?size=400" width="20" alt=""> [Faicey](map/faicey.md) _(related)_ | UIUX AIML modular response systems interface design parameters | 1 | 17 | [lablab-ai](https://github.com/lablab-ai), [Jaimla](https://github.com/Jaimla), [jameshball](https://github.com/jameshball) |
+| <img src="https://github.com/web3Dai.png?size=400" width="20" alt=""> [web3Dai](map/web3dai.md) | — | 1 | 54 | [thirdweb-dev](https://github.com/thirdweb-dev), [OpenZeppelin](https://github.com/OpenZeppelin), [Anish-Agnihotri](https://github.com/Anish-Agnihotri) |
+| <img src="https://github.com/webthreejs.png?size=400" width="20" alt=""> [webthreejs](map/webthreejs.md) | web3js | 1 | 72 | [fireship-io](https://github.com/fireship-io), [idmanagement](https://github.com/idmanagement), [suhailkakar](https://github.com/suhailkakar) |
+| <img src="https://github.com/javascriptit.png?size=400" width="20" alt=""> [javascriptit](map/javascriptit.md) _(related)_ | JavaScript the client side language of the World Wide Web | 0 | 346 | [bankonme](https://github.com/bankonme), [reduxjs](https://github.com/reduxjs), [aeternity](https://github.com/aeternity) |
 
 **Notable original works**
 
@@ -131,15 +131,15 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [researchsolution](map/researchsolution.md) | contract programming Decentralized Autonomous Intelligent Organization | 10 | 108 | [anyswap](https://github.com/anyswap), [DAOcommunity](https://github.com/DAOcommunity), [alchemyplatform](https://github.com/alchemyplatform) |
-| [DAONOW](map/daonow.md) | collection of inception contracts for DAO creation | 8 | 143 | [cryptoboml](https://github.com/cryptoboml), [daostack](https://github.com/daostack), [sky-ecosystem](https://github.com/sky-ecosystem) |
-| [deltav-deltaverse](map/deltav-deltaverse.md) | Decentralised cryptoverse metaDAO | 8 | 119 | [fetchai](https://github.com/fetchai), [Zilliqa](https://github.com/Zilliqa), [alturanft](https://github.com/alturanft) |
-| [w3DAIO](map/w3daio.md) | Decentralized Autonomous Intelligent Organization | 4 | 1 | [scaffold-eth](https://github.com/scaffold-eth) |
-| [DAOcommunity](map/daocommunity.md) | — | 3 | 60 | [DAONOW](https://github.com/DAONOW), [sky-ecosystem](https://github.com/sky-ecosystem), [ArweaveTeam](https://github.com/ArweaveTeam) |
-| [DeltaLabratory](map/deltalabratory.md) | Experimental Zone enter at own risk | 3 | 90 | [deltav-deltaverse](https://github.com/deltav-deltaverse), [itoonx](https://github.com/itoonx), [freeciv](https://github.com/freeciv) |
-| [DeltaVerseDAO](map/deltaversedao.md) | deltaverse.dao | 2 | 70 | [DAONOW](https://github.com/DAONOW), [stargate-protocol](https://github.com/stargate-protocol), [decentdao](https://github.com/decentdao) |
-| [mldaio](map/mldaio.md) | machine learning decentralised autonomous organisation | 2 | 0 | — |
-| [web3buysell](map/web3buysell.md) | DAO of buy and sel | 1 | 30 | [OpenBazaar](https://github.com/OpenBazaar), [bitpay](https://github.com/bitpay), [DcentWallet](https://github.com/DcentWallet) |
+| <img src="https://github.com/researchsolution.png?size=400" width="20" alt=""> [researchsolution](map/researchsolution.md) | contract programming Decentralized Autonomous Intelligent Organization | 10 | 108 | [anyswap](https://github.com/anyswap), [DAOcommunity](https://github.com/DAOcommunity), [alchemyplatform](https://github.com/alchemyplatform) |
+| <img src="https://github.com/DAONOW.png?size=400" width="20" alt=""> [DAONOW](map/daonow.md) | collection of inception contracts for DAO creation | 8 | 143 | [cryptoboml](https://github.com/cryptoboml), [daostack](https://github.com/daostack), [sky-ecosystem](https://github.com/sky-ecosystem) |
+| <img src="https://github.com/deltav-deltaverse.png?size=400" width="20" alt=""> [deltav-deltaverse](map/deltav-deltaverse.md) | Decentralised cryptoverse metaDAO | 8 | 119 | [fetchai](https://github.com/fetchai), [Zilliqa](https://github.com/Zilliqa), [alturanft](https://github.com/alturanft) |
+| <img src="https://github.com/w3DAIO.png?size=400" width="20" alt=""> [w3DAIO](map/w3daio.md) | Decentralized Autonomous Intelligent Organization | 4 | 1 | [scaffold-eth](https://github.com/scaffold-eth) |
+| <img src="https://github.com/DAOcommunity.png?size=400" width="20" alt=""> [DAOcommunity](map/daocommunity.md) | — | 3 | 60 | [DAONOW](https://github.com/DAONOW), [sky-ecosystem](https://github.com/sky-ecosystem), [ArweaveTeam](https://github.com/ArweaveTeam) |
+| <img src="https://github.com/DeltaLabratory.png?size=400" width="20" alt=""> [DeltaLabratory](map/deltalabratory.md) | Experimental Zone enter at own risk | 3 | 90 | [deltav-deltaverse](https://github.com/deltav-deltaverse), [itoonx](https://github.com/itoonx), [freeciv](https://github.com/freeciv) |
+| <img src="https://github.com/DeltaVerseDAO.png?size=400" width="20" alt=""> [DeltaVerseDAO](map/deltaversedao.md) | deltaverse.dao | 2 | 70 | [DAONOW](https://github.com/DAONOW), [stargate-protocol](https://github.com/stargate-protocol), [decentdao](https://github.com/decentdao) |
+| <img src="https://github.com/mldaio.png?size=400" width="20" alt=""> [mldaio](map/mldaio.md) | machine learning decentralised autonomous organisation | 2 | 0 | — |
+| <img src="https://github.com/web3buysell.png?size=400" width="20" alt=""> [web3buysell](map/web3buysell.md) | DAO of buy and sel | 1 | 30 | [OpenBazaar](https://github.com/OpenBazaar), [bitpay](https://github.com/bitpay), [DcentWallet](https://github.com/DcentWallet) |
 
 **Notable original works**
 
@@ -164,22 +164,22 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [thTNT](map/thtnt.md) | THRUST NETWORK TECHNOLOGY blockchain solutions | 9 | 60 | [0xPolygon](https://github.com/0xPolygon), [ChainSafe](https://github.com/ChainSafe), [BuildOnPolygon](https://github.com/BuildOnPolygon) |
-| [LAIR3](map/lair3.md) | layer 3 Blockchain Deployment Kit  Interplanetary Consensus solutions | 8 | 99 | [0xPolygon](https://github.com/0xPolygon), [alpinelinux](https://github.com/alpinelinux), [agglayer](https://github.com/agglayer) |
-| [deltavchain](map/deltavchain.md) | DeltaV THRUST interoperable EVM blockchain environment | 7 | 59 | [cosmos](https://github.com/cosmos), [TotlePlatform](https://github.com/TotlePlatform), [EmerisHQ](https://github.com/EmerisHQ) |
-| [openbdk](map/openbdk.md) | Open Blockchain Development Kit | 5 | 3 | [blockscout](https://github.com/blockscout), [LAIR3](https://github.com/LAIR3), [Zilliqa](https://github.com/Zilliqa) |
-| [ailgo](map/ailgo.md) | — | 4 | 103 | [algorandfoundation](https://github.com/algorandfoundation), [algorand-devrel](https://github.com/algorand-devrel), [TxnLab](https://github.com/TxnLab) |
-| [deltabridge](map/deltabridge.md) | deltabridge implementation of the delta algorithm | 3 | 145 | [renproject](https://github.com/renproject), [omni](https://github.com/omni), [THRUSTDeltaV](https://github.com/THRUSTDeltaV) |
-| [deltalgorand](map/deltalgorand.md) | DeltaVerse cross-bridge web3D resourcecode for Algorand blockchain integration | 3 | 42 | [algorand](https://github.com/algorand), [ObsidianLabs](https://github.com/ObsidianLabs), [LoafPickleWW](https://github.com/LoafPickleWW) |
-| [deltastorage](map/deltastorage.md) | Zilliqa Scilla language exploration | 3 | 55 | [Zilliqa](https://github.com/Zilliqa), [unstoppabledomains](https://github.com/unstoppabledomains), [ipfs-search](https://github.com/ipfs-search) |
-| [thTNT2](map/thtnt2.md) | mess of code for hackFS research | 3 | 48 | [ChainSafe](https://github.com/ChainSafe), [orbs-network](https://github.com/orbs-network), [IPFSdapps](https://github.com/IPFSdapps) |
-| [daisychn](map/daisychn.md) | layer three agentic blockchain | 2 | 2 | [solana-foundation](https://github.com/solana-foundation), [sramos30](https://github.com/sramos30) |
-| [THRUSTCHAIN](map/thrustchain.md) | THRUST TNT blockchain development | 2 | 19 | [ava-labs](https://github.com/ava-labs), [BLASTchain](https://github.com/BLASTchain), [ethereum-optimism](https://github.com/ethereum-optimism) |
-| [deltamoonbeam](map/deltamoonbeam.md) | exploration of DEX on ERC-20 chains | 1 | 7 | [stellaswap](https://github.com/stellaswap), [DefiLlama](https://github.com/DefiLlama), [ObsidianLabs](https://github.com/ObsidianLabs) |
-| [rustchain](map/rustchain.md) | collection of tools to support rust blockchains including Partisia, Solana, and Cosm Wasm enhanced by SOLmaster GPT agent | 1 | 21 | [matter-labs](https://github.com/matter-labs), [solidquant](https://github.com/solidquant), [xmtp](https://github.com/xmtp) |
-| [THCHAIN](map/thchain.md) | — | 1 | 58 | [ava-labs](https://github.com/ava-labs), [skalenetwork](https://github.com/skalenetwork), [cosmos](https://github.com/cosmos) |
-| [TNTbkc](map/tntbkc.md) | THRUST TNT contains the tools to deploy THRUST TNT blockchain testnet | 1 | 35 | [ava-labs](https://github.com/ava-labs), [IPFSdapps](https://github.com/IPFSdapps), [ChainSafe](https://github.com/ChainSafe) |
-| [mbGLMR](map/mbglmr.md) | independent work on the decentralised glimmer network | 0 | 0 | — |
+| <img src="https://github.com/thTNT.png?size=400" width="20" alt=""> [thTNT](map/thtnt.md) | THRUST NETWORK TECHNOLOGY blockchain solutions | 9 | 60 | [0xPolygon](https://github.com/0xPolygon), [ChainSafe](https://github.com/ChainSafe), [BuildOnPolygon](https://github.com/BuildOnPolygon) |
+| <img src="https://github.com/LAIR3.png?size=400" width="20" alt=""> [LAIR3](map/lair3.md) | layer 3 Blockchain Deployment Kit  Interplanetary Consensus solutions | 8 | 99 | [0xPolygon](https://github.com/0xPolygon), [alpinelinux](https://github.com/alpinelinux), [agglayer](https://github.com/agglayer) |
+| <img src="https://github.com/deltavchain.png?size=400" width="20" alt=""> [deltavchain](map/deltavchain.md) | DeltaV THRUST interoperable EVM blockchain environment | 7 | 59 | [cosmos](https://github.com/cosmos), [TotlePlatform](https://github.com/TotlePlatform), [EmerisHQ](https://github.com/EmerisHQ) |
+| <img src="https://github.com/openbdk.png?size=400" width="20" alt=""> [openbdk](map/openbdk.md) | Open Blockchain Development Kit | 5 | 3 | [blockscout](https://github.com/blockscout), [LAIR3](https://github.com/LAIR3), [Zilliqa](https://github.com/Zilliqa) |
+| <img src="https://github.com/ailgo.png?size=400" width="20" alt=""> [ailgo](map/ailgo.md) | — | 4 | 103 | [algorandfoundation](https://github.com/algorandfoundation), [algorand-devrel](https://github.com/algorand-devrel), [TxnLab](https://github.com/TxnLab) |
+| <img src="https://github.com/deltabridge.png?size=400" width="20" alt=""> [deltabridge](map/deltabridge.md) | deltabridge implementation of the delta algorithm | 3 | 145 | [renproject](https://github.com/renproject), [omni](https://github.com/omni), [THRUSTDeltaV](https://github.com/THRUSTDeltaV) |
+| <img src="https://github.com/deltalgorand.png?size=400" width="20" alt=""> [deltalgorand](map/deltalgorand.md) | DeltaVerse cross-bridge web3D resourcecode for Algorand blockchain integration | 3 | 42 | [algorand](https://github.com/algorand), [ObsidianLabs](https://github.com/ObsidianLabs), [LoafPickleWW](https://github.com/LoafPickleWW) |
+| <img src="https://github.com/deltastorage.png?size=400" width="20" alt=""> [deltastorage](map/deltastorage.md) | Zilliqa Scilla language exploration | 3 | 55 | [Zilliqa](https://github.com/Zilliqa), [unstoppabledomains](https://github.com/unstoppabledomains), [ipfs-search](https://github.com/ipfs-search) |
+| <img src="https://github.com/thTNT2.png?size=400" width="20" alt=""> [thTNT2](map/thtnt2.md) | mess of code for hackFS research | 3 | 48 | [ChainSafe](https://github.com/ChainSafe), [orbs-network](https://github.com/orbs-network), [IPFSdapps](https://github.com/IPFSdapps) |
+| <img src="https://github.com/daisychn.png?size=400" width="20" alt=""> [daisychn](map/daisychn.md) | layer three agentic blockchain | 2 | 2 | [solana-foundation](https://github.com/solana-foundation), [sramos30](https://github.com/sramos30) |
+| <img src="https://github.com/THRUSTCHAIN.png?size=400" width="20" alt=""> [THRUSTCHAIN](map/thrustchain.md) | THRUST TNT blockchain development | 2 | 19 | [ava-labs](https://github.com/ava-labs), [BLASTchain](https://github.com/BLASTchain), [ethereum-optimism](https://github.com/ethereum-optimism) |
+| <img src="https://github.com/deltamoonbeam.png?size=400" width="20" alt=""> [deltamoonbeam](map/deltamoonbeam.md) | exploration of DEX on ERC-20 chains | 1 | 7 | [stellaswap](https://github.com/stellaswap), [DefiLlama](https://github.com/DefiLlama), [ObsidianLabs](https://github.com/ObsidianLabs) |
+| <img src="https://github.com/rustchain.png?size=400" width="20" alt=""> [rustchain](map/rustchain.md) | collection of tools to support rust blockchains including Partisia, Solana, and Cosm Wasm enhanced by SOLmaster GPT agent | 1 | 21 | [matter-labs](https://github.com/matter-labs), [solidquant](https://github.com/solidquant), [xmtp](https://github.com/xmtp) |
+| <img src="https://github.com/THCHAIN.png?size=400" width="20" alt=""> [THCHAIN](map/thchain.md) | — | 1 | 58 | [ava-labs](https://github.com/ava-labs), [skalenetwork](https://github.com/skalenetwork), [cosmos](https://github.com/cosmos) |
+| <img src="https://github.com/TNTbkc.png?size=400" width="20" alt=""> [TNTbkc](map/tntbkc.md) | THRUST TNT contains the tools to deploy THRUST TNT blockchain testnet | 1 | 35 | [ava-labs](https://github.com/ava-labs), [IPFSdapps](https://github.com/IPFSdapps), [ChainSafe](https://github.com/ChainSafe) |
+| <img src="https://github.com/mbGLMR.png?size=400" width="20" alt=""> [mbGLMR](map/mbglmr.md) | independent work on the decentralised glimmer network | 0 | 0 | — |
 
 **Notable original works**
 
@@ -204,9 +204,9 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [solidml](map/solidml.md) | solidity and machine learning reference zone | 4 | 127 | [BuildOnBeam](https://github.com/BuildOnBeam), [gnosisguild](https://github.com/gnosisguild), [IPFSdapps](https://github.com/IPFSdapps) |
-| [S-M-A-I-R-T](map/s-m-a-i-r-t.md) | Solidity Machine Augmented Intelligence Responsive Technology | 3 | 24 | — |
-| [pyeth](map/pyeth.md) | Ethereum Virtual Machine Python tools | 2 | 81 | [ethereum](https://github.com/ethereum), [ApeWorX](https://github.com/ApeWorX), [remix-project-org](https://github.com/remix-project-org) |
+| <img src="https://github.com/solidml.png?size=400" width="20" alt=""> [solidml](map/solidml.md) | solidity and machine learning reference zone | 4 | 127 | [BuildOnBeam](https://github.com/BuildOnBeam), [gnosisguild](https://github.com/gnosisguild), [IPFSdapps](https://github.com/IPFSdapps) |
+| <img src="https://github.com/S-M-A-I-R-T.png?size=400" width="20" alt=""> [S-M-A-I-R-T](map/s-m-a-i-r-t.md) | Solidity Machine Augmented Intelligence Responsive Technology | 3 | 24 | — |
+| <img src="https://github.com/pyeth.png?size=400" width="20" alt=""> [pyeth](map/pyeth.md) | Ethereum Virtual Machine Python tools | 2 | 81 | [ethereum](https://github.com/ethereum), [ApeWorX](https://github.com/ApeWorX), [remix-project-org](https://github.com/remix-project-org) |
 
 **Notable original works**
 
@@ -229,15 +229,15 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [SHAMBA-LUV](map/shamba-luv.md) | SHAMBA LUV is a digital gesture designed to spread abundance, fun, and community vibe social sharing building an emotional economy | 17 | 2 | [thirdweb-dev](https://github.com/thirdweb-dev), [web3](https://github.com/web3) |
-| [BANKONPYTHAI](map/bankonpythai.md) | fixed-supply Qubic quantum price oracle | 8 | 15 | [qubic](https://github.com/qubic), [secretkeylabs](https://github.com/secretkeylabs), [stx-labs](https://github.com/stx-labs) |
-| [tethercoin](map/tethercoin.md) | research and development into pegged cryptocurrency assets | 8 | 50 | [sky-ecosystem](https://github.com/sky-ecosystem), [paxosglobal](https://github.com/paxosglobal), [curvefi](https://github.com/curvefi) |
-| [spintrade](map/spintrade.md) _(related)_ | DEX | 3 | 225 | [1inch](https://github.com/1inch), [Switcheo](https://github.com/Switcheo), [smartspintrade](https://github.com/smartspintrade) |
-| [dairef](map/dairef.md) | A general reference to programmable DAI | 2 | 21 | [sky-ecosystem](https://github.com/sky-ecosystem), [deltaloans](https://github.com/deltaloans), [tethercoin](https://github.com/tethercoin) |
-| [thrustdrop](map/thrustdrop.md) | research and development into improvements of token and airdrop contracts and interfaces | 2 | 36 | [DeltaVThrust-NFT](https://github.com/DeltaVThrust-NFT), [snapshot-labs](https://github.com/snapshot-labs), [CryptoverseCC](https://github.com/CryptoverseCC) |
-| [cryptotraderagi](map/cryptotraderagi.md) | research into trading platforms and machine learning | 1 | 22 | [marketcalls](https://github.com/marketcalls), [blockscout](https://github.com/blockscout), [eyaltoledano](https://github.com/eyaltoledano) |
-| [deltaloans](map/deltaloans.md) | research into flashloans and interface designs to create value from debt | 1 | 47 | [aave](https://github.com/aave), [arcxmoney](https://github.com/arcxmoney), [cache-token](https://github.com/cache-token) |
-| [limitorder](map/limitorder.md) | collection of limit order code for the creation of a sane stop loss tool | 1 | 15 | [orbs-network](https://github.com/orbs-network), [sushiswap](https://github.com/sushiswap), [1inch](https://github.com/1inch) |
+| <img src="https://github.com/SHAMBA-LUV.png?size=400" width="20" alt=""> [SHAMBA-LUV](map/shamba-luv.md) | SHAMBA LUV is a digital gesture designed to spread abundance, fun, and community vibe social sharing building an emotional economy | 17 | 2 | [thirdweb-dev](https://github.com/thirdweb-dev), [web3](https://github.com/web3) |
+| <img src="https://github.com/BANKONPYTHAI.png?size=400" width="20" alt=""> [BANKONPYTHAI](map/bankonpythai.md) | fixed-supply Qubic quantum price oracle | 8 | 15 | [qubic](https://github.com/qubic), [secretkeylabs](https://github.com/secretkeylabs), [stx-labs](https://github.com/stx-labs) |
+| <img src="https://github.com/tethercoin.png?size=400" width="20" alt=""> [tethercoin](map/tethercoin.md) | research and development into pegged cryptocurrency assets | 8 | 50 | [sky-ecosystem](https://github.com/sky-ecosystem), [paxosglobal](https://github.com/paxosglobal), [curvefi](https://github.com/curvefi) |
+| <img src="https://github.com/spintrade.png?size=400" width="20" alt=""> [spintrade](map/spintrade.md) _(related)_ | DEX | 3 | 225 | [1inch](https://github.com/1inch), [Switcheo](https://github.com/Switcheo), [smartspintrade](https://github.com/smartspintrade) |
+| <img src="https://github.com/dairef.png?size=400" width="20" alt=""> [dairef](map/dairef.md) | A general reference to programmable DAI | 2 | 21 | [sky-ecosystem](https://github.com/sky-ecosystem), [deltaloans](https://github.com/deltaloans), [tethercoin](https://github.com/tethercoin) |
+| <img src="https://github.com/thrustdrop.png?size=400" width="20" alt=""> [thrustdrop](map/thrustdrop.md) | research and development into improvements of token and airdrop contracts and interfaces | 2 | 36 | [DeltaVThrust-NFT](https://github.com/DeltaVThrust-NFT), [snapshot-labs](https://github.com/snapshot-labs), [CryptoverseCC](https://github.com/CryptoverseCC) |
+| <img src="https://github.com/cryptotraderagi.png?size=400" width="20" alt=""> [cryptotraderagi](map/cryptotraderagi.md) | research into trading platforms and machine learning | 1 | 22 | [marketcalls](https://github.com/marketcalls), [blockscout](https://github.com/blockscout), [eyaltoledano](https://github.com/eyaltoledano) |
+| <img src="https://github.com/deltaloans.png?size=400" width="20" alt=""> [deltaloans](map/deltaloans.md) | research into flashloans and interface designs to create value from debt | 1 | 47 | [aave](https://github.com/aave), [arcxmoney](https://github.com/arcxmoney), [cache-token](https://github.com/cache-token) |
+| <img src="https://github.com/limitorder.png?size=400" width="20" alt=""> [limitorder](map/limitorder.md) | collection of limit order code for the creation of a sane stop loss tool | 1 | 15 | [orbs-network](https://github.com/orbs-network), [sushiswap](https://github.com/sushiswap), [1inch](https://github.com/1inch) |
 
 **Notable original works**
 
@@ -262,12 +262,12 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [pkNFTapi](map/pknftapi.md) | programmable private key prompt knowledge | 11 | 1 | [aaldemir](https://github.com/aaldemir) |
-| [DeltaVThrust-NFT](map/deltavthrust-nft.md) | source code to create and manipulate non-fungible-tokens | 9 | 162 | [thirdweb-example](https://github.com/thirdweb-example), [deltav-deltaverse](https://github.com/deltav-deltaverse), [karangoraniya](https://github.com/karangoraniya) |
-| [NFTmr](map/nftmr.md) | NFT Marketplace Royalties | 2 | 39 | [DeltaVThrust-NFT](https://github.com/DeltaVThrust-NFT), [alchemyplatform](https://github.com/alchemyplatform), [bernatmarcilla](https://github.com/bernatmarcilla) |
-| [ipNFTfs](map/ipnftfs.md) | interplanetary NFT file system utility development | 1 | 21 | [interplanetaryfilesystem](https://github.com/interplanetaryfilesystem), [rustchain](https://github.com/rustchain) |
-| [NFTdr](map/nftdr.md) | NFT data royalties | 1 | 2 | [blktalk](https://github.com/blktalk), [limitbreakinc](https://github.com/limitbreakinc) |
-| [satoshigen](map/satoshigen.md) | Bitcoin ordinal inscription of a Satoshi for immutable friction | 1 | 18 | [unisat-wallet](https://github.com/unisat-wallet), [ordinals](https://github.com/ordinals), [BitcoinSchema](https://github.com/BitcoinSchema) |
+| <img src="https://github.com/pkNFTapi.png?size=400" width="20" alt=""> [pkNFTapi](map/pknftapi.md) | programmable private key prompt knowledge | 11 | 1 | [aaldemir](https://github.com/aaldemir) |
+| <img src="https://github.com/DeltaVThrust-NFT.png?size=400" width="20" alt=""> [DeltaVThrust-NFT](map/deltavthrust-nft.md) | source code to create and manipulate non-fungible-tokens | 9 | 162 | [thirdweb-example](https://github.com/thirdweb-example), [deltav-deltaverse](https://github.com/deltav-deltaverse), [karangoraniya](https://github.com/karangoraniya) |
+| <img src="https://github.com/NFTmr.png?size=400" width="20" alt=""> [NFTmr](map/nftmr.md) | NFT Marketplace Royalties | 2 | 39 | [DeltaVThrust-NFT](https://github.com/DeltaVThrust-NFT), [alchemyplatform](https://github.com/alchemyplatform), [bernatmarcilla](https://github.com/bernatmarcilla) |
+| <img src="https://github.com/ipNFTfs.png?size=400" width="20" alt=""> [ipNFTfs](map/ipnftfs.md) | interplanetary NFT file system utility development | 1 | 21 | [interplanetaryfilesystem](https://github.com/interplanetaryfilesystem), [rustchain](https://github.com/rustchain) |
+| <img src="https://github.com/NFTdr.png?size=400" width="20" alt=""> [NFTdr](map/nftdr.md) | NFT data royalties | 1 | 2 | [blktalk](https://github.com/blktalk), [limitbreakinc](https://github.com/limitbreakinc) |
+| <img src="https://github.com/satoshigen.png?size=400" width="20" alt=""> [satoshigen](map/satoshigen.md) | Bitcoin ordinal inscription of a Satoshi for immutable friction | 1 | 18 | [unisat-wallet](https://github.com/unisat-wallet), [ordinals](https://github.com/ordinals), [BitcoinSchema](https://github.com/BitcoinSchema) |
 
 **Notable original works**
 
@@ -292,18 +292,18 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [bankonme](map/bankonme.md) _(related)_ | bankon.me privacy, integrity and security for your personal banking information | 23 | 429 | [bitpay](https://github.com/bitpay), [ripple](https://github.com/ripple), [ripple-unmaintained](https://github.com/ripple-unmaintained) |
-| [cypherpunk4096](map/cypherpunk4096.md) | 2^3==8 | 15 | 1 | [bitcoin](https://github.com/bitcoin) |
-| [cypherpunk2048](map/cypherpunk2048.md) | standard | 8 | 1 | [stacks-network](https://github.com/stacks-network) |
-| [cryptocurrent](map/cryptocurrent.md) _(related)_ | A repository to store some of the code to build the bankonmeOS Desktop as a bash shell script. | 5 | 186 | [bankonme](https://github.com/bankonme), [ethereum](https://github.com/ethereum), [javascriptit](https://github.com/javascriptit) |
-| [idmanagement](map/idmanagement.md) | I am who I am because of who I am | 5 | 210 | [MetaMask](https://github.com/MetaMask), [CryptoverseCC](https://github.com/CryptoverseCC), [thirdweb-example](https://github.com/thirdweb-example) |
-| [parsec-wallet](map/parsec-wallet.md) | PARSEC cryptocurrency wallet | 5 | 56 | [MetaMask](https://github.com/MetaMask), [bitpay](https://github.com/bitpay), [DcentWallet](https://github.com/DcentWallet) |
-| [abstractionwallet](map/abstractionwallet.md) | research into wallet abstraction alchemy resources general reference guide | 4 | 35 | [alchemyplatform](https://github.com/alchemyplatform), [qubic](https://github.com/qubic), [Web3dGuy](https://github.com/Web3dGuy) |
-| [bankonvault](map/bankonvault.md) | client to data storage facilitation | 2 | 90 | [bankonme](https://github.com/bankonme), [safe-global](https://github.com/safe-global), [decenterland](https://github.com/decenterland) |
-| [poormanvpn](map/poormanvpn.md) | poor mans VPN client server code | 2 | 4 | [aiterm](https://github.com/aiterm), [mscdex](https://github.com/mscdex), [paramiko](https://github.com/paramiko) |
-| [bankonmecoin](map/bankonmecoin.md) _(related)_ | An exercise in cryptonote technology | 1 | 30 | [bankonme](https://github.com/bankonme), [cryptocurrent](https://github.com/cryptocurrent), [cryptonotefoundation](https://github.com/cryptonotefoundation) |
-| [metasnaps](map/metasnaps.md) | metamask snap extensions for deltaverse | 1 | 11 | [algorandfoundation](https://github.com/algorandfoundation), [blockchain-lab-um](https://github.com/blockchain-lab-um), [cosmos](https://github.com/cosmos) |
-| [smartmetamask](map/smartmetamask.md) _(related)_ | making metamask smarter | 0 | 108 | [MetaMask](https://github.com/MetaMask), [smartBNBmetrics](https://github.com/smartBNBmetrics), [CryptoverseCC](https://github.com/CryptoverseCC) |
+| <img src="https://github.com/bankonme.png?size=400" width="20" alt=""> [bankonme](map/bankonme.md) _(related)_ | bankon.me privacy, integrity and security for your personal banking information | 23 | 429 | [bitpay](https://github.com/bitpay), [ripple](https://github.com/ripple), [ripple-unmaintained](https://github.com/ripple-unmaintained) |
+| <img src="https://github.com/cypherpunk4096.png?size=400" width="20" alt=""> [cypherpunk4096](map/cypherpunk4096.md) | 2^3==8 | 15 | 1 | [bitcoin](https://github.com/bitcoin) |
+| <img src="https://github.com/cypherpunk2048.png?size=400" width="20" alt=""> [cypherpunk2048](map/cypherpunk2048.md) | standard | 8 | 1 | [stacks-network](https://github.com/stacks-network) |
+| <img src="https://github.com/cryptocurrent.png?size=400" width="20" alt=""> [cryptocurrent](map/cryptocurrent.md) _(related)_ | A repository to store some of the code to build the bankonmeOS Desktop as a bash shell script. | 5 | 186 | [bankonme](https://github.com/bankonme), [ethereum](https://github.com/ethereum), [javascriptit](https://github.com/javascriptit) |
+| <img src="https://github.com/idmanagement.png?size=400" width="20" alt=""> [idmanagement](map/idmanagement.md) | I am who I am because of who I am | 5 | 210 | [MetaMask](https://github.com/MetaMask), [CryptoverseCC](https://github.com/CryptoverseCC), [thirdweb-example](https://github.com/thirdweb-example) |
+| <img src="https://github.com/parsec-wallet.png?size=400" width="20" alt=""> [parsec-wallet](map/parsec-wallet.md) | PARSEC cryptocurrency wallet | 5 | 56 | [MetaMask](https://github.com/MetaMask), [bitpay](https://github.com/bitpay), [DcentWallet](https://github.com/DcentWallet) |
+| <img src="https://github.com/abstractionwallet.png?size=400" width="20" alt=""> [abstractionwallet](map/abstractionwallet.md) | research into wallet abstraction alchemy resources general reference guide | 4 | 35 | [alchemyplatform](https://github.com/alchemyplatform), [qubic](https://github.com/qubic), [Web3dGuy](https://github.com/Web3dGuy) |
+| <img src="https://github.com/bankonvault.png?size=400" width="20" alt=""> [bankonvault](map/bankonvault.md) | client to data storage facilitation | 2 | 90 | [bankonme](https://github.com/bankonme), [safe-global](https://github.com/safe-global), [decenterland](https://github.com/decenterland) |
+| <img src="https://github.com/poormanvpn.png?size=400" width="20" alt=""> [poormanvpn](map/poormanvpn.md) | poor mans VPN client server code | 2 | 4 | [aiterm](https://github.com/aiterm), [mscdex](https://github.com/mscdex), [paramiko](https://github.com/paramiko) |
+| <img src="https://github.com/bankonmecoin.png?size=400" width="20" alt=""> [bankonmecoin](map/bankonmecoin.md) _(related)_ | An exercise in cryptonote technology | 1 | 30 | [bankonme](https://github.com/bankonme), [cryptocurrent](https://github.com/cryptocurrent), [cryptonotefoundation](https://github.com/cryptonotefoundation) |
+| <img src="https://github.com/metasnaps.png?size=400" width="20" alt=""> [metasnaps](map/metasnaps.md) | metamask snap extensions for deltaverse | 1 | 11 | [algorandfoundation](https://github.com/algorandfoundation), [blockchain-lab-um](https://github.com/blockchain-lab-um), [cosmos](https://github.com/cosmos) |
+| <img src="https://github.com/smartmetamask.png?size=400" width="20" alt=""> [smartmetamask](map/smartmetamask.md) _(related)_ | making metamask smarter | 0 | 108 | [MetaMask](https://github.com/MetaMask), [smartBNBmetrics](https://github.com/smartBNBmetrics), [CryptoverseCC](https://github.com/CryptoverseCC) |
 
 **Notable original works**
 
@@ -328,9 +328,9 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [IPFSdapps](map/ipfsdapps.md) | decentralized front end DAPP development exploration | 9 | 121 | [deltastorage](https://github.com/deltastorage), [DeltaVML](https://github.com/DeltaVML), [DeltaVThrust-NFT](https://github.com/DeltaVThrust-NFT) |
-| [interplanetaryfilesystem](map/interplanetaryfilesystem.md) | IPFS development archive | 2 | 73 | [ipfs](https://github.com/ipfs), [nftstorage](https://github.com/nftstorage), [ipld](https://github.com/ipld) |
-| [STORAGESTAR](map/storagestar.md) | Storage Star | 2 | 1 | [dchest](https://github.com/dchest) |
+| <img src="https://github.com/IPFSdapps.png?size=400" width="20" alt=""> [IPFSdapps](map/ipfsdapps.md) | decentralized front end DAPP development exploration | 9 | 121 | [deltastorage](https://github.com/deltastorage), [DeltaVML](https://github.com/DeltaVML), [DeltaVThrust-NFT](https://github.com/DeltaVThrust-NFT) |
+| <img src="https://github.com/interplanetaryfilesystem.png?size=400" width="20" alt=""> [interplanetaryfilesystem](map/interplanetaryfilesystem.md) | IPFS development archive | 2 | 73 | [ipfs](https://github.com/ipfs), [nftstorage](https://github.com/nftstorage), [ipld](https://github.com/ipld) |
+| <img src="https://github.com/STORAGESTAR.png?size=400" width="20" alt=""> [STORAGESTAR](map/storagestar.md) | Storage Star | 2 | 1 | [dchest](https://github.com/dchest) |
 
 **Notable original works**
 
@@ -368,11 +368,11 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [blockwhisper](map/blockwhisper.md) | blockchain.communication — carried forward: the continuation of the forum, the chain, the environment and the systems layer | 2 | 0 | — |
-| [chatter3](map/chatter3.md) | blockchain.communication — the forum: signature-verified conversation for people and agents | 2 | 41 | [xmtp](https://github.com/xmtp), [WalletConnect](https://github.com/WalletConnect), [reown-com](https://github.com/reown-com) |
-| [web3comm](map/web3comm.md) | Token Talk Transaction web3 communication environment | 2 | 59 | [Web3Auth](https://github.com/Web3Auth), [idmanagement](https://github.com/idmanagement), [webthreejs](https://github.com/webthreejs) |
-| [blktalk](map/blktalk.md) | blockchain communication system | 1 | 48 | [web3comm](https://github.com/web3comm), [consensus-shipyard](https://github.com/consensus-shipyard), [dyne](https://github.com/dyne) |
-| [chattchain](map/chattchain.md) | blockchain.communication — the chain: messages and identity carried on chain, verified by signature | 1 | 19 | [chatter3](https://github.com/chatter3), [xmtp](https://github.com/xmtp), [caffeinelabs](https://github.com/caffeinelabs) |
+| <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png" width="20" alt=""> [blockwhisper](map/blockwhisper.md) | blockchain.communication — carried forward: the continuation of the forum, the chain, the environment and the systems layer | 2 | 0 | — |
+| <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/chatter3.png" width="20" alt=""> [chatter3](map/chatter3.md) | blockchain.communication — the forum: signature-verified conversation for people and agents | 2 | 41 | [xmtp](https://github.com/xmtp), [WalletConnect](https://github.com/WalletConnect), [reown-com](https://github.com/reown-com) |
+| <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/web3comm.png" width="20" alt=""> [web3comm](map/web3comm.md) | Token Talk Transaction web3 communication environment | 2 | 59 | [Web3Auth](https://github.com/Web3Auth), [idmanagement](https://github.com/idmanagement), [webthreejs](https://github.com/webthreejs) |
+| <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blktalk.jpg" width="20" alt=""> [blktalk](map/blktalk.md) | blockchain communication system | 1 | 48 | [web3comm](https://github.com/web3comm), [consensus-shipyard](https://github.com/consensus-shipyard), [dyne](https://github.com/dyne) |
+| <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/chattchain.jpg" width="20" alt=""> [chattchain](map/chattchain.md) | blockchain.communication — the chain: messages and identity carried on chain, verified by signature | 1 | 19 | [chatter3](https://github.com/chatter3), [xmtp](https://github.com/xmtp), [caffeinelabs](https://github.com/caffeinelabs) |
 
 **Notable original works**
 
@@ -397,11 +397,11 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 | Organization | Its concept | Original | Research | Studies most |
 |---|---|--:|--:|---|
-| [PYTHIAMYSTIC](map/pythiamystic.md) | mystical guidance from PYTHIA MYSTIC oracle of Delphi | 8 | 12 | [oncyberio](https://github.com/oncyberio), [Web3Auth](https://github.com/Web3Auth), [ipfs](https://github.com/ipfs) |
-| [BRAINCHN](map/brainchn.md) | BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN | 7 | 42 | [decred](https://github.com/decred), [bankonme](https://github.com/bankonme), [bisq-network](https://github.com/bisq-network) |
-| [MYSTICALPYTHIA](map/mysticalpythia.md) | predictions algorithm | 4 | 0 | — |
-| [GrandUnifiedTheoryOfEverything](map/grandunifiedtheoryofeverything.md) | Professor Codephreak explores the fourth dimension and posits Smatter | 2 | 0 | — |
-| [SaveGlaciers](map/saveglaciers.md) | Water is Life | 1 | 15 | [jspruance](https://github.com/jspruance), [decent-labs](https://github.com/decent-labs), [weatherxm-network](https://github.com/weatherxm-network) |
+| <img src="https://github.com/PYTHIAMYSTIC.png?size=400" width="20" alt=""> [PYTHIAMYSTIC](map/pythiamystic.md) | mystical guidance from PYTHIA MYSTIC oracle of Delphi | 8 | 12 | [oncyberio](https://github.com/oncyberio), [Web3Auth](https://github.com/Web3Auth), [ipfs](https://github.com/ipfs) |
+| <img src="https://github.com/BRAINCHN.png?size=400" width="20" alt=""> [BRAINCHN](map/brainchn.md) | BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN | 7 | 42 | [decred](https://github.com/decred), [bankonme](https://github.com/bankonme), [bisq-network](https://github.com/bisq-network) |
+| <img src="https://github.com/MYSTICALPYTHIA.png?size=400" width="20" alt=""> [MYSTICALPYTHIA](map/mysticalpythia.md) | predictions algorithm | 4 | 0 | — |
+| <img src="https://github.com/GrandUnifiedTheoryOfEverything.png?size=400" width="20" alt=""> [GrandUnifiedTheoryOfEverything](map/grandunifiedtheoryofeverything.md) | Professor Codephreak explores the fourth dimension and posits Smatter | 2 | 0 | — |
+| <img src="https://github.com/SaveGlaciers.png?size=400" width="20" alt=""> [SaveGlaciers](map/saveglaciers.md) | Water is Life | 1 | 15 | [jspruance](https://github.com/jspruance), [decent-labs](https://github.com/decent-labs), [weatherxm-network](https://github.com/weatherxm-network) |
 
 **Notable original works**
 

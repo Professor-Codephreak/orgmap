@@ -1,5 +1,7 @@
 # [MYSTICALPYTHIA](https://github.com/MYSTICALPYTHIA)
 
+<p align="center"><a href="https://github.com/MYSTICALPYTHIA"><img src="https://github.com/MYSTICALPYTHIA.png?size=400" width="200" alt="MYSTICALPYTHIA logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#theory) · [profile](https://github.com/MYSTICALPYTHIA) · [repositories](https://github.com/orgs/MYSTICALPYTHIA/repositories)
 
 > predictions algorithm

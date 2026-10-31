@@ -1,5 +1,7 @@
 # [AgenticPlace](https://github.com/AgenticPlace)
 
+<p align="center"><a href="https://github.com/AgenticPlace"><img src="https://github.com/AgenticPlace.png?size=400" width="200" alt="AgenticPlace logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/AgenticPlace) · [repositories](https://github.com/orgs/AgenticPlace/repositories)
 
 > distributed THOT transference

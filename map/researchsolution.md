@@ -1,5 +1,7 @@
 # [researchsolution](https://github.com/researchsolution)
 
+<p align="center"><a href="https://github.com/researchsolution"><img src="https://github.com/researchsolution.png?size=400" width="200" alt="researchsolution logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/researchsolution) · [repositories](https://github.com/orgs/researchsolution/repositories)
 
 > contract programming Decentralized Autonomous Intelligent Organization

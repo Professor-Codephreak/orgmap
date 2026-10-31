@@ -1,5 +1,7 @@
 # [DeltaVerseDAO](https://github.com/DeltaVerseDAO)
 
+<p align="center"><a href="https://github.com/DeltaVerseDAO"><img src="https://github.com/DeltaVerseDAO.png?size=400" width="200" alt="DeltaVerseDAO logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/DeltaVerseDAO) · [repositories](https://github.com/orgs/DeltaVerseDAO/repositories)
 
 > deltaverse.dao

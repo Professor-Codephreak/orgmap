@@ -1,5 +1,7 @@
 # [gnugui](https://github.com/gnugui)
 
+<p align="center"><a href="https://github.com/gnugui"><img src="https://github.com/gnugui.png?size=400" width="200" alt="gnugui logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/gnugui) · [repositories](https://github.com/orgs/gnugui/repositories)
 
 > a GNU GUI for a 3D, expressive web — vault · themes · charts · web3D. GPLv3. take it, own it, use it, share it

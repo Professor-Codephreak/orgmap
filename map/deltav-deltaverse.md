@@ -1,5 +1,7 @@
 # [deltav-deltaverse](https://github.com/deltav-deltaverse)
 
+<p align="center"><a href="https://github.com/deltav-deltaverse"><img src="https://github.com/deltav-deltaverse.png?size=400" width="200" alt="deltav-deltaverse logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/deltav-deltaverse) · [repositories](https://github.com/orgs/deltav-deltaverse/repositories)
 
 > Decentralised cryptoverse metaDAO

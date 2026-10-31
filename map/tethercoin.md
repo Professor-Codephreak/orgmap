@@ -1,5 +1,7 @@
 # [tethercoin](https://github.com/tethercoin)
 
+<p align="center"><a href="https://github.com/tethercoin"><img src="https://github.com/tethercoin.png?size=400" width="200" alt="tethercoin logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/tethercoin) · [repositories](https://github.com/orgs/tethercoin/repositories)
 
 > research and development into pegged cryptocurrency assets

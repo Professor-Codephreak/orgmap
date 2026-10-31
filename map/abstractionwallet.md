@@ -1,5 +1,7 @@
 # [abstractionwallet](https://github.com/abstractionwallet)
 
+<p align="center"><a href="https://github.com/abstractionwallet"><img src="https://github.com/abstractionwallet.png?size=400" width="200" alt="abstractionwallet logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/abstractionwallet) · [repositories](https://github.com/orgs/abstractionwallet/repositories)
 
 > research into wallet abstraction alchemy resources general reference guide

@@ -1,5 +1,7 @@
 # [dairef](https://github.com/dairef)
 
+<p align="center"><a href="https://github.com/dairef"><img src="https://github.com/dairef.png?size=400" width="200" alt="dairef logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/dairef) · [repositories](https://github.com/orgs/dairef/repositories)
 
 > A general reference to programmable DAI

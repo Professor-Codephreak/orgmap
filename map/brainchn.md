@@ -1,5 +1,7 @@
 # [BRAINCHN](https://github.com/BRAINCHN)
 
+<p align="center"><a href="https://github.com/BRAINCHN"><img src="https://github.com/BRAINCHN.png?size=400" width="200" alt="BRAINCHN logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#theory) · [profile](https://github.com/BRAINCHN) · [repositories](https://github.com/orgs/BRAINCHN/repositories)
 
 > BRAINCHAIN  blockchain for the exchange of mental activity idenfified as BRAIN CHN

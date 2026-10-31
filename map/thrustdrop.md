@@ -1,5 +1,7 @@
 # [thrustdrop](https://github.com/thrustdrop)
 
+<p align="center"><a href="https://github.com/thrustdrop"><img src="https://github.com/thrustdrop.png?size=400" width="200" alt="thrustdrop logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/thrustdrop) · [repositories](https://github.com/orgs/thrustdrop/repositories)
 
 > research and development into improvements of token and airdrop contracts and interfaces

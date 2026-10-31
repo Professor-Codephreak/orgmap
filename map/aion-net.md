@@ -1,5 +1,7 @@
 # [AION-NET](https://github.com/AION-NET)
 
+<p align="center"><a href="https://github.com/AION-NET"><img src="https://github.com/AION-NET.png?size=400" width="200" alt="AION-NET logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/AION-NET) · [repositories](https://github.com/orgs/AION-NET/repositories)
 
 > aion-net

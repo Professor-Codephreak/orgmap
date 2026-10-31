@@ -1,5 +1,7 @@
 # [w3DAIO](https://github.com/w3DAIO)
 
+<p align="center"><a href="https://github.com/w3DAIO"><img src="https://github.com/w3DAIO.png?size=400" width="200" alt="w3DAIO logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/w3DAIO) · [repositories](https://github.com/orgs/w3DAIO/repositories)
 
 > Decentralized Autonomous Intelligent Organization

@@ -1,5 +1,7 @@
 # [parsec-wallet](https://github.com/parsec-wallet)
 
+<p align="center"><a href="https://github.com/parsec-wallet"><img src="https://github.com/parsec-wallet.png?size=400" width="200" alt="parsec-wallet logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/parsec-wallet) · [repositories](https://github.com/orgs/parsec-wallet/repositories)
 
 > PARSEC cryptocurrency wallet

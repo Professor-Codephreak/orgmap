@@ -1,5 +1,7 @@
 # [minaiml](https://github.com/minaiml)
 
+<p align="center"><a href="https://github.com/minaiml"><img src="https://github.com/minaiml.png?size=400" width="200" alt="minaiml logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/minaiml) · [repositories](https://github.com/orgs/minaiml/repositories)
 
 > min ai ml   language models in miniature

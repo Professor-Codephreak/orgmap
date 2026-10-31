@@ -1,5 +1,7 @@
 # [autoGLM](https://github.com/autoGLM)
 
+<p align="center"><a href="https://github.com/autoGLM"><img src="https://github.com/autoGLM.png?size=400" width="200" alt="autoGLM logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/autoGLM) · [repositories](https://github.com/orgs/autoGLM/repositories)
 
 > Autonomous General Learning Machine

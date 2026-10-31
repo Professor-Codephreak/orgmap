@@ -1,5 +1,7 @@
 # [cryptotraderagi](https://github.com/cryptotraderagi)
 
+<p align="center"><a href="https://github.com/cryptotraderagi"><img src="https://github.com/cryptotraderagi.png?size=400" width="200" alt="cryptotraderagi logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/cryptotraderagi) · [repositories](https://github.com/orgs/cryptotraderagi/repositories)
 
 > research into trading platforms and machine learning

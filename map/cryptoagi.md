@@ -1,5 +1,7 @@
 # [cryptoAGI](https://github.com/cryptoAGI)
 
+<p align="center"><a href="https://github.com/cryptoAGI"><img src="https://github.com/cryptoAGI.png?size=400" width="200" alt="cryptoAGI logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/cryptoAGI) · [repositories](https://github.com/orgs/cryptoAGI/repositories)
 
 > cryptoAGI

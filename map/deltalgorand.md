@@ -1,5 +1,7 @@
 # [deltalgorand](https://github.com/deltalgorand)
 
+<p align="center"><a href="https://github.com/deltalgorand"><img src="https://github.com/deltalgorand.png?size=400" width="200" alt="deltalgorand logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/deltalgorand) · [repositories](https://github.com/orgs/deltalgorand/repositories)
 
 > DeltaVerse cross-bridge web3D resourcecode for Algorand blockchain integration

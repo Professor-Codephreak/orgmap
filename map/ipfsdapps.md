@@ -1,5 +1,7 @@
 # [IPFSdapps](https://github.com/IPFSdapps)
 
+<p align="center"><a href="https://github.com/IPFSdapps"><img src="https://github.com/IPFSdapps.png?size=400" width="200" alt="IPFSdapps logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#storage) · [profile](https://github.com/IPFSdapps) · [repositories](https://github.com/orgs/IPFSdapps/repositories)
 
 > decentralized front end DAPP development exploration

@@ -1,5 +1,7 @@
 # [webmindml](https://github.com/webmindml)
 
+<p align="center"><a href="https://github.com/webmindml"><img src="https://github.com/webmindml.png?size=400" width="200" alt="webmindml logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/webmindml) · [repositories](https://github.com/orgs/webmindml/repositories)
 
 > distributed l client side local language model development zone

@@ -1,5 +1,7 @@
 # [web3Dai](https://github.com/web3Dai)
 
+<p align="center"><a href="https://github.com/web3Dai"><img src="https://github.com/web3Dai.png?size=400" width="200" alt="web3Dai logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/web3Dai) · [repositories](https://github.com/orgs/web3Dai/repositories)
 
 **Domain:** [Interfaces, web3D and the expressive web](../ARCHIVE.md#ui)

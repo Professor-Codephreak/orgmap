@@ -1,5 +1,7 @@
 # [mlodular](https://github.com/mlodular)
 
+<p align="center"><a href="https://github.com/mlodular"><img src="https://github.com/mlodular.png?size=400" width="200" alt="mlodular logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/mlodular) · [repositories](https://github.com/orgs/mlodular/repositories)
 
 > collection of modular javascript snippets including drag drop 3D design and data sorting

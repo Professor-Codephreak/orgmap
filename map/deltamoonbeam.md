@@ -1,5 +1,7 @@
 # [deltamoonbeam](https://github.com/deltamoonbeam)
 
+<p align="center"><a href="https://github.com/deltamoonbeam"><img src="https://github.com/deltamoonbeam.png?size=400" width="200" alt="deltamoonbeam logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/deltamoonbeam) · [repositories](https://github.com/orgs/deltamoonbeam/repositories)
 
 > exploration of DEX on ERC-20 chains

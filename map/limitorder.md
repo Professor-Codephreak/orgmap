@@ -1,5 +1,7 @@
 # [limitorder](https://github.com/limitorder)
 
+<p align="center"><a href="https://github.com/limitorder"><img src="https://github.com/limitorder.png?size=400" width="200" alt="limitorder logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/limitorder) · [repositories](https://github.com/orgs/limitorder/repositories)
 
 > collection of limit order code for the creation of a sane stop loss tool

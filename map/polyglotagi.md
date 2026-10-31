@@ -1,5 +1,7 @@
 # [polyglotAGI](https://github.com/polyglotAGI)
 
+<p align="center"><a href="https://github.com/polyglotAGI"><img src="https://github.com/polyglotAGI.png?size=400" width="200" alt="polyglotAGI logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/polyglotAGI) · [repositories](https://github.com/orgs/polyglotAGI/repositories)
 
 > multi-model multi-modal machine generative augmented intelligence

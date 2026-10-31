@@ -1,5 +1,7 @@
 # [deltavchain](https://github.com/deltavchain)
 
+<p align="center"><a href="https://github.com/deltavchain"><img src="https://github.com/deltavchain.png?size=400" width="200" alt="deltavchain logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/deltavchain) · [repositories](https://github.com/orgs/deltavchain/repositories)
 
 > DeltaV THRUST interoperable EVM blockchain environment

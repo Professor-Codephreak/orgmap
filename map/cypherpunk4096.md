@@ -1,5 +1,7 @@
 # [cypherpunk4096](https://github.com/cypherpunk4096)
 
+<p align="center"><a href="https://github.com/cypherpunk4096"><img src="https://github.com/cypherpunk4096.png?size=400" width="200" alt="cypherpunk4096 logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/cypherpunk4096) · [repositories](https://github.com/orgs/cypherpunk4096/repositories)
 
 > 2^3==8

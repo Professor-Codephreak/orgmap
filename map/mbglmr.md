@@ -1,5 +1,7 @@
 # [mbGLMR](https://github.com/mbGLMR)
 
+<p align="center"><a href="https://github.com/mbGLMR"><img src="https://github.com/mbGLMR.png?size=400" width="200" alt="mbGLMR logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/mbGLMR) · [repositories](https://github.com/orgs/mbGLMR/repositories)
 
 > independent work on the decentralised glimmer network

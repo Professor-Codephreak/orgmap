@@ -1,5 +1,7 @@
 # [satoshigen](https://github.com/satoshigen)
 
+<p align="center"><a href="https://github.com/satoshigen"><img src="https://github.com/satoshigen.png?size=400" width="200" alt="satoshigen logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#nft) · [profile](https://github.com/satoshigen) · [repositories](https://github.com/orgs/satoshigen/repositories)
 
 > Bitcoin ordinal inscription of a Satoshi for immutable friction

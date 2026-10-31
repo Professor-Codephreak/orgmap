@@ -1,5 +1,7 @@
 # [BROBOTBRAI](https://github.com/BROBOTBRAI)
 
+<p align="center"><a href="https://github.com/BROBOTBRAI"><img src="https://github.com/BROBOTBRAI.png?size=400" width="200" alt="BROBOTBRAI logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/BROBOTBRAI) · [repositories](https://github.com/orgs/BROBOTBRAI/repositories)
 
 > BROBOT BRAI cryptocurrency adoption AI tool

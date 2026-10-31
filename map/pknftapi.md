@@ -1,5 +1,7 @@
 # [pkNFTapi](https://github.com/pkNFTapi)
 
+<p align="center"><a href="https://github.com/pkNFTapi"><img src="https://github.com/pkNFTapi.png?size=400" width="200" alt="pkNFTapi logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#nft) · [profile](https://github.com/pkNFTapi) · [repositories](https://github.com/orgs/pkNFTapi/repositories)
 
 > programmable private key prompt knowledge

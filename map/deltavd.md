@@ -1,5 +1,7 @@
 # [DeltaVD](https://github.com/DeltaVD)
 
+<p align="center"><a href="https://github.com/DeltaVD"><img src="https://github.com/DeltaVD.png?size=400" width="200" alt="DeltaVD logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/DeltaVD) · [repositories](https://github.com/orgs/DeltaVD/repositories)
 
 > DeltaVerse web3D resourcecode

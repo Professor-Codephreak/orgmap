@@ -1,5 +1,7 @@
 # [ipNFTfs](https://github.com/ipNFTfs)
 
+<p align="center"><a href="https://github.com/ipNFTfs"><img src="https://github.com/ipNFTfs.png?size=400" width="200" alt="ipNFTfs logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#nft) · [profile](https://github.com/ipNFTfs) · [repositories](https://github.com/orgs/ipNFTfs/repositories)
 
 > interplanetary NFT file system utility development

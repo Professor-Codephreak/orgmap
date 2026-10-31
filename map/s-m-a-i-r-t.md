@@ -1,5 +1,7 @@
 # [S-M-A-I-R-T](https://github.com/S-M-A-I-R-T)
 
+<p align="center"><a href="https://github.com/S-M-A-I-R-T"><img src="https://github.com/S-M-A-I-R-T.png?size=400" width="200" alt="S-M-A-I-R-T logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#contracts) · [profile](https://github.com/S-M-A-I-R-T) · [repositories](https://github.com/orgs/S-M-A-I-R-T/repositories)
 
 > Solidity Machine Augmented Intelligence Responsive Technology

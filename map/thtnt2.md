@@ -1,5 +1,7 @@
 # [thTNT2](https://github.com/thTNT2)
 
+<p align="center"><a href="https://github.com/thTNT2"><img src="https://github.com/thTNT2.png?size=400" width="200" alt="thTNT2 logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/thTNT2) · [repositories](https://github.com/orgs/thTNT2/repositories)
 
 > mess of code for hackFS research

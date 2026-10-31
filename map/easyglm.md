@@ -1,5 +1,7 @@
 # [easyGLM](https://github.com/easyGLM)
 
+<p align="center"><a href="https://github.com/easyGLM"><img src="https://github.com/easyGLM.png?size=400" width="200" alt="easyGLM logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/easyGLM) · [repositories](https://github.com/orgs/easyGLM/repositories)
 
 > easy General Learning Model

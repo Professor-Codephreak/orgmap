@@ -1,5 +1,7 @@
 # [DAONOW](https://github.com/DAONOW)
 
+<p align="center"><a href="https://github.com/DAONOW"><img src="https://github.com/DAONOW.png?size=400" width="200" alt="DAONOW logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/DAONOW) · [repositories](https://github.com/orgs/DAONOW/repositories)
 
 > collection of inception contracts for DAO creation

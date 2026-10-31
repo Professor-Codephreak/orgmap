@@ -1,5 +1,7 @@
 # [trainair](https://github.com/trainair)
 
+<p align="center"><a href="https://github.com/trainair"><img src="https://github.com/trainair.png?size=400" width="200" alt="trainair logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/trainair) · [repositories](https://github.com/orgs/trainair/repositories)
 
 > trainAIr is the model trainer

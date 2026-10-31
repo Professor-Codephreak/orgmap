@@ -1,5 +1,7 @@
 # [SHAMBA-LUV](https://github.com/SHAMBA-LUV)
 
+<p align="center"><a href="https://github.com/SHAMBA-LUV"><img src="https://github.com/SHAMBA-LUV.png?size=400" width="200" alt="SHAMBA-LUV logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/SHAMBA-LUV) · [repositories](https://github.com/orgs/SHAMBA-LUV/repositories)
 
 > SHAMBA LUV is a digital gesture designed to spread abundance, fun, and community vibe social sharing building an emotional economy

@@ -1,5 +1,7 @@
 # [DeltaVThrust-NFT](https://github.com/DeltaVThrust-NFT)
 
+<p align="center"><a href="https://github.com/DeltaVThrust-NFT"><img src="https://github.com/DeltaVThrust-NFT.png?size=400" width="200" alt="DeltaVThrust-NFT logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#nft) · [profile](https://github.com/DeltaVThrust-NFT) · [repositories](https://github.com/orgs/DeltaVThrust-NFT/repositories)
 
 > source code to create and manipulate non-fungible-tokens

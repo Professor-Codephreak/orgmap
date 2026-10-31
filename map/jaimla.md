@@ -1,5 +1,7 @@
 # [Jaimla](https://github.com/Jaimla)
 
+<p align="center"><a href="https://github.com/Jaimla"><img src="https://github.com/Jaimla.png?size=400" width="200" alt="Jaimla logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/Jaimla) · [repositories](https://github.com/orgs/Jaimla/repositories)
 
 > I am the machine learning agent

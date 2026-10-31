@@ -1,5 +1,7 @@
 # [spintrade](https://github.com/spintrade)
 
+<p align="center"><a href="https://github.com/spintrade"><img src="https://github.com/spintrade.png?size=400" width="200" alt="spintrade logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/spintrade) · [repositories](https://github.com/orgs/spintrade/repositories)
 
 > DEX

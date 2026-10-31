@@ -1,5 +1,7 @@
 # [llamagi](https://github.com/llamagi)
 
+<p align="center"><a href="https://github.com/llamagi"><img src="https://github.com/llamagi.png?size=400" width="200" alt="llamagi logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/llamagi) · [repositories](https://github.com/orgs/llamagi/repositories)
 
 > local language model augmented generative intelligence

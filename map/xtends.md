@@ -1,5 +1,7 @@
 # [xtends](https://github.com/xtends)
 
+<p align="center"><a href="https://github.com/xtends"><img src="https://github.com/xtends.png?size=400" width="200" alt="xtends logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/xtends) · [repositories](https://github.com/orgs/xtends/repositories)
 
 > Professor Codephreak extensions for local language models

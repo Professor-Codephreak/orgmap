@@ -1,5 +1,7 @@
 # [THRUSTCHAIN](https://github.com/THRUSTCHAIN)
 
+<p align="center"><a href="https://github.com/THRUSTCHAIN"><img src="https://github.com/THRUSTCHAIN.png?size=400" width="200" alt="THRUSTCHAIN logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/THRUSTCHAIN) · [repositories](https://github.com/orgs/THRUSTCHAIN/repositories)
 
 > THRUST TNT blockchain development

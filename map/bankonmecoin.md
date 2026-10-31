@@ -1,5 +1,7 @@
 # [bankonmecoin](https://github.com/bankonmecoin)
 
+<p align="center"><a href="https://github.com/bankonmecoin"><img src="https://github.com/bankonmecoin.png?size=400" width="200" alt="bankonmecoin logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/bankonmecoin) · [repositories](https://github.com/orgs/bankonmecoin/repositories)
 
 > An exercise in cryptonote technology

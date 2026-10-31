@@ -1,5 +1,7 @@
 # [aiterm](https://github.com/aiterm)
 
+<p align="center"><a href="https://github.com/aiterm"><img src="https://github.com/aiterm.png?size=400" width="200" alt="aiterm logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/aiterm) · [repositories](https://github.com/orgs/aiterm/repositories)
 
 > augmented intelligence terminal

@@ -1,5 +1,7 @@
 # [UIUXt](https://github.com/UIUXt)
 
+<p align="center"><a href="https://github.com/UIUXt"><img src="https://github.com/UIUXt.png?size=400" width="200" alt="UIUXt logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/UIUXt) · [repositories](https://github.com/orgs/UIUXt/repositories)
 
 > extensions collection for extension development of UIUX

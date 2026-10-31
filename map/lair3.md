@@ -1,5 +1,7 @@
 # [LAIR3](https://github.com/LAIR3)
 
+<p align="center"><a href="https://github.com/LAIR3"><img src="https://github.com/LAIR3.png?size=400" width="200" alt="LAIR3 logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/LAIR3) · [repositories](https://github.com/orgs/LAIR3/repositories)
 
 > layer 3 Blockchain Deployment Kit  Interplanetary Consensus solutions

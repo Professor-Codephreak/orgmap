@@ -1,5 +1,7 @@
 # [MMRAIMRAI](https://github.com/MMRAIMRAI)
 
+<p align="center"><a href="https://github.com/MMRAIMRAI"><img src="https://github.com/MMRAIMRAI.png?size=400" width="200" alt="MMRAIMRAI logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/MMRAIMRAI) · [repositories](https://github.com/orgs/MMRAIMRAI/repositories)
 
 > MasterMind Retrieval Augmented Intelligence MemoRAI

@@ -1,5 +1,7 @@
 # [openbdk](https://github.com/openbdk)
 
+<p align="center"><a href="https://github.com/openbdk"><img src="https://github.com/openbdk.png?size=400" width="200" alt="openbdk logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/openbdk) · [repositories](https://github.com/orgs/openbdk/repositories)
 
 > Open Blockchain Development Kit

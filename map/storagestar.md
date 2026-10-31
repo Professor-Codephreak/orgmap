@@ -1,5 +1,7 @@
 # [STORAGESTAR](https://github.com/STORAGESTAR)
 
+<p align="center"><a href="https://github.com/STORAGESTAR"><img src="https://github.com/STORAGESTAR.png?size=400" width="200" alt="STORAGESTAR logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#storage) · [profile](https://github.com/STORAGESTAR) · [repositories](https://github.com/orgs/STORAGESTAR/repositories)
 
 > Storage Star

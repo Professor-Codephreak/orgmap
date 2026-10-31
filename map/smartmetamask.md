@@ -1,5 +1,7 @@
 # [smartmetamask](https://github.com/smartmetamask)
 
+<p align="center"><a href="https://github.com/smartmetamask"><img src="https://github.com/smartmetamask.png?size=400" width="200" alt="smartmetamask logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/smartmetamask) · [repositories](https://github.com/orgs/smartmetamask/repositories)
 
 > making metamask smarter

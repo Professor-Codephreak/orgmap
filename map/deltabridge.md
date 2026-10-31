@@ -1,5 +1,7 @@
 # [deltabridge](https://github.com/deltabridge)
 
+<p align="center"><a href="https://github.com/deltabridge"><img src="https://github.com/deltabridge.png?size=400" width="200" alt="deltabridge logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#chain) · [profile](https://github.com/deltabridge) · [repositories](https://github.com/orgs/deltabridge/repositories)
 
 > deltabridge implementation of the delta algorithm

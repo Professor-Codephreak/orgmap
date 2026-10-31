@@ -1,5 +1,7 @@
 # [autonomos-agent](https://github.com/autonomos-agent)
 
+<p align="center"><a href="https://github.com/autonomos-agent"><img src="https://github.com/autonomos-agent.png?size=400" width="200" alt="autonomos-agent logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/autonomos-agent) · [repositories](https://github.com/orgs/autonomos-agent/repositories)
 
 > automatic operating system

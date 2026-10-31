@@ -1,5 +1,7 @@
 # [DeltaVML](https://github.com/DeltaVML)
 
+<p align="center"><a href="https://github.com/DeltaVML"><img src="https://github.com/DeltaVML.png?size=400" width="200" alt="DeltaVML logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ml) · [profile](https://github.com/DeltaVML) · [repositories](https://github.com/orgs/DeltaVML/repositories)
 
 > machine learning

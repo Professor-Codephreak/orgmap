@@ -1,5 +1,7 @@
 # [modusAGI](https://github.com/modusAGI)
 
+<p align="center"><a href="https://github.com/modusAGI"><img src="https://github.com/modusAGI.png?size=400" width="200" alt="modusAGI logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#agi) · [profile](https://github.com/modusAGI) · [repositories](https://github.com/orgs/modusAGI/repositories)
 
 > modular AGI

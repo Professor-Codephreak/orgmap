@@ -1,5 +1,7 @@
 # [metasnaps](https://github.com/metasnaps)
 
+<p align="center"><a href="https://github.com/metasnaps"><img src="https://github.com/metasnaps.png?size=400" width="200" alt="metasnaps logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#custody) · [profile](https://github.com/metasnaps) · [repositories](https://github.com/orgs/metasnaps/repositories)
 
 > metamask snap extensions for deltaverse

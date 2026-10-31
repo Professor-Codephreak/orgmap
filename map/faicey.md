@@ -1,5 +1,7 @@
 # [Faicey](https://github.com/Faicey)
 
+<p align="center"><a href="https://github.com/Faicey"><img src="https://github.com/Faicey.png?size=400" width="200" alt="Faicey logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#ui) · [profile](https://github.com/Faicey) · [repositories](https://github.com/orgs/Faicey/repositories)
 
 > UIUX AIML modular response systems interface design parameters

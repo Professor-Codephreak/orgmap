@@ -1,5 +1,7 @@
 # [DAOcommunity](https://github.com/DAOcommunity)
 
+<p align="center"><a href="https://github.com/DAOcommunity"><img src="https://github.com/DAOcommunity.png?size=400" width="200" alt="DAOcommunity logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/DAOcommunity) · [repositories](https://github.com/orgs/DAOcommunity/repositories)
 
 **Domain:** [DeltaVerse and DAO governance](../ARCHIVE.md#dao)

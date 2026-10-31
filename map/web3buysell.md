@@ -1,5 +1,7 @@
 # [web3buysell](https://github.com/web3buysell)
 
+<p align="center"><a href="https://github.com/web3buysell"><img src="https://github.com/web3buysell.png?size=400" width="200" alt="web3buysell logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#dao) · [profile](https://github.com/web3buysell) · [repositories](https://github.com/orgs/web3buysell/repositories)
 
 > DAO of buy and sel

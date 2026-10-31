@@ -1,5 +1,7 @@
 # [deltaloans](https://github.com/deltaloans)
 
+<p align="center"><a href="https://github.com/deltaloans"><img src="https://github.com/deltaloans.png?size=400" width="200" alt="deltaloans logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/deltaloans) · [repositories](https://github.com/orgs/deltaloans/repositories)
 
 > research into flashloans and interface designs to create value from debt

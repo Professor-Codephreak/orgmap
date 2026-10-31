@@ -1,5 +1,7 @@
 # [BANKONPYTHAI](https://github.com/BANKONPYTHAI)
 
+<p align="center"><a href="https://github.com/BANKONPYTHAI"><img src="https://github.com/BANKONPYTHAI.png?size=400" width="200" alt="BANKONPYTHAI logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#defi) · [profile](https://github.com/BANKONPYTHAI) · [repositories](https://github.com/orgs/BANKONPYTHAI/repositories)
 
 > fixed-supply Qubic quantum price oracle
