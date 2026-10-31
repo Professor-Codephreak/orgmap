@@ -1,10 +1,12 @@
 # [blockwhisper](https://github.com/blockwhisper)
 
+<p align="center"><a href="https://github.com/blockwhisper"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png" width="200" alt="blockwhisper logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#comm) · [profile](https://github.com/blockwhisper) · [repositories](https://github.com/orgs/blockwhisper/repositories)
 
 **Description:** blockchain.communication — carried forward: the continuation of the forum, the chain, the environment and the systems layer
 
-**Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication` · **Role in** `blockchain.communication`: the continuation: the record of blockchain.communication across chatter3, chattchain, web3comm and blktalk, and the next work; named for Whisper, the messaging protocol of the original web3 trio
+**Domain:** [Communication](../ARCHIVE.md#comm) · `blockchain.communication` · **Role in** `blockchain.communication`: the continuation: the record of blockchain.communication across chatter3, chattchain, web3comm and blktalk, and the next work; named for Whisper, the messaging protocol of the original web3 trio · **Branding:** [logo and guide](https://github.com/blockwhisper/blockchain.communication/blob/main/BRANDING.md) · [SVG](https://github.com/blockwhisper/blockchain.communication/blob/main/logos/blockwhisper.svg)
 
 **2** repos · **2** original works · **0** research forks · 0 private 🔒
 

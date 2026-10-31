@@ -36,6 +36,10 @@ def odesc(login, meta):
     """The map's description of an organization: its domain's override, else its GitHub description."""
     return (DOMAIN_OF.get(login) or {}).get('descriptions', {}).get(login) or meta.get('description')
 
+def ologo(login):
+    """An organization's official logo from its domain, or None."""
+    return (DOMAIN_OF.get(login) or {}).get('logos', {}).get(login)
+
 def det(login, r):
     return DET.get(login, {}).get(r['name'], {})
 
@@ -74,6 +78,7 @@ def page(kind, login, v):
     langs = [r['language'] for r in originals if not r['private']]
 
     L = [f"# [{login}]({GH}/{login})", '']
+    if ologo(login): L += [f'<p align="center"><a href="{GH}/{login}"><img src="{ologo(login)["src"]}" width="200" alt="{login} logo"></a></p>', '']
     nav = [f"[← master index](../README.md)", f"[concept archive](../ARCHIVE.md#{dom['key']})" if dom else '',
            f"[profile]({GH}/{login})",
            f"[repositories]({GH}/{login}?tab=repositories)" if kind == 'user' else f"[repositories]({GH}/orgs/{login}/repositories)"]
@@ -86,6 +91,8 @@ def page(kind, login, v):
         facts.append(f"**Reference for** `{dom.get('name') or dom['key']}`: {dom['reference'][login]}")
     if login in (dom or {}).get('roles', {}):
         facts.append(f"**Role in** `{dom.get('name') or dom['key']}`: {dom['roles'][login]}")
+    if ologo(login) and ologo(login).get('branding'):
+        facts.append(f"**Branding:** [logo and guide]({ologo(login)['branding']})" + (f" · [SVG]({ologo(login)['svg']})" if ologo(login).get('svg') else ''))
     if m.get('blog'): facts.append(f"**Website:** <{url(m['blog'])}>")
     if kind == 'related': facts.append('**Held outside the Professor-Codephreak account.** Public repositories only.')
     if facts: L += [' · '.join(facts), '']
@@ -269,6 +276,9 @@ open('README.md', 'w').write('\n'.join(R))
 # ARCHIVE.md: the concept archive, read from the organization of the archives
 ALL = {**groups['user'], **groups['org'], **groups['related']}
 KIND = {**{l: 'user' for l in groups['user']}, **{l: 'org' for l in groups['org']}, **{l: 'related' for l in groups['related']}}
+def logo_img(l):
+    return f'<img src="{ologo(l)["src"]}" width="20" alt=""> ' if ologo(l) else ''
+
 def upstream_owners(logins):
     return counter([(studies(l, r) or {}).get('owner', {}).get('login') for l in logins for r in ALL[l]['repos'] if r['fork'] and not r['private']], 12)
 def notable(logins, n):
@@ -287,11 +297,11 @@ for x in DOM:
     if x.get('name'): A += [f"**Concept name:** `{x['name']}`", '']
     if x.get('reference'):
         A += ['**Reference organizations**', '']
-        A += [f"- [{l}](map/{slug(l)}.md) · [GitHub]({GH}/{l}): {role}" for l, role in x['reference'].items()]
+        A += [f"- {logo_img(l)}[{l}](map/{slug(l)}.md) · [GitHub]({GH}/{l}): {role}" for l, role in x['reference'].items()]
         A.append('')
     if x.get('roles'):
         A += ['**Roles**', '']
-        A += [f"- [{l}](map/{slug(l)}.md) · [GitHub]({GH}/{l}): {role}" for l, role in x['roles'].items()]
+        A += [f"- {logo_img(l)}[{l}](map/{slug(l)}.md) · [GitHub]({GH}/{l}): {role}" for l, role in x['roles'].items()]
         A.append('')
     A += [f"**{len(o)}** organizations · **{sum(DSTAT[l]['originals'] for l in o)}** original works · **{sum(DSTAT[l]['forks'] for l in o)}** research forks", '',
           '| Organization | Its concept | Original | Research | Studies most |', '|---|---|--:|--:|---|']
@@ -340,6 +350,7 @@ J = {'generated': now, 'owner': 'Professor-Codephreak',
 for key, kind in (('accounts', 'user'), ('organizations', 'org'), ('related_organizations', 'related')):
     J[key] = [{'login': login, 'url': f'{GH}/{login}', 'description': groups[kind][login]['meta'].get('description'),
                'map_description': odesc(login, groups[kind][login]['meta']),
+               'logo': ologo(login),
                'domain': DOMAIN_OF[login]['key'] if login in DOMAIN_OF else None,
                'website': url(groups[kind][login]['meta'].get('blog')) or None, 'map': f'map/{slug(login)}.md',
                **S[kind][login], 'repositories': [rj(r) for r in groups[kind][login]['repos']]}
@@ -371,6 +382,7 @@ for x in DOM:
     T += ['', f"## {x['title']}", '', x['concept'] + (f" Concept name: `{x['name']}`." if x.get('name') else ''), '']
     T += [f"- Reference: [{l}]({GH}/{l}): {role}" for l, role in (x.get('reference') or {}).items()]
     T += [f"- Role: [{l}]({GH}/{l}): {role}" for l, role in (x.get('roles') or {}).items()]
+    T += [f"- Logo: [{l}]({lg['src']})" + (f", branding: {lg['branding']}" if lg.get('branding') else '') for l, lg in (x.get('logos') or {}).items()]
     T += [f"- [{l}]({RAW}/map/{slug(l)}.md): {esc(odesc(l, ALL[l]['meta'])) or 'no description'} ({DSTAT[l]['originals']} original, {DSTAT[l]['forks']} research){' · related, held outside the account' if KIND[l] == 'related' else ''}" for l in x['orgs']]
 T += ['', '## Optional', '', '- [README.md]({RAW}/README.md): also lists the related organizations with their websites'.replace('{RAW}', RAW)]
 T.append('')

@@ -362,7 +362,7 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 
 - [web3comm](map/web3comm.md) · [GitHub](https://github.com/web3comm): the environment: Token · Talk · Transaction, everything a wallet needs to talk to another wallet; research into ENS names, sign-in and key infrastructure (Web3Auth, SIWE), Lit Protocol gated access, XMTP messaging, the Cryptoverse line (tokntalk, ethmail.cc, calleth.me), Telegram/XMPP/Twitter bridges, value in the message (DeChat, Unlock) and agent skills
 - [blktalk](map/blktalk.md) · [GitHub](https://github.com/blktalk): the systems layer: wallet-signature communication and what it stands on; research into Proof (zero knowledge: zk-kit, privacy-ethereum), Place (IPC subnets: consensus-shipyard), Passage (AggLayer and zkEVM bridges), Person (did:ethr, UNS, sign-in), plus XMTP, Lit Protocol and dyne.org social wallets
-- [blockwhisper](map/blockwhisper.md) · [GitHub](https://github.com/blockwhisper): the continuation: the record of blockchain.communication across chatter3, chattchain, web3comm and blktalk, and the next work; named for Whisper, the messaging protocol of the original web3 trio
+- <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png" width="20" alt=""> [blockwhisper](map/blockwhisper.md) · [GitHub](https://github.com/blockwhisper): the continuation: the record of blockchain.communication across chatter3, chattchain, web3comm and blktalk, and the next work; named for Whisper, the messaging protocol of the original web3 trio
 
 **5** organizations · **8** original works · **167** research forks
 

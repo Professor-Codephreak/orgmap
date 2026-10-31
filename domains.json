@@ -1,5 +1,5 @@
 {
-  "_note": "Concept domains of the archive. Each organization is filed under exactly one domain. Edit freely; generate.py reads this file. Optional per domain: name (the dotted concept name) and reference (the organizations that define the concept, each with its role), roles (the other organizations in the domain, each with its role) and descriptions (the map's own one-line description for an organization whose GitHub description is empty or only a motto; the GitHub description stays on its map page).",
+  "_note": "Concept domains of the archive. Each organization is filed under exactly one domain. Edit freely; generate.py reads this file. Optional per domain: name (the dotted concept name) and reference (the organizations that define the concept, each with its role), roles (the other organizations in the domain, each with its role) and descriptions (the map's own one-line description for an organization whose GitHub description is empty or only a motto; the GitHub description stays on its map page) and logos (an organization's official logo: src, the image the map shows; svg, its source; branding, its branding guide).",
   "domains": [
     {"key": "ml", "title": "Machine learning and local language models",
      "concept": "Models that run where the user is: local and miniature language models, training, and machine-learning reference code.",
@@ -44,6 +44,8 @@
        "chatter3": "blockchain.communication — the forum: signature-verified conversation for people and agents",
        "chattchain": "blockchain.communication — the chain: messages and identity carried on chain, verified by signature",
        "blockwhisper": "blockchain.communication — carried forward: the continuation of the forum, the chain, the environment and the systems layer"},
+     "logos": {
+       "blockwhisper": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png", "svg": "https://github.com/blockwhisper/blockchain.communication/blob/main/logos/blockwhisper.svg", "branding": "https://github.com/blockwhisper/blockchain.communication/blob/main/BRANDING.md"}},
      "orgs": ["chatter3", "chattchain", "web3comm", "blktalk", "blockwhisper"]},
     {"key": "theory", "title": "Oracles, theory and the living world",
      "concept": "The questions behind the work: the Pythia oracle, prediction, a grand unified theory, the mind as a chain, and water as life.",
