@@ -43,6 +43,10 @@ def ologo(login):
     if login in d['users']: return None
     return {'src': f'{GH}/{login}.png?size=400', 'source': 'github'}
 
+def oshots(login):
+    """An organization's published screenshots from its domain, or None."""
+    return (DOMAIN_OF.get(login) or {}).get('screenshots', {}).get(login)
+
 def logo_img(l):
     return f'<img src="{ologo(l)["src"]}" width="20" alt=""> ' if ologo(l) else ''
 
@@ -104,6 +108,12 @@ def page(kind, login, v):
     if facts: L += [' · '.join(facts), '']
     n = len(repos); p = sum(r['private'] for r in repos)
     L += [f"**{n}** repos · **{len(originals)}** original works · **{len(forks)}** research forks · {p} private 🔒", '']
+
+    if oshots(login):
+        sh = oshots(login)
+        L += ['## Screenshots', '', f"Published screens, explained in [the walkthrough]({sh['gallery']}).", '']
+        for im in sh['images']:
+            L += [f'<a href="{sh["gallery"]}"><img src="{im["src"]}" width="640" alt="{esc(im["caption"])}"></a>', '', f"*{esc(im['caption'])}*", '']
 
     # the concept, read from the structure of the archive
     if repos:
@@ -306,6 +316,8 @@ for x in DOM:
         A += ['**Roles**', '']
         A += [f"- {logo_img(l)}[{l}](map/{slug(l)}.md) · [GitHub]({GH}/{l}): {role}" for l, role in x['roles'].items()]
         A.append('')
+    if x.get('screenshots'):
+        A += ['**Screenshots**: ' + ' · '.join(f"[{l}]({sh['gallery']}) ({len(sh['images'])} screens)" for l, sh in x['screenshots'].items()), '']
     A += [f"**{len(o)}** organizations · **{sum(DSTAT[l]['originals'] for l in o)}** original works · **{sum(DSTAT[l]['forks'] for l in o)}** research forks", '',
           '| Organization | Its concept | Original | Research | Studies most |', '|---|---|--:|--:|---|']
     for l in sorted(o, key=lambda l: (-DSTAT[l]['originals'], l.lower())):
@@ -354,6 +366,7 @@ for key, kind in (('accounts', 'user'), ('organizations', 'org'), ('related_orga
     J[key] = [{'login': login, 'url': f'{GH}/{login}', 'description': groups[kind][login]['meta'].get('description'),
                'map_description': odesc(login, groups[kind][login]['meta']),
                'logo': ologo(login),
+               'screenshots': oshots(login),
                'domain': DOMAIN_OF[login]['key'] if login in DOMAIN_OF else None,
                'website': url(groups[kind][login]['meta'].get('blog')) or None, 'map': f'map/{slug(login)}.md',
                **S[kind][login], 'repositories': [rj(r) for r in groups[kind][login]['repos']]}
@@ -386,6 +399,7 @@ for x in DOM:
     T += [f"- Reference: [{l}]({GH}/{l}): {role}" for l, role in (x.get('reference') or {}).items()]
     T += [f"- Role: [{l}]({GH}/{l}): {role}" for l, role in (x.get('roles') or {}).items()]
     T += [f"- Logo: [{l}]({lg['src']})" + (f", branding: {lg['branding']}" if lg.get('branding') else '') for l, lg in (x.get('logos') or {}).items()]
+    T += [f"- Screenshots: [{l}]({sh['gallery']}): " + '; '.join(im['caption'] for im in sh['images']) for l, sh in (x.get('screenshots') or {}).items()]
     T += [f"- [{l}]({RAW}/map/{slug(l)}.md): {esc(odesc(l, ALL[l]['meta'])) or 'no description'} ({DSTAT[l]['originals']} original, {DSTAT[l]['forks']} research){' · related, held outside the account' if KIND[l] == 'related' else ''}" for l in x['orgs']]
 T += ['', '## Optional', '', '- [README.md]({RAW}/README.md): also lists the related organizations with their websites'.replace('{RAW}', RAW)]
 T.append('')

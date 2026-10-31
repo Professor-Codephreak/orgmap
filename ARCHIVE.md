@@ -364,6 +364,8 @@ Domains: [Machine learning and local language models](#ml) · [Autonomous agents
 - <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blktalk.jpg" width="20" alt=""> [blktalk](map/blktalk.md) · [GitHub](https://github.com/blktalk): the systems layer: wallet-signature communication and what it stands on; research into Proof (zero knowledge: zk-kit, privacy-ethereum), Place (IPC subnets: consensus-shipyard), Passage (AggLayer and zkEVM bridges), Person (did:ethr, UNS, sign-in), plus XMTP, Lit Protocol and dyne.org social wallets
 - <img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png" width="20" alt=""> [blockwhisper](map/blockwhisper.md) · [GitHub](https://github.com/blockwhisper): the continuation: the record of blockchain.communication across chatter3, chattchain, web3comm and blktalk, and the next work; named for Whisper, the messaging protocol of the original web3 trio
 
+**Screenshots**: [blockwhisper](https://github.com/blockwhisper/blockchain.communication/tree/main/screenshots) (5 screens)
+
 **5** organizations · **9** original works · **167** research forks
 
 | Organization | Its concept | Original | Research | Studies most |

@@ -10,6 +10,30 @@
 
 **3** repos · **3** original works · **0** research forks · 1 private 🔒
 
+## Screenshots
+
+Published screens, explained in [the walkthrough](https://github.com/blockwhisper/blockchain.communication/tree/main/screenshots).
+
+<a href="https://github.com/blockwhisper/blockchain.communication/tree/main/screenshots"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/files-receiver.jpg" width="640" alt="Files: two wallets connected and verified; local and remote panes, received files, the log"></a>
+
+*Files: two wallets connected and verified; local and remote panes, received files, the log*
+
+<a href="https://github.com/blockwhisper/blockchain.communication/tree/main/screenshots"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/files-sender.jpg" width="640" alt="The other wallet: what it shared, what it was asked for, what it received; its log is the protocol in order"></a>
+
+*The other wallet: what it shared, what it was asked for, what it received; its log is the protocol in order*
+
+<a href="https://github.com/blockwhisper/blockchain.communication/tree/main/screenshots"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/cryptossh.jpg" width="640" alt="cryptoSSH: one signature bound to one SSH host becomes eight Ed25519 keys (pmVPN keyring v1)"></a>
+
+*cryptoSSH: one signature bound to one SSH host becomes eight Ed25519 keys (pmVPN keyring v1)*
+
+<a href="https://github.com/blockwhisper/blockchain.communication/tree/main/screenshots"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/how-it-works.jpg" width="640" alt="How it works: whisper key, card, relay, peer check, every file a whisper; smart accounts (ERC-1271, ERC-6492)"></a>
+
+*How it works: whisper key, card, relay, peer check, every file a whisper; smart accounts (ERC-1271, ERC-6492)*
+
+<a href="https://github.com/blockwhisper/blockchain.communication/tree/main/screenshots"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/stored-key.jpg" width="640" alt="A stored whisper key for passkey wallets: create with a passphrase-encrypted backup, or restore"></a>
+
+*A stored whisper key for passkey wallets: create with a passphrase-encrypted backup, or restore*
+
 ## Concept
 
 - **Original work is written in:** Python (1)

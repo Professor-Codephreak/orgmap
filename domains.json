@@ -1,5 +1,5 @@
 {
-  "_note": "Concept domains of the archive. Each organization is filed under exactly one domain. Edit freely; generate.py reads this file. Optional per domain: name (the dotted concept name) and reference (the organizations that define the concept, each with its role), roles (the other organizations in the domain, each with its role) and descriptions (the map's own one-line description for an organization whose GitHub description is empty or only a motto; the GitHub description stays on its map page) and logos (an organization's official logo: src, the image the map shows; svg, its source; branding, its branding guide; an organization without one is shown with its GitHub avatar).",
+  "_note": "Concept domains of the archive. Each organization is filed under exactly one domain. Edit freely; generate.py reads this file. Optional per domain: name (the dotted concept name) and reference (the organizations that define the concept, each with its role), roles (the other organizations in the domain, each with its role) and descriptions (the map's own one-line description for an organization whose GitHub description is empty or only a motto; the GitHub description stays on its map page) and logos (an organization's official logo: src, the image the map shows; svg, its source; branding, its branding guide; an organization without one is shown with its GitHub avatar) and screenshots (an organization's published screens: gallery, the page that explains them; images, each with src and caption).",
   "domains": [
     {"key": "ml", "title": "Machine learning and local language models",
      "concept": "Models that run where the user is: local and miniature language models, training, and machine-learning reference code.",
@@ -50,6 +50,13 @@
        "web3comm": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/web3comm.png"},
        "blktalk": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blktalk.jpg"},
        "blockwhisper": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png", "svg": "https://github.com/blockwhisper/blockchain.communication/blob/main/logos/blockwhisper.svg", "branding": "https://github.com/blockwhisper/blockchain.communication/blob/main/BRANDING.md"}},
+     "screenshots": {
+       "blockwhisper": {"gallery": "https://github.com/blockwhisper/blockchain.communication/tree/main/screenshots", "images": [
+         {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/files-receiver.jpg", "caption": "Files: two wallets connected and verified; local and remote panes, received files, the log"},
+         {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/files-sender.jpg", "caption": "The other wallet: what it shared, what it was asked for, what it received; its log is the protocol in order"},
+         {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/cryptossh.jpg", "caption": "cryptoSSH: one signature bound to one SSH host becomes eight Ed25519 keys (pmVPN keyring v1)"},
+         {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/how-it-works.jpg", "caption": "How it works: whisper key, card, relay, peer check, every file a whisper; smart accounts (ERC-1271, ERC-6492)"},
+         {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/screenshots/stored-key.jpg", "caption": "A stored whisper key for passkey wallets: create with a passphrase-encrypted backup, or restore"}]}},
      "orgs": ["chatter3", "chattchain", "web3comm", "blktalk", "blockwhisper"]},
     {"key": "theory", "title": "Oracles, theory and the living world",
      "concept": "The questions behind the work: the Pythia oracle, prediction, a grand unified theory, the mind as a chain, and water as life.",
