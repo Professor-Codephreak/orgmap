@@ -45,6 +45,10 @@
        "chattchain": "blockchain.communication — the chain: messages and identity carried on chain, verified by signature",
        "blockwhisper": "blockchain.communication — carried forward: the continuation of the forum, the chain, the environment and the systems layer"},
      "logos": {
+       "chatter3": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/chatter3.png"},
+       "chattchain": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/chattchain.jpg"},
+       "web3comm": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/web3comm.png"},
+       "blktalk": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blktalk.jpg"},
        "blockwhisper": {"src": "https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blockwhisper.png", "svg": "https://github.com/blockwhisper/blockchain.communication/blob/main/logos/blockwhisper.svg", "branding": "https://github.com/blockwhisper/blockchain.communication/blob/main/BRANDING.md"}},
      "orgs": ["chatter3", "chattchain", "web3comm", "blktalk", "blockwhisper"]},
     {"key": "theory", "title": "Oracles, theory and the living world",

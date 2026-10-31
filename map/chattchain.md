@@ -1,5 +1,7 @@
 # [chattchain](https://github.com/chattchain)
 
+<p align="center"><a href="https://github.com/chattchain"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/chattchain.jpg" width="200" alt="chattchain logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#comm) · [profile](https://github.com/chattchain) · [repositories](https://github.com/orgs/chattchain/repositories)
 
 **Description:** blockchain.communication — the chain: messages and identity carried on chain, verified by signature

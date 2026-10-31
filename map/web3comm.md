@@ -1,5 +1,7 @@
 # [web3comm](https://github.com/web3comm)
 
+<p align="center"><a href="https://github.com/web3comm"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/web3comm.png" width="200" alt="web3comm logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#comm) · [profile](https://github.com/web3comm) · [repositories](https://github.com/orgs/web3comm/repositories)
 
 > Token Talk Transaction web3 communication environment

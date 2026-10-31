@@ -1,5 +1,7 @@
 # [chatter3](https://github.com/chatter3)
 
+<p align="center"><a href="https://github.com/chatter3"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/chatter3.png" width="200" alt="chatter3 logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#comm) · [profile](https://github.com/chatter3) · [repositories](https://github.com/orgs/chatter3/repositories)
 
 > I am who I am because of who I am

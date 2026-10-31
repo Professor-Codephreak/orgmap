@@ -1,5 +1,7 @@
 # [blktalk](https://github.com/blktalk)
 
+<p align="center"><a href="https://github.com/blktalk"><img src="https://raw.githubusercontent.com/blockwhisper/blockchain.communication/main/logos/blktalk.jpg" width="200" alt="blktalk logo"></a></p>
+
 [← master index](../README.md) · [concept archive](../ARCHIVE.md#comm) · [profile](https://github.com/blktalk) · [repositories](https://github.com/orgs/blktalk/repositories)
 
 > blockchain communication system
